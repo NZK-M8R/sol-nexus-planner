@@ -1,6 +1,13 @@
-// Hybrid storage: localStorage for instant rendering, Supabase for cloud persistence.
-// To migrate away from localStorage later: swap the `local.*` calls below for Supabase selects.
+// localStorage-first storage. Supabase cloud sync is DISABLED by default —
+// enable explicitly via setCloudSync(true). All story data stays local unless
+// the user opts in.
 import { supabase, isSupabaseConfigured } from './supabase'
+
+const CLOUD_SYNC_KEY = 'sol-nexus::cloud-sync'
+export const isCloudSyncEnabled = () =>
+  isSupabaseConfigured() && localStorage.getItem(CLOUD_SYNC_KEY) === 'true'
+export const getCloudSync = () => localStorage.getItem(CLOUD_SYNC_KEY) === 'true'
+export const setCloudSync = (on) => localStorage.setItem(CLOUD_SYNC_KEY, on ? 'true' : 'false')
 
 const local = {
   get: (key, fallback = null) => {
@@ -15,7 +22,7 @@ const local = {
 // ── Character notes ──────────────────────────────────────────
 
 export async function loadNotes() {
-  if (isSupabaseConfigured()) {
+  if (isCloudSyncEnabled()) {
     try {
       const { data, error } = await supabase.from('character_notes').select('character_id, content')
       if (!error && data?.length) {
@@ -31,7 +38,7 @@ export async function loadNotes() {
 export function saveNote(charId, content) {
   const updated = { ...local.get('char-notes', {}), [charId]: content }
   local.set('char-notes', updated)
-  if (isSupabaseConfigured()) {
+  if (isCloudSyncEnabled()) {
     supabase.from('character_notes')
       .upsert({ character_id: charId, content, updated_at: new Date().toISOString() })
       .then(({ error }) => { if (error) console.warn('Supabase note sync:', error.message) })
@@ -42,7 +49,7 @@ export function saveNote(charId, content) {
 // ── Lore edits ───────────────────────────────────────────────
 
 export async function loadLoreEdits() {
-  if (isSupabaseConfigured()) {
+  if (isCloudSyncEnabled()) {
     try {
       const { data, error } = await supabase.from('lore_edits').select('edit_key, content')
       if (!error && data?.length) {
@@ -61,7 +68,7 @@ export function saveLoreEdit(editKey, content) {
     ? Object.fromEntries(Object.entries(current).filter(([k]) => k !== editKey))
     : { ...current, [editKey]: content }
   local.set('lore-edits', updated)
-  if (isSupabaseConfigured()) {
+  if (isCloudSyncEnabled()) {
     if (content === undefined) {
       supabase.from('lore_edits').delete().eq('edit_key', editKey)
         .then(({ error }) => { if (error) console.warn('Supabase lore delete:', error.message) })
@@ -97,7 +104,7 @@ export function loadClans()          { return local.get('clans', null) }
 // ── Custom timeline events ───────────────────────────────────
 
 export async function loadCustomEvents() {
-  if (isSupabaseConfigured()) {
+  if (isCloudSyncEnabled()) {
     try {
       const { data, error } = await supabase
         .from('custom_events').select('era_id, event_data').order('created_at')
@@ -119,7 +126,7 @@ export function saveCustomEvent(eraId, event) {
   const current = local.get('custom-events', {})
   const updated = { ...current, [eraId]: [...(current[eraId] || []), event] }
   local.set('custom-events', updated)
-  if (isSupabaseConfigured()) {
+  if (isCloudSyncEnabled()) {
     supabase.from('custom_events')
       .insert({ era_id: eraId, event_data: event })
       .then(({ error }) => { if (error) console.warn('Supabase event sync:', error.message) })

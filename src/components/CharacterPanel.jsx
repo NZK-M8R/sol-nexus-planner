@@ -25,6 +25,19 @@ function renderMd(text) {
   })
 }
 
+function parseCoreData(character) {
+  if (character.core?.element) {
+    return { element: character.core.element, alignment: character.core.alignment || null }
+  }
+  if (character.coreType) {
+    const parts = character.coreType.split(/\s*[;,]\s*/)
+    const element   = parts[0]?.trim() || null
+    const alignment = parts[1]?.trim().replace(/ aligned$/i, '') || null
+    return { element, alignment }
+  }
+  return null
+}
+
 export default function CharacterPanel({ character, characters, relationships, showSecrets, onSelectChar, onClose, notes, onSaveNote }) {
   const [noteText, setNoteText] = useState(notes || '')
   const [saved, setSaved]       = useState(false)
@@ -38,6 +51,7 @@ export default function CharacterPanel({ character, characters, relationships, s
 
   const houseColor = HOUSE_COLORS[character.house] || '#888'
   const charColor  = houseColor
+  const coreData   = parseCoreData(character)
 
   const relations = relationships
     .filter(r => (r.source === character.id || r.target === character.id) && (showSecrets || !r.secret))
@@ -78,6 +92,24 @@ export default function CharacterPanel({ character, characters, relationships, s
         {character.status}
       </span>
 
+      {coreData && (
+        <div className="core-alignment-block" style={{ borderColor: `${charColor}55` }}>
+          <div className="core-alignment-label">Core Alignment</div>
+          <div className="core-alignment-values">
+            {coreData.element && (
+              <span className="core-element-badge" style={{ borderColor: `${charColor}88`, color: charColor }}>
+                {coreData.element}
+              </span>
+            )}
+            {coreData.alignment && (
+              <span className="core-align-badge">
+                {coreData.alignment}
+              </span>
+            )}
+          </div>
+        </div>
+      )}
+
       {character.location && (
         <div className="info-row">
           <span className="info-label">Location</span>
@@ -89,7 +121,7 @@ export default function CharacterPanel({ character, characters, relationships, s
         {renderMd(character.description)}
       </div>
 
-      {character.beast && (
+      {character.beast?.name && (
         <div className="char-section">
           <h3>Beast</h3>
           <div className="beast-card" style={{ borderLeftColor: charColor }}>
@@ -97,6 +129,30 @@ export default function CharacterPanel({ character, characters, relationships, s
             <div className="beast-type">{character.beast.type}</div>
             <p className="beast-desc">{character.beast.description}</p>
           </div>
+        </div>
+      )}
+
+      {character.weapon?.name && (
+        <div className="char-section">
+          <h3>Weapon / Tool</h3>
+          <div className="beast-card" style={{ borderLeftColor: charColor }}>
+            <div className="beast-name" style={{ color: charColor }}>{character.weapon.name}</div>
+            <div className="beast-type">{character.weapon.type}</div>
+            <p className="beast-desc">{character.weapon.description}</p>
+          </div>
+        </div>
+      )}
+
+      {character.powers?.length > 0 && (
+        <div className="char-section">
+          <h3>Powers &amp; Techniques</h3>
+          {character.powers.map((p, i) => (
+            <div key={i} className="beast-card" style={{ borderLeftColor: charColor, marginBottom: '0.5rem' }}>
+              <div className="beast-name" style={{ color: charColor }}>{p.name}</div>
+              {p.type && <div className="beast-type">{p.type}</div>}
+              {p.description && <p className="beast-desc">{p.description}</p>}
+            </div>
+          ))}
         </div>
       )}
 
@@ -109,7 +165,7 @@ export default function CharacterPanel({ character, characters, relationships, s
         </div>
       )}
 
-      {character.coreType && (
+      {character.coreType && !character.core?.element && (
         <div className="char-section">
           <h3>Core Type</h3>
           <div className="core-badge">{character.coreType}</div>

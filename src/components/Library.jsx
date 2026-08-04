@@ -7,6 +7,26 @@ import {
   defaultElementSpells, SPELL_TIER_COLORS,
 } from '../data/elements'
 
+const WEAPON_GROUPS = [
+  { key: 'grand_house',  label: 'Grand House Weapons',          color: '#E84855', filter: w => w.category === 'Grand House Weapon' },
+  { key: 'selis_tools',  label: 'Selis Tools — Seats IV–VI',    color: '#D4AF37', filter: w => w.category === 'Noble Treasure' && w.faction === 'celestial' },
+  { key: 'cronus_tools', label: 'Hidden — Cronus\'s Tools',     color: '#00b4d8', filter: w => w.category === 'Hidden Treasure' && w.id.endsWith('-tool') },
+  { key: 'kazemi_forge', label: 'Kazemi — Forge Class',         color: '#4AAFE0', filter: w => w.category === 'Forge Class' },
+  { key: 'kazemi_asc',   label: 'Kazemi — Ascended Class',      color: '#4AAFE0', filter: w => w.category === 'Custom' && w.faction === 'kazemi' },
+  { key: 'mana_born',    label: 'Mana-Born',                    color: '#C75FCF', filter: w => w.category === 'Mana-Born' },
+  { key: 'special',      label: 'Special Class',                color: '#7AABCC', filter: w => w.category === 'Special Class' },
+  { key: 'unset',        label: 'Unset — Awaiting Assignment',  color: '#555',    filter: w => w.category === 'Unset' },
+]
+
+// source:'weapons' groups pull from filteredWeapons, not filteredBeasts
+const BEAST_GROUPS = [
+  { key: 'vraka_beasts', label: 'Vraka Beasts — Seats I–III',  color: '#9B30FF', source: 'weapons', filter: w => w.category === 'Noble Treasure' && w.faction === 'duraki' },
+  { key: 'gaia_beasts',  label: 'Gaia\'s Beasts — Hidden',     color: '#56A55A', source: 'weapons', filter: w => w.category === 'Hidden Treasure' && w.id.endsWith('-beast') },
+  { key: 'primal',       label: 'Primal — Independent',        color: '#4AAFE0', filter: b => b.id === 'enari' },
+  { key: 'kaz_heads',    label: 'Kazemi Heads — Personal',     color: '#C75FCF', filter: b => ['arai', 'hope', 'zoe'].includes(b.owner) },
+  { key: 'kaz_val',      label: 'Kazemi Valariyan — Ascended', color: '#9B30FF', filter: b => b.id !== 'enari' && !['arai', 'hope', 'zoe'].includes(b.owner) },
+]
+
 const LIB_TABS = ['Weapons & Tools', 'Aura Beasts', 'Elements']
 
 const EMPTY_WEAPON = {
@@ -42,6 +62,20 @@ export default function Library({ weapons, beasts, characters, onSaveWeapons, on
   }, [beasts, search])
 
   const items = isWeapon ? filteredWeapons : filteredBeasts
+  const groups = isWeapon ? WEAPON_GROUPS : BEAST_GROUPS
+  // weapon-source beast groups (Vraka / Gaia) pull from filteredWeapons when on beast tab
+  const weaponBeastExtra = !isWeapon
+    ? BEAST_GROUPS.filter(g => g.source === 'weapons').reduce((n, g) => n + filteredWeapons.filter(g.filter).length, 0)
+    : 0
+  const totalFiltered = items.length + weaponBeastExtra
+
+  const [collapsedGroups, setCollapsedGroups] = useState(new Set())
+  const toggleGroup = (key) => setCollapsedGroups(prev => {
+    const next = new Set(prev)
+    if (next.has(key)) next.delete(key); else next.add(key)
+    return next
+  })
+
   const selected = isWeapon ? weapons.find(w => w.id === selectedId) : beasts.find(b => b.id === selectedId)
   const display = draft || selected
 
@@ -124,7 +158,7 @@ export default function Library({ weapons, beasts, characters, onSaveWeapons, on
                 value={search}
                 onChange={e => setSearch(e.target.value)}
               />
-              <div className="lib-count">{items.length} item{items.length !== 1 ? 's' : ''}</div>
+              <div className="lib-count">{totalFiltered} item{totalFiltered !== 1 ? 's' : ''}</div>
             </>
           )}
         </div>
@@ -185,28 +219,47 @@ export default function Library({ weapons, beasts, characters, onSaveWeapons, on
         ) : (
           <>
             <div className="library-list">
-              {items.length === 0 && (
+              {totalFiltered === 0 && (
                 <div className="lib-empty-hint">No items match your search.</div>
               )}
-              {items.map(item => {
-                const color = isWeapon
-                  ? WEAPON_FACTION_COLORS[item.faction] || '#7AABCC'
-                  : BEAST_TIER_COLORS[item.tier] || '#4AAFE0'
-                const sub = isWeapon
-                  ? [WEAPON_FACTIONS[item.faction], item.category].filter(Boolean).join(' · ')
-                  : [item.type, BEAST_TIERS[item.tier]].filter(Boolean).join(' · ')
-                const holder = isWeapon ? item.currentHolder : item.owner
+              {groups.map(group => {
+                const src = group.source === 'weapons' ? filteredWeapons : items
+                const groupItems = src.filter(group.filter)
+                if (groupItems.length === 0) return null
+                const collapsed = collapsedGroups.has(group.key)
+                const treatAsWeapon = isWeapon || group.source === 'weapons'
                 return (
-                  <button
-                    key={item.id}
-                    className={`lib-item${selectedId === item.id ? ' active' : ''}`}
-                    style={{ borderLeftColor: color }}
-                    onClick={() => handleSelect(item.id)}
-                  >
-                    <div className="lib-item-name" style={{ color }}>{item.name}</div>
-                    <div className="lib-item-sub">{sub}</div>
-                    {holder && <div className="lib-item-holder">→ {holderName(holder)}</div>}
-                  </button>
+                  <div key={group.key} className="lib-group">
+                    <button
+                      className="lib-group-hdr"
+                      onClick={() => toggleGroup(group.key)}
+                    >
+                      <span className="lib-group-chevron">{collapsed ? '▶' : '▼'}</span>
+                      <span className="lib-group-label" style={{ color: group.color }}>{group.label}</span>
+                      <span className="lib-group-count">{groupItems.length}</span>
+                    </button>
+                    {!collapsed && groupItems.map(item => {
+                      const color = treatAsWeapon
+                        ? WEAPON_FACTION_COLORS[item.faction] || group.color
+                        : BEAST_TIER_COLORS[item.tier] || '#4AAFE0'
+                      const sub = treatAsWeapon
+                        ? WEAPON_FACTIONS[item.faction] || item.category
+                        : [item.type, BEAST_TIERS[item.tier]].filter(Boolean).join(' · ')
+                      const holder = treatAsWeapon ? item.currentHolder : item.owner
+                      return (
+                        <button
+                          key={item.id}
+                          className={`lib-item lib-item--grouped${selectedId === item.id ? ' active' : ''}`}
+                          style={{ borderLeftColor: color }}
+                          onClick={() => handleSelect(item.id)}
+                        >
+                          <div className="lib-item-name" style={{ color }}>{item.name}</div>
+                          {sub && <div className="lib-item-sub">{sub}</div>}
+                          {holder && <div className="lib-item-holder">→ {holderName(holder)}</div>}
+                        </button>
+                      )
+                    })}
+                  </div>
                 )
               })}
             </div>

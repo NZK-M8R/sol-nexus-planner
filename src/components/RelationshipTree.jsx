@@ -24,7 +24,7 @@ const POS = {
   // Ember's children (secret mother)
   summari:     { x: 40,   y: 500 },
   nighla:      { x: 200,  y: 500 },
-  shadow:      { x: 360,  y: 500 },  // secret
+  irane_e_osiro: { x: 360,  y: 500 },  // secret
 
   // Arai's children (birth order 3, 4, 8)
   nebula:      { x: 540,  y: 500 },
@@ -85,7 +85,7 @@ function matrilinePaths(motherId, childIds, visIds) {
   ]
 }
 
-const SECRET_NODE_IDS = new Set(['shadow', 'ember_hist'])
+const SECRET_NODE_IDS = new Set(['irane_e_osiro', 'ember_hist'])
 const FAMILY_TYPES = new Set(['parent', 'sibling', 'married', 'forced_union'])
 
 export default function RelationshipTree({
@@ -196,7 +196,7 @@ export default function RelationshipTree({
 
   // Ember's children matriline (only when secrets visible)
   if (showSecrets) {
-    matrilinePaths('ember_hist', ['summari', 'nighla', 'shadow'], visIds).forEach((p, j) =>
+    matrilinePaths('ember_hist', ['summari', 'nighla', 'irane_e_osiro'], visIds).forEach((p, j) =>
       addEdge(`mat-ember-${j}`, p.d, REL_COLORS.forced_union, true)
     )
   }
