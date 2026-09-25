@@ -2,6 +2,7 @@ import { useState, useCallback, useEffect, useMemo, useRef } from 'react'
 import { CharacterStore } from './api/characterStore'
 import Dashboard from './components/Dashboard'
 import CharacterGraph from './components/CharacterGraph'
+import CharacterBoard from './components/CharacterBoard'
 import FamilyTree from './components/FamilyTree'
 import Timeline from './components/Timeline'
 import LoreBible from './components/LoreBible'
@@ -9,6 +10,8 @@ import ChatPanel from './components/ChatPanel'
 import Library from './components/Library'
 import GrandTable from './components/GrandTable'
 import KazemiTab from './components/KazemiTab'
+import KazemiFamilyTab from './components/KazemiFamilyTab'
+import ActiveRulerTab from './components/ActiveRulerTab'
 import WorldMap from './components/WorldMap'
 import MagicSystem from './components/MagicSystem'
 import StoryBook from './components/StoryBook'
@@ -19,6 +22,7 @@ import { defaultBeasts } from './data/beasts'
 import { defaultClans } from './data/clans'
 import { defaultLoreSections } from './data/lore'
 import { defaultTimelineEras } from './data/timeline'
+import { defaultGrandTableAssignments, defaultKazemiElementalSeats } from './data/grandCouncil'
 import {
   loadNotes, saveNote,
   loadLoreEdits, saveLoreEdit,
@@ -29,6 +33,8 @@ import {
   loadWeapons, saveWeapons,
   loadBeasts, saveBeasts,
   loadClans, saveClans,
+  loadGrandTableAssignments, saveGrandTableAssignments,
+  loadKazemiElementalSeats, saveKazemiElementalSeats,
 } from './api/storage'
 
 // ── Tiny localStorage fallback for data that isn't in Supabase yet ──
@@ -40,6 +46,8 @@ const NAV_ITEMS = [
   { id: 'dashboard',    label: 'Dashboard',    icon: '◈' },
   { id: 'characters',   label: 'Characters',   icon: '◉' },
   { id: 'grand-table',  label: 'Grand Table',  icon: '⊛' },
+  { id: 'kazemi-family',label: 'Kazemi Family & Valariya Power', icon: '♛' },
+  { id: 'active-ruler', label: 'Active Ruler',  icon: '⚑' },
   { id: 'library',      label: 'Library',      icon: '⚔' },
   { id: 'families',     label: 'Family Trees', icon: '⊞' },
   { id: 'magic',        label: 'Magic System', icon: '✦' },
@@ -53,6 +61,7 @@ const NAV_ITEMS = [
 export default function App() {
   const [view,           setView]           = useState('dashboard')
   const [selectedCharId, setSelectedCharId] = useState(null)
+  const [boardCharId,    setBoardCharId]    = useState(null)
   const [showSecrets,    setShowSecrets]    = useState(false)
   const [sidebarOpen,    setSidebarOpen]    = useState(true)
   const [notebookOpen,   setNotebookOpen]   = useState(true)
@@ -85,10 +94,40 @@ export default function App() {
     const fresh = defaultRelationships.filter(r => !storedIds.has(r.id))
     return fresh.length ? [...stored, ...fresh] : stored
   })
-  const [stories,       setStories]       = useState(() => loadStories()       ?? defaultStories)
+  const [stories, setStories] = useState(() => {
+    const stored = loadStories()
+    if (!stored) return defaultStories
+    // Merge stored data with defaults: refresh each story's arcs from source (arcs are
+    // maintained in code, not hand-edited in the UI), keep any other stored fields (status, etc.)
+    const merged = stored.map(s => {
+      const src = defaultStories.find(d => d.id === s.id)
+      return src ? { ...s, arcs: src.arcs } : s
+    })
+    const storedIds = new Set(stored.map(s => s.id))
+    const fresh = defaultStories.filter(s => !storedIds.has(s.id))
+    return fresh.length ? [...merged, ...fresh] : merged
+  })
   const [weapons,       setWeapons]       = useState(() => loadWeapons()       ?? defaultWeapons)
   const [beasts,        setBeasts]        = useState(() => loadBeasts()        ?? defaultBeasts)
   const [clans,         setClans]         = useState(() => loadClans()         ?? defaultClans)
+
+  // Grand Table (rebuilt) seat assignments — merge stored seats over defaults so new
+  // compass nodes introduced later are not lost from an older saved shape.
+  const [tableAssignments, setTableAssignments] = useState(() => {
+    const stored = loadGrandTableAssignments()
+    return stored ? { ...defaultGrandTableAssignments, ...stored } : defaultGrandTableAssignments
+  })
+  // Kazemi's 10 blank elemental seats (Kazemi Family & Valariya Power tab) — merge by seatId
+  // so any newly added element seats aren't dropped from an older saved array.
+  const [kazemiElementalSeats, setKazemiElementalSeats] = useState(() => {
+    const stored = loadKazemiElementalSeats()
+    if (!stored) return defaultKazemiElementalSeats
+    const merged = defaultKazemiElementalSeats.map(seat => {
+      const found = stored.find(s => s.seatId === seat.seatId)
+      return found ? { ...seat, ...found } : seat
+    })
+    return merged
+  })
 
   // Story data — initially from localStorage cache, synced from Supabase on mount
   const [characterNotes, setCharacterNotes] = useState(() => local.get('char-notes', {}))
@@ -126,6 +165,7 @@ export default function App() {
   )
 
   const selectedChar = charStore.get(selectedCharId) || null
+  const boardChar    = charStore.get(boardCharId) || null
 
   const handleSelectChar = useCallback((charOrNull) => {
     if (!charOrNull) { setSelectedCharId(null); return }
@@ -165,6 +205,16 @@ export default function App() {
   const handleSaveClans = useCallback((updated) => {
     setClans(updated)
     saveClans(updated)
+  }, [])
+
+  const handleSaveTableAssignments = useCallback((updated) => {
+    setTableAssignments(updated)
+    saveGrandTableAssignments(updated)
+  }, [])
+
+  const handleSaveKazemiElementalSeats = useCallback((updated) => {
+    setKazemiElementalSeats(updated)
+    saveKazemiElementalSeats(updated)
   }, [])
 
   const handleSaveNote = useCallback((charId, note) => {
@@ -218,18 +268,35 @@ export default function App() {
           <span className="logo-icon">◈</span>
           {sidebarOpen && <span className="logo-text">SOL-NEXUS</span>}
         </div>
-        <nav className="sidebar-nav">
-          {/* Notebook toggle — always first; toggling shows/hides the left pane */}
+        {sidebarOpen && (
+          <div className="view-mode-switch" role="group" aria-label="Layout mode">
+            <button
+              className={`view-mode-btn${!notebookOpen ? ' active' : ''}`}
+              onClick={() => setNotebookOpen(false)}
+              title="Mainline only — reference views full width"
+            >
+              Mainline
+            </button>
+            <button
+              className={`view-mode-btn${notebookOpen ? ' active' : ''}`}
+              onClick={() => setNotebookOpen(true)}
+              title="Split view — Mainline reference and Notebook side by side"
+            >
+              Split
+            </button>
+          </div>
+        )}
+        {!sidebarOpen && (
           <button
             className={`nav-item${notebookOpen ? ' active' : ''}`}
             onClick={() => setNotebookOpen(v => !v)}
-            title="Notebook"
+            title={notebookOpen ? 'Split view (Notebook open)' : 'Mainline only (Notebook closed)'}
           >
             <span className="nav-icon">✎</span>
-            {sidebarOpen && <span className="nav-label">Notebook</span>}
           </button>
-
-          {/* All other items drive the right content pane */}
+        )}
+        <nav className="sidebar-nav">
+          {/* All other items drive the left/main content pane */}
           {NAV_ITEMS.map(item => (
             <button
               key={item.id}
@@ -287,6 +354,7 @@ export default function App() {
               onSaveCharacter={handleSaveCharacter}
               onSaveRelationships={handleSaveRelationships}
               onSaveStories={handleSaveStories}
+              onOpenBoard={c => setBoardCharId(c?.id ?? null)}
             />
           )}
           {view === 'grand-table' && (
@@ -295,7 +363,19 @@ export default function App() {
               clans={clans}
               characters={characters}
               onSaveClans={handleSaveClans}
+              tableAssignments={tableAssignments}
+              onSaveTableAssignments={handleSaveTableAssignments}
             />
+          )}
+          {view === 'kazemi-family' && (
+            <KazemiFamilyTab
+              characters={characters}
+              elementalSeats={kazemiElementalSeats}
+              onSaveElementalSeats={handleSaveKazemiElementalSeats}
+            />
+          )}
+          {view === 'active-ruler' && (
+            <ActiveRulerTab characters={characters} />
           )}
           {view === 'library' && (
             <Library
@@ -315,13 +395,15 @@ export default function App() {
               onSelectChar={handleSelectChar}
               characterNotes={characterNotes}
               onSaveNote={handleSaveNote}
+              onOpenBoard={c => setBoardCharId(c?.id ?? null)}
+              stories={stories}
             />
           )}
           {view === 'magic' && (
             <MagicSystem />
           )}
           {view === 'worldmap' && (
-            <WorldMap characters={characters} />
+            <WorldMap characters={characters} stories={stories} />
           )}
           {view === 'timeline' && (
             <Timeline
@@ -388,6 +470,19 @@ export default function App() {
           />
         </div>
       </div>
+
+      {boardChar && (
+        <CharacterBoard
+          character={boardChar}
+          characters={characters}
+          relationships={relationships}
+          stories={stories}
+          weapons={weapons}
+          beasts={beasts}
+          onClose={() => setBoardCharId(null)}
+          onSelectChar={c => setBoardCharId(c?.id ?? null)}
+        />
+      )}
     </div>
   )
 }

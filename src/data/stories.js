@@ -74,6 +74,22 @@ export const defaultStories = [
           "Simon Archiver — an old Vane archivist with extraordinary knowledge of the facility's internal systems — organizes 12 children with newly-awakened Cores for the rescue. Alaiya (youngest) injects the drug. Irane breaks free and heals Arai, Zoe, and Hope one by one. 120 child test subjects are freed. The escape ends at a sea cliff — golden dragons rise from the water to carry the children to safety. Hina is briefly captured but rescued. The facility explodes. A golden dragon whispers two more words to Irane: his full name. He becomes Irane Core Kazemi. The beginning of a house. Simon Archiver's true identity — Aevum Vane, the immortal progenitor of House Vane who transferred his consciousness into this body to join the escape group — remains undiscovered.",
       },
       {
+        id: 'orig-kazemi-soul',
+        title: 'Kazemi Soul! — The Island Aftermath',
+        color: '#C08552',
+        characters: ['irane', 'aliya_hallow', 'milla_ores', 'urial_ferran', 'mira_ardent', 'hope', 'zoe'],
+        summary:
+          "Six hours after the reincarnation, Irane wakes fully as himself for the first time — Aliya the first to see him as Irane rather than Lord Kazemi or '8.' He keeps his promise to Valariya: Urial is placed with Dio, on the condition his core remains Irane's, with Milla agreeing to carry him to term as surrogate via Iris rather than through any more direct method. Aliya receives a modified Yggdrasil seed carrying a true memory-echo of Valariya — explicitly not her sister, only a memory. Alone by the tree afterward, Irane's unresolved self-hatred manifests as Emo cycling into a massive, self-directed Malice/Hatred-Wolf form that turns on Mira; Dima (Hope's dragon) manifests in combat for the first time to intervene, and Zoe's beast Aphexia separates and grounds both. Hope finds Irane afterward and draws out of him the reincarnation-vs-rebirth distinction that defines his relationship to 'Z' going forward: nothing that has ever lived can be returned, and what woke up is a new being, not Z restored.",
+      },
+      {
+        id: 'orig-rise-apexia',
+        title: "Rise — Kazemi's Empire — The Founding of Apexia",
+        color: '#B8860B',
+        characters: ['irane', 'arai', 'hope', 'zoe', 'mira_ardent', 'pandro_lexan', 'simon_archiver', 'toma_more', 'minia_consa', 'criya_sin', 'evelyn_more', 'nex_wov', 'kai_osiro', 'adri_suin', 'jade_alge'],
+        summary:
+          "Simon briefs the group on a world that hasn't stopped moving: Toma consolidating the Primals of Heaven, Niro Vane uniting the Orians toward one final war. Irane draws out what each of the three wives truly wants at her core — Zoe a home, Hope the world at her feet, Arai the twins' suffering rather than their deaths — and proposes a three-way plan: Arai, Hope, and Zoe return to their birth clans to search for Gaia's and Cronus's lost cores, while Irane takes Milla, Mira, Pandro, and the island's people to found an Empire in Paradise. Enari cameos; Simon presses Irane into confirming his core alignment as Harmonic-Chaos; Ember, having relived fragments of Irane's trial, confronts Arai publicly over the seal's true cost, resolved only once the corrected account of the seal's five formative orders comes out in full. Irane and Simon settle into a standing ritual of drinking and confession that produces the epithet 'Irane Core Kazemi — the Ultimate Tool.' A funeral for Valariya and an invented, deliberately uncertain name for 'Z' — Zyiphor — marks Irane's own first order, Forget Yourself, as finally, fully complete. The island founds itself as the Apexia Empire, split between Apexian citizens and Valariyan core-devotees, at a ratio Irane did not want and could not prevent. In Paradise, Mira and Pandro unveil Irane publicly in Toma More's own court — the Eighth Champion of Primals, the First Emperor of Apexia — forcing a treaty: open travel between Heaven and Paradise, recognition of Apexia as a nation, and legal registration of 'Kazemi' as a clan name. Irane confirms Cai's death publicly to the Primals of Paradise, triages a plague-stricken population of thirteen million, and watches the myth override his own effort to keep the Valariyan tier small the instant his identity is confirmed true.",
+      },
+      {
         id: 'orig-catastrophe',
         title: 'The Paradise Spell — The World Breaks',
         color: '#E84855',
@@ -93,7 +109,7 @@ export const defaultStories = [
         id: 'orig-chaos',
         title: "The 130-Year Age of Chaos — Niro Vane's Rise",
         color: '#DC143C',
-        characters: ['nuro_vane', 'vesper', 'ember_osiro'],
+        characters: ['nuro_vane', 'ember_osiro'],
         summary:
           "Year 0: billions wake in an alien landscape with no framework for understanding. Violence is immediate. Historical Niro Vane emerges as the most powerful figure — he finds the Spear of Unix and spends 130 years consolidating authority. Apex (where the Valariyans are) remains sealed for all 130 years. Niro gains 14 of 17 Noble Treasure allegiances but cannot complete the coronation ritual without Wov, Osiro, and Kazemi.",
       },
@@ -101,7 +117,7 @@ export const defaultStories = [
         id: 'orig-great-war',
         title: 'The Great War on Unix — The 1-Year Crusade',
         color: '#9B30FF',
-        characters: ['irane', 'nuro_vane', 'vesper', 'ember_osiro', 'summari', 'nighla'],
+        characters: ['irane', 'nuro_vane', 'ember_osiro', 'summari', 'nighla'],
         summary:
           "When Apex's dimensional lock finally lifts, Niro immediately seals Irane and launches a strike on Valariya — 4 million Valariyans killed in one assault. The Kazemi/Wov/Osiro alliance forms. Irane returns. The 1-Year Crusade follows. Historical Niro Vane is killed. Approximately 3 billion people die across the year. The war ends at Unix Year 131. Irane accepts 19 years of confinement to Valariya. The Grand Table is formed at Unix Year 150.",
       },
@@ -180,53 +196,101 @@ export const defaultStories = [
         id: 'b2-table-politics',
         title: 'Grand Table Politics',
         color: '#D4AF37',
-        characters: ['irane', 'vesper', 'ember_osiro'],
+        characters: ['irane', 'ember_osiro'],
         summary:
           "The first sessions of the fully active Grand Table. Old scores surface. Niro's corrupt legacy must be dismantled.",
       },
     ],
   },
-  // ── Earth Arc — The Epilogue Frame ────────────────────────────────────────
+  // ── The Facility Arc — Parts 1-8 ───────────────────────────────────────────
   {
-    id: 'earth-arc',
-    title: 'Arrival of the \'Devil\'! — The Earth Arc',
-    subtitle: 'Epilogue Frame · The War for Humanity\'s Soul',
+    id: 'facility-arc',
+    title: 'The Facility Arc — Project Unix to the Theomachy',
+    subtitle: 'From Five Names in a Cage to the Emperor of Apexia',
     color: '#C75FCF',
     status: 'active',
     description:
-      'The epilogue frame. Set concurrently with the Sol-Nexus\'s established era. Arai, Hope, and Zoe are in Minia Consa\'s lab — captured, sealed, their cores serving as the anchor for Minia\'s ultimate experiment. 8 exists as Minia\'s weapon, the vessel of Kazemi forged from Arai\'s seal work, operating under Minia\'s authority while the three wives remain unconscious. Toma More\'s Earth doctrine — the Six Vessel Families, the Gaia/Cronus sealing system — runs in the background as the Ascen wage a final war to wipe out the remaining Kazemi Primals. This arc covers the events Arai/Hope/Zoe experience while separated from Irane, and the question of whether the seal will break.',
+      'Set concurrently with the Sol-Nexus\'s established era. Opens with five captives in Minia Consa\'s facility — Arai, Hope, Zoe, Sith, and Mira — and Subject No. 8\'s forced descent into the Trial of Kazemi. Runs through the escape, the founding of the Apexia Empire, Irane\'s coronation as its Emperor, the Theomachy that ends with Vraka and Selis sealed as his Beast and Tool, and the completion of the Orian conquest that follows it. By its current end, Irane has split permanently into Lord Kazemi (the conceptual god the Valariyans kneel to) and Lord Irane (the fallible man who actually runs the Empire day to day); Arai, Hope, and Zoe have finished conquering and now rule the Ascen, Alma, and Spirit peoples of Orians outright as Goddess, Empress, and Apex Predator; the Arke twins are broken and bound; and the next generation — Summari, Nighla, Dokia, Urial, and a growing circle of cousins — is already being raised inside the empire their parents built. The story\'s written record currently ends partway through Part 9, at the close of its Chapter 9.6 — the material immediately beyond that point in the draft is still outline and notes rather than finished prose.',
     arcs: [
       {
-        id: 'ea-capture',
-        title: 'Captured — Minia\'s Lab',
+        id: 'fa-p1-trial',
+        title: 'Part 1: Project Unix',
         color: '#C75FCF',
-        characters: ['arai', 'hope', 'zoe', 'minia_consa', 'mira_ardent', 'pandro_lexan'],
+        characters: ['arai', 'hope', 'zoe', 'sith_caedus', 'mira_ardent', 'minia_consa', 'namo_consa', 'irane'],
         summary:
-          'Arai, Hope, and Zoe are taken to Minia Consa\'s private lab. Arai and Hope are unconscious; Zoe wakes briefly, lands a single blow on Minia, and passes out again. 8 — the vessel Arai\'s seal created — is now under Minia\'s control, masked and assigned to Mira\'s unit.',
+          'Five captives — Arai, Hope, Zoe, Sith, and Mira — become the only people in Minia Consa\'s facility with any reason to help each other. Minia\'s dual Space/Life-Death alignment lets her force an unwilling human across the threshold into Kazemi\'s trial space, something her father Namo\'s consent-bound method never could. Subject No. 8 goes in and refuses to stop dying. Trillions of deaths and a language of mana called Dancing Mana later, he wins, and the dragon gives up its name — Kazemi — for his, taking Enari for its own.',
       },
       {
-        id: 'ea-8-revealed',
-        title: 'Part 1 — After 8\'s Return',
-        color: '#9B30FF',
-        characters: ['minia_consa', 'mira_ardent', 'pandro_lexan', 'zoe'],
-        summary:
-          'Minia visits Arai obsessively, framing 8 as "her monster." Zoe punches Minia with what little strength she has left, then collapses. 8 detects the residual mana of his own cores on Minia\'s bruise. Minia establishes her observational link through Pandro\'s cores. Arai/Hope/Zoe are placed in comas. Consa Special Unit 8: Dragons of Minia is formed.',
-      },
-      {
-        id: 'ea-primal-assault',
-        title: 'Part 2 — The Dragon of Minia: Assault on the Kazemi Primal Capital',
+        id: 'fa-p2-dragon-of-minia',
+        title: 'Part 2: The Dragon of Minia',
         color: '#E84855',
-        characters: ['mira_ardent', 'pandro_lexan', 'minia_consa', 'nevir_revyn', 'sofia_prescian', 'nuro', 'tonga', 'tola_ardent'],
+        characters: ['minia_consa', 'mira_ardent', 'pandro_lexan', 'zoe', 'arai', 'hope', 'irane', 'nevir_revyn', 'sofia_prescian', 'nuro', 'tonga', 'tola_ardent'],
         summary:
-          'The Ascen assault 100M strong on the Kazemi Primal capital (location leaked by Toma and Namo). Nevir holds the gate; Sofia defends the city. 8 arrives — Rampaging Cores devastates the city center. Mira traps Tola with Mana Lockdown. Dragon\'s Roar hits the gate. 8 uses Nevir\'s core to enable Death\'s Rampage. Sofia blocks Tonga\'s Chronos arrow with prepared crystallized earth. Tonga, feeling death force in the ice spell, asks: "Are you death?"',
+          'Minia forms Consa Special Unit 8: Dragons of Minia and sends her masked weapon to lead a hundred-million-strong Ascen assault on the Kazemi Primal capital, its location leaked by Toma and Namo. Nevir Revyn holds the gate and Sofia Prescian defends the city while 8 tears through the center with Rampaging Cores and Dragon\'s Roar. Arai, Hope, and Zoe are held in induced comas throughout, their cores anchoring an experiment none of them consented to.',
       },
       {
-        id: 'ea-road-to-war',
-        title: 'The War for Humanity\'s Soul — Planned',
-        color: '#D4AF37',
-        characters: ['arai', 'hope', 'zoe', 'minia_consa', 'toma_more'],
+        id: 'fa-p3-harvest',
+        title: 'Part 3: Harvest the Fruits of Power',
+        color: '#CC5500',
+        characters: ['minia_consa', 'irane', 'mira_ardent', 'pandro_lexan', 'sofia_prescian', 'evelyn_more', 'criya_sin', 'ember_hist', 'cai', 'aliya_hallow', 'toma_more', 'alex_more'],
         summary:
-          '[PLANNED] The arc builds toward the breaking of Minia\'s seal — the moment 8\'s nature asserts itself past her control. The three wives\' recovery and what they choose to do once free. The Gaia/Cronus active sealing revealed in full. The six Vessel Families\' role in the endgame.',
+          'Minia consolidates her rule of the Consa as 8 is walked through two more years of manufactured legend, engineered devotion, and the beginnings of a court built entirely around a weapon that does not yet know it is becoming a person. Cai — the identity Zoe and later Arai pilot in secret — starts shaping the child Aliya in the shadow of it all, and Pandro and Sofia\'s forbidden romance is exposed and settled by 8\'s own direct order.',
+      },
+      {
+        id: 'fa-p4-false-empress',
+        title: 'Part 4: The False Empress vs. The False Goddess',
+        color: '#9B30FF',
+        characters: ['irane', 'arai', 'hope', 'zoe', 'minia_consa', 'ember_hist', 'milla_ores', 'tenza', 'nina', 'toma_more', 'alex_more', 'namo_consa'],
+        summary:
+          'Two years of war build the Champion\'s legend outward while, inside the facility, one night and one week unravel everything Arai believed she understood about what her seal actually created. Minia\'s obsession curdles into open delusion as she styles herself 8\'s true partner against Arai\'s claim on him, and the fault line between the two women — over who 8 actually belongs to — cracks open in front of everyone.',
+      },
+      {
+        id: 'fa-p5-reincarnation',
+        title: 'Part 5: The Reincarnation',
+        color: '#DAA520',
+        characters: ['irane', 'arai', 'hope', 'zoe', 'aliya_hallow', 'mira_ardent', 'milla_ores', 'urial_ferran', 'dokia_caedus', 'sith_caedus', 'ember_hist', 'minia_consa'],
+        summary:
+          'The Facility Arc closes as Subject No. 8 becomes Irane Kazemi in full — the reincarnation, not the rebirth, of the man who entered the trial. Arai completes the seal that keeps him human at low percentages; the escape from the facility follows soon after, freeing 120 child test subjects and ending in golden dragons rising from the sea to carry them to safety. Valariya\'s death and Aliya\'s inheritance of her spirit close out the arc\'s island aftermath.',
+      },
+      {
+        id: 'fa-p6-rise-apexia',
+        title: "Part 6: Rise — Kazemi's Empire",
+        color: '#B8860B',
+        characters: ['irane', 'arai', 'hope', 'zoe', 'mira_ardent', 'pandro_lexan', 'aliya_hallow', 'simon_archiver', 'ember_hist', 'milla_ores', 'dio_ferran', 'leo_proude', 'assa_flora', 'naile_rui', 'toma_more', 'minia_consa', 'criya_sin', 'evelyn_more', 'nex_wov', 'kai_osiro', 'adri_suin', 'jade_alge'],
+        summary:
+          'Irane draws out what Arai, Hope, and Zoe each truly want and proposes the plan that founds an empire: the three of them return to their birth clans to recover Gaia\'s and Cronus\'s lost cores while he takes the island to Paradise and claims the throne. Enari wakes, the seal\'s first order quietly completes as Irane lets "Zyiphor" go at Valariya\'s funeral, and the Apexia Empire is born on a mountainside bonfire before Irane forces Toma More into a treaty and takes in ten million grieving, plague-stricken Primals as its first citizens.',
+      },
+      {
+        id: 'fa-p7-price-of-a-core',
+        title: "Part 7: The Price For One's Core!",
+        color: '#4B7BEC',
+        characters: ['irane', 'arai', 'hope', 'zoe', 'mira_ardent', 'aliya_hallow', 'aura_veil', 'ember_hist', 'evelyn_more', 'criya_sin', 'pandro_lexan', 'tan_loo', 'droom_lucerne', 'axola_vane', 'niro', 'olda_apolo', 'duki_navar', 'tunde_ardent', 'tenza', 'nina', 'aevum_vane'],
+        summary:
+          'Irane risks the whole founding on a child named Aura Veil and a plague he could ignore, holds Paradise through a three-month siege against Droom Lucerne alone, and nearly dies proving it. Arai, Hope, and Zoe are re-absorbed into their Orian birth clans and rise fast — Goddess, Empress, and Apex Predator in the making — while Aliya\'s unleashed Orexis levels a city and costs nearly a billion lives. Arai buys peace by handing over her own pregnant sister Nina; Irane answers by delivering Olda\'s and Duki\'s heads to Hope and Zoe as a wedding gift.',
+      },
+      {
+        id: 'fa-p8-war-for-humanitys-soul',
+        title: "Part 8: War For Humanity's Soul! — Beginning of the End",
+        color: '#DC143C',
+        characters: ['irane', 'arai', 'hope', 'zoe', 'mira_ardent', 'pandro_lexan', 'aliya_hallow', 'nina', 'aura_veil', 'jade_alge', 'ember_hist', 'kai_osiro', 'nex_wov', 'vesper_wov', 'taliya_wov', 'crimi_night', 'tan_loo', 'terra_night', 'alex_more', 'aevum_vane', 'toma_more', 'minia_consa', 'niro', 'azen_lucerne', 'elorah_seraph', 'droom_lucerne', 'evin_navar', 'edge_apolo'],
+        summary:
+          'Aevum reveals himself in full, kills Toma More, and takes Alex\'s body as his new vessel. Nex Wov and Kia Osiro die telling Vesper the truth of his birth, minutes before Aliya kills them both and hands Gaia\'s and Cronus\'s reawakened cores to Vesper and Taliya. Irane takes Sentia and Tulla, shelters Earth\'s refugees, and finally goes to war with Vraka and Selis directly — the conflict humans start calling the Theomachy. He wins at eighty percent of his own strength, seals both twins as Tool and Beast to Azen and Elorah, and is crowned Emperor of Apexia in front of the whole city, claiming the cores of every Valariyan who ever pledged to him in the same hour.',
+      },
+      {
+        id: 'fa-p9-destruction-before-creation',
+        title: 'Part 9: War For Humanity! Part 2 — Destruction Before Creation',
+        color: '#7A1F3D',
+        characters: ['irane', 'arai', 'hope', 'zoe', 'mira_ardent', 'aliya_hallow', 'pandro_lexan', 'summari', 'nighla', 'dokia_caedus', 'urial_ferran', 'assa_flora', 'dio_ferran', 'niro_vane_current', 'tunde_ardent', 'axola_vane', 'nuro_vane_brother', 'azen_lucerne', 'elorah_seraph', 'konnar_neel', 'forge_neel', 'nina', 'apolo', 'terra_night'],
+        summary:
+          'Arai, Hope, and Zoe finish conquering the Orians — Zoe eats Azen\'s heart, Hope beats Elorah to death with the reforged blade Irane, and Arai marries Axola for the title alone before Niro names her his successor. A rigged, twelve-generation relay match forces Arai\'s own conceptual mode to the surface; she levels every Ascen city bearing Aevum\'s name without costing a single life, and Irane completes his own seal by splitting permanently into Lord Kazemi (the conceptual god) and Lord Irane (the fallible man). Dokia absorbs Forge Neel\'s legendary blade Masamune by defeating and fusing with him mid-duel; Niro and Tunde are punished into a single Tool-Beast, Spacial-Illumination; and Dio dies defending the portal-tree that carries the Orian refugees to Apexia. Irane wakes with no memory of the trial, loses his first public fight to Zoe on purpose, and spends his first days as Emperor discovering exactly how much of himself survived being made human.',
+      },
+      {
+        id: 'not-yet-written',
+        title: 'Part 10 and Beyond — Not Yet Written',
+        color: '#6B7280',
+        characters: ['isaac_more', 'artemis_osiro', 'nara_nexal', 'milo_nexal', 'sethma_prescian', 'julia_prescian', 'nevir_revyn_jr', 'tyler_ores'],
+        summary:
+          'Characters confirmed to exist in the current story data but not yet given an on-page appearance — candidates for Part 10 and beyond. Most are Apexia-generation children introduced only as birth announcements or forward-planned notes rather than through an actual scene with dialogue or action. Part 9\'s own unfinished 9.6 outline (Isaac More, Artemis Osiro, Nevir Revyn Jr. among others) is tracked here too, since that material is author-confirmed but not yet reviewed as finished, on-page prose.',
       },
     ],
   },

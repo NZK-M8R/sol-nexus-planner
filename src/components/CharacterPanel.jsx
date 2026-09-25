@@ -2,7 +2,7 @@ import { useState, useEffect } from 'react'
 import { HOUSE_COLORS, HOUSE_LABELS, REL_COLORS, REL_LABELS } from '../data/characters'
 
 function renderMd(text) {
-  if (!text) return null
+  if (typeof text !== 'string' || !text.trim()) return null
   return text.split('\n\n').map((para, pi) => {
     if (!para.trim()) return null
     const isHeader = para.startsWith('**') && para.split('**').length === 3 && para.endsWith('**')
@@ -29,7 +29,7 @@ function parseCoreData(character) {
   if (character.core?.element) {
     return { element: character.core.element, alignment: character.core.alignment || null }
   }
-  if (character.coreType) {
+  if (typeof character.coreType === 'string' && character.coreType) {
     const parts = character.coreType.split(/\s*[;,]\s*/)
     const element   = parts[0]?.trim() || null
     const alignment = parts[1]?.trim().replace(/ aligned$/i, '') || null
@@ -38,7 +38,7 @@ function parseCoreData(character) {
   return null
 }
 
-export default function CharacterPanel({ character, characters, relationships, showSecrets, onSelectChar, onClose, notes, onSaveNote }) {
+export default function CharacterPanel({ character, characters, relationships, showSecrets, onSelectChar, onClose, notes, onSaveNote, onOpenBoard }) {
   const [noteText, setNoteText] = useState(notes || '')
   const [saved, setSaved]       = useState(false)
 
@@ -73,10 +73,10 @@ export default function CharacterPanel({ character, characters, relationships, s
       <button className="panel-close" onClick={onClose}>✕</button>
 
       <div className="char-avatar" style={{ background: `${charColor}22`, borderColor: charColor }}>
-        <span style={{ color: charColor }}>{character.name.charAt(0)}</span>
+        <span style={{ color: charColor }}>{(character.name || '?').charAt(0)}</span>
       </div>
 
-      <h2 className="char-name">{character.name}</h2>
+      <h2 className="char-name">{character.name || 'Unnamed'}</h2>
 
       {character.epithet && (
         <div className="char-epithet" style={{ color: `${charColor}AA` }}>
@@ -91,6 +91,12 @@ export default function CharacterPanel({ character, characters, relationships, s
       <span className={`status-badge status-${character.status}`}>
         {character.status}
       </span>
+
+      {onOpenBoard && (
+        <button className="view-full-profile-btn" onClick={() => onOpenBoard(character)}>
+          ⛶ View Full Profile
+        </button>
+      )}
 
       {coreData && (
         <div className="core-alignment-block" style={{ borderColor: `${charColor}55` }}>
@@ -160,7 +166,7 @@ export default function CharacterPanel({ character, characters, relationships, s
         <div className="char-section">
           <h3>Psyche Layers</h3>
           {character.psyche.map((p, i) => (
-            <div key={i} className="psyche-item">{p}</div>
+            <div key={i} className="psyche-item">{typeof p === 'string' ? p : (p?.description || p?.name || JSON.stringify(p))}</div>
           ))}
         </div>
       )}

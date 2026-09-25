@@ -178,6 +178,24 @@ export const defaultTimelineEras = [
         significance: 'critical',
       },
       {
+        id: 'kazemi-soul',
+        year: 'Pre-Year 0 — Day of the Escape',
+        title: 'Kazemi Soul! — Irane Wakes as Himself',
+        description:
+          "Six hours after the reincarnation, Irane wakes fully as Irane rather than Lord Kazemi or '8' — Aliya Hallow the first to see him as himself. He keeps his promise to the dying Valariya: her son Urial is placed in Dio's care, his core reserved as Irane's own, with Milla Ores agreeing to carry him to term as surrogate via Iris rather than through any more direct method. Aliya receives a modified Yggdrasil seed carrying a true memory-echo of Valariya — explicitly not her sister returned, only a retrievable memory. Alone afterward, Irane's unresolved self-hatred manifests as Emo cycling into a massive, self-directed Malice/Hatred-Wolf form that turns on Mira Ardent; Dima (Hope's dragon beast) manifests in active combat for the first time to intervene, and Zoe's beast Aphexia separates and grounds both. Hope finds Irane by the tree afterward and draws out the reincarnation-vs-rebirth distinction that defines his relationship to 'Z' going forward: nothing that has ever lived can be returned: what woke up is a new being carrying Z's emotional residue, not Z restored.",
+        characters: ['irane', 'aliya_hallow', 'milla_ores', 'urial_ferran', 'mira_ardent', 'hope', 'zoe'],
+        significance: 'major',
+      },
+      {
+        id: 'rise-of-apexia',
+        year: 'Pre-Year 0 — Founding of Apexia',
+        title: "Rise — Kazemi's Empire — The Apexia Empire Founded",
+        description:
+          "Simon briefs the group on a world that has not stopped moving in their absence: Toma More consolidating the Primals of Heaven, Niro Vane uniting the Orians toward one final war. Irane draws out what Arai, Hope, and Zoe each truly want at their cores and proposes a three-way plan — the three wives return to their birth clans to recover Gaia's and Cronus's lost cores while Irane founds an Empire in Paradise. Ember confronts Arai publicly over the true cost of the seal; the corrected account of its five formative orders finally surfaces. A funeral for Valariya and an invented, deliberately unconfirmed name for 'Z' — Zyiphor — marks Irane's own first order, Forget Yourself, as fully complete. The island founds itself as the Apexia Empire, split between Apexian citizens and Valariyan core-devotees at a ratio Irane neither wanted nor prevented. In Paradise, Mira Ardent and Pandro Lexan publicly unveil Irane in Toma More's own court as the Eighth Champion of Primals and First Emperor of Apexia, forcing a treaty: open travel between Heaven and Paradise, recognition of Apexia as a nation, and legal registration of 'Kazemi' as a clan name. Irane publicly confirms Cai's death to the Primals of Paradise, triages a plague-stricken population of thirteen million, and watches his own myth override his effort to keep the Valariyan tier small the instant his identity is confirmed true.",
+        characters: ['irane', 'arai', 'hope', 'zoe', 'mira_ardent', 'pandro_lexan', 'simon_archiver', 'toma_more', 'criya_sin', 'evelyn_more'],
+        significance: 'critical',
+      },
+      {
         id: 'paradise-spell-pre',
         year: 'Pre-Year 0 — First Great War',
         title: 'The First Great War and the Paradise Spell',
@@ -299,8 +317,8 @@ export const defaultTimelineEras = [
         year: 'Year ~460',
         title: 'Genetic Insurance Pact Formed',
         description:
-          "Irane Kazemi, Lady Vesper Vestarin, and Lady Ember Osiro form the top-secret Genetic Insurance Pact. Children are secretly exchanged across bloodlines to ensure no house can be fully exterminated. Lord Niro Vane is intentionally excluded — his reckless ambitions make him a structural liability.",
-        characters: ['irane', 'vesper', 'ember_osiro'],
+          "Irane Kazemi, House Wov's leadership, and Lady Ember Osiro form the top-secret Genetic Insurance Pact. Children are secretly exchanged across bloodlines to ensure no house can be fully exterminated. Lord Niro Vane is intentionally excluded — his reckless ambitions make him a structural liability. (House Wov's co-architect was previously named as a legacy figure, \"Lady Vesper Vestarin,\" distinct from the current-arc Vesper Wov; the legacy figure has been removed as no longer relevant, and this role is currently unassigned to a specific individual.)",
+        characters: ['irane', 'ember_osiro'],
         significance: 'critical',
       },
       {

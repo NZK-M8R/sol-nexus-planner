@@ -47,6 +47,7 @@ export default function Library({ weapons, beasts, characters, onSaveWeapons, on
   const [draft, setDraft] = useState(null)
   const [isNew, setIsNew] = useState(false)
   const [selectedElementId, setSelectedElementId] = useState(null)
+  const [layoutMode, setLayoutMode] = useState('grid') // 'grid' (overview cards) | 'list' (compact, for editing)
 
   const isWeapon  = tab === 'Weapons & Tools'
   const isElement = tab === 'Elements'
@@ -76,7 +77,12 @@ export default function Library({ weapons, beasts, characters, onSaveWeapons, on
     return next
   })
 
-  const selected = isWeapon ? weapons.find(w => w.id === selectedId) : beasts.find(b => b.id === selectedId)
+  // Vraka/Gaia beast groups are sourced from `weapons` even while viewing the Aura Beasts tab,
+  // so a selected id might not exist in `beasts` at all — fall back to `weapons` in that case.
+  const selectedFromBeasts = !isWeapon ? beasts.find(b => b.id === selectedId) : null
+  const selectedFromWeapons = weapons.find(w => w.id === selectedId)
+  const selected = isWeapon ? selectedFromWeapons : (selectedFromBeasts || selectedFromWeapons)
+  const selectedIsWeaponShaped = isWeapon || (!!selected && !selectedFromBeasts)
   const display = draft || selected
 
   const holderName = (id) => characters.find(c => c.id === id)?.name || id || '—'
@@ -96,7 +102,10 @@ export default function Library({ weapons, beasts, characters, onSaveWeapons, on
     if (!draft) return
     const id = draft.id || `lib-${Date.now()}`
     const item = { ...draft, id }
-    if (isWeapon) {
+    // New items follow the active tab; edits of an existing item follow that item's actual
+    // source array (a Vraka/Gaia beast edited from the Aura Beasts tab still lives in `weapons`).
+    const saveAsWeapon = isNew ? isWeapon : selectedIsWeaponShaped
+    if (saveAsWeapon) {
       const updated = isNew ? [...weapons, item] : weapons.map(w => w.id === item.id ? item : w)
       onSaveWeapons(updated)
     } else {
@@ -110,7 +119,7 @@ export default function Library({ weapons, beasts, characters, onSaveWeapons, on
 
   const handleDelete = () => {
     if (!selected || !window.confirm(`Delete "${selected.name}"?`)) return
-    if (isWeapon) onSaveWeapons(weapons.filter(w => w.id !== selected.id))
+    if (selectedIsWeaponShaped) onSaveWeapons(weapons.filter(w => w.id !== selected.id))
     else onSaveBeasts(beasts.filter(b => b.id !== selected.id))
     setSelectedId(null)
     setDraft(null)
@@ -152,13 +161,49 @@ export default function Library({ weapons, beasts, characters, onSaveWeapons, on
 
           {!isElement && (
             <>
-              <input
-                className="lib-search"
-                placeholder={`Search ${tab.toLowerCase()}…`}
-                value={search}
-                onChange={e => setSearch(e.target.value)}
-              />
+              <div className="lib-search-row">
+                <input
+                  className="lib-search"
+                  placeholder={`Search ${tab.toLowerCase()}…`}
+                  value={search}
+                  onChange={e => setSearch(e.target.value)}
+                />
+                <div className="lib-layout-toggle" role="group" aria-label="Layout">
+                  <button
+                    className={`lib-layout-btn${layoutMode === 'grid' ? ' active' : ''}`}
+                    title="Card grid — quick overview"
+                    onClick={() => setLayoutMode('grid')}
+                  >⊞</button>
+                  <button
+                    className={`lib-layout-btn${layoutMode === 'list' ? ' active' : ''}`}
+                    title="Compact list — for editing"
+                    onClick={() => setLayoutMode('list')}
+                  >☰</button>
+                </div>
+              </div>
               <div className="lib-count">{totalFiltered} item{totalFiltered !== 1 ? 's' : ''}</div>
+              {groups.filter(g => (g.source === 'weapons' ? filteredWeapons : items).filter(g.filter).length > 0).length > 1 && (
+                <div className="lib-jump-row">
+                  {groups.map(group => {
+                    const src = group.source === 'weapons' ? filteredWeapons : items
+                    const count = src.filter(group.filter).length
+                    if (count === 0) return null
+                    return (
+                      <button
+                        key={group.key}
+                        className="lib-jump-chip"
+                        style={{ '--chip-color': group.color }}
+                        onClick={() => {
+                          setCollapsedGroups(prev => { const n = new Set(prev); n.delete(group.key); return n })
+                          document.getElementById(`lib-group-${group.key}`)?.scrollIntoView({ behavior: 'smooth', block: 'start' })
+                        }}
+                      >
+                        {group.label} <span>{count}</span>
+                      </button>
+                    )
+                  })}
+                </div>
+              )}
             </>
           )}
         </div>
@@ -218,7 +263,7 @@ export default function Library({ weapons, beasts, characters, onSaveWeapons, on
           </div>
         ) : (
           <>
-            <div className="library-list">
+            <div className={`library-list${layoutMode === 'grid' ? ' library-list--grid' : ''}`}>
               {totalFiltered === 0 && (
                 <div className="lib-empty-hint">No items match your search.</div>
               )}
@@ -229,7 +274,7 @@ export default function Library({ weapons, beasts, characters, onSaveWeapons, on
                 const collapsed = collapsedGroups.has(group.key)
                 const treatAsWeapon = isWeapon || group.source === 'weapons'
                 return (
-                  <div key={group.key} className="lib-group">
+                  <div key={group.key} id={`lib-group-${group.key}`} className="lib-group">
                     <button
                       className="lib-group-hdr"
                       onClick={() => toggleGroup(group.key)}
@@ -238,7 +283,9 @@ export default function Library({ weapons, beasts, characters, onSaveWeapons, on
                       <span className="lib-group-label" style={{ color: group.color }}>{group.label}</span>
                       <span className="lib-group-count">{groupItems.length}</span>
                     </button>
-                    {!collapsed && groupItems.map(item => {
+                    {!collapsed && (
+                      <div className={layoutMode === 'grid' ? 'lib-card-grid' : undefined}>
+                        {groupItems.map(item => {
                       const color = treatAsWeapon
                         ? WEAPON_FACTION_COLORS[item.faction] || group.color
                         : BEAST_TIER_COLORS[item.tier] || '#4AAFE0'
@@ -246,6 +293,25 @@ export default function Library({ weapons, beasts, characters, onSaveWeapons, on
                         ? WEAPON_FACTIONS[item.faction] || item.category
                         : [item.type, BEAST_TIERS[item.tier]].filter(Boolean).join(' · ')
                       const holder = treatAsWeapon ? item.currentHolder : item.owner
+                      if (layoutMode === 'grid') {
+                        return (
+                          <button
+                            key={item.id}
+                            className={`lib-card${selectedId === item.id ? ' active' : ''}`}
+                            style={{ '--card-color': color }}
+                            onClick={() => handleSelect(item.id)}
+                          >
+                            <div className="lib-card-swatch" style={{ background: `${color}22`, borderColor: color, color }}>
+                              {item.name.charAt(0)}
+                            </div>
+                            <div className="lib-card-body">
+                              <div className="lib-card-name" style={{ color }}>{item.name}</div>
+                              {sub && <div className="lib-card-sub">{sub}</div>}
+                              {holder && <div className="lib-card-holder">→ {holderName(holder)}</div>}
+                            </div>
+                          </button>
+                        )
+                      }
                       return (
                         <button
                           key={item.id}
@@ -258,7 +324,9 @@ export default function Library({ weapons, beasts, characters, onSaveWeapons, on
                           {holder && <div className="lib-item-holder">→ {holderName(holder)}</div>}
                         </button>
                       )
-                    })}
+                        })}
+                      </div>
+                    )}
                   </div>
                 )
               })}
@@ -490,16 +558,16 @@ export default function Library({ weapons, beasts, characters, onSaveWeapons, on
           /* ── View mode ── */
           <div className="lib-detail">
             {(() => {
-              const color = isWeapon
+              const color = selectedIsWeaponShaped
                 ? WEAPON_FACTION_COLORS[selected.faction] || '#7AABCC'
                 : BEAST_TIER_COLORS[selected.tier] || '#4AAFE0'
-              const holder = isWeapon ? selected.currentHolder : selected.owner
+              const holder = selectedIsWeaponShaped ? selected.currentHolder : selected.owner
               return (
                 <>
                   <div className="lib-detail-hdr">
                     <div style={{ flex: 1 }}>
                       <div className="lib-detail-name" style={{ color }}>{selected.name}</div>
-                      {isWeapon ? (
+                      {selectedIsWeaponShaped ? (
                         <div className="lib-detail-sub">
                           {[WEAPON_FACTIONS[selected.faction], selected.category, selected.seat ? `Seat ${selected.seat}` : null].filter(Boolean).join(' · ')}
                         </div>
@@ -516,13 +584,13 @@ export default function Library({ weapons, beasts, characters, onSaveWeapons, on
                     </div>
                   </div>
 
-                  {isWeapon && selected.designation && (
+                  {selectedIsWeaponShaped && selected.designation && (
                     <div className="lib-designation">{selected.designation}</div>
                   )}
 
                   {holder && (
                     <div className="lib-holder-badge">
-                      {isWeapon ? 'Held by' : 'Bonded to'}: <span>{holderName(holder)}</span>
+                      {selectedIsWeaponShaped ? 'Held by' : 'Bonded to'}: <span>{holderName(holder)}</span>
                     </div>
                   )}
 
@@ -533,7 +601,7 @@ export default function Library({ weapons, beasts, characters, onSaveWeapons, on
                     </div>
                   )}
 
-                  {isWeapon && selected.corrosion && (
+                  {selectedIsWeaponShaped && selected.corrosion && (
                     <div className="lib-section">
                       <div className="lib-section-label">Corrosion Effect</div>
                       <div className="lib-section-body lib-corrosion">{selected.corrosion}</div>

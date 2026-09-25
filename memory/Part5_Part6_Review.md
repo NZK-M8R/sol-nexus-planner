@@ -9,6 +9,7 @@
 Cross-checking line by line, this material matches what's currently live in Irane's characters.js entry, the Part 5 story-chapters.js prose, and the lore.js mechanics entries almost exactly: the four simultaneous commands (Enari/Zoe/Arai/Hope) restarting his heart, the rampage and Emo's birth, the healing of Zoe/Hope/Arai, killing Dokia's stored body and eating Pandro's flesh, the escape through the mountain, the three dreams (Zoe/Enari, Hope/Iris, Arai/Kazemi-Irane), the cave scenes with Aliya/Dio/Valariya, naming Summari and Nighla, Valariya's pregnancy with Urial and death, the 37.2-trillion-fight reincarnation, "Do I even have free will," and the three "waking" conversations. No action needed there — it's already in.
 
 **Small new details in this read-through worth folding in if we revisit that section:**
+
 - The exact five colored hair strands (white, green, red, blue, black) appearing by Irane's right eye after the reincarnation — a nice visual detail not yet in his description.
 - The headbutt moment ("so let me make this clear... Thank you Arai") as the specific physical gesture accompanying his gratitude — currently the app has the gratitude beat but not this specific action.
 - Arai's own phrasing of "3 main commands" here (Don't Give Up–Evolve, Put Your Core Into It–Core, {Command}Kazemi!–Kazemi) is slightly different in structure from what's in lore.js. Not contradictory, just a different framing pass — worth knowing the raw material itself isn't perfectly consistent even within Part 5.
@@ -92,15 +93,10 @@ This is a strong scene structurally — it's the first time Irane deploys the my
 ## Consistency Items to Resolve Before Implementation
 
 1. **Tool/beast naming collision for Assa and Rui.** Part 5.3 already gives them "Kazemi's Nature (K'sNature)" and "Kazemi's Climate (K'sClimate)." Part 6.1 gives them *different* names — "Treant-Dryad" and "Typhoon-Wail" — with overlapping but not identical descriptions. These read like two drafts of the same upgrade rather than two separate events. Needs a decision: which name is canon, or are these sequential upgrades (K'sNature → Treant-Dryad)?
-
 2. **Irane's core alignment as Harmonic-Chaos** — worth an explicit confirmation before writing it in, given how much weight it carries (direct structural parity with Mana himself).
-
 3. **The Empire's name is "Apexia"** — worth checking this doesn't collide with anything already established (I didn't find a conflict, but it's a brand-new proper noun for a whole nation-state and deserves a deliberate check).
-
 4. **"Zyiphor" as Z's name** — explicitly *not* confirmed as real by the text itself ("who knows... I feel like it's far more dignified"). Worth preserving that ambiguity rather than accidentally treating it as his canonical true name in any future write-up.
-
 5. **The five-orders misattribution scene** in 6.1 (1st-Zoe/2nd-Hope/3rd-Summari/4th-Arai/5th-Nighla) versus the corrected version later — I'd treat the first version as an in-scene error by the characters, not a canon fact, and only the corrected accounting (matching what's already in lore.js's "Four Commands, Resolved" entry) as true.
-
 6. **New characters to add if this goes in:** Nex Wov, Kia Osiro, and (if this arc proceeds) the two "council of Paradise" figures Adri Suin and Jade Alge.
 
 ---

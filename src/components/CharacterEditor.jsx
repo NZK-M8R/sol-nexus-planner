@@ -15,6 +15,7 @@ export default function CharacterEditor({
   character, characters, relationships, stories,
   weapons, beasts,
   onSave, onSaveRelationships, onSaveStories, onClose,
+  onOpenBoard,
 }) {
   const [tab, setTab] = useState('Details')
   const [draft, setDraft] = useState({})
@@ -102,7 +103,14 @@ export default function CharacterEditor({
               )}
             </div>
           </div>
-          <button className="editor-close" onClick={onClose}>✕</button>
+          <div style={{ display: 'flex', gap: 8, alignItems: 'center' }}>
+            {onOpenBoard && (
+              <button className="view-full-profile-btn" style={{ width: 'auto', margin: 0 }} onClick={() => onOpenBoard(character)}>
+                ⛶ Full Profile
+              </button>
+            )}
+            <button className="editor-close" onClick={onClose}>✕</button>
+          </div>
         </div>
 
         {/* Tabs */}

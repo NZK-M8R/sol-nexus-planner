@@ -1,291 +1,334 @@
 import { useState, useRef, useEffect, useCallback, useMemo } from 'react'
 import { HOUSE_COLORS } from '../data/characters'
 
-const CONTINENTS = [
-  {
-    id: 'gaia',
-    name: 'Eura',
-    type: 'Western Supercontinent · Grand Domain: House Wov',
-    color: '#10CC70',
-    glowColor: 'rgba(16,204,112,0.18)',
-    capital: 'Eura',
-    description:
-      'The western supercontinent, governed by House Wov from their capital city of Eura. Originally the Earth-side landmass before the Paradise Spell fused the two worlds. Rich in Life Force energy and natural mana. Home to Earth-origin human communities, the Wov bloodline, and the surviving Apolo and Navar clans who concealed their powers across generations.',
-    families: ['wov', 'apolo', 'navar'],
-    familyLabels: [
-      { name: 'House Wov',   role: 'Grand Family · Inquisitor · Capital: Eura', color: '#9b5de5' },
-      { name: 'Apolo Clan',  role: 'Survived by suppressing power',              color: '#5B9BD5' },
-      { name: 'Navar Clan',  role: 'Survived by suppressing power',              color: '#1A6B1A' },
-    ],
-    weapons: [
-      { name: "Oracle's Eye",   id: 'oracles-eye',     note: 'House Wov · Noble Seat XVI' },
-      { name: "Tree of Eden",   id: 'tree-of-eden',    note: 'House Wov · Grand Weapon (15th Realm) · Mother Nature\'s weapon' },
-    ],
-    lore: "Eura carries the highest ambient Life Force concentration on Unix. The merged Earth biosphere — mountains, oceans, and wilds — exists mostly intact here, now layered with mana fields. The capital city of Eura is built around one of the oldest mana convergence points on the continent — a site Exco Wov identified before the Paradise Spell and prepared as the foundation for House Wov's permanent territorial claim. Mother Nature is believed to slumber somewhere in Eura's deepest wilderness, connected to the Tree of Eden through Vesper Wov's wielding.",
-  },
-  {
-    id: 'terra',
-    name: 'Terra',
-    type: 'Eastern Supercontinent · Grand Domain: Clan Osiro',
-    color: '#E02244',
-    glowColor: 'rgba(224,34,68,0.18)',
-    capital: 'Osirion',
-    description:
-      'The eastern supercontinent. This is the original Orius — the homeland of the Ascen, where the Vane dynasty first rose to power and the Grand Table was eventually established. Governed by Clan Osiro from Osirion — the city that houses the Grand Table itself. Seat of Imperial authority and the centre of noble house politics.',
-    families: ['vane', 'osiro'],
-    familyLabels: [
-      { name: 'House Vane',   role: 'Royal Throne — current ruling house · Disputed legitimacy', color: '#e84855' },
-      { name: 'Clan Osiro',  role: 'Grand Family · Treasurer · Capital: Osirion',               color: '#00b4d8' },
-    ],
-    weapons: [
-      { name: 'Spear of Unix',      id: 'spear-of-unix',    note: 'King\'s Throne · Currently Niro Vane' },
-      { name: 'Spear of Sin',       id: 'spear-of-sin',     note: 'House Osiro · Seat I' },
-      { name: 'The Ripper',          id: 'the-ripper',       note: 'Gift of Vraka · Tola Ardent' },
-      { name: 'Dimensional Shear',   id: 'dimensional-shear', note: 'House Apolo · Spatial Intelligence' },
-      { name: "Ruin's Wake",        id: 'ruins-wake',       note: 'Gift of Vraka · Duki Navar' },
-      { name: "Sova's Yoke",        id: 'sovas-yoke',       note: 'Gift of Selis · Olda Apolo' },
-      { name: 'Severance Blade',    id: 'severance-blade',  note: 'Noble Seat III' },
-      { name: 'Chimera Core',       id: 'chimera-core',     note: 'House Navar · Gift of Azen Lucerne' },
-      { name: 'Calamity Engine',    id: 'calamity-engine',  note: 'Noble Seat V' },
-      { name: 'Rune of Ragnarök',   id: 'rune-of-ragnarok', note: 'Noble Seat VI' },
-      { name: 'Blade of Virtue',    id: 'blade-of-virtue',  note: 'Noble Seat IX' },
-      { name: 'Chronos Bow',        id: 'chronos-bow',      note: 'Noble Seat X' },
-      { name: 'Absolute Aegis',     id: 'absolute-aegis',   note: 'Noble Seat XI' },
-      { name: 'Omnis Codex',        id: 'omnis-codex',      note: 'Noble Seat XII' },
-      { name: 'Covenant Seal',      id: 'covenant-seal',    note: 'House Apolo · Gift of Elorah Seraph' },
-    ],
-    lore: "Terra was the original seat of Ascen civilisation — predating the Unix world by thousands of years. After the Paradise Spell and Great Stasis, the surviving Ascen-descended houses rebuilt here under Niro Vane's 130-year consolidation. The Grand Table is located in Terra's capital region. Most Noble Treasure weapons are maintained at Grand Table seat-houses distributed across Terra's major territories.",
-  },
-  {
-    id: 'apex',
-    name: 'Apex',
-    type: 'Minor Continent (Smallest) · Empiric Domain: House Kazemi',
-    color: '#0AADFF',
-    glowColor: 'rgba(10,173,255,0.20)',
-    capital: 'Valariya',
-    description:
-      'The smallest landmass on Unix and the most fortified. Home to Valariya — a self-sustaining sanctuary city and the greatest feat of civilisation on Unix. Under the absolute Empiric authority of House Kazemi. Protected by an energetic barrier that took the Valariyans 1,000 years inside the Emperor\'s dead pocket realm to develop. No army has ever breached it.',
-    families: ['kazemi'],
-    familyLabels: [
-      { name: 'House Kazemi', role: 'Empiric Seat · Enforcer of the Grand Table · Capital: Valariya', color: '#d4af37' },
-    ],
-    weapons: [
-      { name: 'Spear of Unix', id: 'spear-of-unix', note: 'Auris sealed within — carried by Irane as Enforcer (de facto)' },
-    ],
-    lore: "Apex is the smallest continent but the most consequential. Valariya sits at its centre — a circular city of concentric districts, each managed by one of the Kazemi children. The energetic barrier around Apex responds to Kazemi bloodline resonance. Niro Vane has never successfully launched a full invasion — only the Year 500 border incident came close, and even that was repelled in seconds once Irane engaged.",
-  },
-  {
-    id: 'voidshore',
-    name: 'Voidshore',
-    type: 'Northern Fringe Landmass',
-    color: '#9B30FF',
-    glowColor: 'rgba(155,48,255,0.16)',
-    description:
-      'A northern landmass where the Paradise Spell left its deepest scar — a permanent Limbo bleed point. Uncontrolled mana fields make large sections uninhabitable. No major house has successfully claimed permanent territory here. Ferali manifestations are most frequent along its coastlines.',
-    families: [],
-    familyLabels: [],
-    weapons: [],
-    lore: "The rift in Voidshore is what remains of the dimensional tear Exco Wov created to cross worlds — stabilised just enough by the Paradise Spell's aftermath to not collapse, but never properly closed. Mana seeps through in concentrated streams. The Arke twins are believed to observe Unix primarily through this bleed point. Grand Table law prohibits any house from militarising the Voidshore under penalty of forced dissolution.",
-  },
-  {
-    id: 'fractured-isles',
-    name: 'The Fractured Isles',
-    type: 'Southern Archipelago',
-    color: '#D4AF37',
-    glowColor: 'rgba(212,175,55,0.15)',
-    description:
-      'A scattered southern archipelago created when the Paradise Spell\'s shockwave fractured the southern landmass into dozens of island chains. Largely ungoverned — no Grand Table house holds formal claim. Used by independent traders, exiled nobles, and smaller clans who refuse to participate in the table structure.',
-    families: [],
-    familyLabels: [
-      { name: 'Unaffiliated Clans', role: 'Trading posts, exiles, independents', color: '#D4AF37' },
-    ],
-    weapons: [
-      { name: 'Hollow Dirge',   id: 'hollow-dirge',   note: 'Location rumoured — unconfirmed holder' },
-      { name: 'Plague Censer',  id: 'plague-censer',  note: 'Noble Seat VII — disputed' },
-      { name: 'Abyssal Maul',   id: 'abyssal-maul',   note: 'Noble Seat VIII — disputed' },
-    ],
-    lore: "Three Noble Treasure weapons from the original 18 remain unaccounted for in the Grand Table registry — their seat-houses were either destroyed in the Year 0 chaos or voluntarily withdrew. Intelligence from House Wov's Vestarin sub-clan suggests at least two of these weapons are moving through Fractured Isles trading networks. No formal retrieval mission has been authorised.",
-  },
-  {
-    id: 'lucerne-continent',
-    name: 'Lucerne',
-    type: 'Far-Western Continent · Grand Domain: Clan Lucerne',
-    color: '#D4460A',
-    glowColor: 'rgba(212,70,10,0.18)',
-    capital: 'Ashgard',
-    description:
-      'A vast continent lying far to the west-southwest of Eura, separated by an open ocean crossing that takes weeks. The oldest Alma bloodlines trace their origin here — the first Terrans who accepted Ferali beast-contracts at full depth, allowing the beasts to reshape them. Ruled by Clan Lucerne from Ashgard, a fortified city built into a crater left by a fallen stellar beast. The continent has never been formally integrated into the Grand Table\'s territorial system — Clan Lucerne participates as an external Grand House, sending representatives to Osirion but maintaining full continental sovereignty.',
-    families: ['lucerne'],
-    familyLabels: [
-      { name: 'Clan Lucerne', role: 'Grand Family · Morning-Star · Capital: Ashgard', color: '#D4460A' },
-    ],
-    weapons: [
-      { name: 'Morningfall', id: 'morningfall', note: 'Grand weapon (13th Realm) — bound to Lucerne bloodline · Current holder: Azen Lucerne' },
-    ],
-    lore: "Ashgard sits in the impact crater of the stellar beast whose death energy forged Morningfall. The city is built from its bones — literally: the creature's mineralized ribs form the outer walls, and the crater's rim gives the city its unique terraced silhouette. The continent has no night in the traditional sense — the stellar-beast's residual energy still lights the sky from dusk to a dim golden haze. The Lucerne people navigate by this haze rather than stars. They call it the Ashlight.",
-  },
-  {
-    id: 'seraph-continent',
-    name: 'Seraph',
-    type: 'Far-Eastern Continent · Grand Domain: Clan Seraph',
-    color: '#C8C0FF',
-    glowColor: 'rgba(200,192,255,0.18)',
-    capital: 'Seraphel',
-    description:
-      'A continent lying far to the northeast of Terra, beyond the Celestial Sea. The oldest Spirit bloodlines originate here — the first Terrans who accepted Celestial tool-contracts at the highest level, treating bound weapons as divine mandates rather than instruments. Ruled by Clan Seraph from Seraphel, a city built around an ancient Celestial convergence point where the boundary between Tool-space and physical reality is permanently thin. No war has been fought on Seraph soil in recorded history — a consequence of the continent-wide covenants maintained through the Covenant Seraph over centuries.',
-    families: ['seraph'],
-    familyLabels: [
-      { name: 'Clan Seraph', role: 'Grand Family · Spirit Bearers · Capital: Seraphel', color: '#C8C0FF' },
-    ],
-    weapons: [
-      { name: 'Covenant Seraph', id: 'covenant-seraph', note: 'Grand weapon (14th Realm) — bound to Seraph bloodline · Current holder: Elorah Seraph' },
-    ],
-    lore: "Seraphel is the only city in the known world with no walls. No gate, no perimeter fortification — because the Covenant Seraph has made any attempt to militarily enter the city impossible through a covenant so old no one alive remembers when it was enacted. Visitors arrive freely. Invaders find themselves setting down their weapons and requesting asylum without understanding why. The Seraph people find this funny. The Grand Table finds it unsettling.",
-  },
+// ─────────────────────────────────────────────────────────────────────────
+// Realm data model — three separate realms (Limbo, Earth, Orians), each with
+// its own map, locations, and layout. These are not landmasses of one fused
+// world — per lore.js, Earth and Orians are separate worlds and Limbo is a
+// dimensional plane/rift, not a world at all. See lore §3 (The Three Realms).
+// ─────────────────────────────────────────────────────────────────────────
+
+const REALMS = [
+  { id: 'limbo',  name: 'Limbo',   tagline: 'The realm between — where Apexia, Vraka, and Selis all hold ground' },
+  { id: 'earth',  name: 'Earth',   tagline: "Humanity's homeworld — site of the resistance war and, later, the refugee resettlement" },
+  { id: 'orians', name: 'Orians',  tagline: 'The Ascen/Alma/Spirit homeworld — Mana, Pandora, and Sophioterra' },
 ]
 
 const MAP_W = 1800
 const MAP_H = 860
 
-// Enlarged continent shapes at 1800×860 scale
-const SHAPES = {
-  gaia: {
-    type: 'path',
-    d: 'M 95,108 C 130,72 180,54 235,56 C 290,58 340,80 368,116 C 392,148 395,188 375,222 C 432,210 476,228 485,268 C 494,308 465,344 425,358 C 440,398 432,438 408,464 C 384,490 345,506 300,512 C 255,518 208,514 168,495 C 128,476 98,444 82,406 C 66,368 68,326 84,295 C 62,264 55,230 60,200 C 65,168 80,140 95,108 Z',
+// ── LIMBO ───────────────────────────────────────────────────────────────
+// Layout per Part 8.1: Paradise is central. North of Paradise, across the
+// intervening city of Tulla, lies the region leading to Heaven. Sentia sits
+// North-East. Ether (Selis's territory, home of the Celestials) sits
+// South-West. Hades (Vraka's territory, home of the Ferali) sits North.
+const LIMBO_LOCATIONS = [
+  {
+    id: 'paradise',
+    name: 'Paradise',
+    type: "Apexia's Capital · Seat of Emperor Irane Kazemi",
+    color: '#D4AF37',
+    glowColor: 'rgba(212,175,55,0.20)',
+    capital: 'Paradise',
+    description:
+      "The Apexian capital and the center of the realm's known map — the original Primal city Vraka and Selis once destroyed in celebration, rebuilt from ruin into what Crimi Night described as equal parts armory and factory brought to life. Irane's throne room, the Undying Archives, and Sanctuary's power-core connection to the entire city all sit here. The city itself functions as a living Tool once the coronation completes — every major and minor mana requirement in the capital drawn directly from Irane's own core output through Sanctuary (§lore 9.7f, 9.7j).",
+    families: ['kazemi'],
+    familyLabels: [
+      { name: 'House Kazemi', role: 'Emperor Irane Kazemi · The Valariyan Heads', color: '#D4AF37' },
+    ],
+    weapons: [
+      { name: 'Sanctuary', id: 'sanctuary', note: "Empiric-class armor · the city's own power core" },
+      { name: 'S-Apexia', id: 's-apexia', note: 'Empiric-class spear' },
+    ],
+    lore: "Paradise sits at the center of Apexia's territory, roughly 15,000km across in every direction from the throne at its heart — a span that covers the main known teleportation points connecting Orians to Limbo and Earth to Limbo in turn. Once a Primal ruin, resettled first by Apexian founders and later by billions of human refugees under the Crimi Night accords, Paradise is now the single most fortified point in the whole of Limbo.",
   },
-  terra: {
-    type: 'path',
-    d: 'M 880,74 C 926,48 988,40 1055,48 C 1122,56 1180,82 1220,122 C 1258,162 1272,212 1264,264 C 1256,316 1224,360 1178,386 C 1210,402 1235,428 1240,460 C 1245,492 1228,522 1200,540 C 1240,558 1270,588 1275,622 C 1280,656 1256,686 1220,698 C 1184,710 1140,706 1108,686 C 1068,664 1052,632 1060,600 C 1018,610 975,608 938,590 C 900,572 872,540 862,504 C 822,514 785,504 758,480 C 732,456 722,422 730,390 C 698,366 680,334 682,300 C 684,266 706,238 738,224 C 725,198 720,168 730,142 C 740,116 762,94 794,82 C 830,68 858,66 880,74 Z',
+  {
+    id: 'heaven',
+    name: 'Heaven',
+    type: 'The Primal Capital · North of Paradise',
+    color: '#C8C0FF',
+    glowColor: 'rgba(200,192,255,0.18)',
+    capital: 'Heaven',
+    description:
+      "The Primal capital, lying north of Paradise beyond Tulla — ruled by Toma More until his death at Aevum's hands during the assault chronicled in Part 8.2, and by Alex More (in practice, Aevum wearing his face) afterward. Home to the More, Wov, Osiro, and Consa clans in this era, and the site of Toma's self-glorifying founding festival, the assault that killed him, and the palace collapse that scattered Ember, Taliya, and Vesper into the Osiro-Wov succession crisis that follows.",
+    families: ['more', 'wov', 'osiro', 'consa'],
+    familyLabels: [
+      { name: 'House More',  role: 'Ruling House · Toma → Alex/Aevum', color: '#C8C0FF' },
+      { name: 'Clan Wov',    role: 'Bearer of Mother Nature (reborn) — Taliya Wov', color: '#10CC70' },
+      { name: 'Clan Osiro',  role: 'Bearer of Father Time (reborn) — Ember Osiro', color: '#00b4d8' },
+      { name: 'Clan Consa',  role: 'Minia Consa — Grand General', color: '#E02244' },
+    ],
+    weapons: [
+      { name: 'Mother Nature (Reborn)', id: 'mother-nature-reborn', note: 'Clan Wov — Taliya Wov' },
+      { name: 'Father Time (Reborn)',   id: 'father-time-reborn',   note: 'Clan Osiro — Ember Osiro' },
+    ],
+    lore: "Heaven burns during the Orian assault chronicled in Part 8.2 — Azura's forces raze large sections of the city after most of its people escape to Earth through Minia's human-only portal network. What survives afterward is a city in genuine political freefall: its founder dead, its clans in open succession crisis, and its new ruler a Primal in name only.",
   },
-  apex: {
-    type: 'path',
-    d: 'M 586,100 C 612,78 648,68 684,72 C 720,76 752,96 772,128 C 790,158 790,194 772,222 C 792,230 808,248 808,272 C 808,296 792,316 768,326 C 756,348 734,364 706,368 C 678,372 650,364 630,348 C 602,360 578,354 562,336 C 546,318 540,292 548,266 C 524,250 510,226 514,202 C 518,178 535,158 558,148 C 562,126 572,112 586,100 Z',
+  {
+    id: 'tulla',
+    name: 'Tulla',
+    type: 'Ancient-Tech City',
+    color: '#0AADFF',
+    glowColor: 'rgba(10,173,255,0.18)',
+    capital: 'Tulla',
+    description:
+      "Sits between Paradise and the road leading north to Heaven. A goldmine of ancient Primordial technology and a place to harvest and transform raw resources, rich in natural mines and ore streams. Cleared of its Ferali/Celestial presence by Pandro's forces before the events of Part 8 — a campaign that took months of preparation but, once launched, resolved in a matter of hours against a defense caught unprepared.",
+    families: ['kazemi'],
+    familyLabels: [
+      { name: 'House Kazemi', role: 'Apexian territory — administered by Pandro Lexan', color: '#0AADFF' },
+    ],
+    weapons: [],
+    lore: "Tulla's ancient-tech deposits made it the Empire's first major territorial expansion beyond Paradise itself — a goldmine Vraka and Selis had never bothered to harvest through anything but brute extraction. Pandro's raid dismantled Tulla's Primordial defense systems down to their base circuitry during the Will-activation cascade, manifesting Kazemi's Nexus for the first time (§lore 9.6c).",
   },
-  voidshore: {
-    type: 'path',
-    d: 'M 168,42 C 222,22 298,16 385,20 C 472,24 562,30 655,33 C 748,36 845,36 938,33 C 1031,30 1118,26 1182,38 C 1218,46 1228,64 1208,82 C 1188,100 1148,112 1095,120 C 1035,128 968,132 895,135 C 818,138 738,140 658,138 C 578,136 498,132 418,126 C 338,120 262,112 202,100 C 148,90 115,76 120,60 C 122,52 140,46 168,42 Z',
+  {
+    id: 'sentia',
+    name: 'Sentia',
+    type: 'Human Resettlement City · Captured Part 8.1',
+    color: '#7AABCC',
+    glowColor: 'rgba(122,171,204,0.20)',
+    capital: 'Sentia',
+    description:
+      "The largest flat, farmland-rich region on the known map — captured from the Ferali by Irane and Aphexia, fighting solo, in the first full demonstration of Apex's evolution-skip mechanic (§lore 9.7f). Resettled as the primary destination for the roughly two billion human refugees Crimi Night negotiates protection for, co-administered by Terra Night, Evelyn, and Adri Suin. Home to the Empire's first large-scale human farming, construction, and education infrastructure.",
+    families: ['kazemi'],
+    familyLabels: [
+      { name: 'Human Resettlement', role: 'Co-administered by Terra Night, Evelyn, Adri Suin', color: '#7AABCC' },
+    ],
+    weapons: [],
+    lore: "Sentia was, before capture, the largest city under Ferali control after Hades itself — a ruin, but the most stable and easiest of Vraka's or Selis's territories to strike given how much of Vraka's attention was fixed on his sister at the time. Terraformed rapidly under Apexian administration into functioning farmland within weeks of capture. Site of Terra Night's recurring, unresolved conflict with Mira over weaponizing human volunteers with captured Ferali/Celestial cores (§lore 9.7g).",
   },
-}
-
-const ISLANDS = [
-  { cx: 502,  cy: 650, rx: 74, ry: 38 },
-  { cx: 622,  cy: 630, rx: 58, ry: 30 },
-  { cx: 728,  cy: 650, rx: 65, ry: 34 },
-  { cx: 626,  cy: 714, rx: 44, ry: 24 },
-  { cx: 742,  cy: 730, rx: 40, ry: 22 },
-  { cx: 522,  cy: 726, rx: 36, ry: 20 },
-  { cx: 820,  cy: 668, rx: 30, ry: 18 },
-  { cx: 455,  cy: 670, rx: 28, ry: 16 },
+  {
+    id: 'hades',
+    name: 'Hades',
+    type: "Vraka's Territory · Home of the Ferali · North",
+    color: '#8B0000',
+    glowColor: 'rgba(139,0,0,0.20)',
+    capital: 'Hades',
+    description:
+      "The city Vraka uses as his main base — home of the Ferali. Lies to the north of Paradise. Vraka amassed billions of Ferali here over the millennia of his standing arms race with his sister, the overwhelming majority never assigned to any individual Alma and existing purely as extensions of his own being.",
+    families: [],
+    familyLabels: [
+      { name: 'The Ferali', role: "Vraka's forces — sealed as Beast within Azen Lucerne after the Theomachy", color: '#8B0000' },
+    ],
+    weapons: [],
+    lore: "After the Theomachy's climactic battle (§lore 9.7i), Vraka's main core is sealed into Azen Lucerne as Beast, and every Ferali not personally bound to an Alma is severed from his direct command — left feral, evolving unpredictably in the mana-rich environment his and Selis's and Irane's combined battle left behind. Hades and its surrounding territory remain contested rather than pacified in the immediate aftermath.",
+  },
+  {
+    id: 'ether',
+    name: 'Ether',
+    type: "Selis's Territory · Home of the Celestials · South-West",
+    color: '#F5F5FF',
+    glowColor: 'rgba(245,245,255,0.20)',
+    capital: 'Ether',
+    description:
+      "The city Selis occupies as her home — home of the Celestials. Lies to the south-west of Paradise. Selis's own shape-shifting mana-liquid, now formally named Selis-Ore (with Selis-Fire as its mana-classification variant, §lore 9.7h), runs through the Celestials bound to her the way Selis's own blood does.",
+    families: [],
+    familyLabels: [
+      { name: 'The Celestials', role: "Selis's forces — sealed as Tool within Elorah Seraph after the Theomachy", color: '#F5F5FF' },
+    ],
+    weapons: [],
+    lore: "After the Theomachy's climactic battle, Selis's main core is sealed into Elorah Seraph as Tool. Ether's Celestials not personally bound to a Spirit are, like Hades's Ferali, left feral and evolving in the mana-storm's aftermath — reforming into pure, combinable machine-like beings with a central weapon-core rather than the personalities they held under Selis's direct command.",
+  },
 ]
 
-const LABELS = {
-  gaia:              { x: 276, y: 310, size: 18 },
-  terra:             { x: 1042, y: 330, size: 18 },
-  apex:              { x: 684,  y: 228, size: 13 },
-  voidshore:         { x: 680,  y: 88,  size: 13 },
-  'fractured-isles': { x: 628,  y: 684, size: 11 },
-}
-
-const LOCATION_PINS = [
-  { id: 'valariya',    name: 'Valariya',     role: 'Fortress City · Kazemi Domain',   x: 684,  y: 194, color: '#D4AF37' },
-  { id: 'grand-table', name: 'Grand Table',  role: 'Imperial Council Chamber',        x: 1008, y: 178, color: '#E02244' },
-  { id: 'eura',        name: 'Eura',         role: 'Western Civilization Hub',         x: 222,  y: 258, color: '#10CC70' },
-  { id: 'void-rift',   name: 'The Void Rift', role: 'Dimensional Bleed Point',        x: 640,  y: 302, color: '#9B30FF' },
-  { id: 'voidgate',    name: 'Void Gate',    role: 'Limbo Access · Ancient Rift',     x: 640,  y: 98,  color: '#9B30FF' },
+// ── EARTH ───────────────────────────────────────────────────────────────
+// Earth's internal geography is sparsely detailed in the story compared to
+// Limbo — the war is described in terms of territorial percentage and named
+// factions (the Forces of Humanity, Toma's occupied zones) rather than named
+// cities. Modeled at a single-region level of detail rather than invented.
+const EARTH_LOCATIONS = [
+  {
+    id: 'earth-home',
+    name: 'Earth',
+    type: "Humanity's Homeworld",
+    color: '#2E7A3E',
+    glowColor: 'rgba(46,122,62,0.20)',
+    capital: '—',
+    description:
+      "The human homeworld — reached through the Rift Cith More opened to shelter Adam and Eve from the Arke twins in the earliest days of the cosmology, and later found again by Toma More generations on. Site of the long war between the Forces of Humanity (led by Crimi Night) and Toma More's occupying Primal forces, and — after Part 8.1's negotiated accords — the origin point for roughly two billion human refugees resettled into Sentia. By the close of the Theomachy years, more than forty-five percent of Earth's surviving human population sat under Primal-occupied territory, a number the resistance was losing ground against before Crimi's negotiation with Irane.",
+    families: [],
+    familyLabels: [
+      { name: 'Forces of Humanity', role: 'Crimi Night, Tan Loo — the resistance', color: '#2E7A3E' },
+      { name: "Toma More's Occupation", role: "Primal-controlled territory, later Alex/Aevum's", color: '#8B0000' },
+    ],
+    weapons: [
+      { name: 'Stellar', id: 'stellar-beast', note: "Sin Surya's beast, gifted to Tan Loo and the resistance" },
+    ],
+    lore: "Earth's internal geography — its continents, cities, named regions — has not been detailed at the level Limbo's cities have across Parts 6–8; what's confirmed is the state of the war (territorial percentage, named leadership, the refugee pipeline into Apexia) rather than a city-by-city map. This entry will expand as future parts establish more specific Earth geography.",
+  },
 ]
 
-const HOUSE_POSITIONS = {
-  kazemi:   { x: 684,  y: 240 },
-  vane:     { x: 982,  y: 208 },
-  osiro:    { x: 1088, y: 282 },
-  vestarin: { x: 1148, y: 212 },
-  wov:      { x: 218,  y: 295 },
-  apolo:    { x: 158,  y: 355 },
-  navar:    { x: 294,  y: 386 },
-  more:     { x: 425,  y: 104 },
+// ── ORIANS ──────────────────────────────────────────────────────────────
+const ORIANS_LOCATIONS = [
+  {
+    id: 'mana',
+    name: 'Mana',
+    type: 'The Ascen Capital',
+    color: '#A8A8B0',
+    glowColor: 'rgba(168,168,176,0.20)',
+    capital: 'Mana',
+    description:
+      "The Ascen capital, seat of Niro Vane's council and the political center of Orian formal power. Niro governs from here, and it is from Mana that he names Arai Grand General/\"the Goddess,\" Zoe leader of the Alma/\"the Apex Predator,\" and Hope leader of the Spirits/\"the Empress\" after Azura, Droom, Tenma, and Pino vanish mid-battle during the Primal assault (§lore 9.7). Axola Vane's public breakdown over the growing myth of \"the 8-Anathema\" (§lore 9.6k) plays out largely in Mana's streets.",
+    families: ['vane', 'nexal', 'ardent'],
+    familyLabels: [
+      { name: 'Ascen Council', role: 'Niro Vane presiding', color: '#A8A8B0' },
+      { name: 'House Nexal',   role: 'Arai Kazemi — Grand General', color: '#1A3FBF' },
+      { name: 'House Ardent',  role: 'Tola Ardent, Mira Ardent', color: '#e84855' },
+    ],
+    weapons: [],
+    lore: "Mana takes its name from the Conceptual who taught the Ascen structured magic in the earliest era of Orian civilization — the substance every practitioner draws on today carries his name for the same reason. Niro's secret human-to-Orian-body research, begun after the war against the Primals stalls into a years-long stalemate, is conducted quietly from somewhere within Mana's own political apparatus, using research Arai unknowingly gave him after her return from Paradise.",
+  },
+  {
+    id: 'pandora',
+    name: 'Pandora',
+    type: 'The Alma Capital',
+    color: '#D4460A',
+    glowColor: 'rgba(212,70,10,0.18)',
+    capital: 'Ashgard',
+    description:
+      "The Alma capital, ruled by Azen Lucerne and Clan Lucerne from the fortified inner city of Ashgard, built into the crater of a fallen stellar beast. Home to the oldest Alma bloodlines — those who let their Ferali beast-contracts reshape them rather than simply wielding them as tools. During the Theomachy years, Azura Lucerne leads Alma forces against the Primals until vanishing mid-battle alongside Droom, Tenma, and Pino; Droom, one of only two of Azen's children to survive \"Survival of the Fittest\" (§lore 9.6h), is later named an Arch-Demon general under Vraka's direct command once the twins begin drawing their most powerful loyalists into permanent human-vessel forms (§lore 9.7i).",
+    families: ['lucerne', 'navar'],
+    familyLabels: [
+      { name: 'Clan Lucerne', role: 'Azen Lucerne · Droom · Azura', color: '#D4460A' },
+      { name: 'Clan Navar',   role: 'Duki Navar, client house', color: '#1A6B1A' },
+    ],
+    weapons: [
+      { name: 'Morningfall',   id: 'morningfall',  note: "Grand weapon — Azen Lucerne" },
+      { name: 'The Ruin Beast', id: 'ruin-beast',   note: 'Duki Navar, later Evin Navar (Arch-Demon)' },
+    ],
+    lore: "Ashgard sits at Pandora's heart, in the impact crater of the stellar beast whose death-energy forged Morningfall — the city's bones literally the creature's mineralized ribs. Pandora has no true night; the crater's residual stellar energy lights the sky in a dim golden haze the Lucerne people call the Ashlight and navigate by instead of stars.",
+  },
+  {
+    id: 'sophioterra',
+    name: 'Sophioterra',
+    type: 'The Spirit Capital',
+    color: '#C8C0FF',
+    glowColor: 'rgba(200,192,255,0.18)',
+    capital: 'Sophioterra',
+    description:
+      "The Spirit capital, ruled by Elorah Seraph and Clan Seraph — also referred to in older records as Seraphel, the city built around an ancient Celestial convergence point where the boundary between Tool-space and the physical world runs thin. Home to the oldest Spirit bloodlines, those who treat their Celestial tool-contracts as sacred mandate rather than simple weapon. Tenma and Pino Seraph lead Spirit forces here during the Theomachy until vanishing mid-battle; Tenma is later named an Arch-Angel general under Selis's direct command, alongside Pino and Edge Apolo.",
+    families: ['seraph', 'apolo'],
+    familyLabels: [
+      { name: 'Clan Seraph', role: 'Elorah Seraph · Tenma · Pino', color: '#C8C0FF' },
+      { name: 'Clan Apolo',  role: 'Olda Apolo, client house', color: '#5B9BD5' },
+    ],
+    weapons: [
+      { name: 'Covenant Seraph', id: 'covenant-seraph', note: 'Grand weapon — Elorah Seraph' },
+    ],
+    lore: "Sophioterra has no walls — no gate, no perimeter fortification, because the Covenant Seraph has made any attempt to militarily enter the city impossible through a covenant so old no one alive remembers its origin. Invaders find themselves laying down their weapons and requesting asylum without understanding why.",
+  },
+]
+
+const REALM_LOCATIONS = {
+  limbo:  LIMBO_LOCATIONS,
+  earth:  EARTH_LOCATIONS,
+  orians: ORIANS_LOCATIONS,
 }
 
-function ContinentShape({ id, color, isSelected, isHovered, onClick, onHover }) {
-  const shape  = SHAPES[id]
-  const label  = LABELS[id]
+// ─────────────────────────────────────────────────────────────────────────
+// Per-realm SVG layout — shapes, labels, pins, house positions.
+// Locations are rendered as territory blobs (soft rounded regions) rather
+// than the old continent-path shapes, since these are cities/regions within
+// a realm rather than landmasses of a single fused world.
+// ─────────────────────────────────────────────────────────────────────────
+
+// Rough elliptical "territory" footprint per location, keyed by realm+id.
+// Limbo layout follows the directional description in Part 8.1: Paradise
+// central; Tulla and the road to Heaven to the north; Sentia north-east;
+// Ether south-west; Hades to the north (near Heaven's approach).
+const REALM_SHAPES = {
+  limbo: {
+    paradise: { cx: 900, cy: 480, rx: 150, ry: 110 },
+    heaven:   { cx: 860, cy: 120, rx: 170, ry: 90  },
+    tulla:    { cx: 880, cy: 300, rx: 90,  ry: 70  },
+    sentia:   { cx: 1260, cy: 340, rx: 200, ry: 140 },
+    hades:    { cx: 700, cy: 130, rx: 130, ry: 90  },
+    ether:    { cx: 480, cy: 650, rx: 160, ry: 120 },
+  },
+  earth: {
+    'earth-home': { cx: 900, cy: 430, rx: 420, ry: 300 },
+  },
+  orians: {
+    mana:        { cx: 900,  cy: 430, rx: 190, ry: 150 },
+    pandora:     { cx: 480,  cy: 300, rx: 210, ry: 160 },
+    sophioterra: { cx: 1320, cy: 300, rx: 210, ry: 160 },
+  },
+}
+
+const REALM_HOUSE_POSITIONS = {
+  limbo: {
+    kazemi: { x: 900, y: 480 },
+    more:   { x: 860, y: 120 },
+    wov:    { x: 800, y: 100 },
+    osiro:  { x: 920, y: 100 },
+    consa:  { x: 860, y: 160 },
+  },
+  earth: {},
+  orians: {
+    vane:    { x: 860,  y: 400 },
+    nexal:   { x: 940,  y: 460 },
+    ardent:  { x: 900,  y: 400 },
+    lucerne: { x: 480,  y: 300 },
+    navar:   { x: 420,  y: 350 },
+    seraph:  { x: 1320, y: 300 },
+    apolo:   { x: 1380, y: 350 },
+  },
+}
+
+function LocationShape({ loc, realmId, isSelected, isHovered, onClick, onHover }) {
+  const shape = REALM_SHAPES[realmId]?.[loc.id]
+  if (!shape) return null
   const active = isSelected || isHovered
-  const fill   = active ? `${color}30` : `${color}18`
-  const stroke = active ? color : `${color}70`
+  const fill   = active ? `${loc.color}30` : `${loc.color}18`
+  const stroke = active ? loc.color : `${loc.color}70`
   const sw     = isSelected ? 2.5 : (isHovered ? 2 : 1.5)
 
-  if (id === 'fractured-isles') {
-    return (
-      <g
-        onClick={onClick}
-        onMouseEnter={() => onHover(id)}
-        onMouseLeave={() => onHover(null)}
-        style={{ cursor: 'pointer' }}
-      >
-        {ISLANDS.map((isl, i) => (
-          <ellipse key={i} cx={isl.cx} cy={isl.cy} rx={isl.rx} ry={isl.ry}
-            fill={fill} stroke={stroke} strokeWidth={sw}
-            style={{ transition: 'fill .2s, stroke .2s' }} />
-        ))}
-        {label && (
-          <text x={label.x} y={label.y} textAnchor="middle" fontSize={label.size}
-            fill={isSelected ? color : `${color}AA`} fontWeight="600"
-            style={{ userSelect: 'none', fontFamily: 'Cinzel, serif', letterSpacing: '.08em' }}>
-            Fractured Isles
-          </text>
-        )}
-      </g>
-    )
-  }
-
-  if (!shape) return null
-  const continentName = { gaia: 'Gaia', terra: 'Terra', apex: 'Apex', voidshore: 'Voidshore' }[id] || id
   return (
     <g
       onClick={onClick}
-      onMouseEnter={() => onHover(id)}
+      onMouseEnter={() => onHover(loc.id)}
       onMouseLeave={() => onHover(null)}
       style={{ cursor: 'pointer' }}
     >
       {isSelected && (
-        <path d={shape.d} fill="none" stroke={color} strokeWidth="12" opacity="0.07" />
+        <ellipse cx={shape.cx} cy={shape.cy} rx={shape.rx + 14} ry={shape.ry + 14}
+          fill="none" stroke={loc.color} strokeWidth="10" opacity="0.08" />
       )}
-      <path d={shape.d} fill={fill} stroke={stroke} strokeWidth={sw}
+      <ellipse cx={shape.cx} cy={shape.cy} rx={shape.rx} ry={shape.ry}
+        fill={fill} stroke={stroke} strokeWidth={sw}
         style={{ transition: 'fill .2s, stroke .2s, stroke-width .15s' }} />
-      {label && (
-        <text x={label.x} y={label.y + 5} textAnchor="middle" fontSize={label.size}
-          fill={isSelected ? color : `${color}AA`} fontWeight="600"
-          style={{ userSelect: 'none', fontFamily: 'Cinzel, serif', letterSpacing: '.06em' }}>
-          {continentName}
-        </text>
-      )}
-      {isSelected && label && (
-        <text x={label.x} y={label.y + 20} textAnchor="middle" fontSize="9"
-          fill={`${color}80`} style={{ userSelect: 'none', letterSpacing: '.08em' }}>
-          {CONTINENTS.find(c => c.id === id)?.type?.toUpperCase()}
+      <text x={shape.cx} y={shape.cy + 5} textAnchor="middle" fontSize={loc.id === 'paradise' || loc.id === 'earth-home' ? 18 : 14}
+        fill={isSelected ? loc.color : `${loc.color}CC`} fontWeight="600"
+        style={{ userSelect: 'none', fontFamily: 'Cinzel, serif', letterSpacing: '.06em' }}>
+        {loc.name}
+      </text>
+      {isSelected && (
+        <text x={shape.cx} y={shape.cy + 22} textAnchor="middle" fontSize="9"
+          fill={`${loc.color}90`} style={{ userSelect: 'none', letterSpacing: '.08em' }}>
+          {loc.type?.toUpperCase()}
         </text>
       )}
     </g>
   )
 }
 
-function DetailPanel({ continent, onClose }) {
+function DetailPanel({ loc, onClose, activePart, presentChars }) {
   return (
     <div className="wm-float-detail">
-      <div className="wm-float-hdr" style={{ borderLeftColor: continent.color }}>
+      <div className="wm-float-hdr" style={{ borderLeftColor: loc.color }}>
         <div>
-          <div className="wm-detail-name" style={{ color: continent.color }}>{continent.name}</div>
-          <div className="wm-detail-type">{continent.type}</div>
+          <div className="wm-detail-name" style={{ color: loc.color }}>{loc.name}</div>
+          <div className="wm-detail-type">{loc.type}</div>
         </div>
         <button className="wm-float-close" onClick={onClose}>×</button>
       </div>
 
-      <p className="wm-detail-desc">{continent.description}</p>
+      <p className="wm-detail-desc">{loc.description}</p>
 
-      {continent.familyLabels.length > 0 && (
+      {loc.familyLabels.length > 0 && (
         <div className="wm-section">
-          <div className="wm-section-label">Houses & Clans</div>
+          <div className="wm-section-label">Houses &amp; Clans</div>
           <div className="wm-family-list">
-            {continent.familyLabels.map((f, i) => (
+            {loc.familyLabels.map((f, i) => (
               <div key={i} className="wm-family-row" style={{ borderLeftColor: f.color }}>
                 <div className="wm-family-name" style={{ color: f.color }}>{f.name}</div>
                 <div className="wm-family-role">{f.role}</div>
@@ -295,11 +338,11 @@ function DetailPanel({ continent, onClose }) {
         </div>
       )}
 
-      {continent.weapons.length > 0 && (
+      {loc.weapons.length > 0 && (
         <div className="wm-section">
-          <div className="wm-section-label">Noble Treasures Present</div>
+          <div className="wm-section-label">Notable Tools &amp; Beasts</div>
           <div className="wm-weapon-list">
-            {continent.weapons.map((w, i) => (
+            {loc.weapons.map((w, i) => (
               <div key={i} className="wm-weapon-row">
                 <div className="wm-weapon-name">{w.name}</div>
                 <div className="wm-weapon-note">{w.note}</div>
@@ -309,25 +352,64 @@ function DetailPanel({ continent, onClose }) {
         </div>
       )}
 
-      {continent.weapons.length === 0 && (
+      {loc.weapons.length === 0 && (
         <div className="wm-section">
-          <div className="wm-section-label">Noble Treasures</div>
-          <div className="wm-no-weapons">No registered Noble Treasure weapons in this territory</div>
+          <div className="wm-section-label">Notable Tools &amp; Beasts</div>
+          <div className="wm-no-weapons">No specific Tool or Beast tied to this location</div>
+        </div>
+      )}
+
+      {presentChars && presentChars.length > 0 && (
+        <div className="wm-section">
+          <div className="wm-section-label">
+            {activePart ? `Here in ${activePart.title}` : 'Characters Based Here'}
+          </div>
+          <div className="wm-char-present-list">
+            {presentChars.map(c => (
+              <span key={c.id} className="wm-char-present-chip" style={{ borderColor: `${loc.color}66`, color: loc.color }}>
+                {c.name}
+              </span>
+            ))}
+          </div>
         </div>
       )}
 
       <div className="wm-section">
         <div className="wm-section-label">Lore</div>
-        <p className="wm-lore-text">{continent.lore}</p>
+        <p className="wm-lore-text">{loc.lore}</p>
       </div>
     </div>
   )
 }
 
-export default function WorldMap({ characters = [] }) {
+// Flattens stories.js into a chronological list of { id, title, color, characterIds }
+// rows — one per Part — so the map can filter "who was where" over time using
+// the same arc data the Character Board reads, with no new data required.
+function usePartTimeline(stories) {
+  return useMemo(() => {
+    if (!Array.isArray(stories)) return []
+    const rows = []
+    stories.forEach(story => {
+      ;(story.arcs || []).forEach(arc => {
+        rows.push({
+          id: arc.id,
+          title: arc.title,
+          color: story.color,
+          characterIds: new Set(arc.characters || []),
+        })
+      })
+    })
+    return rows
+  }, [stories])
+}
+
+export default function WorldMap({ characters = [], stories = [] }) {
+  const [realm,       setRealm]       = useState('limbo')
   const [selected,    setSelected]    = useState(null)
   const [hovered,     setHovered]     = useState(null)
-  const [hoveredPin,  setHoveredPin]  = useState(null)
+  const [activePartId, setActivePartId] = useState('all')
+  const partTimeline = usePartTimeline(stories)
+  const activePart = activePartId === 'all' ? null : partTimeline.find(p => p.id === activePartId) || null
   const [view,        setView]        = useState({ x: 0, y: 0, scale: 1 })
   const viewRef  = useRef({ x: 0, y: 0, scale: 1 })
   const mapRef   = useRef(null)
@@ -335,28 +417,39 @@ export default function WorldMap({ characters = [] }) {
   const dragStart = useRef({})
   const canClick  = useRef(true)
 
-  const selectedData = CONTINENTS.find(c => c.id === selected) || null
+  const locations = REALM_LOCATIONS[realm]
+  const housePositions = REALM_HOUSE_POSITIONS[realm]
+  const selectedData = locations.find(l => l.id === selected) || null
 
-  // Group characters by house for pin placement
+  const changeRealm = useCallback(r => {
+    setRealm(r)
+    setSelected(null)
+    setHovered(null)
+  }, [])
+
+  // Group characters by house for pin placement, scoped to the active realm.
+  // When a Part is selected, restrict to characters who actually appear in
+  // that Part's arc (per stories.js) — the same data source the Character
+  // Board's timeline uses, so "who was where" stays accurate to what's written.
   const charPins = useMemo(() => {
     const byHouse = {}
     ;(characters || []).forEach(c => {
-      if (!c.house || !HOUSE_POSITIONS[c.house]) return
+      if (!c.house || !housePositions[c.house]) return
+      if (activePart && !activePart.characterIds.has(c.id)) return
       if (!byHouse[c.house]) byHouse[c.house] = []
       byHouse[c.house].push(c)
     })
     return Object.entries(byHouse).flatMap(([house, chars]) => {
-      const base = HOUSE_POSITIONS[house]
+      const base = housePositions[house]
       return chars.map((c, i) => ({
         ...c,
         px: base.x + ((i % 5) - 2) * 16,
         py: base.y + Math.floor(i / 5) * 16,
       }))
     })
-  }, [characters])
+  }, [characters, housePositions, activePart])
 
-  // Fit map to view on mount
-  useEffect(() => {
+  const fitView = useCallback(() => {
     if (!mapRef.current) return
     const rect = mapRef.current.getBoundingClientRect()
     const s    = Math.min(rect.width / (MAP_W + 80), rect.height / (MAP_H + 60)) * 0.92
@@ -369,6 +462,9 @@ export default function WorldMap({ characters = [] }) {
     setView(v)
     viewRef.current = v
   }, [])
+
+  // Fit map to view on mount and whenever the realm changes.
+  useEffect(() => { fitView() }, [fitView, realm])
 
   const updateView = useCallback(fn => {
     setView(prev => {
@@ -415,47 +511,57 @@ export default function WorldMap({ characters = [] }) {
 
   const handleMouseUp = useCallback(() => { dragging.current = false }, [])
 
-  const handleContinentClick = useCallback(id => {
+  const handleLocationClick = useCallback(id => {
     if (!canClick.current) return
     setSelected(prev => prev === id ? null : id)
   }, [])
 
-  const handlePinClick = useCallback(id => {
-    if (!canClick.current) return
-    setHoveredPin(prev => prev === id ? null : id)
-  }, [])
-
   const zoomIn  = () => updateView(p => ({ ...p, scale: Math.min(5, p.scale * 1.25) }))
   const zoomOut = () => updateView(p => ({ ...p, scale: Math.max(0.35, p.scale / 1.25) }))
-  const resetView = () => {
-    if (!mapRef.current) return
-    const rect  = mapRef.current.getBoundingClientRect()
-    const s     = Math.min(rect.width / (MAP_W + 80), rect.height / (MAP_H + 60)) * 0.92
-    const scale = Math.max(0.4, Math.min(1.5, s))
-    const v = {
-      scale,
-      x: (rect.width  - MAP_W * scale) / 2,
-      y: (rect.height - MAP_H * scale) / 2,
-    }
-    setView(v)
-    viewRef.current = v
-  }
 
-  const hoveredPinData = hoveredPin ? LOCATION_PINS.find(p => p.id === hoveredPin) : null
+  const activeRealm = REALMS.find(r => r.id === realm)
 
   return (
     <div className="worldmap-view">
       {/* Header */}
       <div className="worldmap-header">
         <div>
-          <h2 className="worldmap-title">Unix — The Merged World</h2>
+          <h2 className="worldmap-title">{activeRealm.name}</h2>
           <p className="worldmap-subtitle">
-            Five landmasses born from the Paradise Spell's fusion of Earth and Orius.
-            Drag to pan · Scroll to zoom · Click a continent to explore its lore.
+            {activeRealm.tagline}. Drag to pan · Scroll to zoom · Click a location to explore its lore.
           </p>
         </div>
-        <div className="wm-continent-count">{CONTINENTS.length} landmasses</div>
+        <div className="wm-continent-count">{locations.length} location{locations.length === 1 ? '' : 's'}</div>
       </div>
+
+      {/* Realm selector — reuses the Library.jsx tab convention */}
+      <div className="lib-tab-row">
+        {REALMS.map(r => (
+          <button key={r.id} className={`lib-tab${realm === r.id ? ' active' : ''}`} onClick={() => changeRealm(r.id)}>
+            {r.name}
+          </button>
+        ))}
+      </div>
+
+      {/* Part filter — restricts character pins to who's confirmed on-page in that Part */}
+      {partTimeline.length > 0 && (
+        <div className="wm-part-filter">
+          <label htmlFor="wm-part-select">Show characters as of:</label>
+          <select
+            id="wm-part-select"
+            value={activePartId}
+            onChange={e => setActivePartId(e.target.value)}
+          >
+            <option value="all">All Parts (every known location)</option>
+            {partTimeline.map(p => (
+              <option key={p.id} value={p.id}>{p.title}</option>
+            ))}
+          </select>
+          {activePart && (
+            <span className="wm-part-filter-count">{charPins.length} character{charPins.length === 1 ? '' : 's'} placed here</span>
+          )}
+        </div>
+      )}
 
       {/* Interactive map area */}
       <div
@@ -479,10 +585,10 @@ export default function WorldMap({ characters = [] }) {
             </radialGradient>
           </defs>
 
-          {/* Ocean fills everything */}
+          {/* Backdrop fills everything */}
           <rect x="-9999" y="-9999" width="19998" height="19998" fill="url(#wmOcean)" />
 
-          {/* World content — pan/zoom group */}
+          {/* Realm content — pan/zoom group */}
           <g transform={`translate(${view.x},${view.y}) scale(${view.scale})`}>
             {/* Latitude/longitude grid */}
             {[0.14, 0.28, 0.42, 0.57, 0.71, 0.85].map(t => (
@@ -494,47 +600,18 @@ export default function WorldMap({ characters = [] }) {
                 stroke="rgba(10,173,255,0.04)" strokeWidth="1.2" />
             ))}
 
-            {/* Continents */}
-            {CONTINENTS.map(c => (
-              <ContinentShape
-                key={c.id}
-                id={c.id}
-                color={c.color}
-                isSelected={selected === c.id}
-                isHovered={hovered === c.id}
-                onClick={() => handleContinentClick(c.id)}
+            {/* Locations */}
+            {locations.map(loc => (
+              <LocationShape
+                key={loc.id}
+                loc={loc}
+                realmId={realm}
+                isSelected={selected === loc.id}
+                isHovered={hovered === loc.id}
+                onClick={() => handleLocationClick(loc.id)}
                 onHover={setHovered}
               />
             ))}
-
-            {/* Location pins */}
-            {LOCATION_PINS.map(pin => {
-              const isHov = hoveredPin === pin.id
-              const sz = 8
-              return (
-                <g
-                  key={pin.id}
-                  onClick={() => handlePinClick(pin.id)}
-                  onMouseEnter={() => setHoveredPin(pin.id)}
-                  onMouseLeave={() => setHoveredPin(null)}
-                  style={{ cursor: 'pointer' }}
-                >
-                  {isHov && <circle cx={pin.x} cy={pin.y} r={16} fill={pin.color} opacity="0.12" />}
-                  <circle cx={pin.x} cy={pin.y} r={sz + 5} fill="none" stroke={pin.color} strokeWidth="1" opacity="0.22" />
-                  <polygon
-                    points={`${pin.x},${pin.y - sz} ${pin.x + sz * 0.7},${pin.y} ${pin.x},${pin.y + sz} ${pin.x - sz * 0.7},${pin.y}`}
-                    fill={pin.color}
-                    opacity={isHov ? 0.95 : 0.65}
-                    style={{ transition: 'opacity .2s' }}
-                  />
-                  <text x={pin.x} y={pin.y - sz - 5} textAnchor="middle" fontSize="9.5"
-                    fill={pin.color} fontWeight="600"
-                    style={{ userSelect: 'none', fontFamily: 'Cinzel, serif', letterSpacing: '.04em', opacity: isHov ? 1 : 0.7, transition: 'opacity .2s' }}>
-                    {pin.name}
-                  </text>
-                </g>
-              )
-            })}
 
             {/* Character pins — small dots grouped by house */}
             {charPins.map(c => (
@@ -571,25 +648,18 @@ export default function WorldMap({ characters = [] }) {
           <button className="wm-ctrl-btn" onClick={zoomIn}   title="Zoom in">+</button>
           <span   className="wm-ctrl-pct">{Math.round(view.scale * 100)}%</span>
           <button className="wm-ctrl-btn" onClick={zoomOut}  title="Zoom out">−</button>
-          <button className="wm-ctrl-btn" onClick={resetView} title="Fit to view">⊙</button>
+          <button className="wm-ctrl-btn" onClick={fitView} title="Fit to view">⊙</button>
         </div>
 
-        {/* Pinned location tooltip */}
-        {hoveredPinData && (
-          <div
-            className="wm-pin-tooltip"
-            style={{
-              left: view.x + hoveredPinData.x * view.scale,
-              top:  Math.max(8, view.y + (hoveredPinData.y - 36) * view.scale),
-            }}
-          >
-            <div className="wm-pin-name" style={{ color: hoveredPinData.color }}>{hoveredPinData.name}</div>
-            <div className="wm-pin-role">{hoveredPinData.role}</div>
-          </div>
-        )}
-
         {/* Floating detail card */}
-        {selectedData && <DetailPanel continent={selectedData} onClose={() => setSelected(null)} />}
+        {selectedData && (
+          <DetailPanel
+            loc={selectedData}
+            onClose={() => setSelected(null)}
+            activePart={activePart}
+            presentChars={charPins.filter(c => (selectedData.families || []).includes(c.house))}
+          />
+        )}
 
         {/* Mini-map */}
         <div className="wm-minimap">
@@ -599,12 +669,12 @@ export default function WorldMap({ characters = [] }) {
             style={{ display: 'block' }}
           >
             <rect x="0" y="0" width={MAP_W} height={MAP_H} fill="#030810" />
-            {CONTINENTS.map(c => (
-              <ContinentShape
-                key={c.id}
-                id={c.id}
-                color={c.color}
-                isSelected={selected === c.id}
+            {locations.map(loc => (
+              <LocationShape
+                key={loc.id}
+                loc={loc}
+                realmId={realm}
+                isSelected={selected === loc.id}
                 isHovered={false}
                 onClick={() => {}}
                 onHover={() => {}}
@@ -627,16 +697,16 @@ export default function WorldMap({ characters = [] }) {
         </div>
       </div>
 
-      {/* Continent chip bar */}
+      {/* Location chip bar */}
       <div className="wm-continent-chips">
-        {CONTINENTS.map(c => (
+        {locations.map(loc => (
           <button
-            key={c.id}
-            className={`wm-chip ${selected === c.id ? 'active' : ''}`}
-            style={{ '--chip-color': c.color }}
-            onClick={() => handleContinentClick(c.id)}
+            key={loc.id}
+            className={`wm-chip ${selected === loc.id ? 'active' : ''}`}
+            style={{ '--chip-color': loc.color }}
+            onClick={() => handleLocationClick(loc.id)}
           >
-            {c.name}
+            {loc.name}
           </button>
         ))}
       </div>

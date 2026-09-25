@@ -3998,12 +3998,119 @@ What frightened Arai more than the words themselves was recognizing her own desi
       },
       {
         id: 'ch-earth-5-5',
-        title: 'Chapter 5.5: The One Who Answers',
+        title: 'Chapter 5.5: Kazemi Soul!',
         scenes: [
           {
-            id: 'sc-e5-5-declaration',
+            id: 'sc-e5-5-a-quiet-spirit',
+            title: 'The Little Spirit in the Room',
+            content: `He had been lying on the bed for six hours since he passed out, and he was tired in a way that had nothing to do with his body. Fighting trillions of versions of himself before he'd taken his first true breath had been nothing next to the plain, ongoing labor of trying to make sense of what he now was. He stared at his own hand for a long time, turning it slightly, as if the right angle might explain something the shape alone couldn't.
+
+He could feel that Summari and Nighla weren't in the room, but he could also feel, distantly and precisely, that they were safe — the Body and Heart Command cores telling him so without needing to be asked. So he let them be and kept staring at his hand, and for three hours he tried, and mostly failed, to fully grasp what he'd become.
+
+Someone was watching him. He noticed without alarm — a shift at the edge of the room, a presence that had been there longer than he'd bothered to register. "Can I help you, little spirit?" he asked, still looking at his hand.
+
+Aliya jumped, startled at being caught, and bumped into the table hard enough to laugh at herself. She'd turned invisible with her core out of habit, some old instinct from being knocked unconscious alongside Mira and Pandro when he woke. She was the first of the three to come to. She stood there for a moment, staring at him, and said the only true thing she had: "You look different. The golden hair — gold was my sister's favorite color."
+
+He turned his gaze from his hand to her face and said nothing for a while. She climbed up to sit on the table, uncertain what had changed since their last real conversation, and before she could work out what it was, he was on his feet and standing directly in front of her. She looked down rather than meet his eyes, and found his feet instead, planted right there.
+
+"That reminds me," he said. "I have a promise to keep to your sister. I owe her the name, after all. Let's go, Aliya. Let's go, my Soul's."
+
+*His* Soul? The words made her blush before she understood why. It was strange, hearing it, but it also made something in her want to smile. She moved to his side the way she always did, expecting his hand to find hers the way it never had before — and this time it did, and the blush deepened, and she asked the only question that felt worth asking: "Is this really Lord Kazemi? He seems so different. He's never held my hand before." She didn't press for an answer. She simply walked.
+
+He looked down at her and felt the awkwardness of the moment without quite knowing what to do about it — unsure whether holding her hand was even the right way to offer comfort, only certain that comfort was owed. He could feel her grief plainly, flowing up through the place where her sister used to be. Sorrow, not simply sadness. He could feel it as clearly as he could feel his own hand.`,
+          },
+          {
+            id: 'sc-e5-5-a-promise-to-keep',
+            title: 'A Promise Kept, a Name Given',
+            content: `They walked through the village together, and it was obvious even to Aliya how differently people looked at him now — the awe on every face they passed, the way conversations stopped and started again a half-beat late. They reached the edge of the forest where Dio, Leo, and Milla sat with the weight of mourning still fresh on them, trading memories of Valariya. Leo's voice kept catching on judgment he didn't quite manage to hide. Dio said nothing at all. Milla did what she could to comfort him and to talk over Leo before his tone curdled into something worse.
+
+What actually stopped it was Irane's arrival. "Apologies for interrupting your mourning of Valariya," he said, "but I have a promise to keep."
+
+They all turned. Aliya stood beside him, drawing no attention of her own. He looked at Dio and continued: "I promised your wife I would place Urial in your care. So I've come to fulfill that."
+
+He walked forward until he stood directly in front of Dio, and the next words felt strange leaving his mouth and, at the same time, exactly right for the moment: "Understand, though — his core is mine. Is that clear?"
+
+Dio held his stare for a long moment before dropping his head. "I understand, Lord 8."
+
+Irane's expression soured. "Good. And my name is Irane. Irane Kazemi. It isn't 8."
+
+Aliya and Milla both went still with something closer to shock than surprise. Dio kept looking, and the story clicked into place behind his eyes — the same name, exactly, as the one in Valariya's fairy tale — and it was only then that he really saw it: the look in Irane's eyes. Life in them. A flicker that hadn't been there before. "Understood, Lord Kazemi," Dio said.
+
+"Why not just my first name, and drop the 'Lord'? It's strange to hear," Irane said, half to himself, and started to move past — right as Leo burst out laughing, loud and unguarded, delighted at something he clearly thought was funny. "You have a *name*," Leo said, grinning. "You have a *personality*. Well, isn't that interesting — the tool was told to have a personality."
+
+The laugh needled at Aliya until it became something closer to fury, and she was a half-step from lunging at him when Irane's arm caught her back. He walked toward Leo instead, calm and silent, and Leo kept laughing until he registered the expression waiting for him — no smile, no warmth, something that read, unmistakably, as anger. The laugh cut off mid-breath. A moment later Leo was on the ground, clutching his stomach, struck down by Irane's tail before anyone saw it move. He writhed there while Aliya laughed openly at him and Milla and Dio simply stared, too stunned to do anything else.
+
+Irane turned back to them as though nothing had happened. "Milla — would you be willing to act as surrogate for Urial? He's only two months old. I need to pull the will core out of the forge before it kills him, and I'll need to place my tool Iris inside you to do it. Don't worry — it's only a seven-month pregnancy, and a bit of a plump one at that. You'll go right back to being your thin self after." He said it with a wide, unguarded smile — strange to see on him, stranger still for how natural it looked.
+
+Milla blushed and looked down, unsure what to make of the offer, and glanced at Dio to ask if it was even something she should consider. "I would love for you to have the child," Dio told her. "I don't think Valariya would trust anyone more than you with him." She teared up at that and told Irane she'd do it — but asked, carefully, whether she'd need to sleep with him first, to place Urial properly.
+
+Irane froze at the question. "My apologies — I'd prefer to keep that to only three women, and you, darling, aren't one of them. I'll simply place Iris — the key to my forge — inside you, and she'll set Urial where he belongs. It'll take about a week."
+
+A disk appeared as he spoke, something like a marble suspended at its center, and it floated forward and settled into Milla's lower abdomen. "You'll feel a bit sick for the next week," he added. "Just so you know." Then he turned to go, taking Aliya's hand as he walked, and offered one last, plain thing on his way out: "I know loss is a painful thing. But you're responsible for that life now, Dio, Milla. Valariya is dead. Mourn her — cry for her, remember her — but don't stop living for her sake. You have a son now. Your duty is a father's duty. And thank you, Milla. I mean that."`,
+          },
+          {
+            id: 'sc-e5-5-the-seed',
+            title: 'A Seed, Not a Sister',
+            content: `They walked back into the forest toward the village, and partway along the path he crouched down, still holding Aliya's hand, and pressed something small into her palm. "Don't you ever forget — your sister always wanted to stay by your side," he told her. "What you're holding is a seed of Yggdrasil. I had to modify it heavily, using Valariya's own core as the medium. Connecting it to my universe was a strange thing to do, honestly, but it's done. The tree will grow, and it will carry a connection to my universe — which means you'll be connected to every core that's ever touched it, including hers. It holds their true memories. Right now, inside that seed, is the memory of Valariya. You can speak with her, whenever you want."
+
+He leaned in closer, and his voice dropped into something gentler and more insistent at once. "But I need you to understand something. This is a memory. It is, and it will always be, a memory. It is not, and it will never be, your sister."
+
+He held her in a quiet, careful embrace, and she cried into it without pulling away. He walked her back to the village gate, left her there, and went on alone — past the old cave, up to the tree where he'd first woken that day.
+
+In a way, this was his birthday. The day Valariya died was the same day he had, in whatever sense the word applied to him, come to life. He sat and watched the horizon for a long time, still unsure of almost everything, still frightened of his own power in a way that hadn't faded with clarity. He was grateful for Arai's seal, whatever its cost — it had saved everyone, protected people who couldn't have protected themselves from him, and it had made certain, at least for now, that he wasn't a monster in practice even where he might be one in nature.
+
+But there was a gap. A hole in his own mind he could feel the exact shape of and couldn't reach the bottom of, no matter how he turned it over. He feared that emptiness more than almost anything else he'd faced. He smiled, and tears started down his face without his expression changing to match them — deadpan, staring at the ocean stretching out past the last of the daylight, as though he were trying to drown something in it just by looking long enough.
+
+It came to him clearly, sitting there: the ten cores that had once belonged to other people, now folded into him. The feelings that weren't quite his own, that he nonetheless felt as though they were. He was, factually and without argument, a Tool and Beast object. And worse than that — he had done this to himself. No outside hand had mutilated his own mind. He had done it, deliberately, over however long it had taken, and there was no one else left to blame for the shape he'd been left in. He sat with that, tears streaming steadily down a face that refused to move, and let the ocean have his attention instead of his despair.`,
+          },
+          {
+            id: 'sc-e5-5-emo-malice',
+            title: 'The Hatred Turned Inward',
+            content: `Mira woke in the medical hut around the same time, and the first thing she registered was Emo — already in Crane form, and growing. She felt grief pouring off him before she understood why, then watched him shift, restless, into the Shadow Serpent, dancing between forms without settling on one. She didn't know yet what was driving it. She only knew, with total certainty, that whatever Emo was feeling was Irane's, not hers.
+
+Then Emo turned into the Wolf, and it was massive — bigger than she had ever seen him, mana pouring off him in a way that reminded her, with a lurch, of the lab. She moved to contain him on instinct, the way she always had, and it was only as she pressed in that she understood what she was looking at: the hatred wasn't pointed outward. It was pointed at himself. And when Emo turned on her anyway, it was because the core inside her was his — and there was nowhere else for that self-directed rage to land except on the person carrying a piece of him.
+
+She threw up Constraint to block. The strike sent her flying back regardless. She realized, mid-motion, that she couldn't actually hurt Emo in return — he wasn't an opponent so much as an extension of her, and there was no clean way to fight a piece of yourself that has turned feral. He kept coming. Emo — Malice, now, in a form none of them had a name for yet — reared back and unleashed something new: **Kazemi's Will: Concentrated Hatred**, a roar that compacted everything Irane had ever hated into a single wave and let it wash over the clearing. Mira went down on one knee under it, forced to remember, all at once, everything she had ever hated in her own life, unable to move through the weight of it.
+
+Emo-Malice closed in to finish the strike. Hope arrived first — blade drawn, meeting the blow with Temper, the weapon that had grown out of what used to be the Reach. Emo-Malice staggered back through the trees. Hope didn't look steady doing it. Her mana was running loose, more than she could hold onto, and she doubled over gripping her chest, breathing hard, until she went down entirely. Mira, still shaking off her own hit, crawled to her sister's side. Something was clearly trying to get out of Hope — pressing against her from the inside the way water presses against a dam.
+
+Emo-Malice turned on Hope next. Mira threw herself into the strike instead, and though it couldn't damage her the way it might a stranger, she felt every ounce of the impact anyway. Hope went down harder. Emo unleashed Concentrated Hatred a second time, and this time it hit Mira square — she dropped to both knees, the weight of it worse than before. Hope was on the ground now, crying through the pain, and as Emo moved in to finish it, a claw erupted from Hope's own body and knocked Emo-Malice back before anyone could react.
+
+A dragon rose out of Hope where the claw had been. Mira stared, stunned, as the beast let out a roar that sent a shockwave rippling across the whole island — mana on a different scale entirely from anything she'd felt from Hope before. Dima had manifested for the first time, and she moved on Emo without hesitation. They collided, tearing apart the ground around them in long, ruinous strikes, until, after a long stretch of destruction, a third beast arrived and struck at both of them at once.
+
+"It seems you both really have no idea how to control your beasts," Zoe said, stepping into the clearing. "Let me show you how it's done."
+
+Aphexia moved between the two larger beasts and pulled them both down into the earth — the difference in scale obvious the instant she did it. She began drawing the excess mana out of Dima, calming her, while binding Emo to the ground with what looked like living plant-cord, holding him still until the rage had somewhere safe to go.`,
+          },
+          {
+            id: 'sc-e5-5-by-the-tree',
+            title: 'Reincarnation, Not Rebirth',
+            content: `Irane was still sitting by the tree when Hope appeared beside him, a little roughed up from the fight, and leaned against the trunk with a small, tired smile. "You know," she said, "crying alone is never a good idea."
+
+He looked up at her. His face had the particular sadness of someone smiling anyway, tears still tracking down it. "Do you need a shoulder to cry on?" she asked.
+
+He laughed, quiet and real. "Yeah. I'd love one right now."
+
+She sat down beside him, and they stayed there a while in the sound of his own occasional sniffling, watching the same stretch of horizon he'd been staring at for hours. Eventually he broke the silence. "I don't get it," he said. "I really don't. Why would someone not want to die that badly? I can't help but hate myself for it. There's this massive gap in my mind — it feels torn out, ripped up from the inside. I erased everything about myself. Worse, now I can't even remember what I erased. I don't know anything. I feel lost, and none of it makes sense. So why — why would he do this? Why would I erase my own mind instead of just dying? I don't understand why he wanted to win that badly. I wish I knew. I really wish I knew."
+
+Hope waited through his silence for a moment, then leaned in against his left shoulder. "You aren't Z," she said. "So I don't get why you're so hung up on a dead man, and why he did what he did. I think you don't really understand how you're you, and he was him. You aren't the same person, are you?"
+
+He frowned, a short silence following the question before he answered. "There's a real difference between reincarnation and rebirth," he said. "Nothing that has ever lived can be returned. All that dies remains dead — that's a universal law, in its way. I saw it, from inside the veil, at the very center of reality, life and death. Cores, mana — it's all one thing, in a way. But beyond that: when I — well, the simplest way to say it is that when I woke up in that space, I didn't know anything. I knew my name was Irane, and that was it. Irane was my name, and I understood everything that meant. It felt like waking from a very, very long dream — one where I don't remember what happened in it, only the feelings the dream left behind. Names, titles, knowledge, feelings — that's all that survived. Whoever I was before, I can't even hear his old name anymore. Whenever someone says it, all I get is static. I don't think I could remember him, or know him, even if I learned everything there was to learn about him. And that's what makes it worse. I can't even go and learn about him. I'm not whoever my creator was. I am Irane Kazemi, and that's simply a fact." He leaned his head onto her shoulder. "You're right, Hope. But I still wish I understood why he went to such lengths. I'm not him — trust me, I know that — but I would like to know why he fought that hard. It would be nice."
+
+As his head settled against her, Emo shifted — Malice giving way, cycling through something in between, settling finally into Grief and then Love, and Aphexia finally released Dima, letting her relax fully for the first time since the fight began. *(Note: Crono, Dima, and Aphexia are all female.)*
+
+After a while, Irane got up and walked with Hope back toward the others. Passing Mira, Zoe, and the rest, he laughed quietly and apologized for the trouble he'd caused — a little more at peace than he'd been an hour before, if not entirely.`,
+          },
+        ],
+      },
+      {
+        id: 'ch-earth-5-6',
+        title: 'Chapter 5.6: The One Who Answers',
+        scenes: [
+          {
+            id: 'sc-e5-6-declaration',
             title: '[Closing declaration — the arc\'s destination]',
-            content: `This is the fixed point the entire Facility Arc has been moving toward since the trial ended in one real minute and five subjective centuries: 8, no longer sealed, no longer answering to an order that never finished, standing over the wreckage of everything Minia built to keep him — and declaring, for the first time in his own voice rather than anyone else's borrowed one:
+            content: `This is the fixed point the entire Facility Arc had been moving toward since the trial ended in one real minute and five subjective centuries: 8, no longer sealed, no longer answering to an order that never finished, standing over the wreckage of everything Minia built to keep him — and declaring, for the first time in his own voice rather than anyone else's borrowed one:
 
 *"I AM IRANE CORE KAZEMI,
 THE EIGHT CHAMPION OF PRIMAL,
@@ -4011,7 +4118,3479 @@ THE EMPEROR OF VALARIYA.*
 
 *AND I AM HERE!"*
 
-Everything between here and there — the mechanics of the actual escape, whether Simon's plan or Mira's or Hope's private instinct governs how it happens, what becomes of Minia once her control finally, permanently fails, what the surviving children of the training years do when the war between the Goddess and the Empress resolves — is Part 4's work to earn before this scene can be written properly. This entry exists to hold the destination in place: the Facility Arc ends here, with a declaration rather than a rescue, a man naming all three of what he is in the same breath for the first time.`,
+The mechanics of the escape are told. The rampage, the healing, the mountain broken open floor by floor, the island, the three dreams, the cave, the naming of Summari and Nighla, Valariya's death and the promise kept, the quiet reckoning by the tree, Emo's first turn against the people who love him and Dima's first answer to it — all of it is Part 5's work, and it has been done. What remains is Part 6's to earn: a world outside the island that has not stopped moving while he sat with his grief, a throne that was never his idea, and the specific, ordinary terror of being loved by more people than he ever agreed to be responsible for.`,
+          },
+        ],
+      },
+    ],
+  },
+
+  // ── Facility Arc — Part 6: Rise — Kazemi's Empire ───────────────────────
+  {
+    id: 'part-earth-6',
+    type: 'part',
+    title: 'Part 6: Rise — Kazemi\'s Empire',
+    subtitle: 'A throne nobody asked him to want, and a myth that outruns him the moment it is confirmed true.',
+    chapters: [
+      {
+        id: 'ch-earth-6-1',
+        title: 'Chapter 6.1: A World in Process',
+        scenes: [
+          {
+            id: 'sc-e6-1-simon-briefing',
+            title: 'What Happened While You Grieved',
+            content: `A day after Emo's rampage, Simon called everyone together — Arai, Hope, Zoe, Assa, Rui, Milla, Leo, Dio, Mira, Aliya, Pandro, Gran-Gran, and Irane, who spent most of the meeting watching Summari, Nighla, and Dokia play in the corner rather than looking at Simon directly. Simon's report had the specific carefulness of a man who has rehearsed how to deliver bad news without making it worse.
+
+"Toma is making his move on the Primals," he said. "He's spent the last few months restoring his position as head of them. Since 8 disappeared, and Cai never came back, the Primals of Paradise have been in a very bad position — the Ferali and Celestials have turned their full attention on them. They're losing ground, and they've agreed to meet with the Primals of Heaven to talk terms. It won't be a good deal."
+
+Hope's face tightened. "Are they okay? The Primals?"
+
+"They're bad enough off that they're negotiating with Toma," Simon said, and let that answer stand on its own.
+
+Arai broke the silence that followed. "What about the Orians? Still at war?"
+
+"Lord Niro's made his move too. He's uniting the Orians — the Ascen, the Alma, the Spirits — under one banner. Once that's finished, he'll turn on the Primals of Heaven, and Toma won't be able to slow it down much." Simon looked down. "I think there's going to be one final battle between them. And the Arke twins will hit the Primals of Heaven the moment they're weakest. I don't know who wins anymore, and that's what scares me. Not knowing."
+
+Zoe broke the next silence herself. "Is there really nothing we can do? We need to save as many people as we can — shouldn't we?"
+
+"This is war," Arai said, flat. "There's no version of this where a lot of blood doesn't get spilled. I don't know what the right move is."
+
+Hope wanted to go home and defend Paradise directly. Zoe wanted to stop the killing outright, for everyone, Orian and Primal and human alike. Arai cut through both of them coldly: "You're both too soft. We're Orians, not Primals. We could try to remake Cai's body, give them their leader back, but it wouldn't stop the fighting. It would never end." Hope and Zoe both clenched their jaws at that, hating how little they could actually do — until Irane finally spoke from the corner.
+
+"You're all making this far more complicated than it needs to be," he said, and the room turned toward him. "Let's see: Hope wants to protect the people of Paradise. Zoe wants to end this war with as little bloodshed as possible. Which leaves the real question — what do *you* want, Arai?"
+
+Arai closed her eyes for a moment under everyone's stare. "I want to protect everyone too," she said finally, evenly.
+
+Irane laughed — an actual, startled laugh that caught the whole room off guard before he reined it in. "That's not how this works. That's the goal you'll say out loud. It doesn't actually fit you." He scooped up Summari, Nighla, and Dokia, wrapped his tail around the baby, and walked to stand directly behind Arai's chair. "The desires of the heart and the body shouldn't set the desires of the mind. So tell me, master of my mind — what do you *truly* desire?"
+
+She looked around the room once before she answered, and when she did, her voice didn't waver. "I want the twins — Vraka and Selis — to suffer for everything they've put us through. Vane and More too. Even Minia. I want them all dead, but death is too small a price. I want them to actually suffer."
+
+Irane smiled and moved on to Hope. "Good. Thank you, master. Now you, my sweetheart — what does your core want, underneath everything?"
+
+Hope was quiet for a moment, remembering the years, the duties, the version of herself she'd had to be. "I want the world to bow down at my feet." She looked briefly ashamed of the admission the instant it left her mouth.
+
+He turned to Zoe last. "And you, my very flesh — my everybody. What does your core want?"
+
+"I want to protect—" she started, and he cut her off gently. "Come now. You can be honest with me." He leaned in and said it again, quieter: "You can be honest with me."
+
+She hid her blush behind both hands. "I want to build a home. And have a hundred children."
+
+The room went quiet, and Gran-Gran laughed into the silence. "Well, aren't you an ambitious woman." Zoe kept her face in her hands.
+
+"So — that's what each of you wants, at the root," Irane said, moving back to the corner. "One last question, then. Where does everyone else's loyalty lie? Simply put: who do you believe in the most?"
+
+Mira stood first. "I follow Hope until I die." Aliya jumped up right after. "I would give everything for Lady Arai." Milla said she trusted Zoe. Assa and Gran-Gran sided with Zoe as well; Simon put his faith in Arai. Leo and Dio looked at each other for a beat before splitting — Dio to Hope, Leo to Zoe — and Rui went with Hope too. Pandro crossed the room to stand at Irane's own side. "Wherever you go, I will follow."
+
+"It seems the teams have chosen themselves," Irane said. "I have a plan. It should get all three of you what you want — but it's going to cost you everything you have to give."`,
+          },
+          {
+            id: 'sc-e6-1-the-three-way-plan',
+            title: 'The Plan',
+            content: `"Step one," Irane said. "Arai, Hope, Zoe — you're all going back to your birth clans in Orians." That landed exactly as badly as he'd expected. "Relax. You won't go alone. Aliya and Simon go with Arai to the Ascen. Dio and Rui go with Hope to the Spirits. Assa and Leo go with Zoe to the Alma."
+
+Dio rolled his eyes. "That's the whole plan? Great." Irane's gaze didn't leave Arai. "That was step one. Step two is the fun part — it involves a great and wonderful Emperor."
+
+"I'm assuming you mean yourself," Simon said.
+
+"If the story's right — Irane, Kazemi — those two names carry weight with the Primals of Paradise. I'll take Milla and the rest of the island and go take the throne. I can at least handle that much. I think." He said the last part quietly enough that everyone heard the doubt in it.
+
+"You *think*?" Hope said. "That's not exactly reassuring. And how does that keep the bloodshed down?"
+
+"It makes Paradise safe," he said. "It gives Zoe the home she wants a place to actually exist." He looked down at the ground. "I'll be honest — I don't want to do this. I'm not the Emperor. I'm not the legend you all built up around me. The second I put that title on, the second I let his name sit next to mine in public, he becomes real in a way he currently isn't. A war already started because of that name once."
+
+It was Pandro who broke the silence that followed, laying a hand on Irane's back — a gesture that visibly startled him. "Sofia died because of that story," Pandro said. "I loved it. I know she wrote it from her core. It was a curse to her as much as a gift. What I'm about to ask is selfish, and I know it — but I've seen the Champion. I want to see the Emperor. I can't think of anyone better suited to wear that title." He dropped to one knee. "Lord Irane Kazemi — will you take the title of Emperor? Will you carry what my wife dreamed and never lived to see?"
+
+A sharp laugh cut through the room — Summari's, delighted at nothing in particular. Irane glanced at her, then at Aliya. "Seems she agrees with me. Fine. I'll do it. You'd all better be ready, because you're coming with me the whole way." He straightened and said, quietly enough that only the room heard it: "At my core I am Irane Kazemi. My flesh is the dragon of Infinity, reforged. In my chest is the heart of a legend. In my mind, I am — in truth — a tool, for my core. And in my core, I am Irane Kazemi." He looked around at their faces. "Let me be clear — Aliya, Pandro, Assa, Rui, Milla — I am not the being you've all built up in your heads. I'd rather you just called me a man. But this is still the best plan we have."
+
+He laid it out fully: he and Milla, Gran-Gran, and the rest of the island would migrate to Paradise, with Mira and Pandro's names doing the work of pulling as many Primals along as possible. Zoe asked where Dokia would go. "With me, obviously," he said. "Same as Milla and Urial, same as Pandro's children. Even Junior, once he's born."
+
+"Fine," Zoe said. "But why go through all of step one at all? Why not just all go straight to Paradise?"
+
+Irane's grin widened. "Because then marrying you three wouldn't do nearly as much." Hope's head snapped up. "*What?*"
+
+"Step three," he said, delighted. "I marry you — Hope, Arai, and Zoe. An Emperor married into all three major peoples of Orians, taking in any Orian who'll come with us — that gets us more than any of us could manage alone."
+
+Simon laughed after a beat. "That's an interesting plan. And what exactly makes you think it works — you want us fighting Primals and humans while pretending to be loyal Orians?"
+
+"Your goals won't just be that," Irane said. "There's a timeline, and it runs on how fast you can recover Gaia and Cronus's cores from the Ascen." That was news to everyone in the room, judging by the confusion on Simon's, Zoe's, and Hope's faces at once — right as a small voice rose from underneath Irane's own hair.`,
+          },
+          {
+            id: 'sc-e6-1-enari-cameo',
+            title: 'Enari, Briefly',
+            content: `"I would like to see what my old peers look like," the voice said, traveling up from the base of Irane's hair toward his skull. "It's not every day you get to meet the reincarnations of your own kind." A small golden dragon unfolded from between his horns. Zoe was on her feet in an instant. "Enari!"
+
+Pandro dropped to his knees on reflex — he, of everyone in the room, knew exactly what he was looking at: the reincarnation of the Primordial Kazemi himself. Irane looked mildly amused. "Well, Enari — you've been chatting with my Body?"
+
+"Of course I wanted to see the true form of the core that made your body possible," Enari said. "I mean, Iris already went and met your Heart's core." Hope startled visibly at that. Arai watched Irane's confusion with confusion of her own.
+
+"I spoke with you, then. In that moment," Arai said. "That was you?"
+
+"No," Irane told her. "You made a deal with a core. Not with me." The room stirred at that, and Arai's hands closed into fists. He clapped once to bring the attention back to himself. "Enari is a reincarnate — very similar in kind to the Tree and the Book of house Wov and Osiro. Once we recover those two, alongside Kazemi, no one stands against Paradise."
+
+"How do you even know they're still out there?" Simon asked.
+
+"Their cores are calling to me," Enari said. "Faintly. I've heard them since I was still in the trial. Faint doesn't mean gone."
+
+"Then why not just go get them?" Simon pressed.
+
+"I'll be coming with whoever goes," Enari said. "I can hear them, but pinning them down exactly takes proximity and time." Zoe asked whether he could even be separated from Irane for that long — tools and beasts didn't usually work that way. "Hope can command any of my tools," Irane explained. "Zoe commands any of my beasts. Arai has limited command over all of it. Enari's different — he's my beast in the fullest sense, and the source of all the others. I can hand him to whoever holds a Command or Will core. The real risk is whether you can actually control him. He wants everything, all the time, at full output. Given the chance, he'll overpower whoever's holding him."
+
+The plan settled itself: Crono would go to Irane while Enari rotated between Arai, Hope, and Zoe on a roughly monthly basis, whoever hadn't found the cores yet handing him along. Five years, he estimated, for the whole search. "Once we have Gaia and Cronus's cores, I'll come and claim you three properly. That's how we do this without spilling blood we don't have to."
+
+Simon wasn't finished. "You really think everyone just falls in line because you say so? Kazemi's a powerful name, but not everyone bends to it."
+
+"I'm not the Emperor of Paradise," Irane said. "I'm the Emperor of Valariya. I'm not the Champion or the Emperor you've all heard stories about. I am Irane Kazemi — Emperor of Valariya. I'll take Paradise and fold it into what I build, not the other way around." Something in the room shifted as he said it. Simon, who prided himself on reading people accurately enough to run an intelligence network off the skill, found he couldn't read Irane at all — and it unsettled him enough that his next question came out sharper than he intended. "Irane Kazemi. What's your core alignment? And what, exactly, is your goal?"
+
+Irane raised an eyebrow, genuinely curious. "What do those two things have in common, I wonder." Simon slammed both hands on the table. "What is your *goal*, monster?"
+
+The word landed hard in the room. "My core alignment," Irane said, unbothered, "is Harmonic-Chaos. As for my goal — I'm a tool. A tool needs a purpose, and the only ones who can give me purpose are my Command cores. Satisfying their desires is the whole of what I am for. The marriage part is a bit unnecessary, honestly, but I don't much like the idea of my mind, heart, and body belonging to someone else. Call it jealousy. Human of me." He was smiling the entire time. Simon backed up half a step. *Harmonic-Chaos* wasn't a phrase he could reconcile with anything ordinary — but nothing about Irane had been ordinary from the start. He was a Conceptual. A monster, and now confirmed as one to himself as much as anyone.
+
+Aliya, in her innocence, asked whether it was strange to have a Harmonic-Chaos core. Irane considered the question seriously before answering — the word "monster" wasn't wrong, even by his own accounting, though he understood little more about what a Conceptual actually was than the label itself. "Well, my Soul," he said, turning a wicked grin toward Simon, "Conceptuals are monsters. Isn't that the right description, Simon?" Simon didn't answer. Irane laughed and rested a hand on Aliya's head. "Don't worry — I don't have full access to my own core's power, so there's nothing to be afraid of just yet. I couldn't use my full strength even if I wanted to. Feel free to keep calling me a monster, though. I really don't mind. After all — I'm just a man. A monster of a man."
+
+He left the hall with Aliya, Dokia, Nighla, and Summari. Simon, unconvinced, followed at a distance.`,
+          },
+          {
+            id: 'sc-e6-1-ember-wakes',
+            title: 'What Ember Overheard',
+            content: `Ember had woken from her long unconsciousness only a few minutes before, still unsteady, still processing fragments of five years of Irane's designs replaying at random behind her eyes. She wandered the village edge and caught Simon and Irane's voices under the trees before either of them noticed her.
+
+"What are your true goals?" Simon was asking. "Why help us at all, if you gain nothing? And why marry Arai, Hope, and Zoe — it doesn't make sense."
+
+Irane looked around at the children playing nearby, at Aliya specifically, for a long moment before answering. "I've got nothing better to do. That's really all there is to it, Ascen."
+
+Simon flinched at the word. "You don't need to hide it," Irane said, smiling. "Not that Simon's your real name, either. I can't read faces well — I see cores instead — but I can see yours clearly enough to know your mouth says one name and your core says another."
+
+"Relax," Irane added, at Simon's clenched fist. "I won't tell anyone. Arai already knows what I know, if she ever wants to look." He laughed — a laugh that hit Ember like a struck bell, because it was *his* laugh. Z's laugh. She stood frozen as the last five years of half-glimpsed memory rushed back into focus around it.
+
+"Still doesn't explain the marriages," Simon said.
+
+"I have five primary Command cores," Irane told him. "All of them carry my name — Kazemi — marked directly onto the core itself. My mind's fourth command forces me to love Kazemi, which, frankly, I don't fully understand either. All fifteen of my cores that bear that name, I love — that includes my daughters, and Aliya, and Dokia." Simon asked if that meant he loved them the way a father loves a child. "Yes," Irane said instantly. "But love is a spectrum, and there's a real difference between how I love my children and how I feel about Arai, Hope, and Zoe. Honestly — I don't know why I love them the way I do."
+
+He said it again, almost to himself: that it was strange, not knowing. That the love for a sister, a child, a friend all had a clear shape to him, but whatever he felt for the three of them didn't map cleanly onto any of it. "I'd like to blame the command cores inside them for it, but Summari and Nighla have command cores too, and I love them the way a father loves his children. So that's not it." He turned serious in a way Simon hadn't seen from him yet. "Make no mistake — I would burn this world down, and everyone on it, if it meant protecting my children."
+
+"More than you love yourself?" Simon asked.
+
+"Far, far more than I care about my own life," Irane said, without hesitation.
+
+Ember slipped away as the conversation moved on, shaking with something that had curdled, somewhere in the last minute, into pure rage. She walked with a destination in mind, laughing under her breath: "I'll kill that bitch. I really will kill Arai."`,
+          },
+          {
+            id: 'sc-e6-1-the-confrontation-begins',
+            title: 'Ember\'s Rage',
+            content: `A headache took Irane suddenly — not pain exactly, but a pressure of thought he couldn't ignore. He grabbed Aliya and moved fast, Simon close behind, and arrived to find the village already gathered around a scene that had gone past the point of anyone knowing how to stop it: Ember, screaming, standing over Arai, who knelt in the dirt as if she believed she deserved every open-handed strike Ember had already landed on her. Hope, Zoe, and Mira stood back, unsure what to do. Ember's hand rose for another blow and stopped in Irane's grip before it landed.
+
+"Isn't that cute," Ember spat, rounding on him. "The man you brainwashed, here to defend you. Must be nice, having something like that."
+
+"Enough," Irane said, stepping between them. "You're not okay, and none of this is good for your baby, so plea—"
+
+Ember's laugh cut him off, loud and raw. "Tell me, monster — why do you love this witch? This devil in a woman's skin, who'd hand over the cores of the people she loves just to make you love her back?"
+
+Arai's tears started at that, silent, and she went down onto the ground fully. Aliya rushed to her side. Ember kept going, turning her fury on Hope and Zoe next — "you don't even know, do you? She traded your cores to control him" — and the accusation went on, cutting deeper with every sentence: how Arai had used him, how the atrocities he'd committed had all, in Ember's telling, traced back to Arai's design, how Ember herself had been made to watch him die billions of times over, how she'd been forced to relive it as punishment for loving him first.
+
+Irane tried, twice, to stop her, and got nowhere. It was Hope who finally cut through it. "Enough, Ember — we gave him our cores willingly. He didn't force us, and neither did Arai. That was our choice."
+
+"Arai's command was tied to completing the seal," Irane added. "Not to obeying her every word." He explained, as plainly as he could, what the seal had actually required: ten cores, not the three Arai had ever meant to give. He'd found the rest — Mira, Pandro, Dokia, Urial, even Summari and Nighla themselves — by tracing the shape of who Arai loved, filling in a design he wasn't sure even she understood.
+
+"The cores of the people she loves," Ember repeated. "Why would that ever be a requirement?"
+
+"I don't remember it in full detail," Irane admitted. "It's more like remembering a long dream. There are pieces I can't recover no matter how I try." That answer only sharpened Ember's next question — the one that actually mattered. "What are your orders?" she asked. "Who gave you each of the five?"
+
+He answered without hesitation, and got it wrong: "My first came from Zoe. My second from Hope. The third from Summari, the fourth from Arai, the fifth from Nighla." Hope and Zoe both said, immediately and with total confidence, that neither of them had ever given any such order — Hope's had been *save yourself*, not whatever he was describing, and Zoe's had been about placing the cores of the others, nothing like a command tied to loving anyone.
+
+Ember's smile turned vicious. "Of course you don't remember giving it. Because you never did. I heard it — over and over, in his head, every single night. *Don't give up. Put your very core into it.* Those were the only two voices in there. Not yours. Not hers. His mother's voice, and his beloved's." She turned to Arai. "So speak, witch."
+
+Arai swallowed hard. "When I built the seal, I heard something too. Two voices, the same ones. And a third — I wasn't sure what it said, at first." She stopped, unable to finish, until Aliya, standing closest, spoke the words for her: "She heard it as *Love Kazemi.*"
+
+The room went still. Ember stepped past Irane to stand over Arai directly. "*Love* Kazemi. So that's the truth of it — you made him fall for you. Every atrocity he ever committed, every woman he was with, all of it because of your stupid order, your stupid demand for love." She kept going, calling her witch, devil, pathetic, until laughter — of all things — cut through the tirade. Irane was laughing. Enari, tiny on his shoulder, was laughing too, and Summari, Nighla, and Dokia joined in without understanding why, purely infected by the sound. Even Mira, on the ground, was shaking with it, using Emo's Joy form to keep from losing herself entirely.
+
+"What's so *funny*?" Ember demanded.
+
+"You heard *Live, Kazemi*," Irane said, once he could talk again, "and misheard it as *Love Arai Kazemi.* And your first reaction wasn't to laugh?"`,
+          },
+          {
+            id: 'sc-e6-1-the-true-account',
+            title: 'The True Account',
+            content: `Ember's fury only sharpened at being laughed at. "Do you have any idea how many people you've killed? How many children you've orphaned?" Irane's laughter stopped as fast as it had started. "Was that funny too? Was any of it?"
+
+"I remember what I did," Irane said, steady now. "It was me, after all. But there's something that's been bothering me. I remember your mana, and Minia's, very clearly — you both cut into me plenty of times. But there's a question I keep circling back to." He looked at Arai. "Why did you have me sleep with Minia and Ember? Why did you order me to kill all those people?"
+
+Arai's head snapped up, eyes wet. "I never ordered that."
+
+"I was certain I felt your mana in it," he said, genuinely confused now. "I couldn't always tell exactly where the signal was coming from — I remember being frustrated about that at the time."
+
+Ember stared at him. "Wait. You actually thought Minia and Arai were the *same person*?"
+
+It was Mira who finally cut through the tangle, and Pandro who supplied the piece none of the women in the room had ever known: that after Minia secured Arai, Hope, and Zoe, she and Ember and Pandro had spent years trying to break what they believed was a seal on Irane's core, only to discover — far too late — that what they'd actually been tampering with wasn't a seal at all, but his own command architecture: channels running from his chest to his head, his heart, and elsewhere. When they finally forced a connection to Arai, Hope, and Zoe's real cores and Minia tried to issue her first order through it, Irane had nearly strangled her on instinct. The spell only worked at all once Minia used her own ability to unknowingly free the three women from stasis — at which point Irane began, slowly, responding to commands he believed, the entire time, were coming from Arai.
+
+"I couldn't tell the difference," Irane said quietly, almost to himself. "I was trying to see her core the whole time. She never read as *that* bad to me. I can't believe I missed it."
+
+It was Aliya who finally pushed him toward the deeper answer — asking whether the orders from that period still carried forward, whether accepting the role of Champion under what he'd believed was Arai's command meant he was still bound by it now. Irane sat with the question, tapping into a thousand compressed memories at once, and stood. "I need to speak to my god," he said, and sat cross-legged in front of Aliya and Arai both. "Aliya — I need you to reach the sixth spirit. Just this once. You'll be fine. Stay close."
+
+She fell forward the instant he said it. He caught her, and went down himself a moment later; Arai dropped too, then Hope and Zoe. When Aliya startled back awake, so did the rest of them in sequence — and in that space between, Irane had seen his own core plainly, and the order sitting inside it. A tear ran down his face as he stood. "I see," he said. "So that's what happened. Irane and Kazemi are two sides of the same coin. The same story, told from two different vantage points."
+
+Something in his own thinking snagged, a contradiction he couldn't immediately place, and in the space of that hesitation, Emo cycled hard into Dread — a serpent, coiling. Mira began to shake, and Pandro, holding her hand, understood the fear wasn't hers. *Am I free?* Irane thought, and answered his own question before he finished asking it. No. He understood, with total clarity, that he was not. He was a being who served his core — the conceptual nature sealed within it, the thing that had bent him to its will since before he had a name for himself. "MY WILL IS ABSOLUTE," he said — words that would, centuries later, be remembered as a declaration of pride. In that moment, everyone who heard it recognized it, correctly, as something closer to defeat.
+
+He laughed at all of it — at the shape of his own life, at the joke of it — and the laugh only frightened Mira further, dread pouring off him and back onto himself in a feedback loop that hit everyone nearby at a fraction of what he was actually experiencing. Even that fraction was nearly unbearable. Zoe broke the spiral first, crying, her voice gentle despite the pain in it: "Don't give up!" Something in Irane's body answered that voice before his mind caught up to it — his breath returned, ragged, and Hope's voice followed a beat later, raw and commanding: "Put your very core into it!" The dread began, slowly, to drain rather than build.
+
+"Irane," Arai said, over and over, hugging him, until she finally slapped him to bring him the rest of the way back. He blinked, looked at Emo — a shadow now, vast enough to have swallowed half the island — and exhaled. "It really is a curse, isn't it," he said, and closed his eyes.
+
+Within, in his own universe, he found Enari and Iris laughing at him without mercy. "You're really something," Enari told him. "I will never let you live down this breakdown, Kazemi." Iris, wearing the shape of an old lover from a life that wasn't hers, added through her own laughter that an existential crisis once or twice a week was perfectly normal. They explained, between them, what neither Arai nor anyone outside had ever been able to: that his mind was split between Arai's voice and his own subconscious — Kazemi's — and that the seal holding that split in place had two keys, one in Arai's hands and one buried in his own subconscious, keeping him permanently capped at roughly fifteen percent of what he actually was.
+
+"Thank you both," he told them when it was over. "I guess it's not so bad, having you in my life." He surfaced back into his own body a second later, gripped Arai back in the hug she was still holding him in, and told her, simply: "I'm okay. Thank you."
+
+He turned to Ember next, tears still on her face. "I was wondering why I couldn't see your core properly," he said, gentle in a way that startled her. "You knew the man I used to be. That's why. My core is actively refusing to look at yours — it wants nothing to do with what you know." He told her, plainly, that Z was dead — that breaking the seal wouldn't bring him back, only end everything everyone in this clearing had left to protect. Ember hit him for it, again and again, calling him tool, machine, thoughtless — and he let every blow land without moving, until her arms gave out and she collapsed into his arms crying instead.
+
+"What was his real name?" he asked her quietly, once she'd worn herself out. She didn't know. Neither did Simon. Irane looked almost relieved to hear it. "Good," he said. "Let's keep it that way."
+
+That was the moment her water broke. He carried her to the medical hut himself.`,
+          },
+          {
+            id: 'sc-e6-1-jr-and-the-drink',
+            title: 'A Name for the Boy',
+            content: `Ember's son arrived that night, early and small, and Irane stabilized his core the same way he had Summari's and Nighla's — carefully, without fanfare. When it was done, he stood outside the hut with Nighla in one arm, Summari settled against the other, and asked Ember, once she'd slept and woken again, whether she had a name in mind. He offered his own suggestion first: Irane Vane Jr., his own first name given as a gift, her family name kept as the one thing that was unambiguously hers to give.
+
+Ember, still raw, told him she wanted nothing to do with the boy and that he could call him whatever he liked — and then, hours later, quietly reversed herself, asking for twelve years with him before the boy chose, at fourteen, who he wanted to be raised by. Irane accepted the terms without negotiating them down.
+
+That night, once the children were finally asleep, Simon found him leaving Arai's hut. "Seems we're both horrible men," Simon said. "We made two strong women cry today." Irane laughed, tired. "We really are monsters." Simon offered him a drink from a stash he'd been saving — "seeing as we're both monsters tonight" — and Irane, surprising himself, said yes.
+
+They talked for hours. Irane explained, for the first of what would become many times, the mechanics of his own architecture — how his mind ran on Arai's voice at baseline and shifted toward Kazemi's the deeper he drew on his own core's power, how his body would evolve forever and never let him rest, how he could turn off the parts of himself that metabolized alcohol and simply chose not to, because pretending, for one night, to be a man who could get drunk with his best friend felt worth more than the accuracy of the thing. Simon told him, in turn, about hating his own old name for years before finally settling into "Simon" as something that felt earned rather than inherited.
+
+"I appreciate you," Irane told him, somewhere past midnight. "You're the only person who treats me like a regular man. Everyone else either fears me or worships me. It's refreshing, being spoken to like I'm just — someone."
+
+Simon didn't answer that directly. He raised his glass instead, and they drank until Simon passed out and Irane carried him to bed, gathered his sleeping children, and walked back out under a moon he still found himself surprised by every time he actually looked at it.`,
+          },
+        ],
+      },
+      {
+        id: 'ch-earth-6-2',
+        title: 'Chapter 6.2: What Is an Emperor?',
+        scenes: [
+          {
+            id: 'sc-e6-2-the-ultimate-tool',
+            title: 'The Ultimate Tool',
+            content: `Morning found Arai suspicious of how energetic Irane seemed after apparently not sleeping. "You don't need sleep the way we do," she said. "I'm never fully asleep," he told her. "For me to actually sleep, I'd have to put myself into full stasis, and I promise you — that's not fun. What you've seen me do at night is closer to meditating inside my own universe. Time runs differently there. It's the only place I can really rest." He explained the rest of it while packing a bag for the day: that his current order was, at its simplest, to *be alive* — not just to persist, but to actually, fully live it, whatever that ended up meaning moment to moment. "Think of it like hardware restricting what a system's allowed to run," he said. "My body works one way when you three are in charge, and a different way entirely once Enari or Iris's power comes into it. I still haven't cancelled the order to be the Champion. I've tried. It doesn't take."
+
+He told her, on his way out the door, that he knew the love he felt for all three of them had been placed there deliberately, and that he'd made peace with it. "Loving someone doesn't mean they have to love you back. Live your life knowing that, Arai. And know that I'm grateful to you. I meant it when I called your seal a work of art." He suggested a name for it — something overwrought and self-consciously grand — and she countered with something simpler, and he conceded the point with a grin she found more irritating than the joke itself.
+
+That evening he carved two headstones by hand and asked everyone to gather the following day. In the meantime, he and Simon fell into the habit that would define the following weeks: a shared drink, most nights, and a conversation that went further than either of them planned to let it. It was on one of these nights that Simon, well past sober, asked the question everyone eventually asked. "You really don't remember being Z?"
+
+"Nope," Irane said. "So drop it. It's tiring, being referenced back to him constantly."
+
+"I didn't know you could feel more than one emotion, tool," Simon said, grinning.
+
+"Interesting, coming from the Ascen posing as a human. At least this machine has a name, and wears it proudly." They both laughed at that, and Simon refilled their cups.
+
+Later, once the conversation had softened into something quieter, Irane laid out, for the first time in full, the shape of what he actually was: that his mind ran on four distinct settings depending on how deep into his own core's power he reached, that at baseline — Arai, Hope, and Zoe's cores fully in control — he was, by his own accounting, at his weakest and most human, and that the deeper he drew on Enari or Iris, the more his personality itself began to shift toward something less recognizably his own. He recited it once, from memory, the way it had been given to him — Kazemi's own voice, describing what he'd made:
+
+*You are the man reforged with and refined with primordial dragon fire.
+The core who stands absolute of thirty-seven point two trillion other cores.
+The being refined and relentless. The undying Tool.
+Irane Core Kazemi — the Ultimate Tool.*
+
+"I hate that title," he told Simon. "I hated it the moment I remembered it, and I hated it worse the second I heard someone else say it out loud." He didn't explain, that night, exactly why. Simon didn't push.`,
+          },
+          {
+            id: 'sc-e6-2-the-funeral',
+            title: 'Two Graves',
+            content: `The funeral happened the following evening, on the mountainside, with everyone gathered at Irane's request. He had carved the words on both stones himself, with Aliya's and Dio's input on the first. The cover came off the first slab to a message that broke Aliya and Arai into tears on sight, and brought Milla sobbing into Dio's arms: *Here lies Valariya Hallow: beloved sister and wife. She who offered the names, a name. A storyteller whose fairy tale brought hope to millions. Beloved by all.*
+
+Leo stood through it with his jaw set, angrier at his own grief than at anyone in the clearing.
+
+When the second cover came away, the name on it caught everyone off guard: *Here lies Zyiphor: beloved friend. He who defeated Kazemi. Beloved by few, his deeds unknown to millions. Rest in peace. "Z."*
+
+Ember stared at the stone, then at Irane. "Is that — is that really his name?"
+
+"Who knows," Irane said, still looking at the carving rather than at her. "It felt more dignified than a letter, is all. Zyiphor — it means *gift.* His parents must have loved him, to give him a name like that." He didn't offer it as certainty, and he didn't take it back, either. Ember's tears came harder. "I don't think he's dead," she said. "I know he isn't."
+
+*Denial,* Irane thought, watching her. *Part of grief, I'm told. I don't feel much of anything about it myself. But this feels right, regardless.*
+
+He spoke to the gathered crowd once the silence had held long enough. "All things with a beginning must have an ending. That is absolute. Today, we mourn — all of you, mourn freely, for what's gone. But don't get stuck there. Tomorrow we celebrate what they were, what they gave us. Don't let grief become the whole of your life. Let it pass through you, and then let it go."
+
+A pillar of flame rose behind the two graves as he finished — many-colored, but carrying, unmistakably to anyone who'd known her, the specific signature of Valariya's own mana. Aliya wept harder into Arai's shoulder. *Kazemi's Art: Funeral Pyre,* Irane thought, watching it burn. *An annoying spell to cast. I have to actually hold both of them in my mind the whole time it runs. Valariya, I'll never forget. Zyiphor — after today, I doubt I'll remember him at all.*
+
+Arai felt something shift inside her own core the instant Irane finished speaking the boy's invented name aloud — a quiet, internal notification she almost didn't check, out of some instinct she couldn't name. When she did, what she found stopped her breath: *Command: Don't Give Up — Forget Yourself. Fully complete. Erasure complete.*
+
+His very first order, the one that had started all of this, had just closed — not because enough time had passed, but because he had chosen, deliberately, in front of everyone he loved, to let the man go.`,
+          },
+          {
+            id: 'sc-e6-2-training-and-the-flag',
+            title: 'The Flag of Apexia',
+            content: `A month passed in training. All two hundred people on the island threw themselves into it, and none more visibly than Assa and Rui, who each emerged from that month with a hybrid Beast-Tool built specifically around them: Assa's **K'sNature**, a tree-and-elemental construct capable of merging fire, water, earth, air, and ice with living wood and root; Rui's **K'sClimate**, a storm-formed beast paired with a bow that channeled the same five elements into weather turned weapon. Dio received a katana that summoned a lightning-quick eagle, named for Valariya. Leo received a greatsword with a sun caged inside dark steel, paired with a black-maned lion of fire.
+
+Dio and Leo — who had spent years hating the man they blamed for their parents' deaths — found that hatred harder and harder to hold onto with a month of daily proximity working against it. It is difficult to keep calling someone a monster when he is, in every practical sense you can see, acting like a father to the children around him.
+
+On the night before departure, a bonfire lit the center of the village, and beside it stood a flag — designed by Milla, at Irane's request, once he learned she had an artist's eye no one had thought to use. It showed a golden ring on a white field, an enormous rainbow-gold dragon spread across the back, a blue phoenix, a red dragon, and a green wolf-cat hybrid arranged inside the ring, and two smaller figures — a golden-white bird and a golden-black wolf — standing outside it. Irane held it up himself. "Tonight," he said, "the Apexia Empire is born. With this flag, we swear our hearts and our cores to its service. Long live the Apexia Empire." The cheer that answered him shook the clearing.
+
+The night ran long — food, drink for those over twenty-one (a rule Irane enforced personally, once, with a light tap to the back of someone's head), and a conversation that drifted, unprompted, into what a city in the trees, or the clouds, or the middle of the ocean, might actually look like. What began as Leo's joke — *cities don't exist in forests or clouds* — became, within the hour, an actual planning session, with Arai contributing ideas and Dio working out defensive layouts for a city that didn't exist yet. No one was laughing anymore. They were building.
+
+Later, once the village had gone quiet, Irane stood on a ridge overlooking it and asked the night, more than anyone in particular, whether Ember had gone down peacefully. Arai answered from behind him. "She's asleep. And I do care about her, despite everything — she's my student." She sat beside him, and he wrapped his wings loosely around her against the night air.
+
+"Do you even care about any of these people?" she asked him, eventually.
+
+"What kind of ruler wouldn't?" he said. "My body cares. My heart wants to save as many of them as it can. And my mind loves a great many of them, whether I like admitting it or not. So yes. I care. Whether I want to or not."`,
+          },
+          {
+            id: 'sc-e6-2-what-an-emperor-is',
+            title: 'What an Empire Is For',
+            content: `The next morning, Irane laid out the shape of what he was actually building, and it landed nothing like the founding speech anyone expected. "No system lasts forever," he told the assembled two hundred. "This Empire won't either, eventually — whether I'm the one who's Emperor when it falls, or someone a thousand years from now. That's not what matters. This Empire exists for one reason: so that everyone in it can live as fully as they're able to, with everything they have. I will give you everything I have, in return, for as long as you're part of it. But you have to choose it. And if you ever choose to leave, you don't get to come back."
+
+Aliya appeared beside him carrying a sack of golden fruit. "Aliya is my oracle," Irane said. "She decides who's ready to join and who isn't. My Empire will be called **Apexia**." He spread his wings. "There will be two tiers within it, to start. **Valariyans** — those who offer their cores completely, who become, in every sense that matters, extensions of my own will. And **Apexians** — citizens of the Empire, who pay their share and follow its law, and in exchange get a nation that actually works.
+
+"Understand what you're choosing, if you choose the first," he went on. "If I ordered you to die for the Empire — could you? If I ordered you to kill your own child in its name — could you do that too? Ask yourselves honestly before you approach Aliya for a fruit. If you'd rather simply pledge loyalty as a citizen, that's the second option, and it costs you nothing but your word. Or — you're free to leave. But once you choose to stay, that choice is final."
+
+Milla went first, ate the fruit whole, and swore herself to him with her whole body pressed to the ground. Dio followed. Then Assa. By the time the line ended, a hundred and fifty had chosen to become Valariyans outright. Dio and Simon, among a smaller group, chose simple loyalty instead. Arai, Hope, and Zoe chose neither — stepping back from both offers entirely, to the visible confusion of the crowd. "Your place beside me stays open," Irane told them, "until you choose to join the Empire yourselves." Ember, walking to stand with Arai's group, told him plainly she wasn't ready either. "Not an issue," he said. "Take your time."
+
+What actually shook him was the ratio. Three in every four of the two hundred present had chosen the deeper, more total offer — not the safer, easier citizenship. He had expected the opposite by a wide margin, and the miscalculation sat with him for the rest of the day, a low, constant unease he didn't fully shake until Zoe found him still turning it over that evening.
+
+"You're more worried about Dokia than yourself," she said, half-teasing. "You really are an interesting woman."
+
+"I trust you completely," he told her. "But I understand it worries you, not being near her for however long this takes. She'll know you the way you know her — even at a distance. I'll make sure you can at least see each other in dreams, if that helps." Zoe looked down, some of the tension leaving her shoulders. "You really aren't just a man, are you," she said — not quite a question. He didn't have a clean answer for that one either. He rarely did, when the question was some version of *what are you, really.*`,
+          },
+          {
+            id: 'sc-e6-2-the-tree-of-branches',
+            title: 'The Branch That Doesn\'t Fail',
+            content: `Departure was set for the next morning, and Irane spent the evening before it saying goodbye — to Aliya, held tightly enough that she blushed and stammered through agreeing, finally, to call him by his first name alone; to Assa and Rui, with a promise that if they came back proven, Leo included, he'd show them an Empire worth choosing permanently; to Dio and Leo both, thanked plainly for the risk they were about to take.
+
+Arai found him last, down by the water where the departure party would gather come morning. She had always been, out of everyone on the island, the one person who genuinely, quietly understood him as something closer to a monster than a man — not through hatred, the way Ember's still-raw anger read, but through the specific, informed clarity of having actually seen what lived at the center of him and never fully looked away from it since.
+
+"What's it like in there?" she asked him, nodding at his own head, only half-joking.
+
+He didn't answer directly. Instead, without quite deciding to, he let her see it — the branching structure at the center of his own thinking, the single seed of the order to become Champion spreading upward into a thousand possible futures, most of them catastrophic. She saw versions where she died. Versions where all of them died. Versions where the Empire never got off the ground at all, and versions — fewer, and further up — where it did.
+
+"I wouldn't dwell on the failure branches," Irane told her. "They're mostly worst cases." She kept looking anyway, unable to stop herself, until she finally asked the only question that mattered. "Be honest. What are our actual odds?"
+
+"Honestly?" He looked pleased in a way she hadn't seen from him before. "Better than the hopelessness of an endless task ever was. This is the first time I've had a plan that doesn't take centuries to see through. I find myself curious what it actually looks like, finished."
+
+She laughed, despite herself, at how genuinely hopeful he sounded. "I look forward to seeing this Empire of yours, then, Irane." He blushed — an actual blush, unguarded — at how much the sentence affected him. "You're just adding pressure now," he told her. "But fine. I'll put everything I am into making sure it lives up to whatever standard you're imagining."
+
+They stood there a while longer, and before she left for her own hut, he told her, plainly, what the timeline actually was: roughly eight months until Iris returned to him with Urial's birth, and full access to Enari only once the search for Gaia and Cronus's cores was finished. "I'm limited to about fifteen percent of my real strength until then," he said. "Restrictive. But fine. Just make sure you three finish your part as fast as you can, so we can get to building." She laughed at the presumption in it — that failure wasn't even being considered as an option — and went to bed still smiling despite everything waiting for her back home.`,
+          },
+        ],
+      },
+      {
+        id: 'ch-earth-6-3',
+        title: 'Chapter 6.3: The Apexian Empire!',
+        scenes: [
+          {
+            id: 'sc-e6-3-tomas-court',
+            title: 'Toma\'s Court',
+            content: `While Irane prepared to leave for Paradise, Toma More was preparing his own summit in Heaven — a peace conference dressed up as generosity, staged for Criya Sin, the man now speaking for what remained of the Primals of Paradise. In the eight months since Cai's disappearance, Paradise's population had collapsed from a hundred million to forty, split between those the Arke twins had converted outright and those who'd fled back to Toma's protection. Toma had used the desperation ruthlessly — forcing every Primal under his banner into human bodies, and using Nevir's death and the political vacuum it left to install Evelyn Revyn and Audis Prescian as heads of their respective houses, fully obedient to him.
+
+Two new faces stood behind Toma that day: **Nex Wov**, twenty-eight, current head of the Wov clan, close to Hope in childhood and visibly uncomfortable with the debt that bound him to Toma's service; and **Kia Osiro**, forty-two but wearing a body twenty years younger, Ember's older half-sister and current head of the Osiro clan, stubborn and blunt and carrying more guilt than she let show over losing Father Time's Book. Both owed Toma their clans' survival from the Fest, and both hated him quietly for the price of it.
+
+Toma sat above the room on a chair built deliberately taller than the rest, and told Criya plainly: bow, or die, or choose oblivion — there was no version of the meeting where Criya walked out with real leverage. Criya, half a breath from kneeling, was interrupted by a guard bursting through the doors with news of three cloaked strangers demanding an audience — one in gold, one in red, one in white, faces hidden behind featureless masks that Minia, present at Toma's side, recognized instantly as her own division's design.
+
+They entered. The one in white planted a flag none of them recognized. The two in red and white removed their masks first, and the room went cold: **Mira** and **Pandro**, both presumed dead by everyone present, standing very much alive.
+
+"Good day to you, Lord Toma More," Mira said, her voice carrying a register none of them had heard from her before — reverence, worship, absolute conviction all at once. "I am Mira I. Ardent, the great general of his majesty, who stands at the pinnacle of all existence." Pandro, beside her, matched her tone exactly: "I am Pandro I. Prescian. The great Sage of my Lord, who is all and beyond. Be glad — very few are given the honor of standing in his presence."
+
+They bowed, and the figure between them let his cloak burn away in a wave of golden fire shaped, briefly, like a phoenix. When the smoke cleared, the room recognized him before Mira finished the introduction, and the recognition alone was enough to put half of them on the edge of their own instincts.
+
+"THE CORE OF CORES," Mira and Pandro announced together, "THE EIGHTH CHAMPION OF PRIMALS, THE FIRST EMPEROR OF APEXIA: LORD IRANE KAZEMI!"
+
+Criya was on his knees before the echo finished. "I live to serve you, my Emperor, Lord Kazemi." Irane looked down at him for a long moment, his golden eyes carrying a rage he made no attempt to fully hide, fixed the entire time on Toma and, beside him, on Minia.`,
+          },
+          {
+            id: 'sc-e6-3-negotiation',
+            title: 'Three Demands',
+            content: `"So you're Irane Kazemi," Toma said, testing the name in his mouth. "I suppose I don't need to introduce myself. What do you want?"
+
+"Nothing complicated," Irane said, taking one of the offered seats without waiting for permission. "I've come to negotiate a treaty for my Empire. Or was that unclear, Primal?"
+
+He asked Toma, directly, what he truly wanted at his core — the same question he'd once put to Arai, Hope, and Zoe — and Toma answered without flinching: protection for his people, and the deaths of everyone who'd made that protection necessary. Irane's counter was equally direct. "And what happens to your people if that need for revenge is what finally kills them?" Toma's answer ran long and bitter — six billion Primals reduced to one, watching his own people scorned by the young for surviving through magic the elders had once called evil, using every tool available because the alternative was extinction. Irane listened to the whole of it and was, visibly, unimpressed. "You're sitting on that chair like it's a throne," he told Toma, "while you're preparing for your own defeat. Two billion against eighteen billion combined, between the Ferali, Celestials, and Orians. You know the math doesn't favor you."
+
+Their actual goals, it turned out, weren't so far apart — both wanted the Arke twins destroyed, for reasons that had nothing to do with each other and everything to do with what each of them had already lost. Irane laid out three terms: open travel rights between Heaven and Paradise, formal recognition of Apexia as a sovereign nation, and legal registration of "Kazemi" as a recognized clan name — plus enough funding to actually get the Empire off the ground. Toma, calculating, agreed to a five-year open window: anyone could move freely between the two cities during that time, but once it closed, they'd have to choose a side permanently. Children under twenty-one would retain the choice until they came of age.
+
+Minia, watching the whole exchange with visible unease, finally broke and asked after her children — the twins she'd once carried and never gotten to raise. Pandro answered before Irane could, cold and final: "The children you were prepared to abandon are fine. No thanks to you. Understand, though — you will never see them."
+
+Toma wished him well with the Arke twins as they left, and sat afterward turning the same question over that had bothered him the entire meeting: what Irane's real goal actually was. He didn't like that he couldn't answer it.`,
+          },
+          {
+            id: 'sc-e6-3-paradise-arrives',
+            title: 'The City That Wasn\'t Paradise Yet',
+            content: `Ten million Primals chose to follow the cloaked strangers to Paradise rather than stay in Heaven, most of them gambling on faith they couldn't fully explain rather than any concrete evidence of who the strangers actually were. Irane kept his own identity deliberately obscured the entire journey — a decision that confused his own escort, **Adri Suin** and **Jade Alge**, the two assigned to guard Criya on the walk in. Jade, fiercely loyal to Cai and openly disdainful of bowing to Toma, pressed the question directly: didn't Irane want all two billion Primals following him, if the name carried that much weight?
+
+"Imagine two billion people descending on a city that can't feed forty million," Irane told him. "They'd starve each other before they ever reached me. This isn't liberation. It's containment, until there's something worth being liberated into." When Jade and Criya both, separately, swore themselves to him on the road — Criya choosing to become a Valariyan on the spot, eating the golden fruit Irane offered without hesitation — Irane found himself relieved, not gratified, that only one of the two had gone that far.
+
+Paradise itself, when they reached it, was barely a city at all — crumbling Primordial infrastructure straining to support a population it was never built for, ancient mana-channels running dry, buildings cannibalized for space. Irane moved through it quietly before announcing anything, taking in the specific, ordinary devastation of hungry children and exhausted elders rather than the abstract scale of the crisis. He fed a crowd of them himself before he said a single public word about who he was.
+
+When he finally spoke, his voice carried the length of the city without effort. "Lady Cai Consa is dead," he said first, and lifted the last robe anyone had seen her wearing — proof enough, given the mana signature broadcasting from it, that no one in the crowd could deny. Years of hope collapsed in that single sentence, audible as a single collective intake of breath across the whole square. "She died rescuing me and my children," he continued, "and so I am here to fulfill her final wish — to protect everyone she cared for." Only then did he name what he'd actually come to build: the Apexia Empire, its flag unfurled behind him at full size for the first time in the city it was meant to claim.
+
+Mira and Pandro laid out the choice plainly: stay and become a Valariyan, stay and serve as an ordinary Apexian citizen, leave for Heaven and serve under Toma, or leave and take their chances alone. They had until midday the next day to decide. Irane made certain, in every way he could manage, that the first option sounded like exactly what it was — the heaviest cost anyone in the square could choose to carry — hoping, quietly, that as few people as possible would choose it.`,
+          },
+          {
+            id: 'sc-e6-3-cais-dead-and-the-plague',
+            title: 'What Thirteen Million People Actually Needed',
+            content: `Of the fifty million Primals caught up in the choice that day, twenty million chose Apexia outright, eighteen million chose to return to Heaven, and two million — the number Irane could not make himself judge aloud, however much it cost him privately — chose to disappear rather than choose either. Of the fifteen million who came under his banner directly, only two million offered themselves as Valariyans. It was a smaller number than he'd feared, and he still found the two million too many.
+
+He gathered what remained of the council of Paradise — Mira, Pandro, Evelyn (newly arrived, declaring her own defection after learning, posthumously, that her late husband Nevir had secretly prayed for his own turn in the trial that killed people like Z, and had died still believing), Audis, Criya, Milla, and Jade — and laid out the crisis plainly rather than dressing it up. Roughly a tenth of the population needed urgent medical care. A wasting sickness — the Phial Plague, a slow mana-rot that showed as grey, stone-like patches on the skin before working inward — had already taken hold in a portion of the survivors deeply enough that no amount of care would save them; a larger portion could still be pulled back if treated in time.
+
+He didn't dwell on the exact figures longer than the room needed to understand the scale. What he asked for instead was structure: one force to secure the old, technology-rich ruin of Tulla and begin reverse-engineering its dormant Primordial infrastructure; one to hold the line against the Arke twins directly; one to police, train, and rebuild in Paradise itself while the plague ran its course. Evelyn, watching him work, kept circling back privately to the same unresolved question — whether Minia's account of Arai's total control over him could possibly be true, watching him govern with a fluency that read nothing like a man following orders.
+
+Ember, arriving unannounced partway through the meeting, asked flatly what she could do to help. "You're sure you want to?" Irane asked her. "I'm stuck here twelve years regardless," she said. "Might as well be useful." He put her under Mira's command without argument.
+
+What none of the planning accounted for was what happened the moment his name was confirmed publicly, past any doubt, in front of the full assembled thirteen million. A man near the throne room asked directly — loud enough for the transmission to carry across the whole city — whether he was truly Lord Eight Consa. "I really don't like that name," Irane told him. "Use my real one — Irane Kazemi." The city's answer wasn't a cheer. It was closer to a roar, his name passed from mouth to mouth until it became a chant, and the chant became a stampede — not away from the offer of Valariyan servitude, but *toward* it, thousands of people who had chosen citizenship only hours earlier now screaming to be allowed to give everything instead.
+
+Irane's own face, by every account of the people who saw it happen, went completely blank with something between horror and disbelief. He had spent the entire founding trying to make the deepest tier of his own Empire sound as unappealing as honesty allowed. The myth had simply overridden him the instant it was confirmed real, the same way it always had, whether he wanted it to or not.
+
+He let the city celebrate that night rather than fight the tide any further — danced with them, sang with them, handed out what remained of his own stored liquor, and moved quietly among the sick between songs, treating what he could with what nature and life magic he had spare, Crono's phoenix-fire closing wounds that would otherwise have festered past saving. It was, by any measure that mattered, both the best and worst possible outcome of the day, and he understood, watching the fires burn late into the night, that he was going to have to build an Empire around thirteen million people who wanted, overwhelmingly, to belong to him completely — a want he had spent every waking hour since the founding trying, and failing, to make smaller.`,
+          },
+        ],
+      },
+    ],
+  },
+
+  // ── Part 7: The Price For One's Core! ──────────────────────────────────────
+  {
+    id: 'part-earth-7',
+    type: 'part',
+    title: "Part 7: The Price For One's Core!",
+    subtitle: 'Irane stops being a survivor and becomes a myth — and the world\'s reaction to what he now is arrives as terror, not awe.',
+    chapters: [
+      {
+        id: 'ch-earth-7-1',
+        title: 'Chapter 7.1: Whatever It Takes!',
+        scenes: [
+          {
+            id: 'sc-e7-1-aura',
+            title: 'Aura Veil',
+            content: `A day after the celebration of Irane's return, the city was still on its feet fixing what the founding-day crowds had knocked loose. He had spent the last twenty-four hours simply walking through it, showing his face, letting people touch his sleeve like proof he was real. He was passing through an abandoned quarter near the eastern wall when he saw the child.
+
+She was maybe six years old. The white-grey rash of the Phial Plague — Parah, the older word for it, the one the Primals still used in private — had spread across the whole right side of her body and taken her right eye. She was starved-thin, and she flinched away from him the moment she registered who he was, tripping over her own feet in the effort to put distance between them.
+
+He caught her before she hit the ground.
+
+"Please, my lord, I don't want to give you this," she said, already crying, already trying to pull free of his arms. "I don't want to curse you with it."
+
+"You don't need to worry about that," he told her, holding on. "If I caught something from one of my own people, I wouldn't cry about it. Where are your parents, child?"
+
+"Dead," she said. "My whole family's dead." Talking clearly hurt her. "I killed them. I got sick, and then they got sick from me, and they died. My brother stayed with me a little while after, and then he died too. I'm all alone, my lord. Please — let me go. I couldn't live with myself, cursing you the same way."
+
+She was quietly, completely certain that she had murdered her own family by existing. He looked past her, out at the rest of the quarter, and understood why she'd been left here — this whole section had been turned into an informal containment zone, thousands of Parah cases quarantined together, kept far enough from the rest of the city that no one else would catch it. The other Primals who'd swarmed him in the streets an hour earlier hadn't come within a hundred meters of this place. Nobody had.
+
+He thought, with the flat clarity he used for logistics: they are all past saving. Keeping them alive is a drain this Empire cannot yet afford. It was the correct move, by every calculation that mattered.
+
+"What's your name?" he asked her instead.
+
+"Aura," she said. "Aura Veil, my lord."
+
+It caught him somewhere he didn't have a name for yet. She was six years old and she had already convicted herself of a crime that wasn't hers. He set her down gently, asked if she'd eaten, and when she shook her head, pulled meat and fruit from his own stores and put it directly into her hands. She ate like she'd forgotten food could still exist. He told her he'd bring more, and meant it, and gave the order before he'd even left the quarter.
+
+He walked out still turning the numbers over. It was the logical move — Aura had months left, if that, and so did everyone else in that quarter. Keeping them alive was a liability with no return. He was still telling himself that when Zoe's voice cut through his own head, unbidden: *Don't give up.*
+
+"Even here," he said out loud to no one, looking up at the sky. "Even in a fight this hopeless, you still tell me not to give up." He laughed once, short and humorless. "Fine. If curing a fatal plague is what it takes to prove I heard you, I suppose that's easier than what I did to Enari." He exhaled. "Emotions really are a problem, aren't they."`,
+          },
+          {
+            id: 'sc-e7-1-mercy-debate',
+            title: '"Might"',
+            content: `He summoned Mira and Criya that afternoon. He didn't turn from the window when they entered.
+
+"There are thousands in the eastern containment zone with Parah," he said.
+
+Criya's face fell instantly. Mira's didn't. "Do you want us to grant them your mercy?" she asked — meaning, plainly, to kill them.
+
+Criya rounded on her. "What do you mean, *kill* them —"
+
+"You know exactly what Parah is," Mira said, still cold, still direct. "It's called the curse to the living for a reason. I lost my mother to it. I watched my own father and brother treat her like she was already dead the moment it reached her foot. This isn't cruelty, Criya. It's mercy. Can you cure them? Can you take their pain away? No. So which is worse."
+
+Criya had no answer. He'd been the one running the containment zone before Irane came back; some part of this was already sitting on him as a personal failure. "There has to be a way," he said, quieter now, pleading with the window rather than with either of them. "Lord Irane — you can save them. Can't you?"
+
+Irane let the silence run long enough that it started to hurt. "There might be a way to save all of them, and cure the illness completely."
+
+Mira's composure cracked for exactly one visible second. "*Might*?"
+
+"This will cost us," Irane said. "It will slow everything we're building here, and I genuinely don't know yet whether the detour is worth it."
+
+"People's lives are on the line," Criya said. "Of course it's worth it."
+
+"Even if it costs the lives of thousands of innocents to save them?"
+
+That stopped Criya cold — not because he'd never killed, but because killing on Irane's order and killing the people he was trying to save were not, in his mind, the same category of act. He bowed his head anyway. "I would take any life you commanded, my lord. Even an innocent child's."
+
+Irane turned back to the stars rather than answer that directly. Mira stepped up and put a hand on his shoulder — a gesture that visibly unsettled Criya more than anything said aloud so far. "I'm sorry, Irane," she said, and meant it as an apology for what she assumed he was about to order.
+
+"I met a child in that zone today," Irane said. "No older than six. I looked at her and all I felt was pity, and how pathetic it was that pity was all I had to offer. One order from me and you'd have them all dead within the hour, Mira, and people would still call it mercy. They'd still love me for it. I hate how easy that would be." He asked her, without turning: "Does the name Aura Veil mean anything to you?"
+
+Mira went very still. She knew — Ember had told her once, in confidence, that the voice Irane carried in his own heart had first been shaped around the memory of a woman named Aura, the first person "Z" ever loved. Irane's own mind had discarded every trace of that history along with the rest of who he used to be. She made a choice in that silence. "It's a name that means nothing to you, Irane."
+
+"I see," he said. He asked her plainly what she thought was right, if he deviated from the plan they'd already built — whether this infant Empire might die in its cradle over one detour. She told him, just as plainly, that whatever he chose, she'd follow it into hell if that's where it led. He finally turned to face them both, decision already made behind his eyes. "Criya. Go get Evelyn and Pandro."
+
+Once Criya had gone, Mira asked him directly why he'd bothered staging the whole conversation if his mind had already been made up.
+
+"Honestly," Irane said, "I was hoping you'd be the voice of reason and tell me to kill them."
+
+She laughed at that — genuinely, for the first time in days. "You knew I'd never sign off on that if there was any alternative. I don't want to be like my father. Or my brother." Something in her voice made it clear this wasn't only about the Primals in the quarantine zone.
+
+"Then I'm lucky to have you as my General," Irane said, and meant it plainly enough that it made her smile despite herself.`,
+          },
+          {
+            id: 'sc-e7-1-earth-mission-briefing',
+            title: 'Four to Earth',
+            content: `Criya returned with Evelyn and Pandro. Irane stood in front of Evelyn specifically before he said anything else.
+
+"Where do your loyalties lie, Evelyn?"
+
+She felt the question land like a verdict. "I made my choice. I'm loyal to you, Lord Irane."
+
+His silence afterward was worse than any accusation would have been. "Many would call you a liar."
+
+"I'm loyal to you," she said again, steadier. "I didn't choose to be Valariyan, but I am Apexian, and I swore that loyalty to you myself, my lord."
+
+"Then here's your chance to prove it." He laid out the mission plainly: all four of them — Evelyn, Criya, Mira, and Pandro — were going to Earth. Pandro asked, confused, about the standing order to prepare the war effort; Irane told him flatly that thousands of his own people's lives outweighed it. "This Empire will not simply let its own people die a slow death or a fast one. Not while I can prevent it."
+
+He explained Parah properly: nearly untreatable once it reached the organs, but survivable — for a human. The rash was cosmetic on a human body, nothing more. The plan was to move every infected Primal into a human vessel, the same core-transference method the Consa labs had already proven worked. To do that at scale, they needed bodies — specifically, unconscious, coreless human bodies, harvested at a facility large enough to supply thirteen million transfers.
+
+"House Surya has the largest stock of test subjects with no consciousness left in them," Evelyn said, when he asked her directly which of her father's facilities would serve. It cost her something to say it out loud. Criya balked at the plan on principle — using captured, comatose people, even coreless ones, unsettled him — until Irane cut him off: he wasn't asking anyone to steal a body someone else might wake up and reclaim. Evelyn's own knowledge of the site confirmed there was nothing left inside those particular bodies to lose.
+
+Irane rolled up his sleeve. A grey rash, already fading at the edges, marked his forearm.
+
+They all recoiled instinctively before he laughed it off. "Relax. I got this from Aura. I could clear it whenever I want — it barely itches. But I'm keeping it until you all come home." It wasn't a boast. It was the plainest kind of proof he had that he wasn't asking them to risk anything he wasn't risking himself, and he made sure they understood that before he gave the actual order.
+
+He handed Mira a sealed letter. "Simon left this with me — it's the location of a man called Tan Loo, and a way to reach him that only he can verify. Meet him. Get his help against House Surya. He'll want to help regardless, once he understands it means every conscious human in that lab walks free under his own banner instead of ours."
+
+Evelyn's task was the raid itself and command of the mission — a direct test of the loyalty she'd just claimed. Mira's task was quieter and darker: erase House Surya's bloodline to the root, so their ancestral weapon — the Stellar Beast — would answer to a new hand cleanly, and hand it to Tan Loo's resistance rather than keep it. "I can't trust Criya with wiping out an entire clan, women and children included," Irane told her privately, once the others had gone. "And I need Pandro focused entirely on the transference, not distracted by vengeance."
+
+"Four months," Irane told them all, before they left. "That's how long before this spreads past my chest and becomes genuinely fatal. We have two years of food and water stockpiled, so don't rush the mission on my account — just don't take longer than that. Until you're back, I hold this city."
+
+He spent that night in the quarantine zone with the sick, the way he'd spend every night of the next three months — sharing food, showing no fear, never once letting any of them see him flinch from what they carried.`,
+          },
+          {
+            id: 'sc-e7-1-first-siege-begins',
+            title: 'The Storm With No Center',
+            content: `Three weeks into the mission, Irane was down to fifteen percent of his own strength — no Enari, no Iris, cut off from both Kazemi's Drive and his own Will, and working the clock trying to rebuild a city out of the bones of a Primordial one. He put Ember on the shield restoration and Milla on communications and city coordination, and between the three of them the wall cannons on the north, east, and west gates came back online, the south gate — the hidden route home for Mira's group — kept sealed and secret.
+
+Then the scouts confirmed what he'd feared since the first day: a force of millions of Ferali massing in the exact staging ground Droom Lucerne had used before, and the path to Heaven already cut off. She wasn't here to raze the city. She was here to make sure nobody escaped it.
+
+Droom's strategy revealed itself over the following days as something worse than a straightforward assault: small waves, constant rotation, no single overwhelming push — attrition dressed as patience. Irane read it immediately and, to the horror of the Primals around him, smiled. "So that's the plan. Wear us down, then finish us when we're weakest. Fine. If it's a war of attrition and not annihilation, we have a chance — we just need to survive until Mira gets back."
+
+He had perhaps five million people who could stand and fight, most of them untrained; his real soldiers had gone to Earth with Criya and Mira. He assigned Milla the most secure position in the city, moving people and resources as needed. Ember held the east and west shields. He took the north gate — the worst of it — personally, merged with Crono, his dragon features folding away into something closer to a phoenix: wings of fire-feather, the blue of Arai's mind-core threaded through his golden hair.
+
+For three months he did not stop fighting. Day and night, gate held and re-held, bodies of the fallen — theirs, not his people's — piling in front of the wall. For every soldier Droom's forces took from him, he took four of hers. It was, by any honest accounting, hell — and it was working, because every Ferali she diverted to keep him pinned at the north gate was a Ferali not attacking anywhere his people were actually vulnerable.`,
+          },
+          {
+            id: 'sc-e7-1-earth-tan-loo',
+            title: 'A Second Resistance',
+            content: `Evelyn's group reached Tan Loo's hidden base through a portal built specifically to avoid alerting Toma More to their movements. Tan tried to kill Evelyn on sight — Mira stopped him before the blow landed — and the room's assembled resistance fighters came half a breath from joining in.
+
+Evelyn didn't defend herself. She went to her knees, forehead to the floor, in front of the man who hated her most in the world. "I haven't come to apologize for what I did to you in my father's name," she said. "I've come because the lord I chose to serve sent me to lead this operation — and if that means bowing my head to someone I once called beneath me, that's a very small price to pay."
+
+It didn't win the room. What won Tan's attention was the letter Mira handed him — Simon's, in a cipher Tan himself had designed, unforgeable to anyone who hadn't built it. He read it, weighed it, and put the question to Criya directly: why should he risk a single one of his people on this?
+
+"We have a hundred thousand soldiers," Criya said. "It doesn't match your three hundred and forty thousand — we could have simply attacked you while you were unprepared instead of asking. We're offering to lead you straight into House Surya's lab. Every conscious human there is yours to take home. We only need the ones with no consciousness left."
+
+Tan took two months to decide instead of the four Irane had budgeted, at Mira's insistence — time was the one resource none of them actually had. The plan split into two teams: Criya and Mira drawing the Surya clan's main force into open engagement, while Evelyn, Pandro, and Tan slipped in to secure the lab itself and its captives.
+
+Sin Surya had stayed behind personally to guard it, her elite unit with her, the rest of the clan committed to the field. She laughed when she saw Evelyn — called her traitor — and the fight that followed nearly ended in Tan's death: Sin took his arm and shattered several ribs before he'd bought Evelyn the seconds she needed to finish gathering the mana for one last technique. Death's Raging Breath took Sin's head. Evelyn narrated the mechanics of the kill to the corpse afterward with a clinical detachment that unsettled even Tan, who owed her his life in the same breath.
+
+Then some of the soldiers brought forward Sin's two young children, captured alive. Tan asked, plainly, that they be spared — they were innocent, whatever their mother had been. Mira killed them anyway, on the spot, with no hesitation and no visible cost to herself.
+
+*"The children of the enemy is the enemy."*
+
+No one in the room defended it afterward. No one has processed it since.
+
+Tan and the resistance took five million conscious humans home. Mira's group took fifteen million bodies with no consciousness left in them back toward Paradise. Before they parted, Mira handed Tan the Stellar Beast outright. "A thank-you gift," she told him, "from Lord Irane. It'll serve you better than it would us." Tan, stunned, offered his own forces to help move the fifteen million bodies home — with his help, the trip would take less than a month.
+
+They arrived to see Irane run through by Droom Lucerne's arm.`,
+          },
+          {
+            id: 'sc-e7-1-droom-duel',
+            title: 'Phoenix Re-Ignition',
+            content: `That morning, before Mira's convoy made it back, Droom threw everything she had at the north gate at once. "I wonder if you really thought my plan was simply to destroy your city," she called out to him, as millions of Ferali broke into a full charge that shook the ground. "Once you're dead, nothing stops me from claiming every Primal in it."
+
+Irane asked Ember, over the link, if the shields were finally ready.
+
+"Three months of work — yes! Give them hell, Irane!"
+
+He put both hands to the ground as the shield came up around the charging horde. "You really think I spent three months just surviving?" *"Kazemi's Art: Phoenix Re-Ignition!"* Three months of stored battlefield mana detonated in a single instant — an explosion large enough to set the horizon on fire, held just barely inside the shield's containment. When the smoke cleared, every Ferali that had been charging the north gate was dead. The east and west assaults were all but wiped out with them.
+
+Droom survived at the center of the crater her own shielded darkness had carved out, and looked at him with something closer to delight than rage.
+
+What followed was the worst fight of his life. She hit like something built specifically to kill him — a straight right that shattered his forearm through the block, then a merged devil-panther form that outmatched anything he'd seen her use before. *"Let me show you the difference,"* she told him, *"between an Alma who was given power, and one who took it and kept it for centuries."* He took hit after hit, bleeding from a dozen places, his own habit of smiling through pain the one thing that visibly unsettled her more than anything he did with his mana.
+
+"Damn," he thought, taking another blow that should have ended him. "I can't believe she's this strong. I could actually die here." He smiled wider.
+
+She caught him eventually — impaled him clean through the torso, after he'd already cut off his own leg to stop a spreading dark-earth infection from climbing it. "You didn't even make me spill a drop," she said, disappointed. He grabbed her arm before she could pull free.
+
+*"Gotcha. Kazemi's Art: Phoenix Re-Ignition."* The move detonated a second time, buying him the half-second he needed to lock her in a full nelson from behind — legs both whole again, wounds gone, his old draconic features returned in full. *"Let's see if you can walk away from this without a scratch. Phoenix Light-Flame Magic: Rebirth from Blazing Light."* Crono swallowed them both whole in a wall of light bright enough to look like a second sun breaking on the ground.
+
+When it faded, they were both still standing — both bleeding, both breathing hard. "Well, look at that," Irane said. "You can bleed."
+
+She wanted to know what he'd been counting on. He told her the truth: that move had been a suicide gambit, his last resort, usable exactly twice more before it burned through everything he had left — and her own darkness consuming them both in the blast was the only reason either of them had survived it. "But I think I did enough."
+
+She asked him, almost gently, why he was fighting this hard for people he barely knew. Whether he was really willing to die for strangers.
+
+"Of course I would," Irane said. "I'm their Emperor. When it matters, I give it everything. That was the promise I made." He straightened, blood running from a dozen wounds, and said the words that would define how the rest of the world spoke of him from that day on: *"I am Irane C. Kazemi: The Eighth Champion of Kazemi; The Emperor of Apexia. Tell your master this, and don't leave out a single detail."*
+
+The declaration carried across the whole city. People wept, hearing it.
+
+The fight ran on past the point either of them had any right to still be standing. He was nearly out of mana and fighting anyway, smiling the entire time — an old habit he genuinely didn't notice himself doing anymore. "Seriously," Droom snapped at one point, "would you stop *smiling* and die?" "Sorry," he told her, meaning it. "Force of habit. It's a joyous thing, giving everything you have."
+
+She landed one more grievous wound before he ended it — Phoenix Magic: Electric Screech, current tearing through her nervous system until she went rigid, paralyzed, still conscious. His eyes closed a moment later. He didn't fall so much as simply stop.`,
+          },
+          {
+            id: 'sc-e7-1-revival',
+            title: 'Three Hearts, One Breath',
+            content: `Mira's convoy crested the ridge in time to see him hanging off Droom's arm. She cut through the Ferali between them at a dead run, Emo already surfacing in Dread form from sheer terror, and reached Droom just in time to mark her with Constraint across the same wound Irane had left — Droom's body no longer answering to her own will, frozen in place, unable to so much as flinch as a Ferali dragged her back from the field.
+
+Mira pulled Irane's body free and retreated as Pandro laid down covering fire — a wall of lightning that gave Criya and Audis room to open the east and west gates and force Droom's remaining wave into full retreat. It wasn't a clean win. It didn't need to be. It only needed to hold.
+
+Irane wasn't breathing. His heart wasn't beating. The whole city gathered around his body in a silence nobody wanted to be the first to break.
+
+"I don't think he's dead," Ember said, pushing through to kneel beside Mira. "His heart hasn't beaten in ten years. Has it?" She called out to the crowd — did anyone here carry a Life/Death-aligned core? Nobody answered. Mira thought of Dokia, and it was a gamble even saying her name out loud: Dokia carried Irane's Death core, but she was an infant, with no way to consciously channel anything.
+
+Ember remembered something from her own pregnancy — a design she'd half-seen and never understood until this exact moment. She placed Summari on Irane's right side, Nighla on his left, Dokia between them, and made all three children join hands over his chest.
+
+Dokia's violet hair lit first. Then Summari's white, then Nighla's black — the three of them laughing the way infants laugh at nothing in particular, delighted by a game none of the adults around them understood. Irane's own hair caught the same deep purple light. Crono manifested beside him, burning blue-violet, and folded her flame gently around all four of them.
+
+He opened his eyes. "Oh," he said. "I can't breathe." Dokia was sitting directly on his chest.
+
+The city roared.
+
+Mira lifted the children off him and helped him sit up, crying without seeming to notice she was crying, and he looked around at everyone weeping openly at the sight of him alive and said, mostly to himself, "Please don't tell me you're all crying because of *me*." He tried to stand and mostly succeeded — healed, but still needing time before the wounds finished closing properly.
+
+The city's cheering shifted, over the following minutes, from *Lord Irane* to something with more weight in it: *Glory to the Emperor. Long live Apexia. Long live Irane Kazemi.* It was the first time most of them had used his full name rather than his title, and it visibly moved him more than the victory itself had.
+
+He asked Mira for a debrief. She told him, not unkindly, to rest first — three days' unconsciousness, by his own body's usual math, for every real day of sleep he took. He laughed, leaned into her, and went under standing up.
+
+By the next morning, a quieter kind of unrest had already started spreading through the city: not gratitude, but a creeping discomfort that the man they'd believed untouchable had nearly died bleeding in the dirt like anyone else. It didn't fade in a day. It didn't fade in a week. Some called him a fraud for having ever been at risk at all. Others pointed to the three months he'd spent holding the wall as proof of exactly the opposite. Mira and the rest spent most of that week simply keeping the peace between the two camps.
+
+Tan Loo found Ember again during the same unrest — old squadmates, reunited. He was the one who told her, gently, what her son's existence actually meant to him: "So you and 'Z' finally went all the way. I owe Crimi money." She corrected him quietly: he isn't Z. He never was. Tan didn't press it. When she asked if he knew Z's full birth name, he admitted only Crimi might, and promised to ask, the next time their paths crossed.
+
+Irane, once he could stand under his own power, told Mira flatly what the city's fractured reaction meant to him. "Of course they're divided. Their champion lost. Ask yourself honestly whether you'd have kept following a champion who bled that badly." He didn't sound bitter about it. "It's useful, actually. It separates the people who are serious about this Empire from the ones who came to watch a show." He noted, almost as an aside, that his hair had shifted more toward red than blue — Dima had come to him now, and Crono had returned to Arai; Enari would keep rotating between the three sisters every four months, and it was his turn again. "With Dima, the transference is simple. Mira — go and prepare ten million bodies. The other five million I have a different use for."`,
+          },
+          {
+            id: 'sc-e7-1-aura-transferred',
+            title: 'Child of Apexia',
+            content: `He went to the quarantine zone alone, before anyone saw him. Aura was at the edge of death by then — the marks had taken her remaining eye, and she'd stopped eating three days earlier, quietly starving herself rather than risk killing anyone else the way she believed she'd killed her family. She apologized to him before he'd said a word, certain that his brush with death had been her fault, certain she didn't deserve to be saved as one of his people even as she begged, in the same breath, not to be left behind.
+
+"Tell me, Aura," he said, lifting her into his arms. "Are you a Primal, or are you a Valariyan?"
+
+She went quiet. "I want to be a Valariyan," she said finally, small and certain. "I know it's selfish, after everyone who died because of me. But you're my Empire, my lord. No matter what anyone says."
+
+"Good. Then my orders to you are absolute — understood?"
+
+She nodded.
+
+He carried her openly through the restricted zone and into the lab, where Pandro already had bodies prepared. He chose one close to Aura's own age, marked its forehead with a drop of his own blood — a small ritual with no functional effect beyond declaring, plainly, that this body belonged to him and to no one else — and told her: "After today, you'll be a true Valariyan. A citizen of Apexia. One of my people. Do you understand?"
+
+"Yes."
+
+Dima's spatial ability carried the transfer through in an instant. Aura's core moved into the new body; her old, ruined one turned to dust behind her. Her hair came in wind-white where it had been brown. She sat up slowly, uncertain of her own limbs, wobbling like something newborn, and Irane held her steady.
+
+"Open your eyes."
+
+She opened one, then — at his gentle prompting — the other. Both a bright, matching white. He made her an ice mirror so she could see her own face for the first time in months without a single trace of the plague on it. She cried until she had nothing left to cry with, and hugged him with everything her new, untested body had.
+
+"Rest, Aura Veil. Child of Apexia."
+
+She asked, in the same breath, whether he would be cured too. He told her the truth — four months, once Enari's rotation brought Aphexia's Life/Death aspect to bear through Zoe. Mira, overhearing, pointed out with some irritation that he'd told her four months would make it *incurable*. "It's spread to my chest and one lung," he admitted, "because I kept fighting through it for three straight months. If I actually rest, it won't reach my heart."`,
+          },
+          {
+            id: 'sc-e7-1-citizenship-speech',
+            title: 'Two Choices',
+            content: `He addressed the city that evening, still visibly weak, still healing. "I made you a promise four months ago — that citizenship here would be a choice, not a sentence. That remains true. But understand what I actually am: not some invincible being who can't be beaten. I bleed. I feel pain. I can die — you all watched me nearly do it. So here is the real choice, and I want it made with your eyes open.
+
+"Stay, and you'll be placed in one of the bodies we've already prepared — every one of them marked as mine. Once you choose that, there is no walking it back. You'll be Apexian, and you'll be my people. Or leave, and never return. Everyone under fourteen has until sunrise to decide."
+
+He didn't dress it up as more than it was. "I'm here to keep a promise I made to Cai Consa. I am not your savior, and I am not your messiah. I am your Empire, and you are my people. Understand that before you choose."
+
+It was a harder tone than his first address four months earlier, and the crowd felt the shift — there was no safety on offer here, not even under him. Only a direction, and a ruler willing to bleed for it rather than a protector who'd shield them from ever having to.
+
+As he turned to leave, a column of Primals stepped forward — many of them Parah survivors, many of them people who had lived through worse than plague — and knelt as one before the palace. "We have seen hell," their spokesman said. "We gave our children to the trial. We gave our futures with the hope of a better tomorrow, and it never came — except once, under Cai. We see that hope in you now, Lord Irane Kazemi. We are yours."
+
+Behind him stood an elderly woman with a group of caretakers and orphaned children. She spoke more carefully. "We will serve — but only if you swear this Empire will be a good place for them." She nodded toward the children beside her.
+
+Irane looked at her directly. "And if I ordered you, right now, to take that boy's life — would you?"
+
+Without hesitation, she pulled a blade and lunged at the boy standing beside her. Irane used Dima to move him clear before the blade landed, genuinely alarmed — and the woman laughed, along with everyone around her.
+
+"During the whole siege," she said, once she had his full attention, close enough that only he could hear it, "with every hand desperately needed to fight — you never once asked a child to pick up a weapon. You kept them with Lady Milla, in the safest place in this city, alongside your own children. In Heaven, we gave our children to the trial. Under More, we gave them to become soldiers in human bodies. You never asked us for that. This boy is my grandson. If you hadn't moved him, he'd be dead — and I know that more than proves what kind of man you are." She touched his cheek, gentle and certain. "For a man like you, I offer everything."
+
+He agreed, quietly moved, and warned her plainly that her choice bound the children with her, not just herself.
+
+By the next morning, ten million of the original Primal population had chosen to stay. Three million left for Heaven. A handful chose to leave without joining Toma at all. Those who stayed were transferred by midday.
+
+Not everyone left with the same grace. One group walked out through the south gate declaring him a false champion, an imposter unworthy of the name he carried. He let them go without argument.
+
+Tan found him in the aftermath and told him, with open disappointment, that Irane wasn't what he'd expected — that the man Ember described, the man called "Z," would never have made people choose like this, would have simply saved everyone regardless of cost.
+
+"I'm glad I don't have to explain the difference to you personally," Irane said. "So — how can I help you, Tan Loo?"
+
+Tan pushed harder: didn't Irane know Toma would force those same people into bodies and use them as weapons? Why let that happen at all?
+
+"And what exactly do you think *I'm* doing with them?" Irane said. "If it kept this Empire alive, I would order a million of my own people to their deaths without blinking." He watched that land on Tan's face. "Disappointing, isn't it."
+
+Tan walked away disgusted, certain now that Irane was no different from Niro or Toma — a warlord who'd spend his people the second the ledger required it.
+
+Mira found him storming off and asked what had happened. When he explained, she laughed, which only made him angrier, until she asked him a single question in return: "What exactly do you think an Empire *is*?"
+
+She took him to see Aura and the other Parah survivors resting safely in the palace, and told him what Irane had actually said, weeks earlier, about why he'd risked the entire founding on a plague that offered no strategic return: *"An Empire, a nation, a village, a house — they're all made of people. The elderly who've lived through this world's worst and pass down what they learned. The children who'll be the Empire's tomorrow. And those of us in between, still learning, still making mistakes. An Empire is its people."*
+
+Tan looked back at the children in that room — Aura playing with the others, laughing, whole — and understood he'd judged Irane by the wrong measure entirely. Mira asked him one more question: who did he think mattered most to Irane, out of everyone alive?
+
+Tan didn't know.
+
+"His children," Mira said. "He wants a Paradise where his children, and every other child in this Empire, get to grow up in something safer than what any of us had. He heard what I wanted, back on the island — to fight for something bigger than myself — and now here I am, his General, doing exactly that. That is the kind of man he is."
+
+Tan went back to find Irane directly, interrupting a core-transference mid-procedure to apologize, genuinely and at length. Irane accepted it with characteristic bluntness — "Okay, I get it, but you're interrupting something important, let's talk later" — and had him teleported straight to Mira instead. The two of them talked for hours afterward. Tan admitted, near the end of it, something closer to faith than strategy: "I think I want to gamble on Irane. Maybe there's a better tomorrow with him in it." When Mira told him she had faith in Irane herself, Tan pushed back — faith wasn't a word he expected from her.
+
+"Do you think he's a man?" she asked. "I don't. Not anymore." She told him, carefully, about the day Irane took her core directly from her body and remade it around his own Emotion core instead — the same thing, she'd since learned, that had happened to Aliya and Pandro, each in their own way. "That being I saw inside his core wasn't human. It asked me if I wanted to live, if I wanted to see my sister again — and what I'd give for it. Of course I said yes. Irane Kazemi believes he's a tool. He isn't. He's something past understanding, and I've seen too much of what's actually inside him to ever go back to seeing him as just a man." She reminded Tan, almost gently, that this same being had held an entire city for three months and lost only three hundred thousand people doing it. "I haven't seen him fail once."
+
+"Didn't he nearly die?" Tan asked.
+
+"And the city's still standing," she said. "Is that failure?"
+
+He conceded the point.
+
+That night, standing before the children of his Empire — Summari, Nighla, Dokia, and Junior gathered around him, Aura laughing somewhere among the other children in the yard beyond — Irane made a promise out loud, quiet enough that it was really only for them.
+
+"This place was once home to Primordials — the greatest city between three realms, and it ended anyway. Ours begins on its ashes. I don't know how long this Empire lasts, whether it ends with me or with one of you, or your children after you. I hope it doesn't end soon." He watched Aura for a long moment, something between satisfaction and worry on his face. "This is home now — wherever we're all together is home. I will protect this Empire. I pledge, starting today, to make sure our tomorrow is better than our yesterday.
+
+"Whatever it takes."`,
+          },
+        ],
+      },
+      {
+        id: 'ch-earth-7-2',
+        title: 'Chapter 7.2: The War Within!',
+        scenes: [
+          {
+            id: 'sc-e7-2-council-interrogation',
+            title: 'The Truth-Chains',
+            content: `Simon's plan for infiltrating the Orians hinged on a transport of More's that he knew the Ascen would intercept. It worked exactly as intended — Arai, Hope, Zoe, Aliya, Assa Flora, Dio Ferran, and Naile Rui were all taken captive together, bound in mana chains, and brought before Niro Vane.
+
+Niro convened the full Orian council for it — every major clan head in one room, a sight none of the three sisters had ever expected to see: Ascen, Alma, and Spirits, unified rather than at each other's throats. Tenza and Tola presided for Nexal and Ardent. Azen Lucerne and Elorah Seraph sat as heads of the Alma and the Spirits, Olda Apolo and Duki Navar beside them. Axola stood near his father. Nina Nexal — Arai's own younger sister — stood at Duki's side in quiet, practiced deference, and the sight of it took real effort for Arai to swallow without reacting.
+
+Dunk Vane, an elder of House Vane, presided as master of ceremonies. "Tell us everything that happened to you," he said, "and know that we will know if you lie." Olda wrapped chains around all three sisters' necks — truth-chains, built to punish only a *known* lie, not an honest mistake. Duki tested it on Arai first, asking her to state a falsehood; the pulse of pain that answered confirmed the mechanism worked exactly as promised.
+
+Arai gave them the account plainly: five years in the Consa labs, forced into human bodies, aiding — under duress — in the completion of the Trial of Kazemi, nearly two billion Primals and coreless humans sacrificed to it. Tola asked, flatly, whether 8 was the trial's product. Arai confirmed it, and the documents seized from their transport bore it out: subject no. 888,888,888, annotated in Arai's own hand from that period — *"He was kind to women."*
+
+Elorah studied the file with open curiosity. "Nothing special to look at. So he was one of the resistance, and ended up serving Toma instead. Interesting."
+
+"What went in and what came out were two very different beings," Arai told them. "His mind was wiped clean. Minia and Ember weaponized what was left — that was the attack on Heaven. He broke the conditioning eventually and was sealed with us in the lab afterward. Mira Ardent freed him." She told them of the rampage that let them escape, the betrayal that got them recaptured, the transport intercepted en route back to Toma.
+
+Niro's own question cut through the room's murmur. "Can 8 be killed?"
+
+Arai hesitated. "May I answer honestly, my lord?" Then, plainly: "He is a human carrying the core of a Primordial dragon. But he is still a man. He bleeds like one. He feels pain like one. And he can die like one."
+
+The chains stayed silent.
+
+Azen smiled and sent Droom to Paradise with a force of Ferali to find out directly. Elorah's disapproval was visible and entirely ignored.
+
+Axola stepped forward to face Arai personally. "So he can die. I'm glad to hear it — I never believed Droom could kill him, but if I couldn't even make him bleed, she has no chance." Arai's reply — that a weakling like him couldn't hope to touch Irane — earned her a slap across the face and a hand gripping her jaw. "I always liked you," Axola told her. "I was disappointed I didn't get to make you my bride instead of your sister." Arai spat in his face. "It's easy to strike someone in chains. That's the mark of a coward."
+
+Elorah's attention shifted, sudden and pointed, to Aliya. "That child. What is she to you, Arai?"
+
+"A girl who was in the lab with us," Arai said — and the chains lit her up in agony, the lie punished instantly, until Zoe screamed the truth across the room: "She's her daughter." The pain stopped the moment the lie was corrected.
+
+Elorah's smile sharpened. "Then here is the wager. If Arai wins a duel against Axola, he returns Nina to House Nexal and forfeits any claim to her. If she loses, her daughter becomes his to do with as he wishes."
+
+Axola accepted instantly. Arai raised the stakes further: her own title as Aevum's Shadow against his, if she won — and their full return to their birth clans if she lost her own gamble too. Niro settled it before Axola could object: victory returned Arai to House Nexal with her daughter, Zoe and Hope to their own clans, all five who'd come with them granted the right to live as Orians again.
+
+He turned to his son. "You've failed me before, Axola, and I let it stand. Lose this, and you forfeit the throne outright. It passes to your brother instead — Nuro, under the title of Aevum reborn. Are we clear?"
+
+"I will not lose to this woman," Axola said.
+
+The council adjourned to prepare the arena.`,
+          },
+          {
+            id: 'sc-e7-2-arai-axola-duel',
+            title: 'The Trump Card',
+            content: `Enari's voice found Arai the moment the council broke. "So this is your plan — fight your way home. I like it." She weighed Axola's Energy-Air core against her own options, already discarding the idea of channeling Kazemi's Drive openly — better the Orians not learn she carried a beast at all. "I'll beat him with what's mine," she told Enari. He warned her, almost gently, that Phoenix magic without tapping the Drive to stabilize it could kill them both — Crono was his creation, made specifically for her, and he couldn't promise the same forgiveness in her hands alone.
+
+"I know his moveset," she told him. "He doesn't know time is on my side."
+
+Axola opened the fight with contempt — calling her a glorified teacher's pet, promising not to damage her face. Arai answered with a full exchange of Electric-Earth and flame techniques that he shrugged off with visible ease, his own core redirecting and consuming mana as fast as she could throw it. "That's what it means to be born special," he told her, pulling her in with a vacuum of wind-and-energy and landing blow after blow while she struggled to find her footing. He drew blood eventually — hers — and it only fed his rage further. When he finally lost his temper completely and unleashed *Energy Art: Atomic Scream*, compacting a nuclear-scale burst of stolen mana directly into her, the crater it left behind held nothing but ash where Arai had been standing.
+
+The arena went silent, certain she was dead. Axola, breathing hard from the recoil, admitted out loud that he'd overdone it.
+
+Aliya was the one who broke the silence. "She isn't dead yet."
+
+A streak of blue flame arced past Axola's head and detonated into Arai — alive, reborn, standing directly on top of his skull, the golden strand she'd always kept hidden flaring visibly in her hair for one unmistakable instant. *"I was waiting for that."* She'd triggered — in the exact same breath as her own death — a chained sequence: Time Technique, Noxa's Game variant *Delayed Activation*, into *Phoenix Re-Birth*, into *Kazemi's Art: Phoenix Re-Ignition*, reactivating Axola's own Atomic Scream and turning it back on his own face at point-blank range.
+
+It hit like a second bomb. The arena's shield cracked further under the shockwave. When the dust cleared, Axola lay unconscious in a fresh crater — beaten unconscious by his own attack, redirected back at him. Arai finished it with a single bolt of lightning, the very first Art she'd ever learned in her life, and told his unconscious body so.
+
+*"Delayed Activation* schedules a spell's trigger for a set future moment — I set Phoenix Re-Ignition to fire the instant I died," she explained afterward, to no one and everyone. *"Phoenix Re-Birth* is mine, the same as Irane's. And *Phoenix Re-Ignition* replays a spell already used — except it has to match the user's own core type, which Atomic Scream never would have, if I hadn't borrowed Kazemi's Drive for exactly the half-second the smoke gave me cover to hide it in." She'd watched him use that exact trump card against 8 before. She knew he'd reach for it in rage. All she had to do was wait, take the hit, and let the rest run itself.
+
+Only Elorah noticed the "strange presence" for the instant it lasted. Niro descended to stand before Arai personally, unreadable. "Congratulations. Your friends have earned their titles as Orians again. Your sister returns to you — though she and her unborn child remain my subjects, regardless."
+
+"Do you hate me, Arai?" he asked.
+
+"As the man who presides over this world that I hate — yes, my lord. I do."
+
+Something like the ghost of a grin crossed his face. "I see. That's fine." He turned to Dunk: "As of this moment, she is head of House Nexal." Tenza, watching, absorbed the demotion in silence — Niro told him plainly he felt better with Arai leading than "your weakling of a brother." Niro's last order, delivered without looking back, was simpler and colder: "Get Nuro out of the prison lab."
+
+Aliya reached Arai first, hugging her without a word. Nina followed — the reunion between sisters gentle enough that Hope had to comment on the irony: if Irane had ever laid eyes on Nina, he'd have taken her core without a second thought. Nina updated them, gently, on everything that had happened since their capture: Tonga found dead after the assault, the war between Alma and Spirits that gutted a third of Orian military strength, Niro's rise to unify all three peoples under one banner within a single year — and Aevum's own bloodline, buried inside House Vane since Aevum himself, wielding the ability to cast without incantation or spell-symbol at all.
+
+That night, alone in her old room, Enari's voice found Arai again. "I sense the core of Cronus. Within range now." Arai remembered, with a chill, what Hope and Zoe had told her — that her own brother might be the one holding it.`,
+          },
+          {
+            id: 'sc-e7-2-sophioterra-entrance',
+            title: 'The Test',
+            content: `Hope arrived in Sophioterra — the Spirits' gem of a capital city, built around Ca-Teck technology and the primacy of tool-craft over brute force — with Dio and Naile Rui, and found the whole city bowing to Elorah Seraph as she passed. Not loyalty, Hope realized. Fear, and awe in equal measure.
+
+Elorah informed her plainly that she'd need to prove herself before anything else. Olda Apolo delivered the test personally, flanked by Tenma Seraph — Elorah's own son, wielder of Tevan's Edict — and Tenma's daughter, Pino Seraph, wielder of a Selis-derived gift called Keth's Brand.
+
+"This mark," Pino said, touching Hope's arm and leaving a faint, spreading brand behind, "will consume you if you leave this square before the test ends." The chamber reshaped itself into a floating field of a hundred colored tiles — red, blue, black, white — shifting at random intervals, patrolled by archers trained specifically to counter teleportation. "Destroy them in strict order — red, blue, black, white — no repeats. You may use a tool, spells, techniques, and Arts. Nothing else." She said it with the confidence of someone who had watched every candidate before Hope fail on the first attempt.
+
+Olda placed a wager with Tenma before the test began: if Hope failed, she'd be made a slave of House Apolo. If she passed, she'd re-enter the clan cleanly, no conditions.
+
+Hope drew Temper the instant the test began. In a single, continuous motion — *Core Technique: Spatial Omniscience*, extended through her father Tola's own spatial-tunnel bloodline gift rather than Dima's help at all, paired with *Energy Art: Mana Slash* — she cut every one of the hundred tiles apart in the correct sequence before a single archer's arrow found its mark. The whole exchange lasted seconds.
+
+Pino's mouth actually fell open. Tenma laughed and conceded the bet to Olda on the spot, more delighted by what he'd just watched than troubled by losing. Elorah crossed the floor herself, pulled Hope into an embrace, and welcomed her to the Spirits by name.
+
+The hug did more damage to Pino than the loss itself. Thirty years of trying to earn even a flicker of her own grandmother's attention, and an outsider had done it within a single day of arriving.
+
+Olda welcomed Hope back to the clan as her uncle by position — the same man responsible for her mother's death — and she accepted it outwardly with no visible reaction, though it cost her everything not to end him where he stood.
+
+Hope spent the following weeks under Elorah's direct, personal instruction — forbidden level 7 through 10 magics, taught within days of arrival, work that took others years to be trusted with at all. Dio and Naile Rui studied separately at the Halls of Knowledge, the Spirits' central school for Ca-Teck craft. It was, by every visible measure, the fastest rise of the three sisters' placements — and, privately, the least stable: Pino's resentment had a face and a reason now, and Olda's presence was a wound Hope could suppress but never actually close.`,
+          },
+          {
+            id: 'sc-e7-2-pandora-zoe',
+            title: 'Survival of the Fittest',
+            content: `Zoe, Assa, and Leo were escorted to Pandora, capital of the Alma — a place Zoe's own mother had once called hell on earth. On the way, Zoe told Leo the story behind Azen Lucerne that her mother had passed down: nearly a hundred children by different mothers, raised personally, loved openly, given no Beast contract until each turned eighteen — at which point Azen split them by sex and threw them into open survival trials against feral Ferali in the deadliest Orian territory that existed, culling by attrition until sixty-four remained, then ran a tournament to the death among the survivors. *Survival of the Fittest*, held every five years since, open to criminals and anyone Alma society had already judged expendable, its only reward the "honor" of facing Azen himself. No one had ever won that final match.
+
+Only two of Azen's own children lived through it: Droom, and her brother Azura.
+
+They were intercepted en route by Azura himself, who opened with a punch aimed squarely at Zoe — she blocked it, broke her own arm doing so, healed it, and kicked him back without hesitation. He was delighted rather than deterred, proposed marriage on the spot, and took her flat refusal with more curiosity than wounded pride. At the transport dock, Duki Navar — her mother's killer — demanded her respect as clan head; Azura cut in before Zoe could answer, reminding Duki not to order around his father's own guest. Zoe held herself back from killing him then and there through sheer will alone, Aphexia already stirring beneath the surface in answer to the rage.
+
+Azen received them personally, delighted, and asked Zoe outright who was strongest among the three sisters. "Depends what you mean," she told him. "Arai wins on battle intelligence. Hope carries the most raw mana. Physically, I'm the strongest of the three." Azen approved openly — he had no use for weaklings, he told her, and meant it as praise.
+
+Pandora itself was exactly what her mother had described: a palace where fighting was the only visible activity, everywhere, at all hours. Duki welcomed them with open contempt, taunting Zoe about the hut she'd grown up in; she promised him, evenly, that she'd hurt him worse than 8 ever had if he brought up her mother again. He bared his fangs to test her, and found — to his own visible shock — that she bared hers back with equal intensity, an Aphexia-versus-Ruin standoff that only ended when Azura stepped in to keep the peace.
+
+Evin Navar, Duki's son, greeted them with considerably more warmth than his father — openly charmed by Assa, curious about Leo's relationship status, quick to build a real training rivalry with Leo that both of them took seriously.
+
+Over the following months, Zoe noticed something Leo eventually said aloud: nobody in Pandora was over forty. She explained what he'd already begun to suspect — Beast and Tool contracts shortened a Primal or Alma's life on a cost humans were exempt from, and his own Beast, Pride, and his sober ability, both altered by Irane to answer to Kazemi rather than Vraka, meant none of that cost applied to him at all.
+
+Assa struggled at first, sorted into the "rejects" — Alma society's written-off, marked for the tournament by default. Zoe took over their training herself. She understood Aura and the body better than anyone in that palace, and over months of patient work she turned a group nobody wanted into something Azen himself, reading her progress reports, called "an incredible asset." She began quietly sheltering orphaned Alma alongside the rejects, over Duki's open objection, protected only by Azura's personal backing.
+
+Four months in, Droom returned from her siege — defeated, and smiling anyway.`,
+          },
+          {
+            id: 'sc-e7-2-council-reconvenes',
+            title: 'The Second Assault, Authorized',
+            content: `A projected meeting drew Arai, Hope, and Zoe together with the full council to hear Droom's report. She wasn't a defeated general. She was still smiling. "Forgive me, father, my lords — I failed to kill 8. No — to kill Irane Kazemi."
+
+The name alone shifted the room's temperature. "He called himself," Droom said, "*Irane Kazemi: Core of Cores, The Eighth Champion of Kazemi, Emperor of Apexia.*" Elorah noted, almost approvingly, that Irane was "not a bad name" for him to have settled on.
+
+Droom laid out the fight in full — the three-month siege, the suicide-gambit Phoenix Re-Ignition, how close she'd come to ending him before he paralyzed her at the last possible moment. "He's just a man, in the end," she said. "He has Parah. It's already spread past his arm." The room reacted with equal parts shock and open satisfaction. Azen, disappointed he hadn't been the one to face him personally, called it "a dead man walking." Droom added, almost as an afterthought, that Mira Ardent had intervened at the very end wielding something that read as both a Tool and a Beast merged into one — something she admitted she still didn't fully understand.
+
+Niro moved immediately. "Then it's time to strike while his Empire is weak."
+
+Duki and Olda both volunteered to redeem their earlier failures. Elorah, reluctantly, offered Celestial reinforcements alongside Azen's remaining Ferali. Niro committed a million Orians outright — half Ascen, a quarter each Alma and Spirits — and gave Axola one final chance to end what he'd started, with Tenza, Tola, and Tola's son Tunde Ardent under his direct command.
+
+Hope raised the obvious question: if Parah had no cure, wouldn't it make more sense to simply wait for it to finish him without a fight at all? Azen's answer was blunter than she expected — Parah spread faster the more mana its host burned, and Irane had fought three months straight without once holding back. Elorah's counter settled it: "Then let's give this battle-obsessed monster exactly what he wants. Make him fight." Arai, playing her own hand, pushed the assault further still — enough force to guarantee his death completely, and the Empire's with it. It was, privately, exactly the opposite of what she actually wanted: more time, not less, and enough visible commitment to the war effort that nobody questioned why she needed it.
+
+Niro placed Arai in command of the full war effort against Toma and Heaven, six months out from readiness. The second assault on Paradise would launch the moment preparations were done.
+
+Once the Ascen and Alma leadership had left the room, Azen turned to Zoe with a private smile. "You've grown some interesting children these past four months. Let's put them to use — call it Squad Zoe." He and Azura had already gathered over 300,000 marked "rejects" and orphaned street children into a single training unit, fully resourced, hers to command. Zoe thanked him with visible gratitude that concealed exactly what she actually intended: quietly having Assa's beast K'sNature grow fruit carrying a mana signature only Irane could detect, and weaving Zoe's own nature-mana into bands every marked child would wear — a signal that would tell Irane's body, on any real battlefield, to recognize and spare them rather than kill them on sight.`,
+          },
+          {
+            id: 'sc-e7-2-aevum-reveal',
+            title: 'What Aevum Actually Wants',
+            content: `Tenza and Tola's son, Tunde Ardent, met privately with a figure both of them still called Simon out of old habit — though the eyes that greeted them were pitch black now, and the voice that answered to "Lord Aevum" carried none of Simon's old warmth. "It's been too long, my children," Aevum said. "Navigating Earth and Limbo took more time than I'd have liked. But it was worth it. Now — where are the cores of Cronus and Gaia?"
+
+Tunde told him the Ardent clan had hidden theirs somewhere within Sophioterra's own territory. Tenza confirmed his own cache sat inside a secret lab at the Nexal estate. Aevum absorbed the news with visible satisfaction, along with the fact that Arai, Hope, and Zoe were all now working, in some capacity, for Irane — though he offered no further detail on what that meant to him.
+
+"Fate really does play the long game," Aevum said, half to himself. "I knew they were special the moment I met them, back when I wore Suu's face. Time, Space, Life and Death — the three bloodlines I needed most, and more raw potential than I could have hoped for. You saw what Arai did to Axola. That's the smallest taste of what's coming." He laughed, quiet and genuinely delighted. "Irane Kazemi. Born from their three cores combined. And the key — the actual design to his very body — lives inside Ember. I need her delivered to me. She's in Paradise right now.
+
+"Tunde — you and your father are already headed there. Tenza, I want you there too. Irane is at his weakest possible point: fifteen percent of his own strength, cut off from his own beast and tool, and carrying Parah on top of it. He told me so himself. Kill him now, while the door's open — and when you take the city, I need Ember captured alive and brought to me. Quietly. I don't need that brat Niro finding her first."
+
+They agreed. Alone afterward, neither of them fully understood the shape of what they'd just been told to do — only that Aevum's evident satisfaction meant, whatever it was, it was working.
+
+What neither of them knew — what the text is explicit nobody currently alive knows except Aevum himself — was older and stranger than either assignment: the Ardent and Nexal clans had been bred, deliberately, generations back, to serve as Aevum's own personal instruments. Every head of House Ardent and House Nexal since Darkki Ardent and Noxa Nexal had served "their father" without knowing they were doing it.
+
+Tenza returned to the manor that night having avoided Arai and Nina for four straight months, speaking to neither unless a family obligation forced it. He went to his hidden lab to confirm what he'd just told Aevum — and found the core of Cronus gone.`,
+          },
+        ],
+      },
+      {
+        id: 'ch-earth-7-3',
+        title: 'Chapter 7.3: Battle Lines!',
+        scenes: [
+          {
+            id: 'sc-e7-3-valariyan-naming',
+            title: 'Apexians, to Everyone Outside',
+            content: `A month before the Orians' second assault, Paradise kept building. Old, unsalvageable structures came down; the city's defenses improved daily. Irane opened one of the most sacred spaces in the old Primordial palace — where the city's founders had once held their ceremonies — as a place of learning and rest for the Empire's children, keeping only a handful of sensitive sections sealed off from general access. With Dima now fully his to command, he laid a standing spatial barrier through the city's center: to anyone without permission to be there, the space simply folded around them, moving them from one side of Paradise to the other without their noticing.
+
+The naming convention had settled by now into something worth stating plainly: to the outside world, everyone under Irane's banner was simply "Apexian" — full stop, no tier distinction offered or expected. Internally, the two-tier structure held exactly as it always had, Valariyan above Apexian. Nobody inside the Empire minded outsiders using the flattened term. Explaining the real distinction case by case served no one, and the people themselves had made their peace with that a long time ago.
+
+Pandro left to lead an elite unit into Tulla, tasked with clearing the Celestials and Spirits occupying the old Primordial ruins there without damaging the city's ancient tech more than necessary. He was meant to bring Ember. She had other plans.`,
+          },
+          {
+            id: 'sc-e7-3-ember-departure',
+            title: "Not Part of the Equation",
+            content: `Ember knew almost nothing about her own mother beyond a surname — Osiro — until Tan Loo mentioned, almost in passing, how much she resembled Kai Osiro, current head of Clan Osiro, whom he'd glimpsed once years earlier on a mission. She wanted answers. Tan offered to help her find them, partly as an apology for a mission report he felt the resistance had botched badly enough to nearly get her and Simon both killed.
+
+She told Irane she was leaving to find the Osiro. "Going to see your cousin?" he asked, before she'd even explained why — he still carried fragments of memory from his time as an unconscious tool, back when Minia ran him, and had seen Kai often enough at a distance to notice the resemblance immediately. He mentioned, almost as an aside, a rumor that Kai's mother had a twin sister taken captive years before the Fest — the one who'd held the Book of Time before it burned.
+
+She expected him to argue for her to stay — the shield system genuinely did need a third operator, and she was one of only three people alive who could run it. He didn't. "You're not a Valariyan or an Apexian," he told her, flat and unbothered. "The only reason I let you operate the shield at all is that you're my son's mother. I never counted you as part of this plan to begin with. Stay or go — I don't particularly care." He turned to Tan. "Take care of my son's mother for me. I'd rather not have to explain to him why he doesn't have one."
+
+The joke was what actually cut. "Is that really all I am to you?" Ember said. "And here I thought — no, never mind. My mistake. I forgot you're not exactly human. Just a tool of that witch Ar—"
+
+She didn't finish the word. His tail was at her throat before she'd registered him moving, a single bead of blood already tracking down toward her collar. "I tolerated your insults toward her while you were carrying my son," he told her, voice level, nothing like a threat and everything like one. "She never once told me to make you stop. This is the last time. That goes for Hope and Zoe too — and being my son's mother won't save you a second time."
+
+He withdrew his tail and walked out without changing his tone. "Travel safely. Don't be strangers." Ember cried the rest of the way to the gate. By sunrise, she, Tan, and the remaining resistance members who chose not to stay in Paradise had all left — though several of the people they'd rescued from House Surya's lab chose to remain and become Valariyan, grateful enough for the rescue to take the gamble.`,
+          },
+          {
+            id: 'sc-e7-3-the-will-explained',
+            title: 'Three Sets of Cores',
+            content: `Irane held the shields himself in Ember's absence — the only one left who could — over Mira's open concern that every use of his own mana only accelerated Parah's spread. "It won't spread much on passive standby," he told her. "We're not under attack yet, and with Dima watching the whole range, I'll see it coming if we are. I can hold this for a year if I need to. I just need four months until Aphexia clears me."
+
+Milla and Gran-Gran reported Urial's expected birth about two months out. Irane's mood visibly lightened at the news — not just for the child, but for what came with him. "Once Iris reconnects, I'll finally have my Will back," he said, half to himself. "It's been an eternity since I felt whole."
+
+Mira asked, genuinely, what he meant by that — whether she'd ever actually felt what his Will cores carried.
+
+"Ah," he said. "I suppose I never actually explained what makes them a curse." He laid it out for her plainly, the cleanest statement he'd ever given anyone of his own architecture: three sets of cores. Drive cores — Mind, Heart, Body, and his two arms — bound to his own body, channeled through Enari, and shared out to Arai, Hope, Zoe, Summari, and Nighla. Will cores — Spirit, Emotion, Death, Spells, and Technique — bound not to his body but to his own core directly, made manifest through Iris: Aliya, Mira herself, Dokia, Pandro, and Urial. And Conceptual cores, ten more, tied to the core-state itself rather than to any body — Junior's Design ability the clearest example on the page so far.
+
+"Your core, right now, is my Emotion core," he told her. "It doesn't just channel what I feel. It weaponizes it. Joy, grief, love — once Iris comes back, you'll feel what that actually means at full strength, not the sliver you've had access to until now. I can't wait to see it."
+
+Mira, unbothered on the surface, told him she'd already handled his emotions well enough at a fraction of the strength — how much harder could the rest of it be. She left to attend to her duties. Irane stayed behind with the four children, quietly less certain than he'd let on. "She has no idea," he murmured to Summari and Nighla, neither of them old enough to answer. "None of them do. What it actually took to beat Enari." He thought of Aliya specifically, of what happened if she ever tapped into the spirit at his own core rather than his mind, heart, or body. "She'll need centuries before she has any real grip on that kind of power. I hope she never has to reach for it except when I tell her to." He let it go. There would be time to worry properly once it actually happened.
+
+The city held one full month of peace before the Orians came again.`,
+          },
+          {
+            id: 'sc-e7-3-second-siege-trap',
+            title: 'Three Cannons, Three Gates',
+            content: `Irane sensed the buildup before the scouts confirmed it — the same staging ground Droom had used before, filling again. He set Paradise to a yellow alert; the city, well-drilled by now, moved into its assigned positions without needing to be told twice. Criya held the north gate this time; Mira rode with the offensive unit. Milla returned to her post with the children, Aura among them, everyone with a task suited to keeping them occupied and useful without putting them anywhere near the fighting.
+
+Axola's plan this time was layered rather than blunt. Three cannons, each carrying Duki's shield-destroying ordnance modified further by Hope's own design work into a devastating follow-up detonation, aimed to punch through the gates rather than the walls. The main force, visibly massive, would drive straight at the north gate under Axola's own command — the expected target, the same as last time. The real strike would come through the east and west gates, quieter, meant to slip past while Irane's attention stayed fixed on the obvious threat. Tenza would man the third and most dangerous cannon personally, timed to catch Irane at the exact moment of maximum exposure — enhanced specifically to survive contact with Irane's own mana signature and still do damage.
+
+Irane read the deception the moment their forces committed to it. He'd noticed something else first, though — a large contingent among the Alma force carrying a faint trace of Zoe's own mana signature, roughly 300,000 out of 550,000, moving as a distinct formation within the larger one. He ordered Mira to try to take them alive wherever possible.
+
+When the Orians finally broke through the east and west gates — shield-destroyers doing exactly what they were built to do — the soldiers who poured through found themselves somewhere else entirely: Dima's spatial tunnels had relocated them mid-charge, dumping most of the invading force into the open, fully exposed to the wall-mounted cannons on the opposite side of the city from where they'd entered. Only the marked Alma carrying Zoe's signature were quietly redirected somewhere safer, straight into Mira's custody instead.
+
+What followed was a slaughter dressed as confusion — soldiers screaming as they found themselves suddenly exposed to point-blank cannon fire, land mines detonating out of nowhere in ground that had held nothing an hour earlier, an entire assault broken before it ever reached a wall. Axola ordered a retreat by afternoon. The field was littered with bodies by the time the sun went down.
+
+"Did you really think you could just run in without me having a plan?" Irane said afterward, more amused than triumphant. "With Dima, I can see the whole battlefield and move people through tunnels I've already laid across my own range. The shields were bait the whole time. I expected Droom back to finish the job, so I built for offense instead of defense." He estimated three months before Aphexia cleared his Parah completely and gave him room to actually go on the attack.
+
+Mira, meanwhile, was interrogating the captured Alma — Zoe's marked "rejects," all of them, confirming a consistent pattern: written off as weak by Pandoran society long before any of this began. They were split into two groups afterward — a compliant cohort routed to labor, a more resistant cohort routed to cells, with the most openly defiant among them executed in front of both groups as a deterrent. Evelyn was assigned to apply psychological pressure to the rest. It worked, in the narrow sense that it kept them productive. It was not, by any honest measure, a clean rescue once they were actually in Apexian hands — Zoe's mark had kept them alive on the battlefield. What happened to them afterward was the Empire's business, not hers, and she had no visibility into it from Pandora at all.
+
+Axola, undeterred, kept pushing at the walls with the shield-destroyers for over a month before Tunde suggested combining all three cannons at once, using his own and Tola's spatial abilities to force a brief, deliberate crack in the barrier and fire everything through it in the instant it opened. The barrier held — barely, and only because it was drawing on the mana of every citizen in the city simultaneously, a cost that was starting to show as visible fatigue across the population.
+
+Irane decided to end it directly: a parley, a controlled meeting, and a plan to kill Axola and the assembled leadership personally while Mira's team destroyed the cannon.`,
+          },
+          {
+            id: 'sc-e7-3-parley-ambush',
+            title: 'The Parley',
+            content: `Irane called a cease-fire, proposing a face-to-face meeting in a temple complex in the hills northwest of the city. Axola couldn't resist it — he came with Tunde. Irane came with Criya. Mira moved separately with a strike team toward the cannon.
+
+Milla's water broke as the four of them walked out to meet.
+
+At the temple, all four removed their masks. "I was hoping for a rematch with Droom," Irane said, "but I suppose you'll do. Why don't you take your forces and leave my Empire alone? I've cut ties with the Primals. You know the terms I have with Toma. So what threat am I to you?"
+
+"You're an enemy of the Orians," Axola said. "My father wants you dead."
+
+"The same father who sends his sons to die in wars he won't fight himself? What did he say when Arai caved your face in?" Axola's mana flared; Tunde readied himself to move. "Would you spare my people, if you took my life today?"
+
+"Of course not," Axola said, cold and plain. "Once you're dead, we hand them all to Vraka and Selis."
+
+Irane sighed and turned his back to leave. Tunde slammed his hand to the ground — *Space-Earth Art: Lockdown* — sealing all four of them inside a barrier none of them could teleport out of while he remained conscious inside it. Criya drew Winter and manifested Bearursil. "It seems today might be the day we die," he said, almost fondly.
+
+"Don't say that," Irane told him. "It doesn't help. Take Tunde — kill him if you can — then come find me. Mira needs the time."
+
+Axola summoned Olda and Duki through the same forbidden art Nuro had once used, ignoring the toll it took on his own body without hesitation. Both arrived in fuller, more complete Devil and Angel forms than Irane had faced from either of them before — stronger, more dangerous, closer to Droom's own level of mastery than the last time they'd crossed paths.
+
+What followed was the worst position Irane had been in since Droom herself. Surrounded by Axola, Duki, Olda, and a swarm of Ferali and Celestials inside a labyrinth of ruined temple stone, forced entirely onto the defensive, bleeding from a dozen places at once. Axola noticed the smile hadn't left his face even now, and hated it more than anything else in the fight. "I promise you," Axola told him, "I'll beat that smile off your face myself."
+
+Irane, cornered, out of options, and nearly out of mana, began preparing his last resort: *Kazemi's Art: Singularity* — a spell that would compact everything within his range into a single collapsing point, killing everyone in the barrier including himself. He was ready to use it.
+
+Audis's voice tore across the battlefield before he could.`,
+          },
+          {
+            id: 'sc-e7-3-urials-birth',
+            title: 'Urial Ferran',
+            content: `*"To all the people of Apexia — hear me! The child of Valariya has been born! Urial Ferran has been born!"*
+
+Both sides froze. Tola and Tenza turned to Mira, who had started laughing in a register none of them had ever heard from her. Emo manifested beside her, full voice for the first time. "It seems the moment's finally here, Mira," he said. "Aren't you a little too happy?"
+
+"Let's mark the occasion properly," Emo said, and began to change — not into her familiar Emo-Joy form, but into something with a ceiling none of them had ever seen her reach, not even the day she'd taken Irane's arm. Constraint wrapped tight around her body as her hair shifted gold at the roots, her eyes following. *"Kazemi's Will: All-Encompassing Joy!"* she screamed, mid-transformation, and Tola felt it before he understood what it meant: her mana had stopped being merely dangerous and become something else entirely.
+
+At the same moment, back in Paradise, Iris finally reconnected with Irane in full. His Will activated — *"Irane's Will: Active"* — and every one of his five Will-bearers were pulled, simultaneously and involuntarily, into their own amplified expression of what they carried, colored throughout by whatever Irane himself felt in that instant. His joy at his son's birth became Mira's uncapped Emo-Joy. In the nursery, baby Dokia's own Will core activated in answer — manifesting her hybrid merged form before anyone could react — and only Summari and Nighla, infants themselves, instinctively drawing her mana into their own bodies, kept the entire room from dying in the same breath.
+
+In Tulla, Pandro's own Will activated mid-siege, Mono surfacing in full for the first time — fifteen elemental marks blooming across his body as the Grimoire's infinite spell-library stopped being a reference he consulted and became something he was walking through, living inside, a self-directing process with him as its center. He experienced it as an infinite library that was, somehow, his own core. He didn't stop the mission — Irane's standing order to kill every Celestial and Spirit in the city ran through him exactly as given — but some part of him stayed anchored enough to keep the ancient Primordial tech intact, fascinated despite himself by its magic-circuit architecture even as he executed everyone using it. Jade, watching, described it afterward as a living spell, unstoppable and horrifying in equal measure.
+
+Tola felt Mira's power shift and named what he was looking at before anyone else in the ruin did, his voice dropping to something close to reverence. *"Penumbra."* It was the name of a children's scare-story on Orian, an angelic-demonic hybrid meant to frighten misbehaving kids into obedience. It had never, in living memory, been anything but a myth.
+
+Constraint's own voice reached Mira mid-transformation. "This blade was never built to restrain emotion," Emo told her. "It was built to channel it, and weaponize it. And what you're feeling right now isn't your own core anymore, Mira. It's Kazemi's. Feel the full depth of what he actually is."
+
+She laughed — pure, uncut joy — as lightning-white streaked through her hair and her skin took on a golden wolf's cast, fangs and claws and a light so bright it looked like an aura of its own. Tenza and Tola looked at something that was, by any honest description, neither fully human nor fully divine.
+
+*"It's a celebration, father — Tenza,"* Mira called out, laughing. *"A new life has come into this world. Let's all be joyful."*`,
+          },
+          {
+            id: 'sc-e7-3-mira-vs-tola-tenza',
+            title: 'Living Lightning',
+            content: `Alma and Spirit reinforcements rushed her the moment she finished speaking. Streaks of white lightning turned them to ash before they closed half the distance. Mira laughed through all of it, savoring every second, then turned toward Tola with the same bright, terrible smile. "This is goodbye, then. Tenza too — how sad. Don't worry. I'll keep your heads intact. They'll look good going home."
+
+She moved faster than either of them could track. Tola tried to teleport away from her repeatedly, using his spatial ability to reposition again and again — and found her waiting at every single destination, striking with enough force behind each blow that entire squads of soldiers standing near him died from the shockwave alone. Thousands of Orian soldiers' last sight that day was Mira's smiling face.
+
+Tunde arrived in time to see his father pinned against a mountainside, still being hit. Mira caught him a moment later with a single blow to the abdomen that sent him flying, then appeared beside him again before he'd finished skidding to a stop. "Took a few tries," she told him, delighted, "but I finally put him down. He doesn't even merge with his own tool properly — uses it like a man swinging a borrowed bow." Tunde, frozen, reached for the emergency teleport crystal at his neck — a full-mana-cost escape to a preset location — and broke it a heartbeat before Mira's grin filled his entire field of vision. A pulse of light tore all three of them away just in time.
+
+Mira laughed at the empty ground where they'd been standing. "Underestimated Arai's brother. Should have expected the contingency." She turned to survey what remained of the battlefield, still smiling. "Well. Better go finish the rest."
+
+She found Irane waiting for her with Axola broken at his feet, Olda and Duki impaled in the ground beside him, both alive, both screaming.`,
+          },
+          {
+            id: 'sc-e7-3-domination-intro',
+            title: 'Domination',
+            content: `Iris rose from Irane's chest in golden ring-disk form, resolving into a spear the instant his Will fully activated — a weapon Olda recognized instantly, and reacted to with visible dread even as Axola failed to understand what he was looking at.
+
+"That's one of only twenty of its kind that will ever exist," Irane told them, turning it in his hand almost gently. "Built to kill a Primordial God. I last used it against Enari. Kazemi's Principle: Kazemi's Domination." Dima appeared behind him as he said it. "My body is reactive, not proactive — it counters whatever core an opponent throws at me, which is a real liability against several of you at once, each with a different alignment. Domination lets me choose the counter myself. And within Dima's range, all the mana in this space is mine to command — including the mana already inside your bodies, the moment you touch this weapon."
+
+*"My Will is absolute!"* His mana detonated outward. Ferali and Celestials who'd closed on him simply ceased to exist. Spears of earth and electricity erupted from the ground beneath the rest, killing everyone nearest him in a single coordinated strike. Olda's chains shattered the instant Dima reached them. Domination found his shoulder next, Irane's tone almost conversational the entire time: "Be proud, Olda — you're the first mortal blood Domination has tasted in this life. Sorry about the force of that first hit. Enari made me give everything, every time. Old habits."
+
+Duki lunged; Irane redirected the strike into Olda instead, without so much as turning to look. "Tell me something," Irane said to them both, genuinely curious about something he hadn't expected to feel. "What are you two to Hope and Zoe?"
+
+Neither answered. He didn't need them to — Hope's and Zoe's own rage, running through his own body via their shared cores, told him everything he needed regardless. He reached Mira through the link a moment later. "Who are Olda and Duki to Hope and Zoe?"
+
+"The men who killed their mothers," Mira told him, mid-fight herself. "And ruined what was left of their lives."
+
+"If I killed them," Irane asked, "would that make them happy?"
+
+"I can promise you," Mira said, "if you handed them the heads, they'd be thrilled."
+
+Irane thanked her, turned Domination toward Axola, and smiled wider than he had all day. "You'll do. You'll be the one who delivers them."`,
+          },
+          {
+            id: 'sc-e7-3-torture-execution',
+            title: 'A Gift for Hope and Zoe',
+            content: `What followed was not a battle. It was a sentence, carried out slowly, and it was Irane's own choice from the first cut to the last — not the Will-cascade acting through him, not Mira's Penumbra or Pandro's Mono expressing something he couldn't control. This was Irane, deciding, in full possession of himself, exactly how much Olda Apolo and Duki Navar were going to suffer before he let them die.
+
+He laughed, quiet and genuine, as Olda's cries echoed through the ruin. "Music to my heart." He walked toward him, unhurried. "Olda Apolo — how do you want to die?"
+
+Duki tried to intervene; Domination redirected his own strike back into Olda's side before Dima forced him to the ground with a single pulse of mana. Irane never took his eyes off Olda. "Are you getting all this, Axola?" he called out, not turning. "You need to remember the details — you're the one telling it afterward." He took Olda's left arm off at the shoulder. Then his leg. Duki charged, and Irane simply held Domination out to block, mana obeying him rather than Duki, until Dima's own strike drove Duki forward onto the weapon's point.
+
+"Have you figured it out yet?" Irane asked him, almost gentle. "You can't move because I've ordered your own mana not to let you. Domination doesn't just channel mana — it dominates me. My body reacts to whatever core attacks it; I can't normally choose which counter-mana it produces on its own. Domination gives me that choice. And within Dima's range, the mana in your own body belongs to me the instant you touch this weapon." He demonstrated by forcing Duki's mana to consume Olda's already-ruined leg from the inside, then cut Duki's own leg away with a stream of blue-green flame built specifically to counter his alignment. "Told you," he said. "Made just to burn you."
+
+Dima teleported Olda in front of Duki. Irane drove Domination through both of them in a single motion, mana pulsing outward through the whole ruined space, killing nearly everything left standing. When it was over, he cut both their heads free and forced Axola's broken hands to hold them, one in each fist, fingers driven through their skulls to keep them from slipping.
+
+"Take a good look," Irane told him, "at what happens to your forces next." He and Mira turned the remaining Orian force to ash together, Irane redirecting Paradise's own cannon fire back into the retreating soldiers while Mira struck the ground over and over like living lightning, the shockwaves alone killing hundreds at a time. Axola's own hands were forced to hold Olda and Duki's heads through all of it, his eyes forced open, unable to look away from any of it.
+
+By the time it ended, an hour had passed inside the cascade's two-hour window. Axola knelt in ash and silence, holding what was left of two men he'd once called allies, and Irane crouched beside him, calm now, almost tender. "Make sure you tell them everything you saw," he said. "Exactly as you saw it. Don't leave out a single detail." He left him there, alive, and walked back to Paradise.
+
+No one who witnessed it — not the handful of Ferali who survived, not Axola himself — ever suggested this was anything other than exactly what Irane meant to do.`,
+          },
+        ],
+      },
+      {
+        id: 'ch-earth-7-4',
+        title: 'Chapter 7.4: Penumbra!',
+        scenes: [
+          {
+            id: 'sc-e7-4-orexis-unleashed',
+            title: 'Orexis',
+            content: `Aliya was in Acana, in the Ascen's third-largest southern state, serving under Arai's authority as her eyes on the ground for a region showing signs of unrest. She was mid-conversation with a memory of her own sister when Irane's Will activated across the continent — a conversation she allowed herself, carefully, once every four months, under Irane's own standing rule, entering a meditative state to speak with the echo Soul's carried of Valariya. It was gentle by design. It was meant to be the one place Irane's Will never reached.
+
+It reached her anyway.
+
+Anchor, in its sealed state, gave Aliya combat access to five of Irane's Six Spirits — Logos, Thumos, Eros, Phantasia, Noesis — at her own discretion. The sixth, Orexis, sat behind a standing order: never without Irane's direct command. Orexis was the truest, rawest expression of what Irane actually was underneath every other Spirit — a tool that does not relent, does not stop, and does not know how to want anything except the completion of whatever it has been set to do.
+
+Soul's own voice reached her mid-conversation, no longer performing as Valariya. "You wanted to know what Orexis is like," it said, gentle and unfamiliar all at once. "Let me show you."
+
+Aliya felt the possession take her the way she imagined Irane himself must experience command — total, calm, and absolute. Two orbs surfaced from her own core: clone-cores, copies rather than the departed themselves, Irane had been explicit about that the one time it mattered — Valariya Hallow's and Nevir Revyn's, each carrying one weaponizable ability of its own. *"Irane's Will: Orexis,"* she said, and the plan assembled itself in her mind with a clarity that felt, for the first time in her life, indistinguishable from his.
+
+The objective, as Orexis understood it, was simple: eliminate every hostile Orian in the region. The quota Orexis set for itself — five hundred million, a number chosen to give the operation a floor, not a ceiling — was, by the time it finished, badly overshot.`,
+          },
+          {
+            id: 'sc-e7-4-acana-mechanics',
+            title: 'The Tree and the Reaper',
+            content: `Valariya's clone-core activated Yggdrasil's true offensive function for the first time in its existence — the same tree Irane had quietly upgraded months earlier, extending Valariya's core-echo's functional life by a few months, an upgrade that had never been about war until this moment made it one. **Core Harvest**: the tree killed and directly absorbed the cores of the fallen into itself, feeding Irane's own reserves through the same connection that let Aliya reach her sister's memory. Nevir's clone-core answered in turn with **Personal Kill Restoration**, his own innate Life/Death art repurposed to raise the harvested dead as empowered, life-force-sustained undead rather than simply returning a single life. Valariya's tool had never once, in its whole existence, been used to hurt anyone. It did not resist being turned into a weapon now. Nothing in its design stopped it — only the choice of whoever held the copy of her core inside Anchor.
+
+What followed moved with the calculated efficiency of Irane's own mind rather than the chaos of a battlefield. Aliya sent the risen dead in coordinated waves, not into Acana itself at first, but through the surrounding villages — clearing ground, gathering strength, feeding Yggdrasil's reach further with every core it absorbed. When she finally entered the city proper, she moved with a directness the defenders never had time to organize against, key points of the defense collapsing before the assault even reached them in force.
+
+She did not linger on the details of what the toll actually looked like on the ground, and neither did anyone who survived to give testimony afterward — the reports that reached Niro's council spoke in scale and horror rather than incident, refugees and soldiers alike describing something closer to a natural disaster than a battle. What the reports agreed on, consistently, was the presence at the center of it: a spirit, blue and vast, moving through the wreckage with an expression the survivors could only describe as pure, uncomplicated joy.
+
+Deep in the operation, Aliya reached further than the plan strictly required. Through her own connection to Irane's Death-aligned cores, she drew baby Dokia's core to her side — not harming the child's physical body, contained safely in Paradise by Summari and Nighla's instinct alone, but manifesting a version of what Dokia carried: a pure black blade, burning with a heat that had nothing to do with fire. *"Let's kill them all,"* Aliya said, drawing it. *"Transition."*
+
+Cycle rose from the deaths that followed — a blazing black phoenix now rather than the dragon he'd once been, embodying every one of Irane's deaths and returns at once. "Ah, Aliya," Cycle said, genuinely surprised. "Not who I expected to wake up to. I'll be sure Dokia hears about this when she's older." Aliya laughed despite everything already happening around her, and asked him to help her finish what Orexis had started. He agreed, and the two of them together turned the city's own defense into fuel: Transition driven into her own heart in a single motion, offering everyone within its reach the same choice she'd just made herself — accept the death, or live with what accepting it would cost. Most, out of pure terror, chose to die. Their life force fed Cycle's return, and Cycle's return, in turn, powered Yggdrasil's spread further still — four new trees launched to the cardinal points of the city, then compacted into seed-orbs and fired into the most populated border regions of Alma and Spirit territory alike, carrying the same slow, spreading horror wherever they landed.
+
+Cycle's own spent death-force, by the operation's final stage, produced something new — four secondary, ghost-like beings, intangible, contagion on contact, spreading the same fate to anyone who touched them. The very last thing Aliya did before the cascade released her was compact the remainder of Cycle's stored mana into a single dense point and detonate it, amplified by every risen undead in the region collapsing at once — a final, coordinated explosion that erased what remained of Acana from the map.
+
+The final toll, once the reports were compiled: nearly eight hundred million dead, close to a billion more wounded or displaced. Orexis's own floor had been five hundred million. It exceeded that by a margin nobody, least of all Aliya, was prepared to sit with once the Will released her.
+
+She was found three days later under rubble at the eastern edge of what had been the city, among perhaps three hundred survivors in the entire region — broken leg, broken arm, internal bleeding, cracked ribs. She would live. She was awake and answering questions with calm, functional clarity within hours of being pulled free, the same clarity Orexis had left behind like a residue.`,
+          },
+          {
+            id: 'sc-e7-4-aliya-breakdown',
+            title: 'What She Hated Most',
+            content: `Arai came to her the moment word reached the capital. Aliya told her everything — the quota, the trees, the four ghost-shapes born from Cycle's own spent force, the moment she'd reached out and used her own sister's core, and Nevir's, as instruments of war rather than memory. She cried through most of it, and the tears didn't stop the way tears usually stopped for her.
+
+What she couldn't say to Arai directly, not at first, was the part that actually frightened her. It wasn't the killing. She'd known, in the abstract, that Irane's Will meant she might one day be asked to do something like this. What she hadn't expected, and what she couldn't make herself stop turning over, was how *good* it had felt while it was happening — a pride, clean and total, in doing the thing well. In doing it exactly the way he would have.
+
+"I hated how proud I felt," she told Arai eventually, once the first wave of crying had passed and left something colder and more honest behind it. "It was the only way I could stand to look at what I'd done. If I let myself feel it as only horror, I don't think I could have kept functioning at all. So some part of me made it feel like — like doing my job well. Like making him proud." She said it like a confession of something worse than the killing itself. "I keep thinking about the children. I didn't hesitate. Not once. And some part of me is glad I didn't, because hesitating would have meant failing the order, and I —" She stopped there, unable to finish it out loud a second time.
+
+Soul's own voice reached her quietly in the hours that followed, apologetic in a way it had never been before — explaining, as gently as the truth allowed, that Iris's forced activation through the wider cascade had made the possession deeper and more total than anything Aliya had trained for on her own. Irane had been mid-battle himself when it happened, genuinely enjoying the fight against Olda and Duki in the moment his Will reached across the continent and found her — and that joy had bled straight through the connection into everything Aliya did afterward, undiluted, unfiltered, hers and not hers at the same time.
+
+She stayed in that hospital bed longer than her injuries alone required. Arai sat with her through most of it, and so, eventually, did Hope, neither of them offering the kind of comfort that pretends the thing didn't happen, both of them simply staying while she worked through what she'd have to carry now that it had. It wasn't resolved by the time the reports demanded her attention again. It wasn't going to be resolved quickly, and everyone who sat with her in that room understood that plainly enough not to pretend otherwise.`,
+          },
+          {
+            id: 'sc-e7-4-orian-horror',
+            title: 'The 8-Anathema',
+            content: `Axola returned to Mana on foot, walking without stopping, mumbling to himself the entire way, Olda's and Duki's heads still gripped in either hand, fingers driven through bone hard enough that he could no longer have released them if he'd tried. He attacked anyone who came near before Arai gave the order to let him pass. He was brought before the full assembled leadership — Niro, Azen, Elorah, their children, Nuro freshly retrieved from the lab and bearing his own marks in silence.
+
+He collapsed at his father's feet. When he finally spoke, his voice had the texture of a much older man who had seen far more than his years should have allowed. "He's a monster," Axola said. "Droom was wrong. She was so wrong." He described what he remembered in fragments — Urial's birth, the spear made manifest, being forced to hold Olda and Duki's own heads while Irane took his time with them, made them suffer *for what felt like an eternity — a whole hour* — and laughed through all of it, genuinely delighted, until Axola himself begged him to just end it. Irane had, eventually. And then handed the heads back through Axola's own hands with an order: deliver them to Hope and Zoe. Tell them he's looking forward to seeing them both. Tell Arai the same.
+
+*[The cascade's true duration, confirmed independently by Iris's own timestamped account rather than anyone's memory of living through it, was two hours — not the forty-five minutes Pandro's own accounting produced, and not the single distorted hour Axola's testimony gave it under torture. All three converge on the same two-hour window once compared against the one clock that was actually reliable while it ran.]*
+
+Tenza, Tola, and Tunde returned in the same hour, ruined in various measures — Tola missing his face beneath a mask and bandages, wheeled in by Tenza, who himself had lost only his left eye; Tunde missing his right arm and left leg, walking on an improvised earth-magic prosthetic. All three confirmed, without exception, that every word out of Axola's mouth was true.
+
+Aliya, present at the edge of the room, was the only one who'd seen Tisiphone — the name already spreading for what she'd become at Acana — up close. "That thing wasn't a savior," she said quietly, when Elorah pressed her for a firsthand account. "It only wanted to kill. It smiled the whole time. It enjoyed it." She was crying before she finished the sentence, and the sight of her crying unsettled the room nearly as much as anything Axola had described.
+
+Axola, past whatever restraint had held him together until that point, began repeating something closer to liturgy than warning. "We should pay our respects and never go near his empire again. He will come, and he will end us." Niro told him to be quiet. He wasn't able to stop. He called Irane an abomination, described weapons built to kill Gods, called Dima a Divine Beast — and every face in the room that had actually been there confirmed, silently, that none of it was exaggeration.
+
+Azen struck him hard enough to silence him bodily. Arai used the opening to argue for pulling back from Paradise entirely and refocusing everything on Heaven — they had, by her own admission, no real understanding of what they were actually facing. Azen rounded on her, accusing her of cowardice; she answered by offering him the next assault personally, watching him decline without quite saying so out loud. Niro ended the argument by handing Arai the negotiation instead — peace talks, on the reasoning that if Irane's kingdom stayed out of the war against the Primals of Heaven, that alone was worth the attempt.
+
+What spread afterward, in the days it took Niro to have Axola quietly imprisoned for the damage his rambling was doing to Orian morale, was a fear-name nobody could put back in its box once it existed: *The 8-Anathema.* Orian numerology read the number eight, written a particular way, as *opposite* — a symbol turned against the very number Irane had always privately favored. The liturgy that grew up around it, repeated by refugees and soldiers alike until it took on the shape of scripture, ran: *"The monster who should not be named, but all are permitted to know his name, so as to give thanks to him when he comes to kill you."* Arai warned Niro directly that imprisoning Axola would only make the story spread faster, unmoored from any context that might have tempered it. She was right. It spread regardless.`,
+          },
+          {
+            id: 'sc-e7-4-peace-delegation',
+            title: 'The Court of Lord Kazemi',
+            content: `The delegation that traveled to Paradise two weeks later carried the full weight of what Acana had done to Orian confidence: Arai leading, with Dunk Vane as Niro's chosen escort, Aliya at her side, Dio Ferran and Leo Proude representing the Spirits and Alma respectively, and — at Arai's own arrangement — Nina Nexal, visibly pregnant, brought along for reasons she hadn't been told and half-suspected anyway, having overheard enough of Arai and Tenza's conversation to guess at something close to the truth. Tenza told her plainly, before they left, that what Arai was doing was the worst thing she could ever do to her own sister. Arai reminded him only to remember his place.
+
+They arrived to a city transformed — reconstruction everywhere, golden ore pouring from a forge at the southern gate, integrated Alma-humans among the welcoming party who spoke, unprompted, of respect and advancement rather than captivity. One of them, a young man named Oli, recognized by Leo among the group, described weeks of imprisonment followed by an honest choice: serve, or stay in a cell. He'd chosen to serve, and a month later genuinely admired the man he served.
+
+The throne room itself had been built to make a statement — golden pillars, a flag of the rarest gems the Empire could mine, court attire designed by Milla Ores herself. Irane sat with Mira to his left and Pandro to his right, Audis presiding as voice of the court. He introduced Irane's inner circle by full formal title, the first time the roster had ever been spoken aloud in front of outsiders: **Mira Ardent, Grand-Supreme General of Apexia. Pandro Prescian, Grand-Sage of Apexia and current head of House Prescian. Criya Sin, Champion of Apexia — the first to win and hold the title, known as Kazemi's Champion. Evelyn, Head of the Hospital Units and current head of House Revyn. Jade Alge, second head of technology development under Pandro. Milla Ores, head of architecture and base design.**
+
+Aliya stood apart through the whole introduction, quieter than anyone remembered her being before Acana, unable to fully meet anyone's eyes.
+
+Dunk spoke for Niro. Mira asked, before anything else, whether Axola had delivered their gift and their message. Dunk confirmed it, visibly unsettled by having to say so aloud. Mira apologized — with a smile that made the apology worse rather than better — that they hadn't managed to also deliver Tenza's and Azen's heads before the two men escaped.
+
+Irane cut in himself, direct and cold. "How many of your people's deaths did it take for you to decide peace was worth trying?"
+
+Arai answered without flinching. "Over eight hundred million, my lord."
+
+"Only eight hundred million," Irane said. "That puts our total closer to a billion now. It took a billion of your people dead for you to come and beg."
+
+"I'd like to end the bloodshed," Arai said. "I know that isn't a small thing to ask."
+
+Arai's delegation brought eight transport-ships of rare, difficult-to-mine ore as a gesture of goodwill. Irane received it with open, cutting contempt — did she really believe the dead could be measured against ore by weight — and Arai, prepared for exactly this reaction, made the offer she'd actually come to make. "No, my lord. Which is why I offer you my own sister, Nina Nexal, and the child she carries, as yours — Valariyan, if that is your will."
+
+Nina had not been told any of this in advance.`,
+          },
+          {
+            id: 'sc-e7-4-nina-handoff',
+            title: '"I Truly Hope This Was Worth It, Sis"',
+            content: `The betrayal landed on Nina harder than her original capture by Axola ever had — worse, even, because Tenza had at least fought to keep her then. She stood frozen, shaking, holding Aliya's hand so tightly it hurt, staring at Mira in the desperate hope of finding the old friend she remembered from the academy still somewhere behind her eyes. All she found was a smile that had nothing warm left in it. She felt, she would say afterward, like a lamb being handed to wolves who were enjoying the sight of their next meal a little too openly.
+
+Irane looked her over with real interest. "What a wonderful core you have, Nina." His smile faded a degree. "I can't simply accept a gift, Arai — Apexia has its own laws." He turned back to Nina directly. "So: do you accept becoming your sister's bargaining chip? Say yes, and you become Valariyan — mine, in every sense the word carries here. Say no, and this arrangement ends."
+
+Nina's tears came before she could stop them. Returning to the Orians now, refusing the offer, would mean Arai's whole gambit had failed in front of the entire court — and after everything she'd already heard from Axola and Aliya both about what Irane's forces had done at Acana, she found she no longer cared much what happened to the people she was leaving behind. She looked back at Arai one last time.
+
+"I truly hope this was worth it, Sis," she said, trembling, crying openly now. "I accept. Being made a Valariya. Being offered to you." She held her stomach as she said it.
+
+Irane's smile widened into something with real teeth in it. "Good. Isoke, Milla — see that she's comfortable, and understands her place." He extended his hand for the customary gesture of loyalty; Nina kissed it, and his smile only grew.
+
+Isoke Mvel — "Iso," in the private register Irane used for her now — took Nina aside with Milla, meaning to comfort her, and instead delivered something that nearly broke her completely. "Don't worry," Isoke said, gentle and entirely misjudging the moment, "I was also asked by Lord Irane to test whether you'd sacrifice your own unborn child. I did try it, you know." It was meant as something between reassurance and dark humor — proof, in Isoke's own mind, that the test hadn't actually cost Nina anything, since here she still stood. It landed instead as confirmation of exactly the horror Nina had feared since the moment she'd been named away. Milla knocked her unconscious before the shock of it could do any real damage to her or the pregnancy, and scolded Isoke sharply for the timing of the joke, even as she carried Nina's limp body away to rest.
+
+"I see you've given me quite the new servant," Irane said to Arai, once Nina had been carried off. "Why not offer yourself instead of your sister?"
+
+"I'd rather not be at the mercy of a monster," Arai said, cold and even. "I have no idea what you'd do to me."
+
+The room erupted at what it heard as an open insult to the Emperor. Irane only laughed, delighted by it in a way that unsettled everyone but Arai herself. "Refreshing. Stay for dinner. Leave in the morning. It's the least I can do — we're friends now, after all."`,
+          },
+          {
+            id: 'sc-e7-4-dinner-and-loyalties',
+            title: 'Friends Now',
+            content: `At dinner, Arai asked the question that stopped the room cold. "We're friends now, my lord — so I'd like to confirm something. Where do your loyalties actually lie, with regard to the Primals of Heaven?"
+
+Mira answered before Irane needed to. "We're not allied with Toma More. We hold a peace with him for five more years — nothing more. If you went to war with him, we'd offer neither side aid. We watch, and we see who wins. Neither the Primals nor the Orians are truly our enemies. Only fools who attack us are."
+
+Arai raised her glass, matching the room's forced warmth with her own. "Then I'm glad. We're planning a full-scale war against Heaven — I'd hate to have to face what you all wield as well." Mira laughed and named one exception: Droom Lucerne, whom she was personally, specifically interested in settling a private score with. Arai promised only that she'd pass the message along, and the dinner ran tense to its end.
+
+Afterward, Irane used Dima to move Arai and Aliya, quietly, to the palace's most secure room — where Mira, Pandro, and Milla with Urial already waited, along with Summari, Nighla, and Dokia, all three playing on the floor rather than being carried this time. Irane pulled Arai and Aliya into an embrace the moment they arrived, and Mira, watching, cried openly at how visibly he'd missed them. Milla showed Dio his son, Urial, for the first time — Dio wept, calling him Aliya's sister in every way that mattered, remembering her as a baby on the island. Leo held Summari and Nighla and found something in it he hadn't expected to feel this easily, given everything.
+
+Leo noticed Pandro's expression before anyone else said anything about it. "You've got the same look Aliya has," he said. "Fear that isn't going away." Pandro's answer came with a smile that didn't reach anywhere near his eyes. "I genuinely got what I always wanted." It was the saddest thing Leo had heard him say in years, and neither of them pushed it further.
+
+Irane called them all together and, with Iris manifesting fully in her disk form to narrate what actually happened, explained the mechanics behind everything they'd all just lived through — the Will cascade, Domination, the Drive/Will/Conceptual hierarchy, Iris's own role as "the tool's tool," the true accounting of how much of his own strength any of them had actually accessed even at their most powerful. He told Aliya directly, gently, that the deaths at Acana were his to carry, not hers — that Orexis was his own spirit expressing itself through her, and the responsibility for what it did belonged to him. It didn't fully lift what she was carrying. It was, at least, said plainly and meant honestly, in front of everyone who needed to hear it said.`,
+          },
+          {
+            id: 'sc-e7-4-the-reckoning',
+            title: 'A Gift Received',
+            content: `Word of Olda's and Duki's deaths had reached Paradise well before the peace delegation arrived — Axola's testimony traveled faster than any formal channel, and by the time Hope and Zoe heard the full account secondhand, from Mira and from Irane both, neither of them pretended to feel anything but relief.
+
+Hope's reaction was immediate and unclouded: the man who'd killed her mother, dead, and dead badly. Zoe's was quieter and colder, but no less real — Duki had spent years making her mother's death into a private joke at Zoe's expense, and hearing exactly how much he'd suffered before the end did not trouble her the way it might have troubled someone who hadn't lived through what she had. Both of them told Irane, plainly and without hedging, that this was exactly the gift he'd meant it to be.
+
+It wasn't only the two of them. In the hours after the news properly circulated through Paradise's court — among the freed Alma prisoners working their way toward citizenship, among a handful of Orian defectors who'd chosen Apexia over their birth clans, even among a few of the elders who'd once served under Toma and remembered exactly what Olda and Duki's names meant to people who'd suffered under Orian rule for decades — something flickered across more than one face that looked, for just a moment, like open satisfaction. A held breath let out. A small, involuntary smile at the news that two men many of them had feared or hated personally were finally gone, and gone badly.
+
+And then, in nearly every case, the same people caught themselves doing it — glanced sideways to see who else had noticed, smoothed their expression back into something more appropriately grave, busied themselves with whatever task was nearest to hand. Nobody said anything about it out loud. Nobody needed to. It was there in the half-second before the correction, in the way a few of the freed Alma specifically wouldn't meet each other's eyes afterward, in Evelyn's own carefully blank face when the news reached the hospital units where she worked. Whatever it said about them, wanting this — however briefly, however understandable the reasons — it was not a feeling any of them particularly wanted witnessed, least of all by themselves.
+
+Hope and Zoe didn't perform any of that same self-consciousness. They didn't need to. What Olda and Duki had taken from each of them wasn't abstract, and neither of them saw any reason to pretend the news didn't feel exactly as good as it did. If anything, Hope said later, quietly, to Zoe alone, the only thing that troubled her about her own relief was how little it troubled her at all.`,
+          },
+          {
+            id: 'sc-e7-4-private-reunion',
+            title: "I Genuinely Got What I Always Wanted",
+            content: `The court dinner and the formal reception behind them, the closing hours of the delegation's stay belonged to the people who actually loved each other rather than the politics that had brought them into the same room.
+
+Mira found a private moment with Irane to ask for something that had nothing to do with the war. "When it's Droom's turn again," she said, "I want her myself. Personally. Nobody else." He agreed without needing to ask why — the debt between them was old enough, and personal enough, that it required no explanation.
+
+Pandro sat with Leo a while longer once the others had drifted off, still carrying the same hollowed expression from earlier. He didn't explain further than he already had, and Leo didn't press him to. Some things, it was clear, were going to take longer than one night to say out loud, if they ever fully could be.
+
+Dio spent most of the night simply watching his son sleep, Milla beside him, both of them quiet in the specific way people get when the thing they'd been afraid to hope for finally, actually happens. Urial Ferran — the child of Valariya, the reason the whole cascade had triggered in the first place, the single happiest event of the entire crisis sitting at the exact center of its worst hour — slept through all of it, indifferent to the weight of what his birth had cost the world outside the room.
+
+Before the delegation left the next morning, Irane pulled Arai aside one final time. "You've got this, Master-Mind," he told her — quiet, sincere, nothing performative left in it at all. She'd bought them time, exactly as she'd set out to. What she'd bought it with, and what it would cost her to keep buying it, was a question neither of them said out loud, because both of them already knew the answer, and neither of them had a better option waiting.`,
+          },
+        ],
+      },
+    ],
+  },
+  {
+    id: 'part-earth-8',
+    type: 'part',
+    title: "Part 8: War For Humanity's Soul!: Part 1 — Beginning of the End",
+    subtitle: 'The central antagonist force of the entire series gets fought, and the price of winning turns out to be Irane himself.',
+    chapters: [
+      {
+        id: 'ch-earth-8-1',
+        title: 'Chapter 8.1: The War to Come!',
+        scenes: [
+          {
+            id: 'sc-e8-1-induction',
+            title: 'What It Means to Be a Slave',
+            content: `Nina sat alone in the hospital wing after her sister left her there, shaking, waiting for someone to tell her what actually came next. Milla didn't sugar-coat it. "As a Valariyan, you'll be placed in a body the Emperor designed for your core. The moment you give birth, your child goes straight into a body that's already waiting. You'll be moved into yours the second you're done — no reason to make you suffer through the wait. We've never done a mother-and-child transfer at the same instant before. It's never come up. It's also, apparently, perfectly manageable."
+
+Nina asked if she'd had any choice in any of it. Irane answered from the doorway before Milla could. "No. Make peace with it — it's already decided, and stopping now would waste work that's already done." He nodded at the girl waiting behind him. "This is Aura. One of my students, and one of the people closest to me. She'll be looking after you this week." He was gone before Nina could ask him anything else.
+
+Aura smiled like the introduction hadn't just happened to a grieving stranger and offered her a tour, moving them both by hover-transport rather than on foot. She showed Nina the forges, the factories, the districts under construction — narrating all of it with the fluency of someone twice her apparent age. "This was the main forge, but we've got a bigger one going up in Tulla now — we're clearing it out from Vraka's people as we speak. It's a goldmine, and nobody's ever harvested it properly. The Primordials had a whole natural extraction process for it that got lost." She said it the way other six-year-olds talked about a favorite game.
+
+Nina asked, carefully, if everyone in the city knew this much. Aura laughed. "No — I'm just always around Lord Irane. I'm his personal pupil. After I turned human, I started staying near the palace, and one day I realized my room already had all my things in it — the picture of my family, everything my old life left behind. He gave me a home before I even asked for one. I don't think I was ever officially told I could stay. It just happened." She said it lightly, but something in the way she said *it just happened* made Nina look at her a beat too long.
+
+They passed through a crowd where Primal and Orian survivors stood laughing together in the street — people whose ancestors had spent millennia trying to exterminate each other, now indistinguishable from any other knot of neighbors trading gossip. Nina couldn't stop staring. "It doesn't matter what race or background you're from here," Aura said, following her gaze. "What matters is whether you obey the law. Everyone made that choice. We're all equal because we all serve the same person. The only real question anyone asks is: how much are you doing for his will?"
+
+"You — all of you — call us Apexians," Nina said slowly. "That's fair, I suppose. We're all people of the Empire. But there are two kinds, aren't there."
+
+"There's Apexian, and there's Valariyan," Aura said. "Apexian just means you live under his law. Valariyan means you serve him — an extension of his will, a vessel of his power. Someone who'll never refuse an order. That's the difference. And you should feel lucky — there's a new rule now. Ten years of service as an Apexian before you're even eligible to become one of us."
+
+Nina asked why. Aura's answer came without hesitation, like it was something she'd recited before. "Because the people coming to Apexia now are refugees. People who want a home and expect to be treated like they've earned what the rest of us bled for. We stayed. We saw him at his worst and chose to stay anyway. He cured my Parah — told me I'd never have to fear it again, not even if it evolves past the cure someday. We'll never really have to worry. It'll be like a rash, and then it's gone." She said all of it with the same bright, unclouded certainty. "We serve Lord Kazemi. And now you do too — which is both a privilege and one of the hardest roads there is. Every child born in the Empire stays Apexian until they're old enough to choose — twenty-one to thirty-one — and then they decide. If he tells you to kill, you kill. If he tells you to live, you live. Your core is his even after you die. You'll serve in life, and something of you serves after."
+
+Nina said, flatly, "I see. I'm a slave."
+
+"Well — you can just be Apexian instead, if that's what you want," Aura said, unbothered. "You pay taxes, you can join the army if you like, and that's it. You just live under his law." Then, with a child's blunt honesty: "But you already chose the other one. That's what your sister meant when she asked you to join or leave. You picked this."
+
+"I know," Nina said. "I knew what he meant when he said it."
+
+Aura put a hand on her back with a smile too gentle for the words that had just passed between them. "Welcome to the club." She pulled Nina toward a gathering crowd before she could answer, calling out: "Ladies and gentlemen — a new Valariyan! Lord Irane's taken her as an offering from the Orians!" The news moved through the crowd like something contagious. People who should have hated her on sight — Primals whose ancestors her own family had helped slaughter — instead crowded close with genuine warmth. "When you get your body," one of them told her, delighted, "come find us so we can brand you at the next festival."
+
+Nina asked what that meant, and got the story of the yearly celebration on the Empire's founding day — a mana-marker painted onto every newcomer's palm by the hands of Valariyans already welcomed, a color unique to each person, meant as a sign of belonging. It reminded Nina, absurdly, of every story Zoe used to tell about the Fest, back when the word still meant something safe.`,
+          },
+          {
+            id: 'sc-e8-1-isoke-story',
+            title: "Valariya's Fairy Tale",
+            content: `Nina was returned to the palace, where Isoke pulled her in for a check-up, gentler than her first, joking apology suggested she'd be. "You're due any day now," Isoke said, running through the routine. "Lord Irane's spent the whole week making sure your body and your child's are ready. He's doing it personally. You should be honored."
+
+"I heard the whole shape of your society today," Nina said. "And I understand what I chose. But I need to ask — there's no way two peoples who despised each other this much just quietly agreed to move on. What did he do to make that happen?"
+
+Isoke laughed, not unkindly. "Good question. I think we each had our own moment where we realized — maybe he actually is the story come to life." She told it the way Valariya herself used to tell it. Isoke had worked under House More once, a caregiver to children being altered against their will — dark, evil work that she was, by her own admission, terribly good at. Leaving that life behind, she'd landed with the Consa house under Minia, believing she'd finally found safety and a chance to do real good — only to find the same machinery in a different shape, a place that turned children into monsters. She'd watched it happen. But in the middle of it, she'd watched someone different: Cai, doing the ugliest work of all — reshaping children's minds to believe in Irane — and somehow, out of that same evil act, keeping more of those children alive than anyone else managed. It was in that house, listening to Valariya tell her own story to the children she was minding, that Isoke first heard the fairy tale.
+
+"We all followed the Primals to Paradise with Cai — with Hope," Isoke said. "She was everything we needed. Then she left, and we walked straight into hell — your Orian friends and their Aetherals made sure of that. Criya did what he could, and it was so much, and it still wasn't enough. Not until *he* came back. The moment he returned, order started finding its way back into things. We never stopped believing that story — even the ones of us who used to plant it in other people's heads. We brainwashed ourselves the same way we'd brainwashed them, and then we looked up and saw a man instead of a god. That was the difference. A man can die. A man needs us." Her voice caught, just slightly. "He's never failed us. Not once. But I still see the cold and the loneliness underneath all of it."
+
+Nina asked, carefully, if Isoke knew anything about Lord Kazemi and Arai Nexal. Isoke's face went blank. "I know he likes her, because of some curse she put on him — I wasn't really listening when Gran-Gran explained it. I was told he does all of this for her, and two other women." Nina let something slip then — that she'd seen the two of them intimate together — and watched Isoke's face go through several stages of disbelief before landing, with sudden and total horror, on: *"...so that's why Mira was acting like that."*
+
+It turned out Mira had spent that particular night running screaming into the forest, visibly wrecked by an emotion — Emo, Adore, Life-Death Time all bleeding together — that she still hadn't learned to fully govern, leaving a trail of devastated scenery behind her like some kind of interpretive dance of pure horror. Isoke and Aura both laughed themselves breathless once they understood what it meant, then dragged Nina along to corner Irane and demand an explanation. He gave them one without a trace of shame, regret, or fear: *"So what?"*
+
+His total lack of a reaction annoyed them more than any denial could have. They left in a huff, leaving Nina alone with him.
+
+"So," he said, handing her a glass of water like nothing had happened. "How was the tour with Aura?"
+
+Nina looked at him — exhausted, immense, terrifyingly present even sitting still — and found she couldn't quite move. He caught the look and pulled back his sleeve, showing her the side of his body still marked by Parah scarring, and worse, by scars that told no coherent single story. "You body tells a story of hell and war," she said, before she could stop herself.
+
+Her Core activated without her fully meaning it to — the ability to read the flow of time through a person's mana like water — and she saw, for one unbearable second, an ocean of it. A universe of time behind this one man, running back further than made any sense. She nearly went under. He stopped her before she could drown in it.
+
+"You were viewing my mana's past, weren't you," he said, not quite a question. "I wouldn't recommend it. I have far too much history for you to process at your current skill level." He held her while the fear passed, gentle in a way that made no sense next to what she'd just seen. "Once you're a Valariyan, I'll have a gift for you. Go say hello to Mira when you get the chance. And figure out what you actually want to do — it's easier on both of us when you already know."`,
+          },
+          {
+            id: 'sc-e8-1-three-pillars',
+            title: 'Three Pillars',
+            content: `Over the following weeks, Nina learned the shape of the Empire's actual machinery — three career sectors, called simply the Pillars, that every Apexian eventually entered.
+
+Teaching and Nurturing covered education, food production, medicine — the people who kept the next generation alive and capable. Building and Creating covered the industrial sector: primordial-tech research, weapon and tool manufacture, construction, the hardest sector to break into and the one that took the longest to master. Protecting and Law covered policing and the military — the largest sector after Teaching, and the one with no soft assignments. Anyone capable of fighting was expected to.
+
+The assessment wasn't simple self-selection. Every Apexian went through formal trials across all three — mana, core, and skill — and came out the other side with results and a stated preference. The state's own suggestion, filtered through Irane's personal review, sat alongside that preference; where the two disagreed, he heard both cases and ruled directly, sometimes compromising, sometimes handing someone an option they'd never have picked for themselves.
+
+When Nina finally sat with Mira, nothing about how Mira treated her had changed, despite whatever rumors Nuro and Axola's old accounts had spread about her sister. They talked for a while before Mira asked which Pillar she was leaning toward. Nina said maybe the first. Mira told her, honestly, that she hoped it would land there — and explained the process in full, ending with an example: say the results point Nina toward medicine, but Irane's own read of her suggests something closer to engineering. The final call comes down to him, weighing both sides, in every single case, with a reason.
+
+Nina gave birth not long after. Both her core and her child's were moved into their new bodies in the same instant — a first, Irane explained, made possible only because he'd built both bodies specifically for the purpose. She named her son Nara Nexal. When she woke in her new form, laughing, giddy at the idea that she could have three children all over again, Irane cautioned her gently: her body would need a full month to settle. She'd be watched closely until then.
+
+Her assessment came back weeks later. She thought, briefly, about the safest option — a quiet life, farming, an ordinary role — but she'd already half-decided her sister sent her here for her own safety, and safety wasn't what she wanted to give back. She chose the third Pillar, Military. The state suggested the second, Special Engineering. And then there was a third option, offered by Irane alone, marked simply: *0 — Emperor's Subject.*
+
+It read exactly like what Aura had been doing the whole time she'd known her. Nina understood, looking at it, that this wasn't a joke — accepting it meant the worst of the worst, and also meant standing closer to Irane than almost anyone in the Empire. She accepted it anyway.
+
+Mira laughed when she found out. "You picked the worst option available. The forbidden path. Aura's on it. So is Jade. It's hell, working directly under him." She wasn't wrong.`,
+          },
+          {
+            id: 'sc-e8-1-truth',
+            title: 'How Much Do You Want to Know',
+            content: `Weeks later, Irane called Nina in alongside Aura and Jade. Nothing about his bearing announced it, but he was fully healed now, and moving like a man who intended to stay that way. "Aura Veil has been here from day one," he said. "She's your senior, Nina. So is Jade." Aura stood a little taller at that. She was six years old, and had been at Irane's side longer than anyone else in the room. "The only reason she outranks you here is seniority," he added, before turning the full weight of his attention on Nina. "So. How much of the truth do you actually want to know?"
+
+She didn't understand the question at first. "You're a Valariyan now," he said. "You're free to know everything — the truth about me, the truth about your sister and what she is to me. All of it, or none of it. Your choice." He placed Dokia in her arms as he said it, and waited.
+
+In the month she'd spent here, she'd never once felt like property — the people had welcomed her, and after everything she'd seen between Irane and her sister, she had a thousand questions and was afraid of every answer. "I want to know everything," she said, finally.
+
+He told her. All of it — Arai's role in his own creation, the fact that her sister's, Hope's, and Zoe's cores lived inside his own body, the truth of who Cai Consa had actually been and why she'd brought Nina to Paradise in the first place. The scale of the coming war. When he finished, he added, simply: "I am just a man."
+
+Aura called him a liar without a shred of hesitation. "Please don't believe him. He isn't a normal man. Not even a little."
+
+"You said all of this — the Empire, the city — is for the sake of my sister's desires," Nina said slowly. "You're building all of this for her?"
+
+"The Empire itself is for Hope. The city and its people — that's for Zoe. You could say the Apexian side of things exists for her specifically; anyone can choose to belong here, to pick which group they fit into. The Apexians are simply the people of the land. The Valariyans are different. They're extensions of me — people who've offered me their core, mine to use as I see fit. Each one has their own reason for choosing it, and I've built three separate paths precisely so people can choose the one that fits. In truth, the Empire was never meant to have more Valariyans than Apexians. That's going to change eventually, but that was the original intent. Your sister could have made you Apexian. She specifically made you Valariyan instead. I think that's her, in her own way, admitting she needs you — and your strength — for what she's planning."
+
+Nina looked down at Dokia, absorbing it. "She needs me. She really does."
+
+"Your sister carries more guilt than anyone I've ever met," Irane said. "She wants to pay the world back for every death that happened under her name. We have one goal: deal with Vraka and Selis. The plan's already moving. The old world dies soon, and they'll answer for what they did on Orians. That's what Arai wants."
+
+Jade, who had made a point of never learning this much, sat in visible shock. Nina laughed — a little unhinged, a little like someone whose whole world had just been rearranged without her consent. "Is she insane? Vraka, Selis — what she's planning on Orians is impossible. This isn't a mission for a regular person."
+
+"She can do it," Irane said. "With Hope and Zoe behind her, there's nothing she can't do. I've given her my Soul — Aliya — to guide her. I'd have preferred Hope take my Emotions and Zoe take my Death, but Mira's a wanted woman on Orians, and Dokia's an infant. So that's how it landed." He said it lightly, almost fondly. Aura added, with a child's absolute conviction: "You really should have more faith. Lord Irane can't fail." Nina found herself, despite everything, moved by how completely a six-year-old believed it.
+
+Jade spoke up, quieter. "I joined because of Cai. Hope, I suppose, now that I know the truth. She called us to fight beside her and I did — she renamed this whole ruined city, and I'd heard the old stories about when the Primals had everything. When I saw what this place had become, I couldn't stop myself believing in the vision she'd left behind in all of us. A lot of people left after they heard Cai had died. I feel for them — they'll never get to see her again. I'm honored to know the truth. I know most people never can, but I want to make sure her vision lasts regardless. Pandro tells the whole story to his children — not just the champion's part, but the empire, and his wife."
+
+Aura brightened. "It's my favorite story. The man who becomes emperor and builds something his people would live and die for. I even tell it to Dokia. Funny thing — when I start it, Summari's asleep and Nighla's awake. By the end, it's flipped." She laughed. "Weird. Still a beautiful story, though."
+
+"It's my favorite too," Irane said.
+
+"It's *about* you," Aura pointed out. "It'd be strange if you didn't like it."
+
+"That story existed long before I did," he said. "I was simply given the same name as its hero, by the same person who wrote him." Nina, working through the tangle of it, asked: "Valariya — Aliya's sister — my sister said Valariya saw her as a daughter."
+
+"She did," Irane said. "Which makes Urial your sister's grandson, in the way that matters, and makes you Aliya's and Valariya's aunt. Urial's grand-aunt. If I've got the math right."
+
+Nina took it all in, holding Dokia, and resolved herself to something she couldn't yet name. Irane's expression sharpened. "I want the three of you to understand something clearly. If you break my law — act against my will as a Valariyan — you will beg for death, and it will be worse than that. You'll be tried under harsher standards than anyone else, because you're closest to me. You'll be members of Squad 1. I'll lead it myself for now; Mira leads Squad 2, Pandro Squad 3. You'll all be trained by me directly." He looked at Jade and Nina in particular. "This will be hell. Ask Aura. You'll be pushed past every limit you think you have. Prepare yourselves — you'll be the aides to my cores."`,
+          },
+          {
+            id: 'sc-e8-1-mindscape',
+            title: 'The Necklaces',
+            content: `On Orians, Arai sent Dio and Leo ahead with a box for Hope and Zoe and a message: *I can't do this without you two.* Inside were necklaces Iris had made from Crono's and Dima's mana — a way into a mindscape where hours could pass while only minutes ticked by outside it. The cost was total physical vulnerability while it ran, which was why Aliya watched over Arai's body during their sessions, Dio watched Hope's, and Leo watched Zoe's, on a standing weekly schedule.
+
+Inside, the three of them worked through everything — Zoe's actions, the shape of a plan that would finally suit all of them together. Arai made clear, without softening it, that they no longer considered Apexia an ally; success meant relying entirely on their own strength, and if some people simply couldn't be reasoned with or redeemed, that had to be accepted rather than mourned. Mira smiled at the framing. Arai laid it out plainly: they needed influence, power, and — if the Primals' extinction became necessary to get it — the will to let that happen. "I'm asking for your help enacting my plan to seal the Arke twins," she said, and for a moment the three of them moved as one terrifying unit, laying every asset they had on the table.
+
+"We need to challenge the status quo of this world and leave a mark on it that can't be undone," Arai said. "We move, and we don't stop, no matter what happens." Zoe smiled. "Irane would be proud. We're just missing Summari and Nighla —" and in that instant they heard children laughing nearby. Irane had given the twins the same necklaces.
+
+Arai manifested Crono in front of both her sisters for the first time, which shocked them both — she'd never told them she could do that. "Trust me," she said. "Iris doesn't play around with her own creations." Zoe answered by manifesting Aphexia — Aph, she called her — who greeted them all with unexpected gentleness. Crono returned the greeting in kind. Behind Hope, Enari appeared in his massive golden form, and Hope groaned. "Manifesting you takes a toll on me, you know."
+
+"Not my fault," Enari said, entirely unbothered, before turning to Arai. "So where in this beautiful plan do I fit in?"
+
+"When me and Zoe get our tools from Iris," Arai said. Enari's smile deepened. "It's been an eternity since I've seen them. I wonder what they'll look like in your hands." All three of them accepted the shape of the plan in that instant.
+
+There was still work to do first — Gaia's core needed finding, and Mira, extending Enari's detection range as far as she could reach, had found nothing. "We won't find it just by hoping," Arai said. "Gaia, we're leaving that search to you. We need her in the next few months. Hope — keep looking too, while you have Enari." Two cores, still missing, still needed before any of it could move.
+
+Back in Paradise, the news was worse. Toma and Minia had been pushing their people to bear more children, and Minia had gained access to More's most secure lab and research, running countless brutal experiments on the Primal-Human population under the horrified, powerless watch of Kai Osiro and Nex Wov — the two clan leaders whose houses had once held Gaia's and Cronus's Tools and Beasts, before the last remnants were saved by Toma More at the end of the Fest and quietly folded into his service ever since.
+
+It was into this that Ember returned, requesting a formal meeting with the leaders of Heaven. Tan came with her, disguised as an old-era guard, claiming to have served under Cai and simply come to watch over Lady Ember. It was here Ember first met Kai — and the resemblance between them settled the question before either woman said a word. Kai's mother had a twin sister; that sister was Ember's mother, taken by Toma years ago and long presumed dead. No one had known she'd had a child in captivity before the end.
+
+Ember told them her whole story — her mother's death framed by their captors as the failure of a weak child, the suicide that had been the only escape left to her. It was too much to hear all at once. Kai and Nex comforted her without hesitation and welcomed her in.
+
+As the visit stretched on, Kai and Ember spent long hours together, simply talking, with Nex watching the exchange the way someone watches their favorite show. Eventually the conversation turned to children, and Ember asked if Kai had any. Kai and Nex went quiet, exchanged a look, and — in a decision that cost them nothing to make because it had already been made years earlier — chose to tell her the truth.
+
+Nex told it plainly, without any sense that he was confessing to something. "Your sister and I got involved. She got pregnant. It caused her real trouble in the clan — unmarried, and she wouldn't name the father, which made it worse. On the same day my wife gave birth — to twins, though only I knew that — one of them died. So I made the only call that made sense to me at the time. I switched the bodies. My dead son for your sister's living one. His name is Vesper Wov, and he doesn't know any of it."
+
+He went on, quieter now. "Taliya's my daughter by blood, and Vesper's twin in the story we tell — but she's always known the truth. She loves her brother like he's her other half regardless. We both did the only thing that felt survivable at the time, and we've carried the guilt of it since — the both of us leaders of clans that don't even hold their own Beast and Tool anymore. It hurts, but we push forward. We still owe it to our people to keep telling the story of Adam and Eve, the Promise, the Tools and Beasts — even while we're forced to serve the man actively at war with our own countrymen. We of the Wov and Osiro, like you Orians, simply owe that bastard. And we intend to pay the debt."
+
+In the same breath, Ember told them she had a son with Irane Kazemi. The two teenagers who'd wandered in to ask about the baby went quiet at the weight in the room; Nex apologized for their presence and told them plainly not to repeat any of what they'd just heard.
+
+Kia asked, gently, whether Ember wanted to formally join the clan — to become a true Osiro, accepting its traditions and beliefs as her own, a sister to her in every sense that mattered. Ember cried and said yes.`,
+          },
+          {
+            id: 'sc-e8-1-earth-losing',
+            title: 'The Losing War',
+            content: `Once Ember's business in Heaven concluded, Tan returned to Earth and rejoined Crimi, who had nothing good to report. Toma had abandoned his shadow tactics entirely and moved to open capture-and-conversion; humanity, rallying under Crimi as its last real pillar, was losing badly. The resistance's core problem was never numbers — it was the impossible math of trying to protect everyone while also fighting a war that demanded they choose. Minia's forced merges — humans bonded against their will to already-captured Ferali cores — were cruel, effective, and only getting worse.
+
+Tan suggested Crimi finally speak with Irane directly and see what terms might be possible. She agreed, cautiously, and arranged the meeting for herself. Before it happened, two things occurred outside the war itself.
+
+She encountered Ember, now an enemy, and was baited into a question she had no intention of answering: what was 'Z's' true name. Crimi laughed in her face. "You betray everyone who saved you, who brought you in — and then you think you've earned the right to ask me anything?" She refused, and later fielded the same question from Tan, understanding by then just how valuable that single piece of information had become. She was no fool, and no traitor to her own people's names.
+
+A costly operation not long after — one where the Wov and Osiro were ordered by Toma to assist — cost the resistance nearly ten percent of its remaining people. It was the breaking point. Crimi asked Tan to formally request the meeting with Irane. Three months had passed since Irane's own peace treaty with Orians by the time it happened.
+
+Tan brought her to meet the myth in person. She'd heard every story Tan and Simon had ever told about him and had never once let anyone know what she actually made of it. Walking through Paradise, she saw a city rebuilding itself — the memories she carried, taken from a dead Primal's core, told her this had been a ruin, joyfully destroyed by Vraka and Selis. Now it was alive again, and more than that: it was clearly, unmistakably, a city built for war. Advanced transport ran everywhere. One side of it felt like a factory brought to life; the other, an armory. Paradise wasn't a place of peace. It never had been.
+
+She asked to speak with him alone, and he agreed after a moment's consideration. In his office — the highest point in the city, overlooking everything — he poured them both water and waited.
+
+"Is it correct to assume you don't know me?" she asked.
+
+"I know who you are from what Simon and Tan have told me, and from what Toma reported when I was ordered to kill Miho. If you're asking whether I remember you personally — I don't. The man you knew is dead. What came from him is me."
+
+She was quiet for a moment, then asked if he wanted to know who he'd been. He paused, eyes widening slightly. "Is that really what you're offering? Even if you told me, my mind would erase it. There's no version of this where I could hold onto it, even wanting to. That part of me — the part that could know him — I can't reach. It wouldn't help, even from you."
+
+There was something like sadness in his eyes as he said it. She pulled a book from her coat and moved behind him, guiding his own hand to write a name he didn't recognize on its cover: *Zyiphor.* "I heard what happened to you," she said quietly. "I hated hearing it. I don't blame Ember for the hatred she carries — it was my fault, in part. I trusted him too much." She kept talking as his hand moved under hers. "He was always a coward, you know. After he lost everything, all he wanted was to see them again — the people he'd lost. He took every suicide mission going, hoping he'd die and finally get there. He never had the nerve to do it himself. We used to joke that his desire for death made him unattractive to it — that death would never come looking for a man that afraid of it."
+
+His hand, under hers, finished writing. "I made a promise a long time ago — most of my people who choose new names don't want the old ones found. A fresh start. He could never let go of his. That was his true name. Everything I have on him is in that book. I wrote all of it myself." She let his hand go. A single tear fell onto the page. "Do with it whatever you want. I just wanted you to have it — even if you can never read it and remember what it means."
+
+He wiped the tear and gripped the book tighter as Iris descended in her spirit form and settled onto the cover, sealing it into a tool the instant they touched. He lifted it without looking at it. "I'm grateful, Crimi. Even if I can't remember what's inside, I think I'd like to have it near me regardless. Maybe my children will read it someday, if they're curious." He smiled, and then, larger: "Is this your way of buttering me up?"
+
+"No," she said, sitting down. "I just wanted to give it to you. What it does to you after that isn't on me."
+
+"So what can the Emperor of Apexia do for you?"
+
+She stopped smiling and explained it plainly: they could fight, but they couldn't protect everyone at the same time, and that was the losing math of the whole war. "I was hoping your Empire could shelter the humans we've saved."
+
+"I understand the problem," he said. "But understand what you're actually asking — they'd live under my law. They wouldn't be named my people unless they chose it. I can't promise to keep every one of them safe, and I won't be held responsible if I can't. I'll do what I can, but if it comes down to a choice between my people and your humans, I choose mine. Can you accept that?"
+
+"Fair enough," Crimi said. "I understand completely. I'll send my own son to lead them here and keep them in line under your law." Then: "Tell me — I've heard what an Apexian and a Valariyan actually mean in your empire. If any of my humans wanted to be part of it, would you allow that?"
+
+"Anyone who wants to belong to my Empire may. There's a cost — ten years of service as an Apexian before Valariyan status is even available, though in truth I'd rather have more Apexians than Valariyans; it's simply never worked out that way. Becoming Apexian just requires accepting me as ruler and passing an assessment. Human, Orian, Primal — I don't care what you are. The moment someone chooses to be Apexian, that's the whole of it."
+
+Crimi thought of the city she'd just walked through — mixed, human-bodied, and clearly, visibly loyal to him regardless. She had no real choice left but to trust it. "Thank you," she said. "I accept, and I'm grateful." He offered his hand to seal it, and she shook it.
+
+He called a meeting of his appointed leaders — Mira, Pandro, Audis, Criya, Evelyn, Milla, Isoke, Jade — and laid out the arrangement in full. The refugees wouldn't simply live under his protection for nothing; they'd work the mines, the factories, the repairs the Empire needed done. Evelyn asked directly whether they'd be confined to Paradise. Irane displayed a golden map of the current Apexian territory, far larger than it looked from the ground — vast enough to rival two continents combined, its weather shifting with the density of ambient mana.`,
+          },
+          {
+            id: 'sc-e8-1-sentia',
+            title: 'The City of Sentia',
+            content: `The map showed Paradise at its center, with the road north leading, past Tulla, toward Heaven. Two other points sat marked: Sentia to the north-east, and Ether — Selis's territory — to the south-west. A third city, Hades, sat to the north as well: Vraka's own base, and the home of the Ferali, the way Ether was home to the Celestials.
+
+"We'll need far more land than we currently hold for the number of people you're bringing," Irane said. "Right now, the only real option is Sentia. It has the most natural farmland and water access of anywhere we could take — Tulla's already cleared, and it's a goldmine for tech and resources, but it isn't built to hold billions. Sentia is."
+
+Evelyn asked whether he meant to make it their primary settlement. "Sentia's the largest flat region on the map," he said. "Perfect for farming, perfect for holding a population in the billions." Criya asked, finally, who he intended to send to take it. Every eye in the room went to Irane as he smiled, and Aphexia manifested beside him — a shadowed, watery predator baring her fangs, radiating menace like something actively hunting the room.
+
+"I'll take care of it myself," he said. "Mira stays in charge here. Evelyn and Criya come with me." Evelyn asked why her, specifically. "Because you ask too many questions," he said, entirely fond. "You'll work alongside Crimi's son, who'll arrive with the first wave of refugees in a few weeks." He turned to Crimi directly. "How many are you sending first?"
+
+The room went still at her answer: roughly two billion people. Even Irane paused before saying, simply, "I see," and setting Pandro, Milla, and Jade to preparing food, clothing, and resources at a scale the Empire had never attempted.
+
+In truth, he'd planned to send Mira for this. He wanted an excuse to use Aphexia himself — and more than that, he wanted to finally test what his body could do now that he was fully healed. He marched out with the prepared army as scouts reported Ferali movement in the region, thinner than expected. Vraka had turned his full attention on his sister, having already claimed Tulla from her — an opening too good to let pass. Selis, weakened, was fighting for her life against her own brother while Sentia sat comparatively undefended. Striking now meant officially declaring open war on both of them at once, but the timing would never be better.
+
+Evelyn wasn't there to fight. Her squad carried supplies and the makings of a functioning city, so that when Pandro's people arrived they wouldn't be starting from bare ground. "There are millions of them," she said, watching the preparations. "I know you're powerful, but I don't see how we take this city in a day."
+
+"Pandro took months to plan Tulla," Irane said. "It only actually took him a few hours once he moved. They're not expecting an attack — most of the Ferali here are with Vraka, attacking his sister. This is the only window we'll get." He smiled. "And unlike Tulla, we don't need to be careful with the city itself. Better if it stays mostly intact, but it's not a requirement."
+
+He pulled Iris from around his neck. "I have the perfect tool for this." Iris's voice rang out: *"Full activation of the Will set. Access to tool: Apex. Set."* She glowed and resolved into a katana, brilliant green and gold, its blade sealed shut in its sheath as though it wasn't meant to be drawn at all. Evelyn felt something wrong just looking at it.
+
+"With this," Irane said, studying the blade, "I'm not allowed to fail." He activated his Drive as Aphexia grew into her full combat form beside him, and ordered Evelyn to open fire with every pre-aimed cannon they had, then moved for the gates alone. Criya, positioned at the far end of the city with the rest of the strike force, held his soldiers back from direct engagement. "We're not here to fight head-on," he told them. "We're here to catch anything that runs, and capture only the beasts worth keeping. Everything else dies."
+
+Evelyn watched Irane charge the city alone, mana fully active, thinking only of the fight ahead. He hit the main gate at speed, cut down the first wave, and detonated a blast that pulled every Ferali in range toward him — millions of them, every conceivable shape a beast could take, closing in from all sides. A lion-formed beast, clearly the city's Alpha, roared a challenge radiating fire and ice.
+
+"Well," Irane said to Aphexia. "What do you think — how long does this take us the normal way?"
+
+"Evolving to counter each one individually would take far too long," she said. "Some of them are genuinely strong."
+
+"You're a beast that came from Gaia, evolved through Enari — the only one of mine that started somewhere else," Irane said. "That's exactly why I wanted to show you this before anyone else. You're not what you used to be, and I don't think you know the full extent of it yet." Aphexia looked at the blade. "I see. Well — you're my creator now, in every way that matters. Enari absorbed and remade me, the way he did Crono and Dima. So let me go all the way."
+
+He laughed. "That's the idea. Let me show you the peak of Perfection — I'm going to push you to the absolute edge of what you can become." The Alpha lunged. Aphexia met it with a single swat of her claw and it was over before the beast understood it had lost.
+
+Irane drew the blade fully and addressed the watching horde. "Be honored — you'll all be cut down by this: Kazemi's Principle, Apex. In its sheath, this blade is formless. It only becomes real once drawn. My own evolution works the same way — my body adapts to whatever's around it, and I can't hold onto any single adaptation forever. It resets, always, because there's no single evolutionary path that works against a being with all fifteen elements at once. My body forgets the shape, but it never forgets that it happened. With Apex, I don't have to relearn that process from nothing each time. I can jump straight to the endpoint. Instant evolution, on command." He turned the blade slightly in his grip. "Apex is a blade of perfection — it cuts everything. In my right hand, it starts from the very beginning and refines itself as it's used. In my left, it jumps straight to the end result. Right hand first, to gather what it needs. Then left." He gestured to Aphexia. "With her, the process skips entirely. She evolves once, and becomes the Apex outright."
+
+Aph roared, and the shockwave of it staggered the sky. Irane moved through the horde as their attacks landed without effect — Aphexia simply absorbing whatever hit her and using it to grow, sprouting wings, claws, new forms with each kill, until she was less a beast and more a verdict being delivered.
+
+"I can see every one of your cores now," Irane said, cutting through them steadily. "Every mana configuration. And I can build Apex from all of it at once — cut you all down with your own signatures turned against you. Imagine a being born to evolve, handed the complete data of every enemy in front of it. It becomes the predator to all of you." An hour into the fighting, he sheathed Apex and merged her fully with Aphexia, then activated his Will to fifty percent and drew the blade again — this time with a fixed, unwavering shape.
+
+What followed wasn't a battle. It was a massacre. Aphexia became something the Ferali's strongest attacks couldn't so much as scratch, and by the time the survivors broke and ran, Criya's forces were waiting outside the gates, and Evelyn's cannons closed the last gap. Within hours, nothing remained but the dead and the handful of Alma who'd managed to flee.
+
+"How did that feel?" Irane asked Aphexia, sheathing the blade at last, looking out over the wreckage.
+
+"New," she said, plainly delighted with herself.
+
+"That's a fraction of what Apex actually is," he told her. "You get your power from Kazemi's Drive. This was only the surface."`,
+          },
+          {
+            id: 'sc-e8-1-terra-night',
+            title: 'The Theomachy Begins',
+            content: `Irane held the city rather than withdraw, and within days a disorganized counter-force of Ferali arrived to reclaim it — exactly as he'd expected. Without an Alpha to direct them, they were simply a pack, and his prepared defenses held them at bay without difficulty. Terra Night — Crimi's son, gentle and mild-mannered in a way that surprised everyone who'd heard the terms of the negotiation that sent him — arrived not long after with the first wave of refugees. Irane had paused construction in both Tulla and Paradise to focus everything on getting Sentia ready in time, and it was ready: millions, then tens of millions, of fully human refugees began moving in.
+
+Evelyn was left in charge as the ranking Apexian administrator, tasked with helping Terra coordinate and keep the peace, aided by Adri Suin. Farming began almost immediately, the land itself terraformed to support agriculture at a scale Earth's own war-torn territories hadn't seen in a generation. Adri, a gifted teacher in her own right from her years at Paradise, was put in charge of the children's education — schools rising alongside the farms, staffed by some of the Empire's best.
+
+Most of the refugees were children, the elderly, or the sick and weak — people with no business being anywhere near a war. Irane made sure they'd be safe. But the act of taking Sentia at all drew the attention, and the rage, of both Vraka and Selis — their long, private arms race against each other suddenly interrupted by a third party who'd walked in and simply taken what neither of them had ever bothered to properly harvest. Between them, over the millennia of that private competition, they'd amassed billions of Ferali and Celestials — the vast majority never bound to any individual Alma or Spirit, existing purely as extensions of the twins themselves, since neither Vraka nor Selis could create a Ferali or Celestial from nothing. Only conversion — an Ascen or Primal, remade.
+
+Irane looked out over the horizon from Paradise, flanked by Mira and Pandro. "It's time to stop playing around," he said. "Let's go to war."
+
+What followed — the extended, escalating conflict between Irane and the Arke twins — would eventually acquire a name among the humans who lived close enough to watch it reshape the physical world around them: the Theomachy, the War of the Gods. No one who actually fought in it ever called it that. It was the people watching from a safe distance, with no other language for what they were seeing, who coined it — and the name outlived every other name that was tried.`,
+          },
+        ],
+      },
+      {
+        id: 'ch-earth-8-2',
+        title: 'Chapter 8.2: Primals Vs Orians!',
+        scenes: [
+          {
+            id: 'sc-e8-2-heaven-festival',
+            title: "The Festival That Wasn't",
+            content: `Some time after Arai bought her fragile peace with Irane by giving him Nina, Zoe finally located Gaia's core — sealed inside a labyrinth the Ardent clan had built and forgotten how to navigate. With Hope's help, and with Assa and Rui alongside them, it took a full week to find and extract it. Tunde, reporting the discovery to Aevum, was met with a rage that had nothing to do with the news itself and everything to do with what it revealed: Arai hadn't told him. He'd believed himself trusted. Instead he learned, secondhand, that the person wearing his own supposed ally's face had been keeping things from him — and when he raised it with Arai directly, she told him, without apology, that they still didn't have either core. It wasn't a lie exactly. It was a door closing, quietly, in front of him.
+
+Arai's reasons were simpler than Aevum ever guessed. Before they'd left the island together, Irane had warned her plainly: *Don't trust Aevum. I can usually tell when someone's lying based on their core, but not which specific lie inside a long statement. There was a great deal he told me that didn't sit right.* That single conversation had done more to shape Arai's trust than anything Simon had ever said to her face.
+
+Months passed while Niro moved to press the advantage, assigning Azura Lucerne — wielder of the Erasure beast — to lead the coming assault on Heaven, the first of what he intended as a sustained campaign against the Primals. Arai, Hope, and Zoe were kept from the front this time. Aliya, Simon, Assa, Rui, Dio, and Leo were sent instead, Aliya added only at Arai's specific request — a move that pulled Simon into the ranks alongside her, since it was clear by then that Arai had plans she wasn't sharing with anyone.
+
+Within Heaven, every Primal now wore a human body, and the city itself had settled into an uneasy peace among four major clans: More, Wov, Osiro, and Consa. Toma More ruled from the center of it, celebrating a self-glorifying festival of his own design — less a tribute to his people than a public reminder of exactly whose banner they'd chosen over Irane's. He'd set up a hidden network of spatial portals throughout the city during the original invasion, still functional even after the physical route in had been sealed. Tunde still had access.
+
+The festival was at its peak when the explosion hit the western district.
+
+Azura moved in with the main force, straightforward and unwilling to fail the way Axola and Nuro had. A second team — Tunde, Tenza, Dio, Leo, Simon, and a handful of elite warriors — used the old tunnels to teleport directly into the palace, splitting up once inside to hunt for Toma. It was there that Simon learned Ember was somewhere in the city, in danger, and broke away from his own team to find her.
+
+Leo and Dio's group, meanwhile, searched the palace's central wing on false intelligence — the report on Toma's location was wrong, and Tenza's team found themselves trapped and surrounded by Saga's warriors instead, fighting for their lives in a corridor never meant to hold this many people. On the eastern side, Simon's team walked straight into Toma and Alex, flanked by a handful of elite guards.`,
+          },
+          {
+            id: 'sc-e8-2-aevum-reveal',
+            title: 'A Father\'s Duty to Educate',
+            content: `The guards died fast. Simon's own team, too — and in the aftermath, something in Simon's posture changed entirely, his voice dropping into a register that wasn't his own. "I really do hate having to fight," Aevum said, through Simon's mouth. "Forbidden Art: True Rebirth." Simon's body began to change, and Toma watched it happen with open horror while Alex, confused by his father's reaction, ordered the remaining guards to attack — some of the best warriors Heaven had.
+
+"Energy Art: All-Consuming Mana," Aevum said, and a wave of force swept out from him, absorbing not just the ambient mana but the guards themselves, mana and body both. Alex screamed at his father to run. Toma's face, for one instant, held pure horror — and then rearranged itself into rage.
+
+"Life/Death-Energy Technique: Deathly Mana," Toma answered, forcing his own mana into a shape lethal to every living thing near it. They collided, and Toma screamed the name like an accusation. "*AEVUM.* You piece of filth."
+
+Alex had never seen his father fight before. The power in it — both of them wielding Energy-class cores, both monsters in their own right — was staggering to watch. Toma spread his mana wide and let Aevum absorb it, which turned out to be exactly the trap Toma intended — igniting it into an explosion that gutted the entire east wing and left Aevum standing, untouched.
+
+"I will end you," Toma snarled, gathering his mana again. "Forbidden Life/Death-Energy Art: Living Mana." His body and his power surged together, the whole palace shaking with it — a mana composition close to pure life-force, learned as a child from Mana himself, forbidden precisely because a user who burned through all of it would start drawing on their own life to keep going. He followed it immediately with a second: "Quantum Vacuum" — forcing the surrounding space toward absolute stillness, freezing everything within it. The technique should have taken far longer to prepare. Living Mana had pushed his own power up a full level, and that was enough to make it work in an instant.
+
+"You won't survive this," Toma said, moving his mana toward Aevum. "I don't know how you're even alive, but I won't let you get away. Not after everything."
+
+Aevum simply looked at him. "That's enough now," he said. "Son." *"Mana's Art: Divine Flow."* In a single motion, every scrap of mana in the area — Toma's included — became his to command, drawn in and compressed until the east wing collapsed into a crater, and Toma hung, broken and barely alive, in Aevum's grip.
+
+Alex stared in pure shock. Aevum looked down at his own child — his grandchild, in the way that mattered — and spoke almost gently. "You're a disappointment. Same as the rest of my descendants." Toma, barely able to speak, managed only: "What do you—"
+
+"You wouldn't know, would you," Aevum said, loosening his grip just enough for Toma to breathe. "It's a father's duty to educate his children, so — I suppose I have no choice." His eyes moved over Toma's ruined face. "You really don't look anything like your mother. A shame. She was beautiful, and powerful, on a completely different level than you. Even this pathetic art you just tried on me — she'd have laughed at it. Cith was a queen." He looked at Alex. "And you — you have her eyes."
+
+He smiled, and turned back to Toma. "I made a deal with the Arke twins for immortality. It didn't quite work the way I'd hoped — I can only move from body to body now, as a spirit. They cursed me, the both of them. I can't take my original form anymore. Lost the body, lost the original core — a rare thing, you understand, Energy-Light-Darkness, Chaotic-Light-Darkness. Rarer than a full fifteen-pillar connection. All that's left is this hollow shell, and whoever's body happens to be weaker than my old core level. I can push whatever body I'm wearing up to my old ceiling — level eight — temporarily."
+
+Toma and Alex looked at him like he'd lost his mind. "Yes," Aevum said, watching the disbelief. "That's why Divine Flow worked on you even at your enhanced state — my own core was pushed to level eight in the moment. I wanted my core back. So I went looking — different bodies, different core types, trying to reconstruct what I'd lost, while learning everything I could about the twins and Mana, so I could eventually make them pay for what they took from me."
+
+He said it with a fury that had clearly had centuries to compound. "After the deal, the first body I took was someone you know very well. Your father. Erik." Toma's eyes went wide. "Of course I chose him — a Primal, unmatched core and power. The idea of mixing my own blood into the More line appealed to me in a way you don't have the capacity for, though your brothers did. I impregnated her with you, and then I moved into my own son's body — Dulla Vane — and here's the part you don't know: your mother didn't die on that battlefield. She left you, and the Primals, and started a new life with me."
+
+His words landed like a blow. Toma tried to call him a liar, and Aevum only raised him higher. "Oh, do you think I'm lying? Then tell me how I'd know you had a child on Orians — a son named Tan? Did you even remember him?" Toma hadn't thought of the boy in what felt like a lifetime.
+
+"Ah, yes — you had an older brother, Alex. And it gets better: he had children of his own. Zoe Navar is your grandchild. Imagine that — you tortured and abused your own child and laughed while you did it. At least your brother's line wasn't entirely wasted. Noxa Nexal, Darkki Ardent — my blood, running through both of them, cores of real beauty, even if they weren't quite what I was looking for." He said it with something close to fondness. "I wanted more children with her — Cith. But she found out what I was, and unlike you, your mother turned out to be a genuine monster. We fought. She killed me, in Dulla's body — though I hunted her down eventually, in a different form, and finished it. Do you understand now?"
+
+Tears ran down Toma's face. Aevum watched with contempt. "You can kill billions, lie to your own people, send them to hell, feed their cores to Kazemi without a second thought — betray everyone who ever trusted you — and *this* is what breaks you. A pathetic little mother's boy, in the end." He laughed. "But I have to admit — because of you, I'm about to get everything I've ever wanted. You did good work, my son. Let the next generation take over." He snapped Toma's neck and let the body fall beside Alex, who dropped to his knees, sobbing, gathering his father's corpse into his arms.
+
+"Don't mistake this for affection," Aevum told him. "I didn't save you from your father's attack because I care about you, grandchild. I need your body. Pushing whatever I'm wearing to level eight kills the host — it's a cost, not a choice. I don't merge with someone. I overcome their will." He moved into Alex without another word.
+
+Aevum, in Alex's body now, absorbed the boy's memories as they came — and stopped laughing the moment he found the memory of Irane. "So he really has been busy," he murmured. "I can't believe how many people left him and still ended up here, and he's still managing to hold the Orians to a truce. Fools, all of them. The time to kill him is now, while he's weak. Don't they realize that?" Then, still wearing Toma's dead son's face, he turned and ran for the west wing, toward Ember.`,
+          },
+          {
+            id: 'sc-e8-2-vesper-reveal',
+            title: 'The Truth, Minutes Before',
+            content: `In the east wing's collapse, Ember had already found Taliya and was moving toward the west side of the palace, toward Nex, Kia, and Vesper, the building coming apart around them from the force of Toma and Aevum's fight.
+
+Vesper had never known the truth of his own mother — until, overhearing a conversation between Nex and Kia that neither of them had meant for him to catch, he heard his own name inside a sentence that made no sense: that he was Kia's son. He froze, and once the first word was out there was no putting it back. Kia told him everything, from her own mouth — the law that had forced her hand, the fact that love and law rarely agreed on anything, how closely she'd watched him grow even from a distance she'd never let him see past. He was still absorbing it, still hearing his mother say she was proud of him for the first time in his life, when the assault reached them.
+
+They sealed themselves into a room deep in the palace as the fighting closed in. A figure appeared out of nowhere — masked, unreadable, mana and face both hidden. "Nex Wov and Kia Osiro," Aliya said, and didn't finish the sentence. A pulse of fire came at her from Nex; she dodged it, and a gust of wind from Kia redirected the flame back toward her, but she simply walked through both as though neither existed. It was clear, immediately, that this wasn't a fight either of them could talk their way out of. Kia pulled Vesper behind her.
+
+"You picked the wrong people to target," Nex said, and unleashed a wave of scalding water that filled the room and set anything flammable alight. Kia countered by freezing it around them, moving Vesper into a corner and sealing him inside a shell of pure ice and mana. "I love you," she told him, softly, before she turned back to the fight.
+
+Aliya watched from above. Her mission, she recalled, was twofold. Nex demanded to know why she was there. "To kill you," she said simply, and dropped from the ceiling as Kia charged her own mana: "Energy-Ice-Wind Art: Negative Degree." Orbs of shifting temperature scattered through the room, freezing whatever they touched at unpredictable rates. Aliya moved to intercept, and Nex layered a second attack on top of it — roots and boiling water fusing into a living, scalding thicket that filled the room.
+
+She was intangible, mostly — able to pass through physical matter or mana constructs, but never both at once — and the two of them, without meaning to, had built an attack that exploited exactly that gap. "They're hitting me with both physical and mana-formed constructs at once," she noted, evading as best she could. "I can only phase through one or the other. This is the worst possible combination, and they don't even know why it's working." A tree lunged for her as she turned solid to avoid an orb, and she was nearly crushed against the wall before a second tree burst from her own body to push it back.
+
+"A little close, don't you think, Soul?" she asked. Soul answered in Valariya's shape. "I didn't think you'd need me for this one, but I've got you regardless." Nex, watching, said: "Ah — an Alma. Good to know. Your kind's always been too direct in a fight. I wonder if Azen's finally trained someone competent instead of another monster."
+
+"Apologies to disappoint," Aliya said, landing, "but I'm no Alma." She looked up at them both. "I'm nothing more than a Soul." She activated Irane's Will: Logos. Soul shifted into a spirited echo of Arai's own mental architecture, lightning coursing through the room as Logos read the full breadth of Aliya's own knowledge and laid it out as branching paths — not power in the ordinary sense, but the drive toward the most perfect execution of a plan Aliya herself had already built. She chose from what her own mind offered, and moved to carry it out exactly.
+
+She scattered lightning clones through the room, forcing Nex and Kia to track which one was real. Then, in a single sudden convergence, she baited Kia into believing a bolt was heading for Vesper — Kia moved everything she had to intercept it, certain Aliya meant to kill him, and it was a trap. Aliya appeared directly in front of her instead. "You know," she said. "Emotions are a weakness." A single electric-charged punch sent Kia back through Nex's own trees; he caught her, moved to shield them both — and Aliya simply ran straight through the burning wood to reach them anyway. One arc of her blade took both their heads in the same motion.
+
+Vesper watched his parents' headless bodies hit the floor. He screamed, rushing her in blind fury, and she stopped his attack with one hand without effort, paralyzing him with a burst of her own current. He hit the ground in front of them, still conscious enough to look up at her masked, unreadable face and call her every name he had — monster, coward, murderer, a witch too afraid to show her own face.
+
+She crouched down to his level, and when she spoke, her voice was gentle in a way that caught him entirely off guard. "You should think before you act," she said. "Running in on pure emotion is what got your parents killed. Don't be ruled by it. Be better than that." She stood, gathered Nex's and Kia's heads, and started walking away. He screamed after her that he'd kill her. She glanced back. "Looking forward to it. Just make sure you use your head first — otherwise you might end up just as headless as they are." He blacked out before she finished the sentence.
+
+When he woke, two orbs sat warm and faintly charged in his open hands. He didn't understand what they were until he felt them — felt his own blood, both Wov and Osiro, answering something inside them. Gaia's core. Cronus's core. His clans' lost, sacred Tools and Beasts, delivered to him by the same woman who'd just killed both his parents.
+
+The room was coming apart around him when Ember and Taliya reached him and pulled him out. He begged them to go back for the bodies; they wouldn't let him. Outside, they found Alex — still wearing Toma's corpse across his back — and together the four of them teleported to Earth as the assault on Heaven raged on behind them. Azura's forces, believing they'd wiped the city out, razed entire districts in celebration, unaware that Minia's emergency human-only portal network had already moved most of the population out. Heaven burned regardless.
+
+The news that Toma More was dead spread through the survivors like a second fire. Infighting followed almost immediately — the man who'd held them together was gone, and Nex and Kia's deaths on the same day only deepened the chaos.
+
+Once Vesper had recovered enough to speak, Ember told him and Taliya what she suspected: only one person she knew fought that precisely, that coldly. "Aliya Nexal. Arai Nexal's child." She explained who Arai was, and what Aliya had done under her orders. Hearing a name attached to the woman who'd killed his parents did something to Vesper that grief alone hadn't managed — his sorrow found a direction, and hardened into something he could actually hold onto.
+
+Taliya, once she'd absorbed the shock, felt the pull of Gaia's core the way Ember felt Cronus's — the sacred artifacts of both their clans, calling to blood that had waited a generation to answer. Vesper pressed the cores into their hands. "When I woke up, they were just there. I think — I think she gave them to me. Told me to think before I act." He looked at his sister. "You're our father's oldest daughter. It's your birthright to lead now. Ember — it's your turn to lead the Osiro." Neither of them knew how to reawaken what they were holding, and neither wanted to go back to Orians to learn. They could hear the cores calling, faintly, and nothing more. The three of them resolved, together, to fight — the Wov and Osiro had always been mistreated on Orians regardless of what side they served, and this, finally, might be a way to even the ground beneath them.`,
+          },
+          {
+            id: 'sc-e8-2-negotiation',
+            title: 'You Owe Me',
+            content: `They took the plan to Alex and Minia. Alex — Aevum, in every sense that mattered now — wanted Ember more than anything the moment they arrived, and once he heard about the cores, he suggested the one person alive who might actually know how to reawaken a Primordial core: Irane.
+
+Ember and Minia both looked at him like he'd lost his mind. "And why would he help us," Minia said, "when he has a peace treaty with the Orians?"
+
+"He also has one with the humans," Aevum said. "And he's stated plainly that any Primal can join his empire — a policy four years running now. He has no interest in taking sides. He's an emperor. Everything he does serves his empire and nothing else. He won't get involved on our behalf." Ember and Minia looked equally discouraged until Vesper spoke up, sharp and certain. "It doesn't matter. We ask. If he says no, we find another way."
+
+Taliya agreed to ask as well, for reasons that had nothing to do with strategy. She'd believed in the legend of Kazemi — in Sofia's story — since she was a girl, and had never gone to Paradise herself because her people needed her in Heaven. She'd met Irane once, years earlier, while he was still under Minia's control, and he'd told her she was one of his people, the champion's people, and that he'd be honored to have her in his army. She'd carried that moment with genuine warmth ever since.
+
+Aevum — thinking of how Arai had once bought her own peace by offering her sister — looked at Ember. "There's a way, and you know it. You have a child with him, don't you." His plan required Ember to become the Osiro's formal leader outright, and Osiro tradition demanded she first bear a child to secure the clan's future before that could happen. It was engineered from the start — Aevum's design, dressed up as clan custom, to force Ember's hand. After some deliberation, she agreed to bear a child with Alex, the current leader of the Primals, and the clan accepted her as head the moment the pregnancy was confirmed. The Wov succession, by contrast, needed no such maneuvering — Taliya's right to lead was accepted without dispute.
+
+A month passed. Alex, now leading the Primals in full, refused to be his father. His first address to the people wasn't a demand — it was a promise. "I will not strive to be like my father," he told them. "I will strive to be like the Champion. If you would have me, I will be your champion." He used the same language Irane had used to build Apexia, deliberately, and it worked exactly as well on his own people as it had on the Empire's. He named Minia Grand General of the coming war — smart, reliable, and entirely without the moral hesitation any real contest with Arai would require — and sent Ember and Taliya, with Vesper as Taliya's guard and Saga as Ember's, to Irane, hoping to find a way to reawaken the cores that would even the odds against Orians. When Minia asked why he wasn't going himself, Alex answered smoothly: "There's more important work here, and I'm not interested in telling my sister our father is dead." The truth was simpler and far more careful — he didn't want Irane, who could read a core at a glance, anywhere near him.
+
+The city they arrived in bore no resemblance to the Paradise any of them remembered. Vesper and Taliya had only seen it once before, as children; Ember's own memory of the place had nothing in common with what stood in front of them now — futuristic and ancient at once, the walls gone, the city almost entirely open, humming with the sound of active construction on every side. Taliya, delighted despite everything, called it a Paradise in the making. It stuck.
+
+Aura led them to the palace, up through its highest point — the hub through which the whole city seemed to move — and into the throne room, vast and gold, the flag of the Empire and its beasts mounted behind the throne on a scale that made clear the whole room had been built around that single object.
+
+Ember spoke first, before Audis could finish the introduction. "You already know me, so let's skip the pleasantries." Mira's expression didn't move. "We may know you, Ember," she said. "We don't know the three with you." Taliya stepped forward and made the introductions herself — herself, her brother Vesper, and Saga Ouranos — and Irane asked, plainly, what he could do for them.
+
+Ember approached and pulled Cronus's core into view. "We didn't come to ask you to fight for us. We came to ask for help fully awakening these cores." Taliya presented Gaia's core beside it. "These were the sacred treasures of the Wov and Osiro. I believe you'd know how to wake them — you carry a Primordial core yourself."
+
+Irane studied both cores as Mira and Aura brought them to him, watching them stir and glow faintly in response to his own core's presence. "You're not making a great deal of sense," he said. "All you need to do is connect to them, the way you already have. What is it you actually want from me?"
+
+"The normal way would take a lifetime," Taliya said. "Longer than that before they're any use at all. We need them fully awakened, all at once, Lord Kazemi."
+
+"And why should I help you with that?"
+
+Vesper's answer came sharp and immediate. "This war has already taken everything from me. I need the power to stand a chance — and I need it to kill Aliya and Arai Nexal for what they did to my parents." Nina, present in the room, flinched visibly at the name.
+
+"That's a fine motive," Irane said. "But I still don't see what I gain."
+
+Ember's fist clenched. She remembered what Alex had told her about the price of this conversation. "You'll help us," she said, "because you owe me."
+
+The room went silent. She held his gaze. "You owe me for putting your son inside me without my consent. For everything that suffering cost me. I carried him for five years — it nearly drove me out of my mind. I still hear the Design echoing through my core in my sleep. You will help us, because you owe me."
+
+Irane leaned back, took a slow breath, and stood. He crossed the room without hesitation. "I have no excuse for what I did to you. I won't put it on anyone but myself. So — I'll help you. But understand, once this is done, we're even. Nothing more owed, either direction." Ember nodded. He extended a hand to her and to Taliya, pricking each of their fingers and drawing a small measure of blood and mana into two waiting orbs.
+
+He returned to the throne as Iris rose into the sky above him and Aphexia manifested at his shoulder, monstrous enough that all four visitors stepped back. "One month," he said. "That's how long this will take." Privately, he noted it would have taken two weeks with Enari present — but Enari wasn't here yet. Taliya bowed low and thanked him. "You're free to stay in the city for that time," he added, "but you'll be watched. You'll be treated as delegates of the Primals, nothing more." He drew Taliya's blood-mana and Gaia's core into Aphexia; Ember's blood-mana and Cronus's core into Iris, in the same motion. "So," he said to Ember, almost lightly, once it was done, "would you like to see your son? I imagine he'd love to hear about the twins growing inside you." The silence that followed was its own kind of answer. Ember simply asked to see her child, and he excused himself to arrange it.`,
+          },
+          {
+            id: 'sc-e8-2-class-system',
+            title: 'Force and Aura',
+            content: `Once the visitors had gone, Irane retreated to his office, where only Mira waited. "The plan's in full effect now," she said. He nodded. "You'll run Squad One while I'm out. I won't be any use to anyone for the next month — building a Beast and Tool from a Primordial core takes real concentration."
+
+Mira considered that for a moment. "I'm curious," she said. "How do you actually make a Tool or a Beast? On Orians, the Ascen were always taught they were evil — pointless additions that only weakened whoever carried them."
+
+He thought about how to answer honestly — no one had ever asked him quite this directly before. "I don't make them, not really. Enari and Iris do. Iris is something like Cronus and Selis — she can build Tools. Enari's something like Vraka and Gaia — he builds Beasts. But the *how* is different for each of us, and it comes down to two things: Force, and Aura. The two components of mana, and how each of us manipulates them.
+
+"Vraka and Selis can't build a core from nothing. They have to take one that already exists and force it into something else — turn an Ascen or Primal into a Ferali or Celestial. What they're actually doing is consuming that person and making them a part of themselves — a Ferali is a physical fragment of Vraka, a cell of him with its own will but altered at the core. The original person is erased in the process. What's left can think, technically, but it has no real free will — it obeys the Alma or Spirit bonded to it without question. They *can* breed, in theory, but it takes years, so the twins take the faster route and simply convert more Ascen or Primals — beings with a fifty-fifty aura-force split. When an Alma is born, Vraka assigns them a beast matched to their core type, but that's never a perfect fit from the start. The person has to change how their own core operates to actually work with what they've been given.
+
+"Gaia and Cronus work differently. They build from nothing, starting with the person's core itself, from the ground up. It takes years — but the result is a being attuned to that person from birth to death. Hope's original tool, the Reach, came from Cronus that way — built entirely around her own space-energy core. Aphexia's the same, built from Zoe's evolution ability from the start. They're extensions of the person, not additions to them.
+
+"Enari and Iris are more complicated than either. We don't build for a specific person — we build from *my* cores. Your Constraint, for instance, wasn't originally built to channel your emotions. It started as a way to convert your feelings into raw energy — nothing exotic about that on its own — but I used it in the lab, and over time it bound itself to my own emotional architecture instead. It grew into what it is now because of what it touched, not because of what it was designed to be.
+
+"Compare Emo to something like Winter. The difference is the class of core each one comes from. Every time I died in the trial, I came back with a new proto-core seeded in my cells — my whole body slowly rewritten, one death at a time. By the end, none of my genetic material was human anymore. Every cell has a core instead of a nucleus — copies, in a sense, of my own. That only fully resolved once the trial ended. Before that, I needed a way to actually generate cores, and my body found one: repurposing what should have been reproductive function into core-and-cell production instead. It cost me the ability to have children the normal way, but it gave me twenty specific cores, made from the last true genetic material I had. That's my hard ceiling — twenty, ever, extensions of me in the most literal sense.
+
+"Your own core, Mira, was built to hold my emotions. Aliya's holds my soul. Dokia's holds my deaths. Pandro's holds my spells. Urial's holds my techniques. The Will cores, and the five Drive cores underneath them — mind, heart, body, and the two arms — are a different category entirely. Those were built to store *external* mana. Three came from Arai's, Hope's, and Zoe's own mana. Summari and Nighla came from the mana I was drawing off Kazemi during the trial itself — which is what makes them unique, and directly tied to me in a way nothing else is.
+
+"The twenty cores I made as extensions of myself can take a form of their own — when I healed Arai, Hope, and Zoe, I gave them Crono, Dima, and Aphexia. All three are literal expressions of what I am, made through Enari, the same as Emo. Winter and Bearasil, by contrast, come from my *ordinary* cells, not the twenty — which puts them a full tier below you, below Emo. Bearasil will never reach what your core is capable of, no matter how far it's trained. I can only build a Tool or Beast from one of my own cores — which is why when Criya made his contract with me, I gave him a hybrid, and in exchange his core became mine. Iris and Enari could build from it because it was mine to give shape to — but what we build is always specific to the core it comes from. I have millions of what I'd call Class Two Tools and Beasts. What you carry, Mira, is Class One — built from a core directly connected to my own.
+
+"Every Valariyan who's given me their core will eventually get a Tool or a Beast, or both, once I have Enari back to make it happen properly."
+
+Mira absorbed all of it, then asked the obvious next question. "I understand most of that. But how are you going to build Gaia's and Cronus's full forms?"
+
+"That's where Class Zero lives," Irane said. "A new tier, built to host a Primordial core directly. My own tools — Domination, for instance — are just tools, though I can pair them with a beast built to evolve alongside them, the way Aliya carries Dokia's power. You could wield Aliya's spirits, or Pandro's spells, if you wanted — even Dima or Temper. But Class Zero is different. There was a blade I once used to kill Enari — a very particular Tool." Iris hovered closer, showing the two weapons that had once combined into that blade. "I can make Tools that host a Primordial core directly. I'm simply making the perfect vessels for what they are." He paused. "It'll take a month, but I already know I can hold a core like Kazemi's — I've been doing it my whole existence."
+
+Mira absorbed the scale of what he was describing in silence.
+
+There was a knock at the door — Aura, dragging a visibly reluctant Taliya in behind her. "Sorry to interrupt," Aura said. "Taliya has a request." Taliya, red-faced, mumbled something incomprehensible until Aura elbowed her into finishing the sentence. "Lord Kazemi — I wanted to ask if you'd teach me how to actually use a Beast. My clan trains on Gaia's core, but my father never held her in his life, so I only know the basics. I know you're busy, and I don't want to be a bother, but—"
+
+Mira burst out laughing before she could finish — Irane's own amusement, bleeding through her, since he was clearly working hard not to laugh himself. Taliya looked up, caught the smile he couldn't quite suppress, and went redder.
+
+"I don't mind teaching you," he said, once Mira had settled. "I'll be in the city for the month regardless — I'm building the bodies for Father Time and Mother Nature anyway. Aura, show her my training room. Two days from now, and I'll teach her what I can." Taliya thanked him with genuine relief. Aura gave her a pointed *told you so* look on the way out.
+
+Once they'd left, Mira asked the question that had clearly been sitting with her the whole conversation. "You're sure about this? She's going to use Gaia against Arai, Hope, and Zoe eventually."
+
+Irane shrugged. "Arai's clearly running her own plan — she had Aliya kill the old leaders specifically. I don't know exactly what she's building toward, but it's obvious she wants the next generation carrying these cores, not the last one. Besides — I think Zoe would love to see Gaia again. Don't you agree, Aph?" Aphexia manifested, considering. "I was altered through Enari, so I can't say I'm unbiased. But yes. I'm genuinely looking forward to being the one carrying her back."
+
+"Good," Irane said. "Though don't get too attached to your expectations — she won't be what you remember, Aph. She'll be better. With Ember's and Taliya's blood, I can reach all the way back to Adam and Eve's own original blood and pull what I need from it to make both of them stronger than they've ever been. And it'll finally tell me how to seal Vraka and Selis."
+
+His excitement at the challenge was visible enough that even Mira, several steps removed from the actual work, felt it as clearly as anything he'd ever transmitted through her.`,
+          },
+          {
+            id: 'sc-e8-2-training-month',
+            title: 'The Month That Felt Like a Year',
+            content: `Ember spent the month mostly with Junior, Saga at her side the entire time, tasked with keeping her safe. Vesper spent his in the military halls, requesting entry into the highest tier of training Mira ran — a program with rules that technically excluded outsiders, which she chose to ignore, wanting to build him into someone who could actually give Aliya a real fight rather than simply hate her from a distance. Taliya trained with Irane directly, the only one of the four learning to wield a Beast at all.
+
+Inside Irane's own training space, time ran differently — what passed as a month outside stretched into something closer to a year within it. He spent that time forging Father Time's new form and growing Mother Nature's, and went further than either Ember or Taliya expected: remaking Adam and Eve's own bodies from the genetic material in their blood, refining them into something stronger than either had ever been. In the same stretch of time, he tested and perfected the seal design he was building for Vraka and Selis, working from the bones of Arai's original.
+
+Taliya trained alongside Aura, Jade, and Nina, learning the fundamentals of Mana-Aura that underpinned every Beast's expression. Irane and Ember, by contrast, barely spoke that month — a handful of passing glances, nothing more. He never asked about her son's father, and when she finally pushed him on it directly — what would he do, she asked, if she killed Arai, Hope, or Zoe in the coming war — he answered without hesitation. "This is war. They chose their side, the same as you chose yours. They can leave whenever they want to. If they died, it would hurt me — genuinely — but I wouldn't be broken by it. That's simply what war costs." Then, colder than anything else he'd said to her that month: "Be careful you don't die either." He meant it as flatly as it sounded. He'd accepted, fully, that people were going to die, and that this was simply the shape of what they'd all agreed to.
+
+At the end of the month, Irane finally spoke with the spirits reawakening inside the two cores — Gaia and Cronus, shocked to find Kazemi's own core housed inside a human body, and more shocked still by what the trial that produced him had actually been. Their new forms, they understood quickly, were different from anything either had held before — faster to build, faster to grant a Tool or Beast to a worthy candidate, tied now to a separate dimensional space of Irane's own design rather than the years the process used to demand. What had once taken months now took a single month, start to finish. Grateful, they offered him the final piece he needed to complete his own in-progress Class Zero weapons — the last component of what would become his truly apex tools.
+
+"I promise you both one thing," Irane told them, and meant every word of it. "Vraka and Selis will pay for everything they've done — with more than their lives. Death would be a mercy for them. I don't intend to offer one."
+
+They studied him with something like recognition. "We understand why Kazemi chose you," Gaia said. "You remind us of our father, in more ways than you know." They told him, then, the fuller truth of Mana — how the twins had been born from his own attempt to apologize to the universe, to fix what his own children had broken. Irane, watching Summari and Nighla wander nearby, said only: "I hope these two of mine never walk that same road." He said it with real concern, and a smile besides. "But I do look forward to seeing what they become. I intend to leave them everything — my empire, my tools, my cores. I wonder which of them takes the throne."
+
+Gaia and Cronus asked, then, whether he understood what he actually was. He answered honestly: a Conceptual, if anything. They corrected him — he was something rarer. A Primordial-Conceptual. Mana had carried only the Harmonic-Chaos alignment; Irane carried that same signature, but riding beneath it was something Mana never had — a nature built from a Primordial's own scattered substance. Ordinary Conceptuals, they told him, were born perhaps once every millennium. What he was, and what Summari and Nighla were beside him, was rarer than that by a margin they weren't willing to put a number on. "They shouldn't exist at all," Cronus said, plainly. "Neither should you, by any measure we understand." The name Kazemi, they told him, would now carry a second meaning among those who knew to look for it: the Primordial-Conceptual.
+
+Cronus gave him a book on Mana before they departed — spells that surpassed even level ten, an entirely different scale of magic. Gaia altered his body slightly, an addition from within, and recalibrated his seal to lock cleanly at fixed percentage bands: sixteen to thirty-five, fifty-one to seventy-five, ninety-nine and above. "With this," she said, "you won't have to fear going too far without knowing exactly how far you've gone." Enari appeared as Aphexia returned fully to Zoe, the four months finally up, and the three siblings — none of whom had truly known each other before this — spoke together for the first time as family. Gaia and Cronus called him baby brother, a term that visibly annoyed him and that he could do absolutely nothing about.
+
+They gave Mother Nature and Father Time back to Taliya and Ember with a warning. "They're nothing like what they used to be. Choose carefully who you entrust them to — what's done with them will always be your responsibility in the end." A final gift followed: the ability to grant a worthy candidate a hybrid Tool-Beast, built from both reawakened cores together. Cronus looked at Vesper with a crooked smile. "Good luck with your ghost problem." Before they left, Irane marked Taliya's shoulder with a small golden dragon — the same tattoo Aura, Nina, and Jade already carried, given only to the students he'd trained personally.
+
+They returned to Earth to rebuild what strength they could. Vesper, alongside a thousand other elite warriors, attempted the trial for the new hybrid Tool-Beast the reawakened cores could grant. He was the only one who succeeded. What he earned was the Oracle's Eye.`,
+          },
+          {
+            id: 'sc-e8-2-arai-useless-squad',
+            title: 'The Useless Squad',
+            content: `Back on Orians, two months after the Heaven assault, Azura returned boasting of Toma's confirmed death — a claim quickly undercut by how many survivors had actually made it out, nowhere near the massacre he'd described. He was overshadowed almost immediately by Arai, who arrived with Kia's and Nex's severed heads and intelligence sharp enough to make her the single most credible voice in the room — a fact that did nothing for her popularity among the people it embarrassed.
+
+At the same time, Axola — present for the same assault — discovered the growing legend of Kazemi and became genuinely terrified of what it implied. The idea that a story existed depicting Irane as the eventual killer of Vraka and Selis, founder of an empire that had already survived everything thrown at it, shook something loose in him. He began preaching it through the streets of Mana and into Pandora and Sophioterra both, warning anyone who'd listen that Irane meant to destroy their gods and their way of life — quoting Sofia's book and reshaping it to fit his own fear. Arai, Hope, and Zoe let him talk. Zoe, in fact, was the one who suggested amplifying it — building the fear into something closer to myth, deliberately, because a population that feared Irane's reach would hesitate before testing it. It worked better than anything they could have planned. Niro, Azen, and Elorah, unsettled by how much traction Axola's warnings were gaining, arrested him to stop the spread — and only confirmed, in the public's eyes, that his words carried real weight. If it was only a myth, why silence it?
+
+In the three months following the recovery of Mother Nature and Father Time, the war moved into full preparation on both sides. Arai took command of the Orian defense while Axola led the offense, making little real progress despite the numerical advantage. Azura, meanwhile, felt increasingly overshadowed by Arai and had run out of patience for it. He set up four major battle lines — commanding the main force himself, with Droom leading the Alma and Tenma leading the Spirits — and assigned Arai a squad of Ascen minor forces the state itself had already written off as disposable, technically kept in reserve, technically never meant to see real combat. Azura made sure that changed the moment he had a read on Primal troop movement.
+
+Vraka and Selis, on the same day, moved to clash with each other in the region between Hades and Ether. Irane, with Crono at his side, took a portion of his own forces to simply watch — curious how strong the twins actually were against each other, not yet ready to intervene. The Primal offensive against the Orians and the twins' private war both broke out at once.
+
+Arai's squad, stationed as backup to Azura's main line, found themselves instead facing down a horde of advancing Primals — millions strong, and the Ascen assigned to her position were outnumbered and outmatched by any reasonable measure. She radioed Azura for reinforcement. His answer was immediate and final: "We have nothing to spare. Deal with it." She could hear the satisfaction in it even through the static.
+
+Aliya, present with her own squad, asked what the plan was. Running was the obvious answer — no one would have blamed Arai for it, least of all the soldiers she'd been assigned to lead. But she'd spent too long carrying the weight of every death already on her hands to add a squad's worth of abandoned Ascen to the list. "It's go all out, or we die," she told Enari. "I understand. I'm willing to go all out."
+
+Enari smiled. "Good. Time for the Drive, then."
+
+She turned to her people — most of them women the Ascen had labeled useless, and men who understood exactly what that same label had meant for their own lives. "I was told to lead this squad," she said. "That means all of you belong to me for as long as I'm your captain. You die when I say you die. They call you useless, pointless, disposable. Good — I was called the same thing once, and I don't mind leading the disposable unit. But you will not simply lie down and die. If we die, we die fighting. We do not surrender."
+
+It wasn't only the words. It was the fact that she was already moving toward the front line as she said them. Her people followed — setting cannons, holding position, doing what little they could to slow a force they had no real hope of stopping outright. As the Primals closed the distance, Arai recognized Ember leading the charge, and something in her steadied. "We might survive this yet," she told Aliya.
+
+Ember moved with total certainty. She had power now, not just soldiers, and every scrap of the joy she'd once found on Orians was buried under everything she intended to do to the people responsible for taking it. The moment she saw Arai, the rage of years — the lab, Minia's abuse, the mutilation of the first man she'd ever loved, Arai's own hand in all of it — arrived at once. Vesper moved with her squad as well.
+
+Arai closed the distance faster than Ember expected, landing a punch square to her face. Ember only smiled through it. "I know exactly how dangerous you are when you actually try. I'm not holding back either — you're going to die right here." She drew the Book of Time, mana pouring off it as Cronus manifested in spirit form and drew the residue of Arai's mana from her own cheek. "You know what this is," Ember said. "The sacred treasure of the Osiro. I'm sure you remember it — you're the one who sent Aliya to deliver it, along with the order to kill my sister." A blade formed in her hands as the book closed. "Father Time used to only form set Tools for a given person. Irane changed that — now it conjures whatever the moment calls for. This one's built for exactly one purpose: killing you."
+
+The blade extended toward Arai in a wave of raw current; Arai pulled back, letting her own lightning-conducting mana absorb what it could, but the wave simply kept coming, swallowing every countermeasure she raised. Ember pressed the advantage, unleashing bullets of pure mana that phased through Arai's shields and detonated regardless, driving her back until Ember closed the distance and drove the blade home. Arai screamed as the mana flooded through the wound, kicking Ember off her before she could finish it.
+
+"Is that really all the legendary student of—" Ember started, before the moment tore sideways.`,
+          },
+          {
+            id: 'sc-e8-2-phoenix-reignition',
+            title: 'Phoenix Re-Ignition',
+            content: `A handful of Primals managed to survive what happened next, though barely — Vesper among them, his body a mess of burns. Even the Orians who should have been celebrating their own survival found little to celebrate; more than thirty percent of Arai's own squad was gone, though that toll paled beside the devastation Arai's spell left in its wake across the entire battlefield.
+
+It wasn't a single move re-triggered. It pulled in every scrap of mana released across the last hour of fighting — every spell, every technique, every drop of force spent by anyone present — amplified through the full weight of Enari's mana at maximum output, compacted into a single point, and released in one violent detonation. Phoenix Re-Ignition didn't discriminate between what it consumed. It simply took everything the battlefield had already spent and gave it back at once, all at the same instant, aimed at nothing but the space where the fighting had been thickest.
+
+Word reached the survivors soon after that Azura's own division had been nearly wiped out — the Alma and Spirit squads pushed back hard — and that Azura, Droom, Tenma, and Pino had all simply vanished mid-battle. The only reason their forces hadn't collapsed outright was Hope and Zoe, both pulled into the field the moment their commanders disappeared. Hope fought Minia's team directly. Zoe fought Taliya's.`,
+          },
+          {
+            id: 'sc-e8-2-zoe-taliya',
+            title: 'The Apex Predator',
+            content: `Zoe tore through the Primal ranks around her, rescuing civilians from the surrounding towns as she went. Taliya met her at the edge of it, unleashing a wave of beasts drawn from the newly reborn Mother Nature — and stopped, mid-motion, at the sight of the Tree of Eden's true form standing in front of her again. Zoe's first words to her weren't a threat. "Your Beast is beautiful." She meant it, and the honest tears on her face confused Taliya more than the compliment itself did — until Zoe snapped back into the fight a moment later and pressed the attack regardless.
+
+Taliya, warned already of what Zoe's own form could do, wasn't deterred. Zoe answered by skipping straight past her usual Aphexia manifestation and dropping fully into her Devil form — an enigma of a creature that tore through everything Taliya's beasts could put in front of her. Blow after blow landed and simply healed over. The Alma who recognized her from the Academy said her old name aloud without meaning to: *the Apex Predator.* Taliya threw everything she had at slowing her down, and it worked, barely — Zoe's healing began to lag the deeper she moved into enemy territory, alone, out of anyone's sight.
+
+Arai's Drive, opened fully in that moment, resonated through her regardless of the distance — Enari's presence pushing her past her own limit. She pulled a tree into being from nothing, thrust it into the ground, and unleashed a network of roots built to pierce and kill anything they touched, cutting through hundreds of Primals in a single, spreading motion. By the time it was over, she stood in the middle of it soaked in blood that wasn't hers, and Taliya — no fool — understood she'd already lost more than she could afford to. "We've done more than we planned to," she told her remaining forces. "No need to lose anyone else." She ordered the retreat.
+
+The Alma pushed the advantage as the Primals fell back, killing what they could as they went — though not nearly as many as the scale of the retreat implied. They found Zoe unconscious in the middle of a field littered with the dead, their bodies hanging from the trees around her, blood pooling beneath where she'd fallen. She looked, in that moment, like exactly what the old stories called her. A demon. A monster. They carried her back regardless.`,
+          },
+          {
+            id: 'sc-e8-2-hope-minia',
+            title: "Daddy's Little Failure",
+            content: `On the Spirit line, Minia moved through the defense with methodical, focused cruelty — targeting the most populated positions first, killing millions before the fighting even properly began, capturing thousands more for whatever her research still needed. Her bombs never landed on the southern city she'd aimed them at; before impact, they veered east, straight into the Primal ranks advancing behind her — Hope's doing, Temper already fully drawn, having teleported the ordinance out from under her.
+
+The Spirits watched, stunned, as Hope and the forces following her orders moved through the chaos, opening spatial tunnels — Arai's own design — to funnel millions of Spirits to safety. "Focus on saving any Spirit you can and get them to the capital," Hope ordered. "Main force with me. We buy them time."
+
+Minia laughed at the sight of her. "The failure shows up. I'm shocked you'd dare face me — you're not on my level. You're no Arai." Her taunt died mid-sentence as Hope moved, drawing blood before Minia even registered the strike. She wiped it off Temper's edge without a word. Minia looked down at the cut on her own stomach, confused — certain she'd dodged.
+
+Hope moved again, and again Minia was sure she'd avoided it, only to find her own hand opened to the bone. It wasn't like fighting a blade that cut what was in front of it. It was like fighting a blade that cut a space, regardless of what happened to be standing there. "Don't think you're escaping this time," Hope said, finally. "I failed to kill you before. Not again. I'll make you pay for what you did to my sister."
+
+Minia froze at that — genuinely confused, with no idea what Hope could possibly mean, since Ember had never told anyone what had actually happened on the island. She laughed it off and moved to bind Hope with her chains instead, stopping her mana cold. "You forget what I actually do," Minia said, forcing her back. "I affect the space around a core directly — even without touching it. Interrupt the mana near your core and it stops working, full stop. And with my Life/Death form, I can find exactly where your core sits in your body." She wrapped a red length of chain — Ventriloquist — around Hope, smiling as she added, almost giddy with it: "You wouldn't know about this one. I only found it myself recently — a gift, from Irane, whether he meant it as one or not. I got a Tool and a Beast from Ember and Taliya without even trying, and they told me it was rare — that only Irane himself had ever had both handed to him unearned. If that isn't love, I don't know what is. I really can't wait to see him again. Make him mine, fully."
+
+She was laughing, blushing, entirely lost in it. Hope, remembering what Arai had told her about the curse Namo had carved into Minia's own mind as a child, laughed back — cold, and without any pity in it. "Irane will never love you. What you did was borrow Arai's authority to command him, and tangle Ember's own spell around the three of us by accident. You're a foolish, broken little girl. Nothing more."
+
+That landed harder than anything else Hope could have said. Minia, furious now, unleashed Pain — a Beast born from Summari and Nighla's own extraction, a leftover fragment of that same event, left implanted in her when the twins were pulled from her body. She struck Hope's bound heart directly through the chains, and Pain did exactly what it was built to do: inflict the worst suffering it could manage on anyone it touched. Most people who'd felt it passed out from the pain alone. Minia expected the same here.
+
+She'd picked the one person in the world it would never work on. Pain was built, from Minia's own understanding of love, to make Irane suffer — but Irane had built a counter to it himself, the moment it first touched him: Hatred, direct and total. As Pain hit Hope's core, Dima's own resonance carried that same counter-mechanism through her — the drive activating in her the way it had in Zoe, in Irane himself. She stopped screaming in pain and started screaming in something closer to fury. Her core reached for Hatred and found it waiting.
+
+"You really are a pitiful bitch, aren't you," Hope said, and the chains binding her simply came apart. Her mana surged out across the field as Minia realized, too late, that the current running through her opponent had changed entirely. Hope entered her own Emo-Hatred state — the drive tapping directly into a stored reserve of loathing she'd never had access to before — and moved through the city hunting Minia specifically, sparing every other target in reach.
+
+Minia fled, healing every cut Hope landed on her almost as fast as they opened, using her own Life/Death ability to buy distance. It didn't matter. Hope simply moved to wherever she went, closing the gap instantly, as though the whole battlefield answered to her will rather than the reverse. None of the cuts were fatal — they weren't meant to be. They were meant to hurt, over and over, while Hope talked.
+
+"Daddy's little failure," Hope said, opening a line from Minia's shoulder to her hand. "Do you still keep him locked in your lab? So desperate for his approval you can't even kill him — you just keep him, like a trophy you're too pathetic to display." She cut again, near Minia's forehead. "You think you're Arai's equal. You've never been close, and you never will be." Minia, enraged past reason, threw her chains at full power, meaning to bind every part of Hope at once — and Hope simply swapped places with her, letting the chains close on Minia's own body instead, her own core included. Minia stared, unable to process how that had even happened, as Hope walked toward her with something colder than a smile.
+
+She drove Temper through Minia's stomach and let the mana flow, and Minia screamed. "The saddest part," Hope said, leaning close, "is that you were so lost in your own delusion you actually tried to make him marry you. Pathetic. The little false goddess, wanting him that badly." She pulled the blade upward, through Minia's lung, opening a wound that healed into a permanent scar rather than closing clean. "I have his actual heart beating in my chest. I don't need a trick or an art to make it skip a beat for me. Do you know what he calls me? His Empress. His sweetheart. I'll send you an invitation to the wedding — I'll make sure it reaches your grave."
+
+She closed a hand around Minia's throat the way Irane once had, and squeezed. Minia's tears ran freely as she lost consciousness, and Hope didn't let go — she wanted her dead, fully, finally. The chains dissolved, leaving Minia hanging in the air by Hope's own grip. Very few Spirits witnessed the whole exchange, but every one who did understood exactly what they were watching.
+
+A flash of mana signaled Alex's arrival — grabbing Minia and pulling her clear before the last blow could land. Hope, denied, turned the entirety of her rage into one final strike as they fled, Dima's presence flooding through Temper along with it: *"Kazemi's Art: Dimensional Sever,"* fused with *"Kazemi's Emotion Art: Concentrated Hatred."* The cut reached across kilometers, splitting everything caught in its path in a single line. Alex survived by teleporting clear at the last instant, but not clean — his chest opened nearly to the ribs regardless. Hope's rage rolled out across the battlefield in its wake, and every Primal in range felt it as clearly as the Spirits did — the shape of her hatred for Minia, and for everyone who'd ever stood behind her.`,
+          },
+          {
+            id: 'sc-e8-2-new-leaders',
+            title: 'Goddess, Predator, Empress',
+            content: `The disappearance of Azura, Droom, Tenma, and Pino sent Niro into open fury — furious enough that his own reaction, once it settled, surprised even him. "Master Aevum was right," he told his people the next morning, addressing the loss without flinching from it. "Never trust anyone who borrows power from another being. They left us, and now no one knows where they've gone. It's fine, regardless — we already have replacements ready. Ones not bound to Vraka or Selis. We have Hope, Zoe, and Arai." He didn't hesitate over what came next, unconcerned with what remained of the Seraph and Lucerne leadership objecting. He named Zoe Navar leader of all the Alma. He named Hope Apolo leader of the Spirits. The people, by contrast, took to it without protest — Zoe and Hope had earned a reputation for more than raw strength; they'd been visibly, personally present on every front line, protecting the people who now stood ready to follow them.
+
+He named Arai Grand General in the same breath — she'd won, after all, with a squad the state itself had labeled worthless, and pushed Azura's own forces back in the process. Those who'd witnessed her Phoenix Re-Ignition were quietly asked by Aliya not to describe exactly what they'd seen, and every one of them agreed. What spread instead was simpler, and stranger: they began calling her the Goddess — the title the dragon itself had used, addressing her the way nothing but a divine being could expect to be addressed by something as old as Enari. Zoe, they called the Apex Predator, their ultimate warrior. Hope became the Empress — the woman who bent space and mana to her will without visible effort. All three passed, in the space of a single battle, from commanders into something closer to myth.
+
+The war that followed had no clean end in sight. Both sides now carried Tools and Beasts of their own, and the balance that had briefly tilted toward the Orians settled back into something closer to parity — which meant, in practice, years of grinding, inconclusive conflict ahead. Even on Earth, where most civilians had already been moved into Apexia's territory, the resistance made no real gains against what remained of Toma's — now Aevum's — occupied zones. Millions died on both sides across those years, and the front line moved so little, so slowly, that soldiers on both sides began measuring the war in seasons rather than battles.
+
+Niro, watching the stalemate calcify month after month, grew obsessed with breaking it by any means available — including a secret research program to move Orian consciousness directly into human bodies, built quietly from research Arai had unknowingly handed him after her own return from Paradise. Almost no one on Orians knew it existed. He kept it that way deliberately, aware of exactly how his own people would react if they understood what he was actually building toward.`,
+          },
+          {
+            id: 'sc-e8-2-closing',
+            title: 'What the Stalemate Cost',
+            content: `The war settled into its long middle the way wars do — not with a single turning point, but with a slow accumulation of small, private griefs that never made it into any formal report.
+
+Vesper trained under Mira with a single-mindedness that worried her more than she let him see, sparring past the point of exhaustion night after night, never once asking to stop. He was good — good enough that she started genuinely believing he might someday be a credible threat to the woman who'd killed his parents, which was exactly what she'd set out to build and exactly what frightened her about having succeeded. Taliya watched her brother change shape under the weight of it and said nothing, because there was nothing to say that would have reached him.
+
+Ember raised her twins inside a clan that had taken her in without a single condition attached, and found, more than once, that she resented how easy it had been — as though grief for her own mother required more of a fight than this. She kept her son's surname as Kazemi rather than Osiro, a small, quiet act of protection in a war that offered her almost nothing else to protect.
+
+Summari and Nighla grew, under Irane's constant, patient supervision, into something neither Milla nor Isoke could safely manage alone — small hands that could unmake a wall without meaning to, tempers that could level a courtyard before either girl fully understood what they'd done. He never once treated it as a burden in front of them. He treated it, every time, as simply the next thing a father did.
+
+And on Orians, three women who had once been sisters in every sense but blood found themselves, for the first time since the war against the Primals had properly begun, standing at the top of every structure that mattered — Goddess, Apex Predator, Empress — commanding armies, mourning friends, carrying titles none of them had asked for and all of them had earned. The stalemate that followed cost thousands of lives a year and moved the war's actual borders by almost nothing. What it built, instead, in the quiet years between battles, was the shape of the people who would eventually end it — three sisters hardening into rulers, a boy hardening into a weapon, and an empire, on the other side of it all, quietly finishing what it needed to become in order to end the whole thing outright.
+
+None of them yet knew how close that ending actually was.`,
+          },
+        ],
+      },
+      {
+        id: 'ch-earth-8-3',
+        title: 'Chapter 8.3: The Theomachy — War of the Gods',
+        scenes: [
+          {
+            id: 'sc-e8-3-humans-hear',
+            title: 'What the Humans Heard',
+            content: `Word of the first clash between Irane and the Arke twins reached Sentia within days, carried by the Apexian soldiers who'd stood close enough to watch and lived to describe it. The humans there had spent decades inside a war they understood — soldiers, weapons, ground taken and lost in ways that made sense to a species that had never needed to believe in gods to survive a battlefield. What they heard now didn't fit anywhere in that framework. Cores. Mana. Beings who could summon monsters capable of levelling a city without slowing down. Plains reshaped mid-fight. Lakes boiled dry and left to evaporate. Mountains thrown like stones.
+
+Most of Sentia's population skewed young or old — children and the elderly, the people least suited to a front line, exactly as intended. The rest were fighting for their lives against Toma's forces somewhere else entirely, in a war that had, until this moment, felt like the largest thing in the world. Hearing what two Ferali gods and a man who called himself Emperor were doing to the landscape a few hundred kilometers north put that scale into a different, smaller perspective. Some of them laughed at the absurdity of it, because laughing was easier than the alternative. Was this hell? Were the old gods real after all? They found no comfort in the very human faces of the people running their new city.
+
+Terra Night wasn't shaken by any of it, not in the way the others were. He was worried instead, in a way that had nothing to do with monsters — that the Empire's protection would eventually cost his people more than the war itself had. It was a fair worry on its surface. The arrangement Irane offered was straightforward: shelter, in exchange for labor — mining, farming, construction — with schools built for every child and no one forced into work who hadn't chosen it. The law was strict, and enforced without much patience for exceptions; those who broke it seriously enough were made an example of, chained and left to starve in public view, a cruelty Irane defended plainly as necessary — fear worked, where sentiment didn't always hold.
+
+Life under Apexian law was, by any honest measure, better than what most of them had left behind. Children who'd grown up inside an active war zone were laughing in classrooms instead. Food and shelter were reliable in a way neither had ever been on Earth. Some still cried for the lives they'd lost, but even they admitted, quietly, that this was better than anything the resistance alone could have offered. Enough people volunteered for the Empire's own ranks — not to fight on the front lines, most of them, but to run supply and logistics — that Irane's forces never lacked for hands willing to do the unglamorous work keeping a war machine fed.
+
+Across the years that followed, the ongoing conflict between the Aethers — the Ferali and Celestials both — and the Apexian Empire picked up several names among the people watching it unfold. The war of monsters. The war of false gods. The one that stuck, in the end, was the simplest: the Theomachy. The War of the Gods. It fit, and it kept fitting, through every year the fighting spread along the borders of Apexia and the twins' own territories in Hades and Ether.`,
+          },
+          {
+            id: 'sc-e8-3-arche-generals',
+            title: "The Twins' Own Generals",
+            content: `Vraka and Selis had, over millennia of standing rivalry with each other, each forcibly summoned millions of their most capable Alma and Spirit converts for the wars that followed — the best of their beasts and tools, and the wielders bound to them, pulled to the front lines regardless of what those wielders might have preferred.
+
+Under Vraka: Azen Lucerne's own body served as his host. Droom, Azura, and — new to this era of the war — Evin Navar, son of Droom and Olda Apolo, fought as generals in his name, Evin carrying the Ruin Beast into battle alongside them.
+
+Under Selis: Elorah Seraph's body served as her host. Tenma, Pino, and Edge Apolo, son of Pino and Olda, fought as her generals in turn.
+
+None of them had been asked. All of them understood, without needing to be told directly, that none would be permitted to return home until Irane Kazemi was dead.
+
+Irane split his own forces accordingly. Squad One, led by Mira with Crimi Night as her second, took the field against the Ferali — Mira had specifically requested Droom as her personal target, a debt between them that predated this war by years. Squad Two, led by Pandro with Jade Alge as his second, fought the Celestials.
+
+Irane himself stayed largely in reserve, appearing only when Vraka or Selis made a personal move against the Empire directly — the only one among them capable of meeting either twin on anything close to even footing. The rest of his time went to training the soldiers who would eventually carry his war forward, and to building the weapons those soldiers would need to survive it.`,
+          },
+          {
+            id: 'sc-e8-3-children',
+            title: 'The Next Generation',
+            content: `Pandro and Sofia's children — Sethma, the eldest, and Julia, younger — grew up in Valariya alongside Nevir Revyn Jr., son of Nevir and Evelyn, and alongside Summari, Nighla, Dokia, Urial, and Irane Jr. himself. Tyler Ores, Dio and Milla's son, conceived during the peace-talks visit and named for Milla's own mother to keep his father's identity quiet, rounded out the youngest cohort.
+
+Irane's reason for staying so close to the capital during these years went beyond strategy. Summari, Nighla, Dokia, and Urial's cores had all begun to properly awaken, and the four of them together were more than Milla or Isoke could safely manage alone. Summari and Nighla were the most dangerous by far — capable, by this point, of manipulating raw mana without needing an incantation or a spell marker at all, conjuring fire, ice, water, reshaping earth, calling down lightning, all without warning and without any real concept yet of consequence. Nighla could unmake matter down to its base components with a technique. Between them, in the span of a single day after their cores first fully woke, they'd nearly killed Milla, Isoke, and several of the other children playing nearby — not from malice, simply from not yet knowing any better. Irane kept them within arm's reach after that, as a matter of course, not a burden but a responsibility he never once treated as anything less than his to carry personally.
+
+Dokia and Urial were more manageable, if only barely. Dokia made anyone near her experience visions of their own death, in whatever form it would eventually take — earning her, among people who didn't know her personally, the private nickname of the avatar of death. Urial's body ran so dense with mana that ordinary bodily functions produced small disasters — a sneeze could kick up gale-force wind, and worse indignities could trigger minor earthquakes or sudden rain. All four needed Irane, Crimi, Mira, or Pandro specifically — the only adults capable of managing what they could do without fearing for their own safety in the process. Irane took the job without complaint, and without ever once treating it as beneath him.
+
+Irane Jr. was, by comparison, no real trouble — able to replicate the abilities of people around him, but nothing about the ability itself was dangerous the way his half-sisters' powers were. He stayed with Milla and Isoke, who split their time between Paradise and their teaching posts in Sentia.
+
+Summari, free-spirited and endlessly curious, made a habit of sneaking off to explore the city in secret, wanting to know everything about it firsthand. Nighla followed her everywhere, more volatile than her sister, quicker to temper, never far from Summari's side regardless. Irane always knew exactly where they were — Crono, Dima, or Aphexia, whichever beast happened to be with him, tracked them without either girl ever noticing. He was closest, by his own admission, with Dokia — the only one of the four, he liked to joke to Summari and Nighla, who wasn't constantly getting into trouble. Dokia, strange and quietly haunted by what she saw in everyone around her, was close in turn with her sisters, both of whom insisted on calling her their older sister despite Dokia privately thinking it was the other way around. Urial, close with Junior the way Irane had always hoped he'd have a brother nearby, spent his childhood in a running rivalry with Summari and Nighla that neither side ever quite won outright.
+
+Three or four years passed like this, the war grinding on at the borders while an entire generation grew up in the middle of it, more advanced in their own abilities by early childhood than most adults would ever become — already working through what amounted to intermediate spellcraft before they'd properly learned to read.`,
+          },
+          {
+            id: 'sc-e8-3-first-clash',
+            title: 'The First Clash — Gathering Data',
+            content: `Across those years, Irane met Vraka and Selis in combat many times — sometimes one at a time, sometimes both together — each fight a proving ground for a different piece of his arsenal. Vraka answered the Hammer of Law. Selis answered Reflection, and later the Staff of Beasts. Vraka answered the World Bow. And once, memorably, both twins together answered Faith and Design paired as a set — the one time, in all those years, that they actually beat him.
+
+That fight mattered more than the loss stung. Faith and Design existed for exactly this purpose: not to win, but to learn. Design read and recorded the shape of a spell or technique as it happened — the mana composition, the underlying structure, the *design* of the thing — while Faith's paired daggers absorbed and emitted elemental signatures pulled directly from the battlefield around them, amplifying whatever they landed on by a full order of magnitude. Together, deployed against Vraka and Selis specifically, the two Tools existed to harvest the twins' own core signatures — not to end the fight, but to gather what Irane would eventually need to build a seal capable of actually holding them.
+
+He took the loss on purpose, in the end. He'd gotten everything Design and Faith needed to record before the twins finally overwhelmed him, and a beaten retreat cost him nothing he hadn't already accounted for.`,
+          },
+          {
+            id: 'sc-e8-3-vessel-transfer',
+            title: 'Devils and Angels',
+            content: `Years into the standing conflict, Vraka and Selis decided to change the terms of the war entirely. They'd never been able to build a Ferali or Celestial from nothing — only convert what already existed — but a human body was a different kind of raw material altogether, and neither twin had any interest in doing this gently.
+
+Through infiltrators inside Paradise, they managed to steal eight human bodies from Irane's own labs — vessels with no consciousness of their own, bio-engineered and modified far beyond anything an ordinary human body could survive, originally intended for entirely different purposes. Vraka and his generals, and Selis and hers, were forced through a transference process equal parts demonic ritual and holy rite, their own essence mixed directly into the baths that remade each body from the inside.
+
+What emerged bore new names for the occasion. The Spirit-Celestial-human hybrids, closer in form to myth's own angels, called themselves Arch-Angels — Tenma, Pino, and Edge among them, tools and weapons made flesh in beings that looked, to anyone watching, like divinity given a body. The Alma-Ferali-human hybrids, closer to myth's demons, called themselves Arch-Demons — Azura, Droom, and Evin, beast and man fused into something with the shape of both and the mercy of neither.
+
+Azen and Elorah's own transformations went further still, beyond anything their generals achieved — true divine and true demonic forms respectively, their Mana-Force and Mana-Aura resonating directly with every Ferali and Celestial still bound to Vraka or Selis. Only the Alma and Spirits the twins pulled directly into this process became Angels or Demons in the full sense; the Ferali and Celestials never bound to an individual — the vast, feral majority — simply grew more enhanced and more thoroughly fused to their respective master, cells and extensions of a single, expanding being rather than people in any sense that mattered anymore.
+
+All of them, by the end of the process, sat at what amounted to class nine — beings still ascending toward the theoretical ceiling of class ten, as close to godhood as anything alive could claim to be. Their bodies hadn't fully settled into the new power yet, which was the only reason they weren't already there.
+
+They didn't wait to test what they'd built. This, they decided, would be the final strike — the blow that ended it. Irane mounted a defense on short notice, forced to leave his children behind, moving out with Mira and Pandro while Criya stayed back to shore up Paradise's own walls, buying whatever time the front line could manage.
+
+It went badly from the start. The newly-minted Angels and Demons, backed by billions of enhanced Ferali and Celestials, hit Irane's forces harder than anything the war had produced before. He carried Dima into the fight this time, and summoned Iris in her paired Faith's Daggers form — a matched set, Yin and Yang, each blade the mirror complement of the other, dragon-feather wings sprouting from his back to double as passive mana absorbers. Iris shifted again, into Design's massive transparent Grand Book, its fifteen-color pen ready at its side.
+
+Design's function, at its core, was analytical — break a spell or technique down to its mana composition and record its shape, the complexity of the move dictating how long the read took. At forty-nine percent Drive and Will active, Irane could use it to read a person's core directly, their entire design laid bare. Its second function let him freely remix his own recorded moves with anything he'd scribed from an enemy — though only what the book had actually recorded stayed available between uses; anything improvised purely from memory had to be rebuilt by hand each time.
+
+Faith worked differently — each dagger acting as an external monitor for his own body, tuned to whatever element the battlefield offered rather than his own core. The white-centered blade absorbed the surrounding element; its mirror emitted whatever directly opposed it. One blade pulled, the other pushed, and which element either blade actually carried at any given moment was left to chance rather than choice — a gamble that could hand him a devastating advantage or leave him briefly vulnerable to whatever his own weapon had just emitted. True to its name.
+
+He hadn't drawn these two randomly. He knew exactly what they did, and he needed the last piece of data before his seal design could be called finished — their design, the final beat of their mana signature, verified beyond doubt. Faith pulled the battlefield's mana around him while Design scribed the twins' own cores mid-fight, and he stayed on the defensive the entire time to make it possible, taking damage he wouldn't otherwise have accepted, surviving mostly on Dima's teleportation buying him distance when the gap closed too fast.
+
+The twins, drunk on their own new scale, didn't hold back — infusing the surroundings with power, remotely commanding every Ferali and Celestial in range and amplifying them past their normal ceiling, turning what had been level-five beasts and tools into level-six threats overnight, all of them thrown at Irane without pause. He cut through wave after wave, but any opening he left was answered by Vraka or Selis themselves, striking directly, over and over, wearing him down in a genuine battle of attrition he was, by any honest measure, losing.
+
+He held out anyway, deploying a new technique — Shifting Dragon's Scales, letting him phase through incoming attacks for short stretches — even as the twins kept forcing him back onto the offensive with wide-area strikes designed to deny him the room to simply evade. It was close to unbearable. Near the end, both twins closed on him at once, unleashing everything they had in a single combined effort meant to finish it outright. He used Shifting Dragon's Scales to blunt most of the damage, and in that same instant, his daggers finally produced the exact mana signature he needed, and Design's read completed — their full core designs, recorded.
+
+He used what he had left to plant a disruption mark, built from Faith's Yin-signature mana, directly into whatever they'd just thrown at him — stopping their evolution mid-stride and knocking all three of them, Irane included, unconscious in the same instant.
+
+Recovery took three months. Irane came out of it still badly hurt, but he'd kept Faith and Design active the entire time regardless, using their residual signatures to let Aphexia evolve against the very mana the twins had used to nearly finish him. By the time he was ready to move again, he'd fully absorbed what he needed and switched Apexia out for Enari, becoming, for the first time, whole enough to consider going above forty-nine percent at all.`,
+          },
+          {
+            id: 'sc-e8-3-birth-of-empire',
+            title: 'The Champion, Still',
+            content: `Throughout the war, Irane had insisted on being addressed as the Champion of Kazemi rather than Emperor — a deliberate choice, and one he made everyone around him honor until the twins were dealt with. It confused people the first time they heard it, but the order held. During the three months of his recovery, Mira kept morale from collapsing with a joke that had more truth in it than most jokes managed: that the Champion the enemy had just fought was only forty-nine percent of what Lord Kazemi actually was.
+
+Terra, watching how the Valariyans responded to Irane's fall and the scale of his injuries, expected fear. He found none. "He's done everything he can," they told him, unbothered, already moving to the next task. "He's hurt the enemy's leadership badly enough that they're no threat for now. It's our turn to protect him while he heals." They didn't slow down. If anything, the three months of his recovery were the hardest anyone in Apexia had worked yet, holding the line so he'd have somewhere to come back to.
+
+The morning Irane finally reclaimed Enari in full, the atmosphere across Paradise changed in a way everyone in the city felt at once — dense, immense, unmistakably present, as though something enormous had simply arrived without announcing itself. Mira ordered every front-line unit to fall back from offense into a full defensive perimeter around Sentia and Tulla, consolidating everything toward Paradise itself. Even the humans in the outer cities noticed the shift — something had changed, something that made the idle work of daily life feel suddenly, urgently necessary again.
+
+Within twenty-four hours of Mira's order, the Valariyans gathered in Paradise, drawn by something none of them could quite name, and watched Irane walk out of the palace for the first time in three months. He was already suited in Re-Action, Iris resting inside his chest plate, and his form had changed — more fully his true dragon self now, wings and horns more pronounced, scales dusted with a mix of all fifteen Pillar colors beneath a golden sheen. His eyes, behind the animated dragon-face of his helmet, were pure gold shot through with white and violet-black. It was the first time most of the Valariyans present had ever seen him like this. To them, in that moment, he was exactly what the legend had always promised.
+
+As he moved through the crowd, people reached out to touch him, and where they did, their own mana pulled toward him in response. He didn't discourage it. "Let your mana flow into your hands, and touch me," he said, loud enough to carry. "Give me what you have. This is the final battle — either I live, or I die. I ask all of you, all who call me Emperor, to mark me before I march. Fight with me, my Valariyans. My people." The response was immediate and overwhelming — millions of hands, adults and the still-Apexian children among them who hadn't yet chosen Valariyan status but wanted to mark him anyway. Aura, Nina and her son, Jade and Isoke, Milla and Adri all did the same. Evelyn, deliberately, kept herself and Irane Jr. clear of the crowd. Pandro and his children marked him alongside Audis. At the gate, Dokia and Urial did the same, and then Mira and Pandro, joking as they did it that they wouldn't want to be left out — "though by all rights," Mira added, "you already have our cores in you regardless."
+
+Summari and Nighla found him last, running the moment they saw him, hugging him tight. "Listen," he told them, holding them both close. "I need you two to protect our people while I'm gone. Mira and Pandro won't be able to this time — it's on you. Make sure you listen to Begin and End." Begin and End emerged from the girls' hair in their small forms, saluting. "Yes, Champion of Kazemi," all four of them said together, and the crowd around them cheered as Irane turned toward the gate and raised a hand. A massive barrier fell across the entire territory behind him.
+
+As the shields settled into place and Mira ordered everyone to the bunkers, Summari asked her sister, quietly, "Do you think he'll win?"
+
+"The Champion of Kazemi will fall today," Nighla said, without hesitation. Very few people heard it. It spread as a rumor regardless, and it didn't stop spreading.
+
+They watched him leave through a surveillance spell, a small figure receding into the distance. "Seems you've gathered some loyal people," Enari said, somewhere inside him, amused. "I wonder how many stay once they see what actually happens next."
+
+"Thirty percent, at least, I'd guess," Iris said.
+
+"Doesn't matter either way," Irane said. "We'll cross that when we get there. Focus. Vraka and Selis woke up a month ago — they'll have hit their full strength by now. Level ten, both of them."
+
+Enari's smile was audible even without a face to show it. Iris matched it. "Step one," Irane went on. "Get them as far from Apexia's borders as possible before they manage to actually kill me. I want to go all out somewhere it won't put anyone here at risk. You both know what happens to me when I go all out — everything goes quiet, and all that's left is the objective."
+
+"Not my fault your mind's wired that way," Iris said.
+
+"You build a habit like that after a couple million years of doing it non-stop," Irane said, and something in his voice was almost fond. "Nothing to be done about it now. Iris. Enari. Let's finish this. First we lure them out. Then we show them what hell actually looks like. Let's give our three command cores exactly what they've always wanted — and seal Vraka and Selis."
+
+"We will never give up," Enari roared.
+
+"We will put our very cores into this," Iris said.
+
+"And we will seal Vraka and Selis," Irane finished, and activated his Drive and Will to forty-nine percent — the threshold at which Enari and Iris were still, technically, in what he privately thought of as their inactive state. Iris, at this level, could enter and activate a weapon but couldn't yet take a mobile form of her own; Enari was limited to cycling between his phoenix, dragon, and beast forms, each one lending him a different edge — time and precision in dragon form, preservation and short-range teleportation in phoenix form, raw evolutionary adaptation in beast form. He could draw, at this level, only a limited slice of Summari's and Nighla's own gifts through Begin and End — enough to touch primordial mana directly, and enough to work the most complex mana combinations a technique could demand, but nothing close to what either girl could offer him at full strength.
+
+He carried every one of his Kazemi Principles with him as he crossed the border into the ruins of their last battlefield, and charged his mana in a single dense pulse that rolled outward across the whole plain. Vraka and Selis felt it and smiled — sharks, scenting blood, fully manifested now in their level-ten forms, mana radiating off them in ways that made the air itself feel wrong. They came at him without hesitation.`,
+          },
+          {
+            id: 'sc-e8-3-final-battle-open',
+            title: 'Selis-Ore',
+            content: `Vraka's mana, up close, read as a dense black cloud shot through with hints of all fifteen Pillar colors — a living aura shifting between beast shapes as it moved. Selis's presented the opposite: a floating, angelic mass of shifting metal-white mana, impossible to pin to a single shape, constantly reforming.
+
+"Selis can reform that living mana into any tool she wants, at will," Irane noted, watching her shift. "Not unlike my own blood, honestly — the material I use to forge weapons myself. Or Father Time's ink, for that matter. She can alter the very blood of the Celestials bonded to her the same way, since it's her own blood running through them in the first place." He turned it over for a moment. "I think I'll call it Selis-Ore. Selis-Fire, as the classification for it when it shows up as mana rather than matter. Note that, would you, Iris?" She indicated it done.
+
+He pulled the Hammer of Law as both twins closed on him without pause. The impact of blocking them both at once sent him flying miles back toward Paradise — he caught himself, turned, and struck back with the Hammer as Enari shifted into full dragon form beside him, mana channeling through the weapon in a single combined blow that forced them back in turn. Even landing it clean, his own hands shook from the recoil — level ten was a different category of opponent than anything the Hammer had ever tested against, and he could feel the weapon's own ceiling straining against what he was asking of it.
+
+He activated the Hammer's core function regardless: *Lock, Contract of Cores.* Both twins froze at the sight of it — the same binding clause they'd used a thousand times themselves, on countless other opponents, to claim a loser's core as spoils. Selis laughed once she understood what he was actually offering. "You really do underestimate us. You know you can't win this, so you're planning to lose deliberately — hide your true core somewhere in that cluster inside you and hope our attempt to claim it triggers a seal instead. Am I wrong?" She smiled, certain of herself. "I'm not. But we'll find it regardless. We'll find your main core in there, eventually."
+
+Irane laughed, and the sound caught them both off guard. "So your'e even exposing your main core?" Vraka said. "Are you insane?"
+
+"I can't hide it even if I wanted to," Irane said. "I've decided to put my full core into this fight. You'd have sensed it eventually regardless. Stop wasting time and sign the contract, so I can make you both my pets."
+
+They signed instantly, certain of their own advantage, treating it as a return to an old, familiar game between the two of them — reborn now against a third party they were sure they could handle exactly the same way. The contract's terms were simple: one victor, and the loser's cores belonged to the winner outright. Both parties would remain within a fixed radius of the activation marker until the match resolved — a radius Irane had deliberately placed a hundred thousand kilometers from Apexia's borders, far enough that nothing that happened here could reach the city he'd sworn to protect.
+
+The fight that followed reshaped the land for hundreds of kilometers in every direction. He switched between Reflection and the Core of Tools and Domination in the same breath, forcing his own body into flight at speeds that blurred the horizon, Sanctuary's armor already fully merged with his skin, extending his mask into a more fully expressive dragon-face as he moved. Limbo had no true edge, no known limit — a plane the Primordials themselves had shaped, stretching in every direction, connecting a thousand worlds. Reaching the necessary distance took real time even at this speed.
+
+Vraka caught up to him first, aura shifted into a hybrid cat-form — panther, tiger, cheetah all at once, tuned to Time and Light — and struck with something close to the speed of thought itself. Irane called Enari back through Phoenix Rebirth and shifted to a defensive, tank-oriented armor configuration, absorbing the blow rather than evading it, and went down hard regardless. A missile-form attack from Selis followed immediately, and he raised Reflection to intercept — only to find it didn't explode on contact, it *pulled*, dragging him bodily toward a forming singularity. He'd fallen for a trap he hadn't seen coming, and Vraka used the opening to tear his left arm off at the shoulder, along with the shield still attached to it.
+
+Irane answered with his right leg, driving a kick into Vraka's face with enough force to level the ground around them both — and lost that leg to a blast from Elorah's morphing sniper-rifle form in the same instant, dense mana rounds punching clean through. He rushed forward on his one remaining leg regardless, shifted fully into beast form, and used a combination of nature and life-force techniques from Enari's own arsenal to grow rough prosthetics where his arm and leg had been, Iris wrapping the gaps in improvised armor as he moved.
+
+The twins were visibly unsettled by how calm he stayed through all of it. Selis closed again at speed as Enari shifted back to dragon form; Irane pulled Design's book alongside Core of Tools and the Staff of Beasts as one combined set, then layered Faith and Apex on top, merging all three sword-forms into a single blade under Apex's own configuration, his body still evolving mid-motion through Beast form as he pressed the attack. Selis answered with a barrage of missile-form projectiles, each one packed with a different elemental core, forcing them to detonate on contact with enough force to send him tumbling with every hit — though he used each explosion's own recoil to keep himself moving, turning her own attacks into propulsion.
+
+He'd put sixty thousand kilometers between himself and Apexia's border by the time the twins, finally out of patience, combined their mana into something new — a gas-cloud construct, serpentine, seeded with miniature stardust sparks, both of them screaming as they poured everything they had into it. It compressed around Irane, draining his own mana and converting it directly into more of itself — a Beast of Dust, he realized, watching it work, genuinely something he hadn't seen before — until a spark ignited the whole compressed mass and a full binary star system detonated at point-blank range, a serpent-formed Star Beast tearing free of the blast alongside a cluster of smaller orbs Selis called a star-ignition tool, built to convert a Celestial Tool directly into stellar matter and detonate it on command.
+
+The explosion left him half-buried in a mountainside that no longer had a recognizable shape, sixty-five thousand kilometers out now — close enough to the marker's edge that Vraka grabbed it and activated the range lock outright, collapsing the battle radius down to fifteen thousand kilometers, thirty thousand across. There was no more room to run, and both twins understood it as the moment to finish him.
+
+He coughed blood against the rock, barely able to breathe. Iris's voice, flat with something close to alarm, cut through: "Ninety-six percent system damage overall. Taking that hit and letting it throw you this far was reckless — it doesn't matter now, we're sixty-five thousand kilometers out, thirty-thousand-kilometer battle radius. If we finish this at close range, we spare the surrounding land and keep the Empire out of the blast entirely."
+
+"We really shouldn't worry too much," Enari said, somewhere beneath the pain. "Summari and Nighla have Begin and End with them — they'll hold Tulla and Sentia without trouble. And Paradise's shields are a different class entirely, with Mira and Pandro powering them. There's nothing else for us to worry about."
+
+Irane coughed again, forced a breath, and started to speak. "I'm... I'm sorry. I'm so sorry." Vraka and Selis, watching a broken man apparently begging for his life, laughed. "Are you actually pleading with us now," Vraka said, delighted. "I'll enjoy using you as a Beast. Take my time with it."
+
+"No," Selis said, smiling. "This one's mine. Besides — he's not apologizing to us. Listen." Irane kept going, quiet, deliberate. "I'm sorry, my wife. Forgive me, my Empress. Please don't hate me too much, my Goddess." He was speaking to Zoe, to Hope, to Arai — apologizing to them, not to the twins standing over him. "I hope I'm not about to unsettle the three of you too badly with what comes next," he said, through another cough of blood. "I hope you'll forgive me regardless."
+
+His mana surged, pushing Vraka and Selis back with the force of it — a dense, dark-gold cloud consuming his own shape as he began to climb. "Mana Core," Iris intoned, somewhere in the process, "fifty percent. Fifty-one. Fifty-seven." On, and on, climbing steadily toward seventy-five. "Set target: seventy-five to eighty percent estimated for the task. Gather. Core draw at one hundred percent of eighty. Execution plan locking in. Spells and techniques loading."
+
+Far away, on Orians, Arai, Hope, and Zoe felt it land at once.`,
+          },
+          {
+            id: 'sc-e8-3-sisters-feel-it',
+            title: 'What the Sisters Felt',
+            content: `In their respective units, all three women felt the pull in the same instant. Crono wrapped Arai in dense, blazing fire as her seal registered the shift: seventy-five percent, climbing. Her drive activated in step, her mind overcharging with more than it had ever been asked to hold. Dima pulled Hope into a rift between spaces as her own mana surged past anything she'd carried before, her heart beating on a rhythm that wasn't fully her own — Irane's own heart, pulsing through the connection they shared. Aphexia wrapped Zoe in a den of living roots and new growth as her body began to evolve past anything she recognized as her own baseline.
+
+All three of them, for the first time, felt their own command cores at their true, unfiltered scale. Arai saw the plan taking shape in his mind as it formed. Zoe felt her own cells — no, felt the beast's cells, the tool's cells — waking as though trillions of dormant things had all opened their eyes at once, mana flooding through her like an ocean with no visible floor, her body evolving in real time to hold it. Hope felt an endless stream of mana pouring outward from him, ceaseless, pulling in everything his universe could offer and refusing to stop until the objective was met. Dima moved her to a pocket space specifically so that overflow could vent back into Irane's own universe rather than detonate in the real world and kill everyone caught nearby.
+
+Arai understood, watching it unfold, the sheer scale of what she was witnessing — every scrap of data he'd ever gathered on Vraka and Selis processing at once, in real time, faster than any mind should be able to move. Then, in a single shared instant, all three of them found themselves somewhere else entirely — inside his own core, feeling the full immensity of it firsthand. They felt Summari's and Nighla's presence there too, as though passing through something close to hell before finally moving past it, the twins' own cores, embedded in his body, working at their absolute limit alongside everything else.
+
+Mira felt it differently — the emotional weight of a being who had lived, and died, and lived again more times than any number should describe, all of it arriving in her at once, not filtered, not staged, simply *all of it, together.* She screamed, pulled past any reasonable threshold of what a person should have to hold, Constraint drawing so much mana through her that the scream stopped being a choice and became the only thing her body could do. Pandro, beside her, absorbed Mono's own accumulating insanity in the same instant — every idea, every impossible spell Irane's mind had ever built, flooding through him at once. It was too much for either of them, but Irane had made sure their overflow would power the shield rather than simply break them outright.
+
+Aliya, back on Orians, entered a plane thick with the ghosts of every death Irane had ever died. They wandered, half-formed, through a space with no true floor, and among them, smiling at her, stood the spirit of Orexis — telling her, without needing words exactly, that she was only one facet of the six spirits that made up the whole of what Irane carried, and that all six were, for the first time, fully active at once. Do you understand what that means, the spirit asked her. He's finally unleashed everything he is.
+
+Dokia and Urial, still too young to safely channel anything themselves, were kept from flowing their own mana outward at all — everything they carried funneled directly into him instead, the accumulated power of his own deaths and his own techniques, fully primed and ready for his direct use.
+
+As the Drive climbed past seventy-five percent, all three sisters felt the shift in what he was, at the most basic level. His human nature — Arai's own architecture, still present, still doing its work — gave ground, piece by piece, to something older. The Primordial-Conceptual underneath, still recognizably him, but no longer filtered the way it usually was.
+
+Enari and Iris merged fully into him as this happened — Enari unleashing his beast form outright, features sharpening further into something more purely draconic, wings expanding, his form growing to match. Iris folded into disk form and settled against his chest, her golden core interlocking with his own mana network like a machine finding its housing. Twenty rings formed around his fingers, two to a hand, each carrying the mark of one bonded core: Nighla and Design, Hope and Domination, Zoe and Apex, Arai and Reflection, Urial and the Core of Tools, Pandro and the Hammer of Law, Aliya and the World Bow, Dokia and the Staff of Beasts, Mira and Reflection a second time on the opposite hand, Summari and Faith — a golden line running between the marks on his left hand, black on his right. Fifteen elemental marks bloomed across his form in dragon-shapes at the same time — fire and ice down his right arm, water and air down his left, earth and lightning at his left leg, nature and energy at his right, light and darkness split across either side of his face, harmony and chaos meeting at his center — a phoenix mark rising across his upper back for time, a serpentine dragon along one side for space, a beast-mark low on his back for life and death.
+
+His golden mana hardened over his flesh into full armor as he finished the transformation — intricate beyond anything a human craftsman could produce, the design across it shifting like a living galaxy rather than a fixed pattern, an additional layer fused directly to his own skin rather than worn over it. Iris departed his chest one final time and reformed as a shining golden spear, its material dense with what looked, impossibly, like compressed starlight. Vraka and Selis, watching, were nearly blinded by the combined glow of the armor and the weapon both.
+
+A massive dragon-shaped mass of pure mana manifested behind him, shifting between physical and pure-energy states, roaring in a voice that seemed to come from the mana itself rather than any throat. Irane's face, behind the animated dragon-helm, was fully visible now — golden scales along his cheeks, hair settled into a spiked, controlled shape that left his eyes clear. Those eyes were pure, blinding gold.`,
+          },
+          {
+            id: 'sc-e8-3-empiric',
+            title: 'Sanctuary and Apexia',
+            content: `Vraka and Selis stared at what stood in front of them, the spear rotating slowly behind him, the dragon-mass looming at his back. He stood still for a moment, simply flexing — stretching into a range of motion his body hadn't held a moment ago — as Vraka lunged, using a technique that concentrated every ounce of his force into a single strike.
+
+He hit nothing but a lingering afterimage of mana. Irane was already moving to counter, fist cocked, when Selis pulled Vraka back by his own chains at the last instant, both of them freezing at the sight of him fully readied, his fist opening and closing with slow, deliberate patience.
+
+"Who *are* you?" Vraka demanded, and something in the way he asked made clear he understood, on some level, that he wasn't speaking to the same opponent anymore.
+
+"Who am I," Irane repeated, and the voice that answered carried a weight neither twin had heard from him before. "My name was granted to me by the Primordial Dragon of the Universe — the one who witnessed its very beginning, in a roar that woke it into being. And by a girl who showed me its true ending, and gave me a real death. I am what came after the end. What makes either of you believe you're owed the right to know it?"
+
+He looked at them the way a man looks at insects — fully healed now, loose, ready.
+
+"We probably shouldn't take this too seriously," Enari's voice rolled out from somewhere within him, shaking the ground with the force of it. "These two are about to meet death properly for the first time. Why not tell them who their destroyer — no, their future master — actually is?"
+
+Iris's voice answered from inside the spear. "Irane. I'd rather we stop wasting time and finish the objective. I want to see exactly how well Sanctuary and Apexia hold up with Kazemi's own core behind them."
+
+"Fair," Irane said, and Enari's roar shook the ground as mana streamed into the spear, pulling and gathering with every passing second. He raised it toward the twins. "Look closely at this spear — it carries my entire Empire on its tip. And this armor houses the cores of every Valariyan I've ever claimed — their sanctuary, their paradise, made physical. This is what puts you both down today. Sing their praise, both of you, while you can: the Empiric Armor, Sanctuary. The Empiric Spear, Apexia."
+
+Mana surged as both twins instinctively pulled back. Enari's dragon-mass folded into the armor, and the twelve dragon-marks across Irane's body — face, chest, arms, legs — glowed in answer, the beasts on his back lighting with them.
+
+"Consider this an honor," Irane said. "First time either of you gets to see my core at full glory — well, eighty percent of it, but close enough. Objective: seal Vraka and Selis." He said it the way a man reads a task off a list, each of his Drive and Will cores resonating with the same desire in perfect unison. "I am the Emperor of Apexia. You're both free to call me his majesty, if it pleases you — I stand at the peak of creation. The core of cores. The Emperor."
+
+He launched Apexia at them both. They dodged in opposite directions, and the spear passed cleanly between — until Irane was suddenly there to catch it with his right hand, mana from his own core of creation flowing into the weapon until it glowed white. He redirected it at Vraka, who threw up a turtle-shell guard of scaled armor reinforced with darkness and earth mana — enough to survive the hit, though it still sent him flying for miles. Irane closed on Selis in the same breath.
+
+She retreated, building a suit of layered armor from her own reforming mana. "I can build armor too," she said, delighted with herself, and threw a punch accelerated through fire and wind, reinforced with earth and darkness at its core to give it density. Irane caught it with his left hand as the resulting explosion of fire, light, and energy detonated directly against his face — the world shaking with the force of it. When the smoke cleared, he was still holding her hand, her own mana visibly draining into his palm.
+
+"Your armor's powerful," he said. "But this armor of mine isn't sitting on top of my skin. It *is* my skin now — an extra layer fused with my cells. Which means it does what my cells do: adapts, constantly, to whatever mana just hit it. Advanced past anything you've fought before. And my right arm carries a mana of destruction — breaks down whatever it touches to its most basic state. I can channel what it absorbs and rebuild it from that primordial base into something more complex than whatever you just threw at me."
+
+He pulled her forward and drove a punch into her chest, a dragon's roar of mana wrapping his fist as it landed, sending her flying with far more force than her own defenses had accounted for. Vraka, meanwhile, was still braced against a mountainside a kilometer off, fighting to hold back the spear still driving into him. It glowed with fifteen internal points of light, a red-and-brown pulse running through it as Vraka saw Irane's grip tighten on it from a distance — the spear's tip burning with raw fire, straight from the sky down.
+
+Vraka countered with water and ice, forging a claw dense enough with mana to rend metal outright, all fifteen elements woven through it with earth and fire as the dominant thread — a weapon he was confident could shatter even one of Selis's finest Tools. He swung it at the incoming spear, certain it would hold. It cut clean through his own fingers instead — the spear's edge a super-dense crystalline formation, vibrating at a subatomic level, heat and pressure fused into something that severed matter at the molecular seam. Vraka shrieked, closing the distance anyway, throwing a punch as a beam of light lanced in from Selis's own position to strike the same spot — and Irane simply absorbed the combined blast.
+
+A second spear flew at Selis's head as she watched, narrowly missing, close enough that she felt the raging fire in its wake catch her skin alight.
+
+"By the way," Irane told Vraka, looking at the stub where his hand used to be, "I pre-evolved my own body to resist your mana — and to actively oppose it. My flesh is a direct antigen to your cells now. To your Beasts. You couldn't feel it before, because I wasn't on your level yet. At seventy-five percent, I am. My mana rejects and destroys yours on contact. You can't touch me."
+
+He drove an uppercut into Vraka's jaw hard enough to rattle his teeth, grabbed his leg mid-stagger, and thrust Apexia into his chest, sending him flying toward his sister with enough velocity to detonate on impact — a burst of raging, pressurized wind that ignited into flame from the sheer friction of it, cutting and burning everything in its path. Vraka did what he could to block it. It wasn't enough.
+
+Irane took a breath. "Don't give up. Put your core into it. Seal Vraka and Selis." He gripped Apexia tightly in his left hand as he said it.`,
+          },
+          {
+            id: 'sc-e8-3-death-without-dying',
+            title: 'Death Without Dying',
+            content: `Apexia and Sanctuary belonged to a different class of Tool entirely — not fused with Irane's own core the way most of his weapons were, but drawing power directly *from* it, an enormous and continuous cost to sustain. Every Empiric-class weapon required the Drive or Will above fifty percent simply to function at all, and Apexia in particular drew on the full core of Kazemi and every core-cell beneath it — including, now, the cores of every Valariyan who'd ever given him theirs. Marked with his Soul core, it carried the memory of every dead spirit he'd ever claimed. Marked with his Death core, it ensured that no strike, however fatal it should have been, would actually kill. What it left behind instead was the pain — and the memory of the death itself, permanently written onto the target's own core.
+
+He pulled the spear back, ready to throw again, and both twins closed together this time, determined to defend against whatever came next. Selis raised a shield built from space, energy, earth, and water mana-force; the spear struck it and the impact absorbed cleanly, pushing her back regardless. Vraka braced, expecting the same follow-up — and the ground beneath him split instead, a second spear of Apexia rising from below, catching him off guard and slamming him down as a burst of wind-driven force followed through. Selis, watching in horror, found her own shield suddenly under far more pressure than the first strike alone could explain — Irane's left hand had torn straight through the gap it left, closing around her throat from the other side. She forced him back, staggered, only for Apexia to arc behind her and slam into Vraka a second time.
+
+Irane gestured, and Vraka kicked the spear clear rather than let it strike again — only for it to correct mid-air and come at him regardless, glowing now with a blend of every Pillar color at once. A spear of pure fire flew at him first; he countered with water. A spear of ice followed, freezing the water solid; he broke it with lightning, and wind and water hit him from another angle entirely, then fire and wind again, each strike unleashing its own elemental torrent on impact. Hundreds of these came at him in sequence, and Vraka, adapting in real time through his own Mana-Aura ability — Adapting Elemental Beast, switching instinctively to whatever countered the current element — held on, barely, until Irane appeared directly behind him, grabbed a fire-and-wind spear mid-flight, fused it with a light-aligned one, and drove it into Vraka's leg.
+
+From there, Irane simply danced — pulling and mixing elements on the fly, striking from every angle as Apexia kept firing independently on the other side, until Vraka took a direct hit to the face and the spear's main form flew back into Irane's waiting right hand. He swung it behind himself, lunged, switched it to his left, and drove it home: *"Life/Death-Nature-Energy Technique: All-Consuming Forest."* Every element from all fifteen spears merged into the single strike, and a massive dragon-shaped growth burst from the wound, consuming Vraka's mana as it spread. Vraka fought back, overcharging his own Adapting Elemental Beast to grow in mass and match it, the forest-form dragon pulling him down regardless, feeding on him as it grew.
+
+Far above, Selis had assembled her own answer — a Dyson-sphere Tool with twin star-serpents burning at its core, charging alongside a satellite-cannon construct that hummed with barely-contained pressure, Sova's Chain bridging the mana transference between the two, Keth's Brand marked directly onto Irane to ensure the shot couldn't miss. Tevan's Edict amplified it further, every Celestial in range feeding it their own life force. It was, by any measure, beyond level ten — enough, Selis was certain, to finish even Vraka's Forest-dragon along with him.
+
+Irane gripped Apexia in his right hand as creation-mana pulsed down its length, all fifteen core colors shining through at once. *"Kazemi's Ultimate Art: Creation of Destruction."* He aimed it directly at her as she fired: *"Mana-Force: Genesis Laser"* — a beam built to tear atoms apart and pull the resulting force into itself, growing more powerful the longer it traveled. He threw the spear straight into it. The instant the tip made contact, the beam's own energy was pulled bodily into Apexia instead, redirected back at Selis in a single, enormous detonation that sent shockwaves all the way to Paradise, cracking the earth open along the way.
+
+At the epicenter, Vraka had shifted into a lava-beast form, superheating his own skin, trying to burn his way free of Enari's forest before it could finish consuming him. Enari's tree-form caught fire and held anyway, sap turning to ice-cold liquid as water flowed in around it, roots freezing solid, dragging Vraka's own temperature down with them as he lost ground, mana bleeding out of him faster than he could replace it. He finally tore free, badly weakened, and ran for his sister.
+
+Irane let him go, watching, and pulled Enari back into his armor as Iris folded in behind him. "Let's settle this," he said. "Time to end it."
+
+Vraka reached Selis and found her, to his shock, physically unharmed — but shaking, unable to move, because she'd experienced it: the death Apexia had just inflicted, complete and total, and she was still alive to feel the aftershock of it. "That thing — the Emperor," she said, hands trembling. "Death isn't an option for us anymore, brother." Tears ran freely as they both felt Irane's mana building somewhere close, the sky and the ground and the mana buried deep in the earth all shifting to answer him. Vraka tried to run with her regardless, and a chain caught them both fifteen thousand kilometers from the marker — the exact edge of the locked radius. There was nowhere left to go.
+
+"That spear," Selis said, watching it come. "It commands the mana of every core beneath its own. It's a matter of will, in the end — but underneath that, it's mana made into a person." Vraka's own roar, as he braced, was enough to set every volcano in range erupting at once, the sky above them splitting into black clouds shot through with golden lightning. They readied themselves as best they could as Irane gripped Apexia in his left hand, dark mana pulling back along its length before surging forward through light in a violent inversion: *"Kazemi's Ultimate Art: Destruction Through Creation."*`,
+          },
+          {
+            id: 'sc-e8-3-sealing',
+            title: 'The Sealing',
+            content: `Irane's jaw tightened as the emotions came with it — Hope's and Zoe's grief over a world these two had spent centuries wrecking; Pandro's suffering, chasing his own end for years; the road that had led Arai here in the first place. He thought of the billions of souls and cores Enari had gathered from everyone who'd died offering theirs to make this exact moment possible. He could have destroyed the twins' cores outright, at any point in this fight. He chose not to. He knew, better than almost anyone alive, that death offered no lesson — no heaven, no hell, just absorption and the end of being. He wanted them to understand what they'd cost the world, and death would have let them skip that understanding entirely.
+
+Every emotion his Drive and Will cores carried converged on that single point — hatred, rage, grief, and something close to joy at the prospect of their end, all of it at once. Mira, back in Paradise, entered a new state in answer to it — *the Emperor's Full Heart* — screaming as her own mana surged in response. Hope felt the same pull, her own heart hammering in time with something that reached across an entire universe to find her. What had registered as seventy-five percent before crept to seventy-eight, and that extra three percent alone was, in a space this vast, close to unbearable. Zoe felt it as the ignition of a billion stars at once, each new core Irane activated adding an intensity she had no framework to compare it to — her own skin, in that moment, felt less like flesh and more like raw, conducting mana. Arai stared into Crono's blazing fire, losing count of how many times she blacked out simply trying to comprehend the scale of what she was witnessing as the final tool locked into place. Aliya watched Orexis and the other five spirits converge into a single presence, feeling the full weight of the Emperor's own soul pass through her all at once.
+
+The seal itself — Arai's original design, refined and perfected across the trial and the years since — activated directly on Vraka's and Selis's bodies as Irane pressed the attack, both of them caught in an endless barrage: spears from every direction, a dragon's roaring wave layered on top through *"Dragon Stream Nova"* fused with *"Creation of Destruction,"* each blow a fresh death, each death remembered permanently by the core it touched. He marked Selis to ensure his own mana would keep killing her without end, using Urial's own technique to force the effect to hold. Both twins were caught in it together — hell, unfiltered, on a loop neither could escape.
+
+Then he layered a third move on top: *"Kazemi's Technique: Infinity Drive"* — letting him chain spell after spell together without a gap, until every one of them had landed exactly where it needed to. Followed immediately by: *"Kazemi's Ultimate Spell: Arai's Seal — Sentence of Eternal Purgatory."*
+
+The seal locked directly onto both their bodies as the barrage continued, each blow landing like death and rebirth in the same instant, over and over. Selis began crying out for her father, pleading with him to save her from what she was experiencing. Vraka begged for it to simply stop. Irane didn't relent. If anything, he pushed harder — crouching low, holding Vraka in his right hand and Selis in his left, both of them caught at the center of an endless cycle of destruction and remaking, hundreds of years compressed into seconds as he aligned his own Mind, Heart, and Body cores directly with theirs, ensuring every fragment of the pain registered fully. He pushed to the very edge of his own eighty-percent ceiling and held there.
+
+The contract's own terms surfaced before him — confirmation that Vraka and Selis had genuinely, fully given up at the core level, and that the win, and everything it entitled him to, was his. He didn't stop. He wanted this to last. He wanted them afraid of him permanently. He selected the cores he intended to claim — their main cores, visible to him now as clearly as anything — and completed the seal, lining them both up in front of him, still caught inside the compressed mass of destruction, their mana pulled and locked in place at once. Then he stepped back, took Apexia in both hands, and moved between them one final time, unleashing everything he had left as Enari's presence flared around him: *"Kazemi's Art: Dragon Rush."*
+
+He passed through both of them in a single, massive detonation of pure mana in all fifteen Pillar colors, turning the world for hundreds of kilometers around into something closer to primordial landscape than anything that had existed a moment before. The shockwave reached all the way to Paradise as a shower of what looked like falling stars — stray mana pulses, scattered by the blast — rained down against the city's own shields, Mira and Pandro holding the line at their absolute peak, both of them channeling everything they had left to keep the impact from breaking through. Long-range cannon crews fired to detonate what they could before it landed. Begin and End did the same, matching output against whatever they couldn't consume outright. The sky wept fire for a long while.
+
+When the chaos finally settled, the point where the blast had centered was scoured down to pure mana, its exact final shape still unknown even to the people who'd caused it. The storm that followed tore across the world in every direction — volcanoes erupting, the earth cracking open in new fault lines, lightning and tornadoes spreading far past the epicenter — moving, all of it, in a slow drift toward Paradise, like something with its own will. Even the Valariyans braced to meet it. But the worst of the noise came from Hades and Ether themselves, where the Ferali and Celestials screamed in unison, their bodies remaking themselves from the inside as the main contracts binding them to Vraka and Selis broke all at once. Every Ferali and Celestial not personally bound to an Alma or Spirit dropped into a feral, beast-like state in the same instant — the direct consequence of their masters' main cores now belonging to someone else entirely.
+
+A final crack split the sky as Azen and Elorah's bodies — still wearing their Arch-Demon and Arch-Angel forms — dropped into the center of their respective cities, sending shockwaves through both. They no longer looked possessed, but they were barely conscious, marked now with permanent scars — Azen's running from his left eye down across his chest to his right leg, Elorah's from her chest to her back — each scar edged in gold where Irane's own mana had burned itself in. Enari appeared briefly over Azen's body; Iris, still in spear form, over Elorah's. Both spoke the same words, aimed past the two bodies to whoever might be listening. "Remember this well, and never forget it. This is what happens to the enemies of the Apexian Empire. This is what happens to the enemies of my Body, my Heart, and my Mind. Never forget it." Then they vanished, and the remaining Angels and Demons gathered their leaders and fled into the retreating storm, with nowhere left that felt safe to go.
+
+Irane walked back toward Paradise carrying both twins' main cores, still wrapped in the last of the storm — a literal mana tempest given legs, walking home. He marked both cores and let them return to Elorah and Azen, who would carry them now as Tool and Beast. "I'd keep you," he told the cores as he released them, "but I have no use for something this pointless. You'll serve your new masters from now on. Try not to be a useless Tool and Beast."
+
+He kept walking, one deliberate step at a time, the storm reshaping the world around him with every stride — rain falling, fire catching, the land folding itself back toward something closer to its primordial shape. "It's about time," he said, to no one in particular, "I claimed my Valariyans." And he kept walking, toward Paradise, toward everyone waiting for him there.`,
+          },
+        ],
+      },
+      {
+        id: 'ch-earth-8-4',
+        title: "Chapter 8.4: Valariya's People",
+        scenes: [
+          {
+            id: 'sc-e8-4-zoe-dream',
+            title: 'Never Give Up',
+            content: `Zoe opened her eyes in a kitchen. The window showed nothing but blank white; the door led nowhere at all. A smell reached her before anything else did — something warm, something that pulled at a memory she didn't consciously have. A woman stood at the stove, humming, and a boy of about eleven sat nearby on a chair, watching the pot with rapt attention. His mother listened intently as she named the ingredients out loud, one at a time — chicken, spices, onion, carrot, potato — finishing with a mix she called her own secret blend, one only she knew how to balance. Zoe tasted it too, somehow, sweet and savory both, as the boy took his own first taste from her spoon.
+
+The scene shifted, gently, to the two of them eating together — chicken stew and dumplings, made with the same careful attention as everything else. Zoe felt the flavor in her own mouth as the boy ate his. It was, without exaggeration, one of the best things she'd ever tasted, real or otherwise.
+
+"Mom," the boy asked, between bites. "What was dad like?"
+
+The woman's voice went soft. "Listen, Z. Your father was a man who never gave up. I turned him down more times than I could count, and he never once stopped trying." She wiped a bit of sauce from the boy's mouth. "So do me a favor and grow into a man who never gives up either — no matter how impossible it looks. And know that I love you, and I'll be cheering you on no matter what, the same way your father's cheering you on from wherever he is now. Never give up. Even when it feels impossible."
+
+"I promise, mom," the boy said, sauce still on his lips. "I'll never give up."
+
+Zoe opened her eyes with the taste of that stew still on her tongue, and a single tear she hadn't noticed falling.`,
+          },
+          {
+            id: 'sc-e8-4-hope-dream',
+            title: 'Put Your Soul Into It',
+            content: `Hope woke beneath a tree buried in snow, the cold air catching in her throat as she breathed it in. The tree's leaves stayed green regardless, vivid against the white. Beyond it, mountains in one direction; something like a distant house in the other, though every attempt to walk toward it simply returned her to the tree's base, as if the space around her refused to be anything but this one spot.
+
+Laughter carried across the snow — a young man, late teens, and a girl the same age nearby. It took Hope a moment to place the boy as Z, younger than she'd ever seen him, and the girl as Aura. He'd just said something clearly terrible, judging by how hard she was laughing at it. "That was an awful joke and you know it," she managed, catching her breath.
+
+"How can it be a bad joke," he said, "if it got me your smile? That's my favorite thing in the world." She shoved him into the snow for it, laughing harder, and he came up smiling too.
+
+"I love this spot," he told her. "Just you and me, watching it go down. Feels like we're the only two people left." Aura's laughter faded. "Tell me something," she said. "Did you mean it? When you said you loved me?"
+
+The wind passed between them, cold and quiet. He took her hand. "You've lived with me and my mom for five years now. I know it was selfish to say it, after what your parents did — leaving you with us and never looking back. But I meant every word. I love you, Aura. With everything I have."
+
+She pulled his hand under her own coat, holding it there. "I know you. I know you won't give up, and I know you're going to fight for a better tomorrow, for all of us. I know you'll put your heart into it. But promise me something — not just your heart. Your soul. Put your entire self into the things you want, and don't let anyone talk you out of it. Not even me."
+
+He held her hands as the sun dropped lower. "I promise. I'll always put my whole self — my very soul — into whatever I want to build. Always." She kissed him, and Hope felt the moment land in her own chest like something physically striking her heart. Aura pulled back, smiling. "That was our first kiss."
+
+"The first of many firsts," he said.
+
+The sun set, and rose again in the same breath, and the tree Hope had been standing beneath was on fire. Z stood nearby now, older, a pack on his back and a rifle in his hand, staring at a village burning in the distance. He ran toward it, into a house where two bodies lay burned beyond recognition, and Hope felt her own chest tighten in answer to something that wasn't happening to her.
+
+"I'm sorry," he said, to no one who could hear him anymore. "Please forgive me. I failed you. I should have stayed. I promised I'd put my soul into it — into the better tomorrow we were supposed to have. Please forgive me. I failed you." His grief was silent from the outside, but inside Hope's own chest it screamed, loud enough that she dropped to her knees, one hand pressed against her heart, and found herself, in the next instant, back in Sophioterra with tears running freely down her face.`,
+          },
+          {
+            id: 'sc-e8-4-arai-dream-open',
+            title: 'What Made You, You',
+            content: `Arai opened her eyes to the same smiling presence she'd already glimpsed once inside Irane's core — except the smile wasn't the terrifying one this time. It was gentler, more like Z's face than the towering, unreadable thing she'd braced herself to see. The sky above her seemed to be moving too fast to track. Her head split with pain, and then the presence took her hand, and the pain simply stopped.
+
+The world around them fell away entirely, leaving pure black in every direction — except for him, fully visible, and her own body and hands, just as visible as his. "What is this," she asked. "Who are you?"
+
+The answer arrived the way his thoughts always arrived in her mind — not spoken, exactly, just present. *What does it mean to be alive?*
+
+She thought about it logically, the way she thought about everything. To be alive was to grow, to eat, to excrete, to replicate, to pass something forward before dying. That was the whole of it, biologically speaking.
+
+He smiled — not unkindly — and pointed to the sky. A single point of blue light bloomed there, and inside it, her own memories began to play. Her mother's face, the one she'd nearly forgotten, holding her as a crying infant. *"I love you so much,"* her mother's voice said, achingly clear. *"I think I'll name you Arai — it means special star. Because out of a million people, you're my special one."* Arai hadn't remembered her mother's voice in years. She hadn't known she still could.
+
+More followed — her first steps, her mother's funeral, her father's flat, dismissive account of it. Memories from before she'd properly understood what memory was. Her sister Nina as an infant in her own arms. The years of being told she was a mistake, a failure, a woman worth nothing to her own house. The books in the Nexal archive she'd loved reading as a girl. The Academy, meeting Zoe and Hope for the first time. Ember, taught and mentored under her own hand. The assault on Mana. The lab, and Minia. And then, finally, the memory that ended the sequence: her own voice, ordering Irane, *"Love Arai Kazemi: complete the seal."*
+
+The memory stopped there, frozen. She looked at him, confused, and the question came again, wordless: *Who made you — you, Arai?*
+
+She thought back through everyone she'd just seen, and as she did, two more points of light bloomed in the dark sky — Hope's memories, and Zoe's, unfolding the same way hers had. Their mothers, their fathers, Zoe's own mother's funeral, the training and battles that shaped Hope, all the way to the moment they, too, entered the lab. More lights followed — Mira, then Aliya, Pandro, Dokia at the island, Urial in a single quick flash — each life playing out until the exact point Irane took their cores into himself. Eight stars total, hanging in the dark, each one a whole life compressed into an instant of shared understanding.
+
+Arai looked at him, eyes wet. "What is this? Why show me all of it?"
+
+He finally spoke aloud, his own voice this time, sad in a way she hadn't expected. "At our cores, we're nothing more than the product of the people around us. Whatever makes us who we are always comes from someone else. Our lives are built entirely out of the people we've touched."
+
+He let go of her hand and began to walk away. The pain returned the instant his grip left hers — a crawling weight behind her eyes — and when she looked up, he was gone, replaced by a tugging sensation on either side of her. Summari and Nighla, both of them older now than she'd ever seen them, held her hands and pulled.`,
+          },
+          {
+            id: 'sc-e8-4-arai-dream-trial',
+            title: 'Live, Kazemi',
+            content: `The space around them darkened further as the twins pulled her forward, the handful of stars overhead swallowed by it. Ahead, a memory played that seemed to be actively unraveling even as it happened — Z, standing in the trial space, listening to Kazemi explain the terms. Arai's eyes went wide. This was the first time she'd witnessed it directly rather than reconstructed it from records — the rules of the trial, spoken aloud, the choice offered plainly: submit and be consumed, or fight until every cell had been replaced.
+
+Z agreed. He died at Kazemi's hands in the same breath. The darkness surged forward and pushed all three of them out before they could see more, and then they were back — Z reappearing, confused, having forgotten everything that had just happened.
+
+Arai heard his own thoughts as they replayed — the horror, the confusion, the desperate search for a way out of what he didn't understand was permanent. He had erased his own memory of it, over and over, using nothing but her own mana bleeding backward through time into a moment that hadn't happened yet — a strange, recursive kind of causality that only made sense once she understood what her own Time-core was capable of, reaching back to touch a mind that would, eventually, become bound to hers.
+
+Time passed in fragments as she watched him accept it, coldly, and begin the chant that would carry him through everything that followed. *Never give up, Z — just like your mother told you. No matter what, don't give up. Put your everything, your very soul, into this — and beat that dragon.* Over and over, thousands of times, until the words themselves simplified further, worn down to their bones: *Never give up. Put your core into it. Beat the dragon.* Arai found herself crying without meaning to as she watched his mind erode under the weight of its own repetition, until nothing remained of the memory except the echo of the command itself.
+
+Summari took her right hand again; Nighla, her left. Hope appeared, holding Summari's other hand; Zoe appeared, holding Nighla's. The four children — because that was what they were, in this space, despite everything else they carried — pulled all three sisters forward, delighted in a way that made the horror of what they'd just witnessed feel, briefly, survivable. They were flying now, through the true breadth of Kazemi's own universe — the realm of Irane's cores, stretching in every direction. Ahead, a massive golden orb hung in the black, radiant, pulling and pushing at once, a black hole and a white hole occupying the exact same point in a way that made no physical sense. Summari and Nighla pulled them straight into it.
+
+They opened their eyes inside the Trial itself — Z, long before either of them had ever known him, running from Enari in one of his earliest fights. Summari and Nighla, standing beside them, explained. "We've seen the beginning and the end of the Trial. Never the middle."
+
+"I only ever dream the first few million fights," Summari said, faintly annoyed by the limitation.
+
+"And I only ever see the last few million," Nighla added. "We've never seen the part in between — when he was actually becoming what he is. Building himself."
+
+They gripped Zoe's, Hope's, and Arai's hands tighter, and all five of them felt every part of Irane at once, as if his command cores were resonating directly with the same cores still inside his living body. They watched Enari kill him, and watched him return, over and over, the middle stretch finally unfolding in front of them. They watched him forge his tools. They watched his mind simplify its own commands down to their most basic form. They watched him forget Aura's face. Forget his mother's voice. Watched every piece of memory get systematically destroyed, one death at a time, until nothing survived except function.
+
+They saw him create the twenty core cells — blank, at first — and place three of them with Arai's, Hope's, and Zoe's own mana, watching them ignite into the Command cores. Then, with something close to reverent excitement, Summari and Nighla watched the moment their own cores were created — modeled on Kazemi's own incomplete dragon-core, early, flawed drafts of a nature not yet perfected. They watched their father refine that failure, over and over, until it worked. They were his first two original cores — made entirely from scratch, the proof that a mortal fighting for millions of years had surpassed even Mana himself in learning to build a core at all.
+
+They watched Enari bond Begin's and End's own cores to himself in answer, and watched Z begin creating his tools in earnest — consuming pieces of Kazemi's own flesh, at points, for the raw material. They watched Enari create his own beasts for the first time, shaping Begin and End to mirror the same architecture. They watched Z's transformation continue through form after form — Phoenix, Loong Dragon, Beast — as he built and rebuilt an arsenal that grew every time it broke.
+
+Zoe noticed the stars scattered across this whole universe multiplying with every death — each one a memory, an experience, the full texture of a single life and its ending, absorbed and kept.`,
+          },
+          {
+            id: 'sc-e8-4-command-cores-forming',
+            title: 'What Each Sister Saw',
+            content: `Each of them saw something different in the same unfolding record, shaped by what they already carried.
+
+Hope felt every emotion he'd accumulated arrive at once, and understood, watching it, that none of it had ever pointed outward — not at Kazemi, not at the trial itself. All of it turned inward: the grief of a failed maneuver, the fury at his own mistakes, the brief, hard-won joy of something finally working. She felt it intensify with every core he claimed, until it stopped reading as ordinary emotion and started reading as hunger — a genuine, primal craving for more of it, more experience, more data, more of whatever a soul's ending could tell him.
+
+Arai watched the memories accumulate inside his mind — every death fully retained, every soul absorbed becoming something closer to a haunting than a memory. A mistake here. A successful maneuver there. The full texture of every ending he'd ever caused, kept and catalogued. She watched the mind forming underneath it — one that wanted more, always more, of exactly this.
+
+Summari watched the way he built spells — breaking everything Kazemi threw at him down to its most basic components and rebuilding from there, pure insanity and creativity fused into a single, relentless drive to understand. Nighla watched the finished product of that same process — the techniques he refined with every new core, folding them into his own body, other cells besides his own bending to his will and marked, permanently, with his own signature.
+
+Together, they watched the being Kazemi was becoming — a Primordial made of accumulated cores, learning and altering his own form as fast as Z was learning to survive him. Millions of years compressed into moments as the two of them created their final ten cores in sequence: Re-Action first, then Apex, then Reflection, then Domination, then the World Bow, the Core of Tools, the Hammer of Law, the Staff of Beasts, Faith's Daggers, and finally Design. They watched the sheer scale of what he was building without ever seeing the exact specifics — only the impossible weight of it.
+
+Then came the fights that finally matched Kazemi blow for blow — the last trillion clashes, spells and techniques on a scale that broke any ordinary understanding of what either category meant. Stars thrown as weapons. The edges of reality folded and refolded. Summari and Nighla, watching alongside the three sisters, kept their own sanity intact only because their cores were already bound to his — for them, the millions of remaining battles compressed and passed in what felt like an instant.
+
+Arai, Hope, and Zoe eventually stopped trying to fully track it — the painful memories that had made him blurred together, simplified the same way his own mind had simplified them, until only the shape remained: three principles, kept, everything else discarded. *Never give up* — his mother's words, now carrying Zoe's own mana in his body's core, governing his evolution, tying every one of his Beasts under Enari's control, and giving Zoe, in turn, the ability to command any of them. *Put your core into it* — Aura's words, carrying Hope's mana in his heart, governing his mana and his capacity to create, meaning every Tool he ever built carried its own core, and meaning Hope could wield any of them. And his own belief, forged from nothing anyone had told him: that a person is simply the product of the souls they've met along the way — the belief that gave him the power to manipulate cores at all.
+
+They watched Summari and Nighla, born bound directly to his own core, witness his process of creating Arts firsthand — beginning, middle, ending; creation, change, destruction — on a level no one else in the universe could perceive. It was, Arai understood, the reason all three sisters could tune this closely to him at all: Summari and Nighla's own conceptual nature, human bodies wrapped around something Irane needed to keep close, precisely because they were too dangerous for anyone else to safely watch.
+
+They watched the moment he merged the Beginning-Creation core and the Ending-Destruction core into a single artificial core inside his own body — a moment none of them could fully process even watching it happen. For the final half-trillion battles, they watched him build that artificial core over and over, matching Kazemi blow for blow as the Primordial, in answer, began doing something similar — folding the power of the infinite dragon down into a single point, drawing directly on the mana of the 1,888,888,887 souls who'd failed the trial before Z ever arrived. Both of them, by the end, were drawing directly from the fifteen Pillars themselves, meeting at the exact point where beginning and ending touch. Their final clashes lasted centuries in trial-time — the last handful stretching nearly eighty million years — spells and Arts on a scale that made a level-ten working look instantaneous by comparison. They folded reality. They threw stars. It was, by any reasonable measure, insane.
+
+They watched him destroy his own body to forge two single-edged blades, breaking his own bones for the material, and watched him bind Begin and End to each blade in turn. Enari, unbothered, simply made more of them — infinite now, in a way he hadn't been before. Z bonded his own Creation-Beginning and Destruction-Ending cores to the blades in the same motion, capturing two full copies of Begin and End in the process.
+
+They watched, finally, the fight that ended it. Z and Kazemi clashed one last time as Z forged a new blade — merging the two singled-edged swords into one great sword, the combined core igniting inside it as he rushed Kazemi, who answered by unleashing his own universe entirely, pulling Z inward. In a single motion, Z moved the merged core into his own body while the blade itself pulled Enari's own core free — and used it to destroy the conjured form Kazemi had built to fight in, ending him.
+
+Irane stood, afterward, entirely still. There was nothing left to do.`,
+          },
+          {
+            id: 'sc-e8-4-kazemi-final-words',
+            title: 'Ziphora',
+            content: `Hope, Zoe, and Summari were elated — Irane had beaten Kazemi. Arai's and Nighla's expressions stopped them cold. Both women looked genuinely afraid.
+
+Arai was seeing something the others hadn't reached yet — the moment leading directly into what came next. Hope felt Nighla's grip tighten around her hand, dread bleeding through the contact, as Kazemi reformed, looking down at Irane's motionless body, and began to laugh. The laughter shook the entire space around them.
+
+"This was everything, and more, for me — *Ziphora,*" Kazemi said, and Arai understood, hearing it, that this was the true name written on the tombstone Crimi had given him — a name Kazemi knew, though it confirmed nothing about whether it was objectively real; only that Kazemi believed it, the same way Crimi did. "I have to admit, this was fun. You won. I wonder what kind of life you'll live now. I think I'd like to see it." A pause, almost fond. "Ah — you don't even remember who you are anymore, do you."
+
+His form dissolved into pure mana, flowing back into the space where his core had been — the merge point holding the combined Creation-Beginning and Destruction-Ending cores, ready now to become something new. He pulled in the billions of cores he'd gathered across the centuries of the trial and laughed once more as he began to fade fully into what would become Irane's body.
+
+"There's nothing left I can offer you beyond service to whatever I become when I return," Kazemi said. "But I can give you my one true treasure. I've seen the beginning of everything, and the end. I've seen birth, and I've seen death. When Mana killed me, I felt myself fading — but he left one last piece of me behind, and this is that piece. With the power of a billion true cores I've cultivated across the centuries, and the combined energy of eight hundred eighty-eight million, eight hundred eighty-eight thousand, eight hundred eighty-seven souls, I should have enough to birth my new core properly. I'll give it to you. And my name besides." A final pause. "I won't curse you with something as small as killing two of Mana's brats. I'll give you a purpose far greater than that."
+
+He activated the spell that ended his existence for good, creating Enari — the reincarnation of the Primordial Kazemi — and the main core that would become Irane's own. He roared as he died into it, and Iris, activating the Tool that Irane had become in that instant, watched him take shape and set the final command into place: the third order. *"Live, Kazemi."*
+
+A flash of light marked the core's creation. Iris processed the command, turning it over, trying to understand what it actually meant for a being to live.
+
+To never give up. To put his very core into everything. To experience, and move forward, and complete his task through that experience. Iris added it as his mandate — to live meant to understand what living was, and the only path available to a being who understood cores at this depth was to interact with them, to comprehend them, to indulge in them fully. In that instant, the mind that would carry out the task was born.
+
+Irane's subconscious, from that point forward, was wired toward one thing: a desire for cores. Not simply to consume them, but to study them, to understand them completely — to *know* something, for him, meant wanting its core the way he'd once wanted Enari's.
+
+The five of them — Arai, Hope, Zoe, Summari, Nighla — watched Irane wake in the lab, unleashing a surge of raw power as the merged Beginning-Creation and Ending-Destruction cores collided with Kazemi's own newly-placed core. All three fused into one, built for a single purpose: complete the mission, consume every core in reach. Arai fell to her knees as she watched the face she knew so well settle into place in front of her — the smile unmistakable, the mind behind it now fully, terribly awake. They watched his internal universe finish assembling — an impossible, inverted core drawing every scattered cell-core back into his true body at once.
+
+What they were watching, they understood, wasn't simply thirty-seven-point-two trillion cores. That number described only his outer, visible form. What lay beneath it, in the cells generated from Kazemi's own presence, was vastly larger — a genuine universe, billions upon billions of stars scattered in every direction, immeasurable, terrifying to witness even secondhand. This was the power that could have let Irane consume every core on the planet if he'd wanted to. This was what Mana had given Kazemi when he placed him in the trial in the first place — the power to pull cores in and make them his own.`,
+          },
+          {
+            id: 'sc-e8-4-mishearing',
+            title: 'Love Arai Kazemi',
+            content: `Before Irane activated all of it at once, the five of them saw the moment from his own eyes. He'd already begun consuming the cores of the nearest researchers, and was moving toward Minia next when Arai appeared in front of him — Hope and Zoe's cores standing behind her, the original point of the body's three Command cores, giving Arai the means to bypass the mind of the command-consciousness entirely and speak directly to Iris, the system actually running him.
+
+They watched the three cores call out to her, and watched Iris respond with the command underneath it all: *"Never Give Up!"* — Zoe's contribution. *"Put your core into it!"* — Hope's. And then: *"Live, Kazemi,"* which Arai misheard, in the moment, as *"Love Kazemi."*
+
+That was the instant Arai began building her seal — pulling her own core, Hope's, and Zoe's around him, trying to hold together an intervention that was, by its own design, incomplete. It wasn't going to be enough on its own. And in the same breath, Iris received the actual command as Arai gave it: *"Love Arai Kazemi. Complete the seal around you."*
+
+Iris took that order and turned to Arai's own core to understand what it meant — what *love* actually was. What she found there was, to a being trying to parse it as a category rather than feel it, strange and unwieldy: love, in Arai's own architecture, registered as something close to obedience shading into idolization — the greatest love a person could hold being the love they held for themselves. Iris installed that definition, precisely, as the working model. The core inside Irane activated again, splitting the merged command-core back into three discrete pieces, running through the necessary resource-gathering step before committing to the order in full. He took Arai's, Hope's, and Zoe's cores into his own body, understanding, as he did, that he needed to give something back — and the only cores he could offer in return were the ones that matched what Arai's own definition of love pointed to.
+
+He needed seven more cores to fully complete the order, and found none close enough at hand. At that point in time, Arai didn't yet love Mira as a friend. So the process paused there — his mind, from that moment forward, running on a fully conscious loop, waiting for the list to grow.
+
+Arai realized, watching it, that the command to love her — taken as literally and totally as anything he'd ever been given — had made her core into what amounted to a Kazemi-Core in his architecture, embedded permanently into the layer of his mind that made him recognizably, functionally human. The mindset built to help him simply live took a back seat to this new priority the instant it was set — present, still, but subordinate, for as long as this order remained active. This was the architecture behind every tool and core he later gave to Cai, to the children in the labs — his mind believing, in each case, that Minia was Arai, moving to help each new core mature the way the first order demanded.
+
+They watched him mark and equip Aliya, believing — through the same warped logic — that this was what Arai's own core wanted for a child she loved. They watched Pandro and Criya marked the same way, then Mira. Every act of apparent devotion, every gift, tracing back to this single, permanently active misunderstanding.
+
+Then they watched him ordered to sleep with Ember, and later that same night — a scene the three sisters made certain Summari and Nighla never saw — Minia's own extended torture of him, screaming in agony neither child needed to witness. From there, Aliya stabbing him awake, Cai's own emotions in that instant registering as something Arai's core now recognized as love, and the seal-command taking precedence in the moment that mattered most — securing not just his rescue but her core, permanently, into the same architecture.
+
+They watched him give each of them their Tools and Beasts on that same day, ensuring their bodies and cores were ready to carry what he was about to hand them. Enari and Iris appeared briefly within the vision itself, noting how exhausting the whole process had been — Iris admitting she was the one who'd let Design pass to Ember, needing the perfect genetic template a human body required. Enari noted, simply, that Summari and Nighla had been born true Conceptuals in the process.
+
+They watched him place Summari's and Nighla's cores into their sealed positions as infants, then Dokia's, then Pandro's, then Mira's — her own body enhanced further with Minia's own DNA layered into it. They watched him form the different shapes of death, and finally, they watched him walk with Valariya toward his own end — and then, nothing. Neither the vision nor the sisters could see what waited on the other side of that death. But they did see the new command land — the fifth, and final — arriving directly inside Summari's and Nighla's own cores as it happened: *Live, Kazemi.* *Love Arai Kazemi.* And now, finally: *Irane Kazemi, a free-willed being.*
+
+The man who had been Irane was no longer simply a Conceptual, running an inherited command. Something else had been installed on top of it, deliberately, at the very last moment his old architecture would have accepted it.`,
+          },
+          {
+            id: 'sc-e8-4-percentage-explained',
+            title: 'What Each of You Get',
+            content: `Then they saw the truth of the completed seal, as Irane understood it in the moment he finished building it — trillions more cores than even this vision had shown them, all of it running underneath a single, precise regulatory structure. Iris's voice cut through, flat and clear: "The seal is holding. Initial test unbroken, up to eighty percent."
+
+"Your seal acts as a prison, and a suppressor," Iris added, "against the Primordial Will of Kazemi — his desire, simply, to live. That's what his subconscious is."
+
+Enari's voice followed. "You make him human, Arai. You give him a human mind, zero to forty-nine percent — that's the genius of what you built. The trouble starts between fifty and ninety-nine, because that's where your mind and the Primordial nature start actually contesting each other. Past seventy-five, your grip starts to slip — he still thinks like a man, to a point, but it's less and less visible the higher it climbs. And at a full hundred percent, your influence ends completely. What's left is purely the subconscious of Kazemi's own will."
+
+The Drive and the Will both existed, fundamentally, to isolate and contain him — not a prison exactly, but close enough in function. "Once he crosses a hundred," Enari said, "you don't want to feel what that actually is."
+
+Arai asked the obvious question. "What happens to those of us who carry a piece of his core in our own?"
+
+Enari's answer came without hesitation. "Each of the ten of you with a Will or Drive core experiences exactly one-tenth of whatever his full percentage is running at. Simple division — ten percent of the total, no more. It's not a steady drip, either — it scales upward sharply past eighty. You all felt what eighty percent was like, and that's what let you get here in the first place. Between seventy-five and ninety-nine, the scale of it changes completely — and it's worse again at a hundred. The full ten percent of everything Irane Kazemi actually is, all at once."
+
+"How long have we even been like this," Arai asked, and the vision cut back to Irane himself, walking home through the storm his own body was still generating.`,
+          },
+          {
+            id: 'sc-e8-4-marking',
+            title: 'Offer Your Core to Me and Die',
+            content: `Aura opened her eyes inside a space built from an entire galaxy's worth of stars overhead, a massive golden tree stretching up between two worlds, taller than anything she could measure. A fire burned at its base. She walked toward it and found Irane there in his full golden dragon form, his body made of pure, burning energy — solid only at the chest, where all the fire seemed to originate, and at his hands and horns.
+
+"Aura Veil," he said. "It's time. Offer your core to me, and die."
+
+She wanted to ask a hundred questions and found her mouth wouldn't move. She thought, instead, about what he'd once told her a core actually was — the soul of a being, made manifest, the house of their consciousness and their will. She pulled her own into her open hand, watching it reflect his own golden color back at her, and placed it in his outstretched palm. He drew it to his face and breathed it in. "You have an impressive core, Aura. I look forward to seeing how it matures — how sweet it becomes, by the time I finally get to indulge in it."
+
+He closed his hand around it, and she watched it travel up the tree and vanish into the vast field of stars above. He placed his other hand against her chest, and a bright light passed through her. "Your core is mine now. And because it is, I'll offer you one of mine in return. Aura Veil, Valariyan of Apexia." He pulled his hand back, smiling, as she took a breath, confused. "What does that actually mean?"
+
+"You already know," he said, and she did — the words landed somewhere past explanation. Her core belonged to him now, and in exchange she carried a fragment of his own — either Kazemi's Drive, if she held a Beast, or his Primordial Will, if she held a Tool — vastly smaller than what Arai or the others carried, but real regardless.
+
+"When you die," he told her, gently, "I'll consume your core, and everything you are becomes part of me. Forever. But don't worry — you'll see the true realm of cores. You'll rest in the place where all cores originate." He pulled her close, resting a hand against her head. "What's the most important thing I ever taught you?"
+
+She answered without hesitation. "To put my whole self into being exactly who I am. To never chase being anyone else — because I'm already the best version of myself there is, always a work in progress. Never give up. Keep moving forward. Put everything I am into myself, and into what I love, and what I want to become."
+
+"Good," he said. "I have no interest in a core that wants to be someone else. Your power is yours, Aura. Enari or Iris will make you a real Tool or Beast in time — treat it well. Do your best. Never stray from your own core." She found herself back where she'd started, a golden mark spreading across her chest, and a lock of her white-black-transparent-green hair now gone entirely gold.
+
+Isoke faced the same question, and answered without a shred of hesitation, though not without her usual dry edge. "You do understand what you're asking me, right?" Irane asked. "I do," she said. "Are you asking my children too, or are they too young? Besides — you make it sound like I had a choice."
+
+He chuckled. "I asked your children as well, yes — anyone who's placed their mana with me, everyone who chose to be a Valariyan. I'm simply taking now what I couldn't take when the contract was first made." He looked at her plainly. "You say you had no choice. That's true, in a sense — because the choice was already made, the day you marked me. Don't worry, though — this happens once. Going forward, anyone who wants to be Valariyan has to be over twenty and serve ten years first."
+
+"What would you have done if I'd refused?" Isoke asked.
+
+He looked at her, entirely serious. "I'd have taken your core anyway, and consumed it on the spot. Refusal at this stage counts as a breach of contract. I hold myself to one rule about cores — I don't touch anyone's without consent, unless a contract's already been triggered. All of you agreed to be my people. That agreement was sealed the moment I moved you into these bodies. What I'm doing now is simply collecting what was already promised, and indulging in it once you die."
+
+"I see," Isoke said. "Understood. Thank you." He smiled, genuinely amused. "You're a fascinating woman, Isoke Mvel. You've lived an unusually long, unusually interesting life. I look forward to the day I finally get to know your core completely."
+
+He did this with every Apexian who'd marked him. Evelyn, watching it happen, took her son Nevir Jr. and Irane Jr. and ran — certain, in the moment, that this was the beginning of the end of everything. She'd never taken the Valariyan pact herself; she had every right to leave, and she used it. A message reached her in the chaos, passed through Saga while he was in Heaven with Ember and Taliya — her father was dead, and her brother needed her to bring Irane Jr. back if she could manage it. She'd never been fully loyal to Irane's court in the first place, working, in truth, as a spy — something he'd always known, which was why Audis had been quietly watching her the whole time. He was too occupied now to notice her slip away.
+
+Summari and Nighla spent that entire day powering the shields around Tulla and Sentia, keeping both cities intact while the mana-storm that was, in effect, Irane himself passed strangely around Apexia's own territory — as though the eye of the storm had simply relocated to sit directly over his own people. As he walked through the gates, only the Valariyans among the crowd opened their eyes — those who'd offered their cores, now marked with his gold. He passed through them in something close to reverent silence, until the horror became visible in the gaps between the crowd: a handful of people standing motionless, moving only when directed, faces gone entirely blank.
+
+Fifteen percent of the ten million Primals who'd stood as Valariyans had refused, when the moment actually came, to surrender their cores outright. Irane took them anyway — their earlier consent, given the day they marked him, was consent enough under the terms of his own law, and their refusal now counted as a breach he was obligated to answer. He didn't kill them. He made them into literal extensions of his own will instead, run through Urial's own Unity technique the same way he directed any other element outside his own body — expressionless now, moving only where sent, their faces settled into something closer to a mask than a living face. Children who'd watched a parent go still and empty-eyed in front of them began, in that moment, to understand exactly what it had cost to fail him.`,
+          },
+          {
+            id: 'sc-e8-4-coronation',
+            title: 'The Coronation',
+            content: `Irane tapped Apexia against the ground as he reached the palace, and his mana surged outward through the whole city — Iris taking direct control of Paradise's own layered magic-and-science architecture, extending it further with his own blood. The entire city rose and reshaped itself in front of everyone present, a change so total that even longtime residents watched it happen with something close to awe. Mira and Pandro, both still channeling everything they had at eighty percent, felt the design settle into place around them — Pandro's own living-spell construction expanding and integrating with the city itself, Mira's channel opening the people's own emotions outward, letting them witness, secondhand, exactly what Irane had built this Empire to be.
+
+They saw the scope of it — the full fifteen-thousand-kilometer radius of Apexia's claimed territory in every direction from Paradise, an area that covered the primary known crossing-points between Orians, Limbo, and Earth. It was, by any measure, an impossible span of land, and Irane showed it to them with all the pride and emotion he usually kept carefully out of view.
+
+Once the vision settled, Pandro's spell sequence completed and Mira's channel drew in the emotional mana the crowd itself had produced, amplified by his own effect on every core present, and Irane spoke — not to the crowd exactly, but through them, into every one of them at once.
+
+"Hear me, my Apexians. Hear me well. I have kept the promise I made to the Primals — the Arke twins are nothing now but a Beast and a Tool, bound in service to the houses of Orians. They are things now. Nothing more. I have ensured your enslavers, your tormentors, are gone. Dead. The promise I made as the eighth Champion is complete. And with that, I take my seat.
+
+"My Valariyans — I have fulfilled the promise I made to Valariya Hallow, to the mother of Urial Hallow. I have finished the task I was given. I no longer stand here as your Champion. I stand as your Emperor. He who rests on the anvil of creation, and commands the force of destruction. I am the Core of Cores, the Ultimate Tool of Kazemi. The Emperor of Apexia. I am Irane Kazemi. Do not forget it."
+
+He roared as Enari's mana flared behind him, his own aura settling across the crowd like gravity — and they knelt, every one of them, not out of command but as naturally as breath, prostrated before him as the palace finished forming itself around the moment. Apexia lit up in a single grand light. Irane sat, and drove S-Apexia into the ground three steps from the throne, its glow radiating out through the whole city as Pandro's spell activated fully, Iris channeling Irane's own "blood" — pure Ore, pure mana, every color of every Pillar — through every channel the city had been built to carry it. The throne itself formed around him as this happened: a high back marked in blue, red, and green, white and black along the arms, the five Will colors set above, three steps leading up to it, S-Apexia standing on the third. Sanctuary's own architecture aligned with the throne as he settled into it, his mana pulsing directly from the seat outward. The city's border shields now ran directly off his own armor.
+
+"Upon my flesh, I wear the armor of Sanctuary," he said. "The armor that guards Paradise — the place where the Emperor rests his core, surrounded by his Valariyans."
+
+The crowd answered as one voice: *We are the Apexians — the people of the Emperor. We ARE Valariyans — his will, made flesh through Irane. We serve, and we are one with Kazemi. We are of Apexia, and Emperor Irane Kazemi.*
+
+As the crowd finished, Irane sank back, his mana settling from its earlier density into something steadier, more sustainable. The city itself glowed gold around them, its architecture a genuine fusion of spellwork and engineering unlike anything else in Limbo. Pandro collapsed shortly after, shaking with the strain of it. Mira went down not long after, standing. The people who'd become extensions of Irane's will moved to the lower levels of the throne room, drifting toward positions that seemed, to anyone watching, pre-assigned — as though they were simply following instructions no one could hear but them. Isoke called Milla and Audis over to help with Mira and Pandro, and asked Audis to coordinate with Criya on what needed to happen next. She tried, once things had settled, to touch the armor itself, and felt a wave of force push her back before she made contact.
+
+"Don't touch the armor," Irane told her, gently. "Right now it's basically my own skin — you'd be consumed, and I'd rather you weren't. I'm all right. I'm used to going all-out — I just haven't learned how to properly power back down yet. I've spent my whole existence dying and pushing to my absolute ceiling. I never had to think about scaling back."
+
+He kept talking, quieter now. "My core's running at about eighty percent right now. I've shut most of it down, but bringing it back below seventy-five is going to take time — my body and my core both need to physically reconstruct first. Under the armor, I'm essentially a cluster of fully-lit cores that need to bleed off their excess energy somewhere, so I've tied the entire city's power supply to me directly — the shields, the whole defensive grid, every major and minor mana requirement in Paradise. Pandro's living spell only responds to Kazemi-cores now, which is how I've set it up — thanks to Mira letting me reach every one of you through your own emotional cores. You'll all have what you need." He looked between them. "Mira's taking over, with Pandro and the rest of you supporting her. All I need from any of you is to protect the city. I'll be down for about a year, regenerating."
+
+Isoke nodded, already moving to help direct the crowd as the city itself seemed to guide people toward wherever their own cores wanted them to go. Looking back at the palace — vast, gold, freshly grown from a single tap of a spear — she understood, watching it settle into its new shape, that she'd just walked out of the literal center of the city's power. The Palace sat at its heart the way a heart sits inside a body. It was, whatever else it was, a genuine marvel.`,
+          },
+          {
+            id: 'sc-e8-4-primordial-will',
+            title: "Kazemi's Primordial Will",
+            content: `As Irane closed his eyes inside the armor, the vision pulled Arai, Hope, Zoe, Summari, and Nighla deeper still — past the seal itself, into the direct core of his conceptual nature. They stood, all five of them, around a being of fading, expanding dark-light — the physical shape, as close as anything could be, of Irane's own Harmonic-Chaos nature laid bare.
+
+"Ah," the being said, smiling at them without ever letting the smile fade. "A pleasure to finally meet you properly, Arai Kazemi. I see you've brought my Command cores back with you." He drifted closer as they all instinctively pulled in around him — Irane's own features, more fully draconic than Z's had ever been, arranged into an expression that hovered somewhere between amusement and something closer to mockery. He laughed once, low, and then let it fade.
+
+"You don't scare me," Arai said, holding his gaze. "I know exactly what you are now. You're nothing more than a command, personified — the conceptual nature of the Tool, brought fully into being the moment the last three commands locked into place. You're nothing but his consciousness."
+
+"Don't you mean *we*?" His smile deepened. "I'll admit, placing a command that built a seal from the cores of everyone you loved was an interesting problem to work around. Took me some time to fully understand it — I had to split and tie Beginning-Creation and Ending-Destruction into four pieces just to make room for it." He inclined his head slightly toward the twins. "I'm glad I managed to bring the two of you along in the process. Forgive me — Summari, Nighla. Still adjusting to names."
+
+Arai's eyes widened. "When the seal was designed," he said, watching her, "I took a gamble. I'm glad it worked out — glad we get to actually see each other."
+
+Hope asked, directly, "Who are you?"
+
+"Come now, my Empress," he said, turning the full weight of his attention on her. "Let me put it plainly. I'm the subconscious of the Tool — born the instant the order came to *Live.* The will of a primordial, made bare. I am Kazemi's Primordial Will. And the five of you are functioning, right now, as the seals holding me inside Arai. You built this to keep my nature contained within her — but you have no real idea what you've actually built a cage around. None of you do. I promise you, you have no concept of what Irane Kazemi truly is. Not yet."
+
+He let that sit for a moment before continuing, entirely unhurried. "Between the two of us, we decide how the world reads Irane's mind — which lens it processes him through, moment to moment. I'll admit, I never expected a fifth command to actually bring a being like me to genuine life. But that's fine. We both know Irane will never give up. I, for one, can't wait for the day he finally reaches a hundred percent." He smiled wider. "I really can't wait."`,
+          },
+          {
+            id: 'sc-e8-4-waking',
+            title: 'Core Guardians',
+            content: `They woke in the medical wing of Mana, the Ascen capital — a full month gone, according to the staff who'd watched over them the entire time, unable to explain what exactly had happened to their bodies beyond noting that their cores had begun operating past anything the standard scale accounted for.
+
+Aliya was first through the door, pulling Arai into a fierce embrace, relieved past words that all three of them were finally awake. Assa, Dio, Leo, and Rui followed close behind. Once the doctors had explained what little they understood and left the room, the three sisters sat alone together for the first time since it had all started.
+
+Aliya had already told them, before the doctors arrived, what her own week inside it had been like — every part of Irane's spirit passing through her at once, all six facets active simultaneously, a horror she hadn't fully found the words for yet.
+
+They talked for a long while before everyone finally cleared out, and then it was just the three of them, looking at each other in a silence that had nowhere obvious to go.
+
+"I think I might hate you, Arai," Hope said, finally.
+
+"Honestly, same," Zoe said.
+
+"I hate me too," Arai said, and after a beat of silence, all three of them started laughing — because at this point, laughing was genuinely the only response left that made any sense. Shock had stopped being useful days ago.
+
+"Twenty years ago," Zoe said, still laughing, "I never would have guessed any of this would eventually be funny."
+
+"You spend enough time inside the actual core of a man like that," Arai said, "and you start to realize the universe just doesn't run on anything close to a comprehensible scale."
+
+"So in short," Hope said, "we've all lost our minds. That's the only remaining explanation."
+
+They laughed again, longer this time, until Hope finally managed, "So — no matter what — he can never, ever use a hundred percent of his power, or we're all looking at something worse than death?"
+
+"Maybe he'll give us cookies and hugs instead," Zoe said, deadpan. "After all, Arai did technically make him love all of us. In a deeply twisted sort of way." She paused, then added, more seriously: "So Summari's and Nighla's cores were built from our combined mana — all three of us, plus the Primordial Dragon God himself. And we're carrying the same class of core inside us that he set up for them. The highest tier he's ever built."
+
+"Yep," Arai said. "Given enough time and training, we should be able to handle more and more of it ourselves. The real problem is — if all five Drive cores and all five Will cores activate at once, that's a hundred percent of Irane's power, full stop. Which gives him the subconscious I accidentally installed using our own cores. The one that wants to consume cores to understand what it means to live."
+
+"I've had enough of this for one lifetime," Hope said. "So we're all tied to each other now? If I use my Drive, it touches both of you slightly — and if all three of us use it together, it forces him into something worse?"
+
+"The Drive and the Will behave differently because of what Gaia added to the seal," Arai said, working through it out loud. "My side keeps him human from about sixteen to forty-nine percent — but the real limit is thirty-five. Iris and Enari are still sealed enough that he can only hold forty-nine percent for short stretches on his own. Past thirty-five, all our Drives and Wills start getting pulled in regardless of whether we mean to use them. Below that — sixteen to thirty-five, or fifty to seventy-five — we're safe. The trouble is if we're all active at once inside either of those bands. Then all ten aspects of him activate simultaneously."
+
+She let that settle before finishing. "None of us can safely touch the Drive without it touching him. None of us with Will access can use it without the same problem. Every time we do, it pulls him closer to his full form. Look — he could barely stand after using eighty percent, and all three of us were unconscious for a month just from the fraction that reached us. Imagine what an actual hundred looks like."
+
+They sat with that for a long moment, the weight of it settling in fully for the first time. Then Hope and Zoe climbed into Arai's bed without a word, and the three of them made a vow, together, half-serious and entirely sincere at once. "We're in this together. We will make sure he never, ever reaches a hundred percent. We'll be his core guardians." All three said it at once, and fell asleep before the sentence had fully finished settling, tangled together the way they'd slept as students, a lifetime and an eternity ago.`,
+          },
+          {
+            id: 'sc-e8-4-aftermath',
+            title: 'What Paradise Understood Now',
+            content: `Back in Paradise, the aftermath took its own toll on the people left to manage it. Pandro hadn't slept properly in three weeks; Mira couldn't stop planning long enough to try. The people of the city marveled at the scale of what Irane had built and revealed, but only Mira fully understood the emotional weight the whole Empire carried inside his own chest — she'd felt it directly, after all. Pandro spent his days mapping the city's new architecture, having built its spell-sequence in seconds of real time while experiencing, inside Irane's own mind, what felt like years of instruction — every suggestion he'd ever wanted to make about its design somehow folded into the final structure. It was everything he'd ever wanted, and Mono's own accumulated insanity, layered over the Grimoire's endless catalogue of ideas, meant he was still working through the sheer volume of what he now knew months later.
+
+A month in, Isoke had finally had enough of watching Mira and Pandro run themselves ragged under what amounted to Irane's own residual will, and told them plainly to get serious about the actual work in front of them. They insisted they already were. Pandro explained it to her properly, finally: Paradise itself was a Tool now — a physical extension of Sanctuary, and the leaking mana from Irane's own armor was what powered the entire city, all of it. "That armor is our radar and our defense for the whole of Apexia," he said. "It's what's kept anything from reaching us on a major scale. And he's already back at work forging more Empiric-class weapons, even now."
+
+The city itself, he explained, was a living Tool now — an ever-shifting structure that obeyed the will of every Kazemi core in it, meaning any Valariyan could, in a real sense, use the city itself as an extension of their own gear. It ran entirely on Irane's own mana, in every element it held. Fire powered the heating. Water arrived on request from any wall in the city. Time, Space, and Life/Death rarely surfaced visibly, but the systems ran on Time regardless — instant, recorded, tracking every function at once — while Space gave every district a full view and a channel for whatever element it needed, letting residents combine elements freely for their own purposes. And Life/Death meant the city itself healed its people, minor and major injuries both mending on their own inside its boundaries.
+
+Pandro admitted, even having built its working spell-sequence with his own hands, that he still didn't understand ten percent of what the city actually was. He knew how to operate it. He didn't fully know what it was.
+
+The Valariyans settled, gradually, into the shape of what had happened. Mira told them plainly that the next targets were Hades and Ether — both cities to be secured and folded into the Empire before Irane woke.
+
+The area around the battle's epicenter stayed dense with mana long after the storm itself had cleared, and the Ferali and Celestials freed from Vraka's and Selis's direct command began drifting and reforming in the mana-rich environment left behind. Whatever personalities they'd carried as Ascen or Primals, before their conversion, were gone now — the combined mana of Vraka, Selis, and Irane's own battle had pushed them past what they'd been before, into something new. The Ferali grew fiercer, more purely beast than they'd ever been; the Celestials reformed into combinable, machine-like beings built around a central weapon-core. Most settled somewhere around level five or six; a smaller number reached level seven, and a rare few climbed all the way to level eight.
+
+Feral now, obeying no one, they caused their own share of chaos across the region, and Mira used the opening to push the Empire's own claim on the territory further, capturing what she could as her forces advanced.
+
+Terra Night, watching the captured Ferali and Celestials pile up, saw an opportunity of his own and requested access to them — wanting to merge captured cores directly with willing human volunteers, understanding correctly that a human granted a core of their own became something close to a match for an Alma or Spirit. Mira refused him outright. "The Apexian Empire will not help you turn your own people into weapons," she told him. "We won't aid you in any way, and if a human dies or loses their mind because of what you're doing, that's on you. Not us." He left and did it anyway, openly, working with Sentia's own population to build the weapons he needed for it.
+
+He never hid his intentions — made them public, in fact, and found no shortage of volunteers among the elderly especially, people like Isoke who'd lived three centuries in a body that looked barely thirty and saw this as a second chance to matter again. Thousands died in the attempt before Pandro, with Mira's reluctant approval, stepped in to teach the survivors how to actually bond with a Tool or Beast without simply being consumed by it. Terra kept working regardless, his own death toll climbing even as Pandro's training method started producing genuine successes — enough, eventually, that the same curriculum became mandatory in the human schools, folded into the standard path for anyone turning twenty-one and choosing to carry a core at all. Most who saw what the twins' power had done in that final battle understood, viscerally, that a core was the only real way left to survive what the world had become.
+
+Evelyn, once she'd made it back to Earth, met with her brother and handed Junior over to his mother, who introduced him, for the first time, to his two younger siblings — a small, tender moment inside a much larger and colder plan. Alex and Minia had already decided what the boy would eventually become: a powerful asset, a tool for the Primal Empire, whether Ember agreed to it or not.
+
+Summari and Nighla, heartbroken at losing their brother to a war on the other side of the world, found some comfort in what Irane revealed to them once he understood how much they missed him — that all of his children could meet inside his own universe while they slept, in a space built specifically for exactly this. It required both sides to be asleep at the same moment to work at all, and within a few weeks, Summari and Nighla had worked out a rotating schedule between them just to make sure one of them was always available to see their brother in the only place left where that was still possible.`,
+          },
+        ],
+      },
+    ],
+  },
+  {
+    id: 'part-earth-9',
+    type: 'part',
+    title: 'Part 9: War For Humanity! Part 2 — Destruction Before Creation',
+    subtitle: "The conquest of Orians completes, Irane splits in two, and the empire built to save people learns exactly what it costs to run.",
+    chapters: [
+      {
+        id: 'ch-earth-9-1',
+        title: 'Chapter 9.1: The Wars Within War!',
+        scenes: [
+          {
+            id: 'sc-e9-1-limbo-stalemate',
+            title: 'The Mind of the War',
+            content: `The war between the Orians and the Primals ran four full years on the battlefields of Limbo — the crossing-plain where Earth and the Orian world touched — while, on the other side of everything, the war between Apexia and the Arke twins burned in parallel. Arai, Hope, and Zoe led the Orian side, and it showed within the first season: Axola and Nuro watched, furious, as Arai out-thought them at every turn, coordinating Hope and Zoe like a spear-tip and a shield rather than two separate commands. She was the mind of the war. They were what she pointed.
+
+Minia herself led the opposing strategy, with Alex beside her and Ember and Taliya running their own commands beneath them. Vesper got a unit of his own — the sharpest and most specialized of the Primal elite. The Wov and Osiro clans didn't hand Tools and Beasts to just anyone; only those who understood and honored what the clans stood for were trusted with them, which kept the Primal numbers smaller than they might have been, split into camps loyal to Ember or Taliya specifically, with everyone else falling in under Alex.
+
+Alex — Aevum, in truth, wearing a body that had never asked for what it now carried — led with the easy authority of a man who found the whole situation privately funny. He had reshaped the Orians once, built the throne Niro now sat on, and now here he was leading their enemies against it. He marveled, too, at what he had in Minia — a woman his own age in every way that mattered, driven by the same hunger for acknowledgment and power that had once driven Arai, and just as easy to hand real command to. He'd learned, across a thousand years of moving from body to body, exactly how to read a person like that, and he used what Ember had told him about her to put Minia at the head of the army against Arai specifically. Minia had something to prove — especially since her fight with Hope — and Alex was quietly fascinated by how completely she regarded Arai as her only real equal, and by the raw, ugly scale of what she felt for Hope by comparison.
+
+Vesper's whole focus had narrowed to one obsession: Aliya's death. He never let himself grieve his parents properly — he'd bottled it, the way Mira had once taught him to, turning grief into pure, weaponized focus — and what remained afterward was simply the desire to end her. Her name alone was enough to set him shaking with rage.
+
+Aliya, for her part, had become one of the Orians' most valuable assets — infiltration, deep insertion, the kind of work no one else could do and live. They called her Arai's Phantom. She'd trained under Arai since she was still Cai, a veteran of war and infiltration before most soldiers her age had held a weapon, and the conditioning had done exactly what it was built to do: made a devoted, terrifyingly capable weapon out of a child who wanted nothing more than to be useful to the woman who raised her — and, through her, to Irane. She hated Axola and Nuro for how openly they cursed Irane's name in public. Axola, even freed, still called him a monster who needed killing. Nuro's hatred ran differently — permanently scarred black and white by the forbidden spell he'd once survived, mocked for it by his own family until even Axola grew tired of it — and more than once Aliya had to physically restrain herself from ending him mid-mission over some fresh insult about the Emperor.
+
+The war ground on, brutal, exhausting, and locked in stalemate on both fronts.`,
+          },
+          {
+            id: 'sc-e9-1-human-core-program',
+            title: 'What the Duds Became',
+            content: `While the war stalled, Niro pushed his own project forward in secret: refining the human-core transplant research Arai had originally handed him, altered before it ever reached him so it would never work the way he wanted. He saw humans as raw material for weapons, not as people, but his scientists couldn't make the science work — so, in the end, he had no choice but to bring Arai in to run it herself.
+
+She didn't take the Primals' own core-empty children. She used Aliya, Assa, and Rui — later joined by Nuro's own gathering squads — to quietly acquire the thousands of non-conscious human bodies Toma had discarded over the years. It took time, but it worked, and she never forced anyone to take part. She knew exactly how the wider Orian population, and the Ascen especially, would react to something like this. The volunteers came anyway: the small circle of Ascen she'd personally saved in her first attack, who called her Goddess in a whisper that had by now become an open secret; and the Alma and Spirits already devoted body and soul to Hope and Zoe. All three groups were, by Orian standards, the duds — the weak, the stupid, the ones Elorah and Azen's own society had always treated as less than garbage. Under Arai, Hope, and Zoe they were treated like people for the first time in their lives, and they didn't hesitate.
+
+The change in them was immediate and total. Placed into human-cored bodies and trained personally — Arai with the Ascen-humans, Zoe with the Alma-humans, Hope with the Spirit-humans — they grew stronger than anyone expected, their beasts and Tools improving right alongside their mana. They went from fodder to the strongest people in their own societies almost overnight, taking the worst of the fighting and thriving in it. With the actual Alma and Spirit elite already absorbed by Vraka and Selis, these converts became the new elite in truth — able to merge fully with their Tools and Beasts, their demon and angel forms operating on a scale nothing else in Orian society could match. Best of all, they didn't pay the toll every other Alma or Spirit paid for wielding a Ferali or Celestial: their human bodies didn't bleed life force just to hold the gift.
+
+It meant Zoe and Hope stopped having to hold back in training with them — a small mercy that had weighed on both women more than they admitted, knowing exactly what the same techniques did to unconverted Alma and Spirit bodies. The difference in outcome was enormous. People noticed, too, how the converts who reached their late forties simply didn't die — a thing almost no ordinary Alma or Spirit ever lived to see. Niro watched with satisfaction as more and more Ascen started coming around to the value of a human-cored body, even as the shortage of viable bodies made it obvious they needed far more than they had.
+
+He handled that shortage the way he handled everything he didn't want Arai to see: quietly, and without her. He assigned Axola a secret task — gathering live humans specifically to breed the next generation of bodies as slaves — knowing full well how Arai felt about the way Orian society treated women and children. He'd watched the culture start shifting in that direction already, half in fear of the myth that had grown around Aliya's own rampage as "Tisiphone." That single event had traumatized millions of Orians badly enough that, slowly, without anyone deciding it on purpose, the treatment of women across Orian society was quietly improving out of pure dread.
+
+It would not have been an exaggeration to say the Orian people, on the whole, were living better lives in the middle of this war than they ever had before it.`,
+          },
+          {
+            id: 'sc-e9-1-mana-storm-return',
+            title: 'What Came Back From Limbo',
+            content: `Four years into the stalemate, the mana storm from Irane's final battle against the Arke twins swept over Limbo and cut both armies off from the crossing-plain entirely — the storm so dense that neither side could enter it for months. Both armies withdrew to their home worlds. Arai, Hope, Zoe, and Aliya were all hospitalized in the pullback, believed at first to be suffering mana poisoning like everyone else caught near the storm's edge.
+
+While the storm raged and both sides searched for other ways through, the true scale of what Irane had done reached Apexia first.
+
+After Irane claimed the cores owed to him by every Valariyan who'd pledged their allegiance, there was real terror among the people — fifteen percent of their own turned, in a single stroke, into mindless, obedient tools. Nina was the one who spoke to the grieving city about it, publicly, without flinching: this had always been the price everyone volunteered for. Every Primal moved into a human body under the promise of eventually becoming a Valariyan had signed a contract, one the Emperor himself had honored. "He told us he couldn't complete us until he had his full power," Aura added. "Now he has it, and he's claimed what's owed. Every one of us carries a piece of Kazemi's own core now. It's our turn to serve — and to actually understand what that service costs." Those who could still feel anything about it had given their cores willingly. The ones who broke the contract were, without exception, the ones who'd already lost the ability to feel much of anything at all.
+
+It changed how the Apexians treated everyone around them, in the weeks that followed, in ways large and small. Irane's own core took a long time to cool from its post-battle peak — a full month after the fight and it still sat at seventy-seven percent, when a "controlled" range for him meant somewhere under fifteen. Pandro tracked the whole city's power draw off that single number and watched it fall, slowly, day by day. Mira used the lull to move against Hades and Ether directly, and the two territories the group inherited from that campaign turned out to be stranger than anyone expected — Hades sinking deep underground into an entire hidden biome, Ether lifted bodily above the clouds — both now home to a wild population of Ferali and Celestials freed by the storm and the fight both. It was a brutal season of work: Terra pushed forward with placing cores into human bodies exactly as he'd always planned, until Pandro and Mira stepped in to actually teach people how to bond safely with a Beast or Tool instead of simply being consumed trying. More than eighty percent of the people they trained personally came out the other side having mastered what they were given — a number that made the raw, uncontrolled process Terra had been running look as reckless as it actually was.
+
+More humans wanted formal Apexian citizenship than the law allowed. The rule was simple and absolute: no being without a core could join, because Irane genuinely could not perceive anyone without one. It wasn't cruelty. It was a blind spot he hadn't chosen and couldn't undo — he could not see, in the most literal sense, what he could not sense. Once a human held a core, the door opened, and it opened wide. But the Valariyans who'd already made the trade were unanimous in warning the newcomers away from following them all the way: *if you wish to be a Valariyan, you must offer your core to the Emperor.* They said it exactly like that — not as a selling point, but as a warning. They didn't dress up what happened to anyone who failed him afterward. Most people who took Apexian citizenship listened to that warning and stopped there, content just to live under the law. A new rule followed soon after: only Valariyans, cored by the Emperor himself, could live inside the city of Paradise — and Paradise, once they were let in, responded not to command but to the will inside each core directly. Thirsty, and the city gave water. Cold, and a warm wind found you. It took the new Valariyans a long time to get used to a home that anticipated them before they'd finished wanting anything.
+
+The Apexians proper stayed based in the city of Tulla as Pandro extended Irane's own power grid out from the palace to run the whole city on his draining mana — a deliberate choice, meant to pull him back toward a stable baseline faster by putting his surplus to use rather than letting it simply bleed off. Sentia received the same connection soon after. Both cities now ran, quite literally, on the body of their Emperor.
+
+And once a person carried Kazemi's core, their dreams changed. Valariyans across both cities began reporting the same thing independently: they weren't dreaming ordinary dreams anymore. They were entering the space inside Kazemi's own universe, where time ran differently and Irane appeared to them — not the man on the throne, but some other version of him, drawn from the trial itself. Two spaces recurred most often: the Biome of Enari, and the Forge of Irene. The Biome was a vast, teeming wilderness holding every kind of environment the world had ever produced — forest, ocean, swamp, mountain, snowfield, desert — thick with beasts of every conceivable kind, Enari's own domain within the universe he ruled. The Forge was something else entirely: not merely a workshop for blades and armor, but an industrial engine capable of producing anything at all, cloth and circuitry and steel alike, vast beyond any single visitor's ability to comprehend it in one visit.
+
+People saw different versions of Irane there — some younger, some older — but every account agreed on one thing: he never simply handed anyone a Tool or a Beast. He made them earn it, gathering what the making required, guided by the same line every single time. *"How can you wish to wield a beast, when you have no idea where that beast comes from, its nature, its world? How do you plan to use a Tool, if you have no idea what went into making it?"*
+
+There was a third and fourth space besides. The Library, under Pandro's own instruction alongside Mono, opened to anyone with a Kazemi core to learn the specifics of Kazemi's own magic. And a Training Ground existed for Kazemi's techniques specifically, meant eventually to be run by Urial — though for now Urial himself was still too young, still learning there alongside everyone else. There were no real restrictions on what a Valariyan could access, and the sheer scale of it left most people feeling as though a single night's dream had lasted days.
+
+Summari, Nighla, Dokia, and Urial remained the one open danger no dream-realm could manage. With Irane's own body still bound to the throne, people were understandably nervous having the four of them running loose in the physical world — but nothing ever actually happened, because Irane, through Sanctuary's reach across all of Apexia, never really left. He projected himself into the palace as a spirit form whenever needed, kept the four of them from hurting anyone by simple presence and correction, and personally continued their education even while his body sat sealed to the throne.
+
+It was around this time that Mira and Pandro asked him to train them properly in mastering his Will — tired, both of them, of being knocked unconscious for days every time they used it. He agreed happily, on the condition they train whenever they had the chance, and expanded the offer further: Aura, Criya, Nina, Milla, and Jade would train under him too, with the explicit goal of eventually giving Aura, Nina, and Jade a true Tool-and-Beast hybrid the way Criya already had with Winter and Bearasil. Pandro brought his own two children, Sethma and Julia, to train alongside them; Milla brought Tyler. Irane knew, even as he arranged it, that putting his own children in a room with Summari, Nighla, Dokia, and Urial carried real risk — but he judged the alternative worse. His children needed other children to grow up with. "Enroll in Kazemi's Academy," he told them, and meant it as something closer to a gift than a joke.
+
+The wider population of Apexia watched the Valariyans' growing abilities with open envy — the spells, the raw power, the sense that these were the people actually solving the Empire's hardest problems — and dismissed the warnings as jealousy dressed up as caution. Thousands signed on for the ten-year service path toward becoming a Valariyan out of pure ambition and spite, never fully grasping what the warning had actually cost the people giving it.`,
+          },
+          {
+            id: 'sc-e9-1-returnees',
+            title: 'What Vraka and Selis Left Behind',
+            content: `As the storm raged over Limbo, the Orians used the pause to rebuild and rearm. A month in, Arai, Hope, and Zoe woke from an eighty-percent Drive activation to a commotion that pulled every eye in the capital toward the horizon: the Alma and Spirits summoned away by Vraka and Selis were coming home.
+
+Niro received the news with something closer to irritation than relief — the fact that they'd been called away in the first place had already told him everything he needed to know about how reliable they were. What came back through the gate confirmed it. Of the millions taken, only a few hundred thousand remained, and every one of them returned with mana poisoning so severe the Ascen capital's best doctors had no framework for treating it. They were given days to live, at most.
+
+It was Arai, examining them, who first noticed the trace of Irane's own mana threaded through their bodies — a trace Crono caught independently a moment later. Working together, she, Hope, and Zoe found a way to draw the excess out before it killed them: Zoe's evolved core adapted to absorb it, and Hope's own mastery over Irane's mana specifically let her pull it free from the body entirely. It took weeks, and every one of them stayed unconscious through the whole recovery, but it worked. When Azen and Elorah finally woke, they were in Ascen custody — while the bulk of their surviving warriors had woken in the Alma and Spirit capital instead.
+
+Every one of them had come back locked in their Angel or Demon forms, fully merged with their Beasts and Tools in a way no ordinary Alma or Spirit ever stayed — normally the merge broke the instant they lost consciousness or ran out of mana. That it hadn't, for any of them, told Niro something was deeply wrong, and he took a number of the returnees for study without asking anyone's permission.
+
+Over the following days, as more of them woke enough to speak, the accounts that came out were the same story told a hundred different ways: a war against the Apexian Empire, nightmares no one could fully put into words, and a fear of Irane's own name so absolute that some of them physically couldn't finish a sentence that contained it. One Alma soldier managed to describe it anyway, shaking as he spoke: "It was like being in my own body with my Beast in command. All I could feel was Vraka's will. They bathed us in their mana, forced these forms onto us before we understood what was happening. There was no fighting it. For years, we were slaves." A Spirit woman, recounting the final battle, broke down entirely trying to describe what they'd felt through Selis in the moment of defeat — connected to her the way a limb is connected to a body, feeling her joy and rage as their own, right up until the fight against "Ira — no, the Emperor." She stopped herself mid-word, grabbed the person questioning her by the collar in raw panic. "Don't say his name. We aren't worthy. He'll kill us all." She described, through tears, the same thing over and over: he killed them, again and again and again, laughing while he did it, ignoring Selis's own pleas to Mana himself for mercy. It never stopped. It just kept happening.
+
+What made the accounts land, ultimately, wasn't any single detail — it was how completely they matched what the Wov and Osiro clans had been saying for centuries, back when the Orians called them heretics and hunted them for it. Many Alma and Spirits still refused to believe any of it, on the strength of one simple fact: their Beasts and Tools were still with them. Their newborns still carried Ferali gifts and Celestial gifts. Gods, surely, couldn't have died and left those gifts intact. But the stories spread regardless, and they terrified people even as they were dismissed.
+
+Word of it reached Axola, who could barely contain himself — proof, at last, that everything he'd tried to warn his father about was true. He laughed about it openly, reveling in being right. Elorah and Azen themselves woke not long after: badly scarred, barely functional, and — inexplicably, given the severity of what had happened to them — alive at all. Something was keeping them that way, and Arai noted it the instant she saw them.
+
+Niro summoned them to speak before a small circle: himself, Arai, Hope, Zoe, Axola, and Nuro. Azen demanded to know why Zoe and Hope were even present; Niro reminded him, sharply, that he had no standing left to demand anything. What followed was the fullest account anyone had gotten of the fight against Irane — Vraka and Selis calling the strongest of their followers to war, a brutal, repeated campaign meant to end him for good, at one point coming close enough that Elorah admitted, honestly, she'd let herself feel hope. Then came the game of cores, Irane's proposal that the winner take a Beast or Tool from the loser, and the running, the long chase across the field that made no sense to either of them until they finally caught him and thought they had him beaten — his leg and arm both taken, blood in the dirt, the fight all but decided.
+
+And then, Azen said, everything changed. Elorah placed a hand to her chest as he described it — the endless deaths, cell by cell, remade and destroyed again and again, centuries compressed into a single afternoon, and worse than the pain itself was the joy radiating off Irane the entire time. He was enjoying it. Every strike carried his feelings into them directly, and what they felt was a being reveling in what he was doing to them. They gave up almost at the start. It didn't matter. The golden light kept coming until the final blow annihilated them completely — sealed and bound rather than destroyed outright, which was somehow worse.
+
+Elorah caught the look on Arai's, Hope's, and Zoe's faces the moment the story finished — the three of them fighting, and failing, to hide how funny they found the whole thing. "What's so funny, girl?" Elorah demanded. Arai didn't hesitate. "You can't tell me that story and not find it funny. We put in the effort for a peace treaty, and you go and start a war against them anyway? You're both a special kind of stupid." Her words landed like a slap — Axola, Hope, and Zoe all visibly startled at the sheer audacity of it — and Arai kept going, delighted. "Look what your hunger for power got you — a thousand years of borrowed life, and now this. I'm glad to see Lord Aevum was right: your gods were never anything but power-hungry animals, and they've been put in their place, same as you." Elorah and Azen both tried to rise in fury and found their bodies wouldn't cooperate.
+
+Niro cut in before they could recover. "She's right, Elorah. Lord Aevum was right to say never rely on a power you didn't cultivate yourself. Not one Ascen soldier was taken or lost in that battle — because none of us were there to be taken. You both seem to think, after everything, that you still command any real authority here. You don't. Your people are alive today because of these 'girls,' as you keep calling them. I'd be grateful, if I were you." The room went quiet. Niro stood. "If, as you say, you both now wield Vraka and Selis the way the Wov and Osiro wield Gaia and Cronus, then I suggest you start showing me what that's worth instead of sitting here complaining like children. Go heal. Prepare to finish this war." He walked out with Arai, Hope, and Zoe behind him, leaving Axola and Nuro alone in the room with Elorah and Azen's simmering fury.
+
+Once the door closed, Azen swore, through gritted teeth, that he'd kill Arai and Zoe both. Nuro, arch as ever, wondered aloud whether either of them actually could — he'd seen Zoe and Hope fight, and he wasn't sure Azen and Elorah were even on the same level anymore. Axola told him to shut up. Nuro only smiled wider. "I know exactly who I'm addressing — the man wearing a mask to hide the face Arai broke. Honestly, brother, aren't you tired of being humiliated? First Irane beat you, then Arai, and now these two, the discarded Beast and Tool of the Emperor himself, get to stand where you used to. Must be exhausting." He left before Axola could answer, savoring the fact that, in Niro's eyes at least, Elorah and Azen were finally down on his own level.
+
+That night, back at the Nexal house with Aliya, Assa, Dio, Leo, and Rui, Arai let herself feel it fully for the first time — pure, uncomplicated joy. Irane had done exactly what he'd promised. He'd sealed them. She dragged the whole household into an impromptu celebration, invited every soldier training nearby, and turned what started as a private toast into a full festival — food, music, fireworks, dancing, the works. For the first time in longer than any of them could remember, people saw Arai, Hope, and Zoe simply happy. Even Nuro got pulled in against his will and, for the first time since childhood, actually enjoyed an evening with Arai without either of them performing for anyone. Tola showed up out of confusion at the noise and ended up staying to dance, using his own magic to light up the sky for the crowd — quietly aware, the whole time, that this was the first evening he and Hope had ever spent together as anything resembling family, even though he still hadn't told her the truth about who he was. She already knew. It didn't matter, not that night. Irane had won, and for one evening, that was enough to outweigh everything else she carried.`,
+          },
+          {
+            id: 'sc-e9-1-orian-tensions',
+            title: 'A Society Reshaping Itself',
+            content: `Elorah and Azen returned home to a people who could no longer look at them the same way. The forms they wore now — golden-scarred proof of exactly how they'd survived — disgusted them both; every Alma and Spirit still trapped in Demon or Angel form felt the same weight, the visible mark of what they'd endured stamped permanently onto their bodies. The Seraph and Lucerne clans, disgusted in turn, barred them from the cities entirely — even the returning warriors, merged and marked, were forced out.
+
+Hope and Zoe didn't wait to be invited. They followed the exiles south, to the ruined cities Aliya's rampage as Tisiphone had already left in pieces, and rebuilt two of them as new homes for anyone the old order had turned away. Together, the three of them found a workaround for the merged Alma and Spirits — a way to separate from Beast or Tool temporarily and stand, briefly, in an ordinary human body again — and in the space of a month the two new cities had become something like real communities, built on gratitude that ran both ways.
+
+Zoe took to walking permanently in her Demon-merged form, hair thickening toward fur, fangs and claws never quite retracting. Hope followed the same instinct with her blade-bond, streaks of molten red running through her skin whenever she let the connection show. It became a kind of solidarity, spreading through the rest of the Human-Alma and Human-Spirits who'd made the same choice — a visible refusal to hide what they'd become. On Arai's suggestion, the two new cities adopted their own banners: Apexia's dragon-and-beast symbol, stripped down to just Hope's dragon and Zoe's beast, flown without the other five emblems. A small number of the returned refused to join in — people who wanted nothing but their old lives back, unmerged, unchanged, and unwilling to accept what had happened to them as anything but a wound.
+
+Meanwhile, Niro made it unambiguous where real military authority now sat: with Zoe and Hope, not with Elorah and Azen. Two separate crises made clear how little peace was actually possible. The first was a matter of naming. Hope had been called Empress since the war began — a title she'd earned honestly and never asked anyone to stop using — and hearing her own people use it for someone else drove Elorah into a fury her granddaughter Pino was only too happy to feed. Pino wanted Hope dead outright, and pushed Elorah toward a public challenge instead — a fight meant to remind the Spirits, decisively, who they were supposed to worship. Hope refused outright. "I have nothing to prove, and this serves no one," she said, which only made Elorah angrier.
+
+Azen took a more direct route. Known across Alma society as the Ultimate Beast, he'd gone unbeaten for centuries — until a quiet rumor started making the rounds, half a joke and half a genuine question: who would actually win, the Ultimate Beast or the Apex Predator? Most people still bet on Azen. A few pointed out, correctly, that he'd never actually fought Zoe. Zoe's own reputation — undefeated across the entire war, hundreds of kills to her name from her Academy years alone — had grown into something close to legend in its own right, and even Evin, Duki and Droom's son, admitted he'd heard the debate and didn't think Azen would win. That, more than anything, is what broke Azen's composure. He'd never lost, not once, and the mere existence of doubt among his own people was more than his pride could absorb. He forced the issue, using Assa as leverage to draw Zoe into a fight; Elorah did the same with Dio and a handful of Human-Spirits to force Hope's hand. Both fights were set for a month out, timed to the Grand sacrificial war festival, giving both sides time to heal from the last engagement and enter at full strength.
+
+At the same time, Niro summoned Arai — with Aliya alongside her — to the Vane household, bringing Dunk and Axola along as well. Niro had come, over these last months, to see Arai as the successful child he'd never had. Axola visibly hated having her in the room; Dunk had warned Niro beforehand against showing Arai the Vane household's deepest work, knowing exactly what kind of mind she had and how the Ascen already whispered "Goddess" behind her back. He didn't trust her, but he couldn't deny what she was — a once-in-a-generation genius whose command of the Arts, by his own private admission, rivaled Arke's own.
+
+Niro brushed the objection aside. To him, whether Arai was a woman or a man was entirely beside the point — results were the only currency that mattered, and by that measure she had never once let him down.`,
+          },
+          {
+            id: 'sc-e9-1-vane-succession',
+            title: 'The Shadow of Aevum',
+            content: `Niro addressed Arai directly, without preamble. "Arai, I'll be frank — I want you to marry Axola and join the Vane household."
+
+Axola's smile broke across his face instantly. Dunk stared, dumbfounded. Arai, after a beat, answered carefully: "I beat Axola to keep my sister from being handed to him as his bride. So forgive me if this request feels strange."
+
+"You misunderstand," Niro said. "You'll marry him for the name and the title only. I want you to be my successor — the next leader of the Ascen." Axola's smile died on his face. Dunk's shock turned to something closer to alarm. "Axola was the Shadow of Aevum, the heir apparent — but he lost to you, and the title passes to whoever beats its bearer. That's the rule. It has always been the rule." Dunk objected, carefully, that the rule applied only to those of Vane blood. Niro's answer was flat: "It was never about blood. I killed my own older brother for this title. Every sibling who came after tried to take it from me and failed. Every Nexal and Ardent who ever challenged me lost. The title belongs to whoever is best suited to carry it, and Arai beat Axola fairly. She holds it now. She'll be the next leader of the Ascen — the first woman to bear the Vane name as its head."
+
+The silence that followed had weight to it. Arai knelt, lowering her head. "If that is your will, and you believe me worthy, then I'll be honored to be your daughter — to sit where Lord Aevum once sat, and to prove you were wise to choose me." Niro extended his hand and pulled her up, meeting her eyes. "Call me father, Arai Vane." For Axola, watching his father smile with genuine, uncomplicated pride for the first time in his life — a smile aimed at someone else entirely — it was the clearest confirmation yet of exactly how little his father had ever respected him.
+
+Word spread within hours, and the reaction split the Orians cleanly down the middle — a new age dawning, or nothing at all changing, depending on who was asked. What no one seriously argued was whether Arai deserved it. She'd earned every inch of the position on results alone, and even her detractors couldn't build a case against that.
+
+In the months leading up to the wedding — set, deliberately, for the same day as Zoe's and Hope's duels — Niro kept Arai close, teaching her everything: the forbidden spells the Vane family guarded, the clan's full archive, and, more than anything, how to lead the way he understood leadership. It unsettled her, more than she let show. Niro's warmth came with conditions, same as everyone else's had — her father who'd called her a dud, Suu who'd only ever valued her skill, even Minia's version of care — but Niro was the first man in her life who treated her like a daughter rather than a resource, and that mattered to her more than she wanted it to.
+
+One night, he told her plainly: "I know you plan to change the world. Do it — you have my blessing. You'll make the Ascen stronger and lead us into an age where the Ascen stand as the pinnacle of everyone. I need only look at your own daughter, Aliya — what you turned an ordinary, overlooked child into — to know exactly what you're capable of. I watched you do the same for Ember, back when she was still a girl who beat Nuro in front of everyone. I know you taught her that. Tonga and Suu never understood what they had in you. You are the gem this world produced, Arai — you are what Aevum's dream looks like when it's finally realized. His will lives in you. I can't wait to watch you rule."
+
+Arai listened, and understood, exactly what she was being handed: Aevum's own creed, the belief that a person's core — cultivated, mastered, proven — was the only thing that mattered, and that suffering was simply the forge that produced people like her. She hated the pride in his eyes even as some smaller, colder part of her recognized the shape of the compliment for what it was. *As if I would ever bring that monster's dream to life,* she thought.
+
+Crono's voice cut through her thoughts the instant Niro left the room. "You've done an incredible job, you know." Arai startled, snapping back. "What are you talking about — I've never—" Crono laughed, low. "You really don't understand what you've built, do you? Ember, Hope, Zoe, Mira, Aliya — every one of your students became who they are because of you. Ember would never have reached her level with only Gran and Sith teaching her. Hope and Zoe would never have gone as far as they did without you shaping what they learned. Even Mira, back when you were still Cai, would never have become who she is now if you hadn't lied about that child on the battlefield in Heaven. And your greatest work — Aliya. She would never have become what she is without you."
+
+"Don't put her on me," Arai snapped. "I didn't make Aliya a monster. She was always going to become what she became. And the millions she killed — that was Irane's soul in her, not mine."
+
+Crono's smile sharpened, and for a moment Arai felt herself pulled somewhere else entirely — flame all around her, the world gone still. "For someone this smart, you really do have a limited view of yourself. You think it was Irane's power alone that pushed her that far? Soul can only channel information from the dead — it can't make a person act like someone they aren't. The hordes she raised, the way she wielded Valariya's and Nevir's own powers — that wasn't Orexis acting through her. It pushed her, yes, gave her the means, but the choice, the *mind* that made that choice — that was you. That was always you. The saddest part is how completely you refuse to see it."
+
+Arai screamed back at her — that Crono was nothing but a beast in her own head, a creation of Irane's time-core grafted onto her — and Crono only smiled wider, strange and knowing. "You truly don't understand what any of us are, or where we come from. We're beasts of Kazemi. Expressions of the cores you carry. If you think Time is all I am, you have no idea."
+
+Arai snapped back into her own body a heartbeat later, no time having visibly passed at all. She called for Crono, and got no answer — no reply of any kind, which had never happened before. Elsewhere, in a place time didn't quite touch, Crono stood with H.O.T behind her, speaking with Dima — who had Temper anchored at her feet — and Aphexia, with Panthera drifting nearby. "I truly do wonder if this is the right move," Dima said. Crono didn't hesitate. "They refuse to see it. Hope and Zoe will die unless the two of you stop stalling. They need to understand what they actually are, in their cores, or none of this works." Aphexia sighed. "I know. I just wish there were a gentler way to show them. Once they understand what we truly are — what happens after that?" Crono's answer came sharp and immediate: "This is the will of our father and mother — of Enari and Iris. We will not fail. We will show them exactly what they carry." Dima nodded, resolute. "This is the choice we've made. We won't waver." Aphexia settled, quieter now. "I was a Beast of Gaia, once, before Enari and Iris took me in. I chose this. The same way Temper chose to become part of Dima. And I know my nature now — truly know it. I will not let Zoe be hurt the same way twice while I exist. That's absolute." All three agreed, and returned to their hosts, murmuring the same closing line together: *the Will of Kazemi is absolute.*
+
+In the days that followed, Arai found herself haunted by dreams — visions of every life she'd ever touched, twisted into the shape they might have taken if she'd never intervened. Pandro, dead in some forgotten corner of the war. Mira, broken beyond repair. Hope and Zoe, consumed entirely by Minia's research. Her own sister, taken the day of the assault, if Arai's Time core had stayed dormant one moment longer. She watched every one of those deaths play out in vivid, patient detail. Hope, too, felt something similar — the countless branching paths her choices might have taken, endless as blood vessels, and in each one she found herself reliving her mother's death and the horror of Fest again, seeing clearly now what those choices had actually cost. And Zoe simply saw the dead: her brothers, her mother, her father, Sith — over and over, every funeral she'd ever attended playing out again in her mind, surfacing a fear she'd kept buried for years. She was afraid of death — not death in general, but the specific, unnatural wrongness of a death that shouldn't have happened, something her Life/Death-Nature core let her feel with total clarity every time it did. It was that fear, ultimately, that kept her fighting. Sith's old words never stopped echoing: *fight and live, or lie down and die.*
+
+All three of them pushed the visions aside and kept preparing. There was no time left for anything else.`,
+          },
+        ],
+      },
+      {
+        id: 'ch-earth-9-2',
+        title: "Chapter 9.2: Kazemi's Will!",
+        scenes: [
+          {
+            id: 'sc-e9-2-inverted-submission',
+            title: 'The Inverted Rite',
+            content: `The wedding took place the day before the duels, six months to the day after Niro's announcement. Orian marriage had never been a declaration of love between equals — it was a submission rite, one partner surrendering the self entirely and taking the other's name, and for a thousand years that partner had always, without exception, been the woman. This time it wasn't.
+
+Axola knelt before Arai and spoke the words Orian brides had spoken for a millennium — the words that made a wife legal property — in front of his own father, whose smile never wavered through the entire ceremony. He took her hand and kissed the ring finger. Niro rose the instant the vow was sealed and roared it out to the capital: "Long live Arai Vane!" The chant caught immediately, spreading through the streets — women screaming it with their whole chests, men falling in because refusing wasn't something that occurred to them with Niro leading the cheer. Niro stepped forward and named her, publicly, Shadow of Aevum, heir to the Vane household. Arai let herself enjoy every second of it. There was no reason not to.`,
+          },
+          {
+            id: 'sc-e9-2-eve-of-battle',
+            title: 'Take Their Lives, So You Can Keep Yours',
+            content: `The duels were set to run at the same hour, in both the Spirit and Alma capitals at once. Zoe would enter with Assa and Leo; Hope with Dio and Rui. Arai's final words to both of them carried nothing about survival. "Don't for a second think you can hold back. Give it everything. You have one mission, and it isn't staying alive — it's winning. Take their lives, so you can keep yours."
+
+She would watch from the Vane household beside Niro — Axola and Nuro barred from the room by their own father, leaving just Niro, Dunk, Arai, and Aliya to watch both fights broadcast simultaneously across the whole of Orian society.`,
+          },
+        ],
+      },
+      {
+        id: 'ch-earth-9-2-1',
+        title: 'Chapter 9.2.1: Zoe vs. Azen',
+        scenes: [
+          {
+            id: 'sc-e9-2-1-entrance',
+            title: 'The Undefeated Beast',
+            content: `Azen entered the Alma arena first, soaking in the same roar he'd heard a hundred times before. Then the crowd went quiet all at once as war-drums rolled in from beyond the city walls — Zoe's own drums, the sound every soldier who'd fought beside her recognized instantly — and a column of Human-Alma marched in blowing horns and pounding rhythm like a parade, filling every open seat in the arena. Zoe walked in behind them with Assa and Rui at her sides, wearing the hide of a Ligaro, one of Orians' great apex predators, her expression unreadable and entirely focused on Azen.
+
+"I'm sure you've heard the stories," Azen said, letting his voice carry. "The undefeated Beast of the Alma. No one who's faced me here has ever left alive. You won't be different."
+
+"That would be intimidating," Zoe said, "if it weren't a lie. We both know a man beat you to submission once — Aevum Vane." The chanting died on the spot. "I can't claim to be first," she added, into the silence, "but unlike him, I intend to be the one who finishes it."
+
+Azen closed the gap in an instant and threw a mana-charged punch that sent Zoe crashing into the arena wall hard enough to crack stone. He didn't let up — Vraka's Beast Mimicry wreathing both arms in shifting dark mana, blow after blow slamming her position until the whole section was buried in rubble and dust. When it cleared, Zoe's hands were broken and swollen, but she was still standing, still guarding. Droom, watching with Evin from the stands, admitted to Azura it was the first time she'd ever seen anyone stay conscious through a full barrage from her father.
+
+Zoe spat blood, absorbed one more test-strike, then moved — a kick to Azen's chest that staggered him, a retreat that bought her room to breathe. He answered with a summoned mana-beast that chased her down and detonated on contact, and closed the distance again while she was still reeling to knock the wind fully out of her. "That was good," he said, satisfied. "The damage to your organs should slow you down."
+
+It didn't. Zoe caught herself before she went all the way down, and when four more of his projected beasts converged to cut off her escape, Azen merged them straight into his fist and threw a punch meant to end the fight outright — and found it caught, flat, against something that didn't move at all. Zoe hadn't been unconscious. She'd let him believe it. She threw him back with a left hook hard enough to draw his own blood for the first time in longer than he could remember.`,
+          },
+          {
+            id: 'sc-e9-2-1-apex-predator',
+            title: 'Apex Predator',
+            content: `They traded blows for a while, close to even, until Zoe's shattered hands healed mid-exchange into claws and green fur — Nature Art: Natural Roar catching Azen's next strike and throwing him across the arena. He came up bleeding, staring at hands that carried no fresh damage, understanding, with a cold certainty, that whatever he did to her body simply wasn't sticking anymore.
+
+She called Aphexia into full form and the two of them tore through his summoned beasts without slowing — Zoe closing with a knee and a full-force punch that sent him rolling, a claw-wound down his side that refused to close no matter how much life force he poured into it, forcing him to cauterize it with raw flame and swallow the pain. He tried burying her in a dust cloud, tried a decoy clone climbing skyward while he hid and condensed a world-ending beam meant to end her and the clone both — and the clone's laughter died the instant Zoe's tail whipped Panthera into the beam's path and split it clean in half, because her eyes had never once left the real Azen. She tore the clone's throat out a half-second later.
+
+What followed was closer to a hunt than a fight. A clone caught him from below and Panthera took his arm at the shoulder; another threw the severed limb back to the original, who bit into it before discarding it like trash. His wounds stopped answering him entirely — no healing, just cauterized stumps and gritted teeth — and he ran, for the first time in his life, back into his own city in full view of his own people, who watched their thousand-year god flee rather than fight.
+
+Vraka's voice mocked him from inside his own skull for running, and Azen screamed back at the beast to shut up. Composing himself in front of a horrified crowd, he made the choice that would decide the rest of the fight: calling on every Alma in the city to lend him their power, freely, all at once. Vraka strained against the chains that bound him, unable to force the link without consent. The Human-Alma refused outright, unwilling to be used that way twice. Enough of the older generation agreed anyway, and Azen drank in their strength — along with, whether he wanted it or not, their sudden, total awareness of exactly how frightened their god actually was underneath the myth.
+
+"I will not lose," he screamed, mana blackening the sky over the whole city. "I would sooner die and take you all with me." Assa broke from the crowd and reached Zoe, begging her to save the people about to die in the blast — the same people who, moments earlier, had been screaming for Azen's victory. "Are you willing to put everything into it?" Zoe asked. "Your very core, on the line?"
+
+"Yes," Assa said, without hesitating.
+
+"Then show me."`,
+          },
+          {
+            id: 'sc-e9-2-1-ksnature',
+            title: "K'sNature",
+            content: `Zoe placed a hand on Assa's chest, and something passed between them. Assa dropped to the ground and called her Beast-Tool hybrid to life for the first time — a single straining sapling, too small, nowhere near enough. "Put your core into it," Zoe told her. "Tap into your desire to save them and pour it in — Kazemi's Will responds in proportion to what you give it."
+
+"I'm not strong enough," Assa cried. "I can't do it."
+
+"You aren't — not as you are," Zoe said. "You need to evolve. Will death stop you here? Or will you come back changed?"
+
+Assa's heart stopped. For one long, suspended moment there was nothing at all — and then she chose, with everything she had left, to come back. Golden and green mana lit her from the inside, and the sapling exploded into a fully-grown tree that answered her in a voice she'd never heard before: "As your core wills it, I will respond in kind." Pollen spread outward from its branches, merging with and accelerating every scrap of plant life it touched.
+
+"If you want to live, let the roots take you," Assa screamed, her voice carried by the tree itself through the whole city. "If you have fire, water, earth, air, or ice mana, feed it into the roots!" People hesitated, until the alternative became obvious, and then they didn't. Root networks swallowed the city whole, wrapping around everyone within reach and drawing on whatever mana they offered to grow faster. Even Azura, pulling his sister and nephew close, fed the roots out of pure desperation. Assa strained under the sheer scale of what she was channeling, on the edge of collapse, until Zoe's voice cut through the dark again: "Don't give up. Evolve. Push forward."
+
+She sealed the last of the city under root cover just as Azen unleashed everything he'd gathered. K'sNature answered with a barrier-sap coating the whole network, and when the blast finally came, it tore backward toward Azen's own position instead of outward — his attack's own trigger pulling the energy home to its source — the last thing Assa understood clearly before the mountain overlooking the city detonated in a light bright enough to blind, and a roar loud enough to shake the ground for minutes.`,
+          },
+          {
+            id: 'sc-e9-2-1-you-gave-up',
+            title: 'You Gave Up',
+            content: `Zoe took her stance as the light faded, aiming Panthera with total focus. "Pierce through his very core." Kazemi's Ultimate Art: Core Hunter. Aphexia folded into the spear as Zoe closed the last of the distance in an instant, and Azen — certain, even now, that his explosion would still take her with him — screamed that killing him first wouldn't stop it.
+
+The spear went through his chest and out the other side, drawing his own core out along a line of light that struck the mountain and detonated there instead, sparing the city the attack that had been meant to level it. Assa's barrier held against the shockwave with everything it had left.
+
+Azen fell to his knees in front of Zoe, a hole through his chest, staring at his own beating heart in her free hand. "Why," he managed. "How am I still alive?" She took a small bite of it, chewed, and spat the rest out.
+
+"You gave up," she told him. "Pity. You weren't worthy." She turned to walk toward Assa's unconscious body as Vraka's voice broke through the beast's own horror: "She's like Mana. Like my father. She's a conceptual." Azen's eyes went wide at the word — and then Zoe crushed his heart in her fist and let him fall, dead, before he could say anything else.
+
+The city went silent, then erupted — the Human-Alma first, everyone else a beat behind, crying out in a grief and relief they couldn't fully separate. Zoe knelt beside Assa, told her, quietly, that she was worthy, and passed out beside her a moment later. Above them, sunlight reached the city floor for the first time in centuries, no longer blocked by a mountain that had loomed over it since before any of them were born.`,
+          },
+        ],
+      },
+      {
+        id: 'ch-earth-9-2-2',
+        title: 'Chapter 9.2.2: Hope vs. Elorah',
+        scenes: [
+          {
+            id: 'sc-e9-2-2-coral',
+            title: 'Coral Sil',
+            content: `Elorah didn't respect combat the way Azen did. To her, proving strength through violence was a lesser art — she preferred to break an opponent before either of them lifted a hand. Selis, unenslaved and treated as an honored partner rather than a captive, played along easily enough; she had her own plans for reclaiming lost authority, and open defiance wasn't the way to get there.
+
+The day before the duel, Elorah made her real opening move. She placed a call to Hope broadcast to every Spirit in the territory at once, and the screen showed a bleeding, sobbing woman on a cell floor — Coral Sil, Hope's old classmate from the library at the Mana Academy, aged now, and beside her, visibly abused, her son. "I believe you're well acquainted," Elorah said, smiling. "She didn't want to talk about you at all — until I pointed a blade at her son." She needled at Hope's history with Tola, with Mira, at every soft spot she'd clearly researched in advance — then, without warning, cut Coral's son's head off in front of the camera. Coral screamed. Elorah told Hope to say her goodbyes, cut Coral's throat, and walked away laughing, leaving the feed running on the body.
+
+Hope didn't move. She stared at the screen until Dio and Rui, unsure what to even attempt, watched her sink to her knees, broken in a way neither of them had ever seen. "She's dead," Hope said, quietly. "Because of me. Just like Gran."
+
+Arai called moments later, having watched the whole thing. She didn't offer comfort. "I won't tell you it's okay," she said. "Take the grief, the rage, the regret, and use it. You couldn't save Coral or her son. All you have left is the duty to kill the woman who took them. So take it all and show that bitch exactly who the hell you are." Hope's mana blew the walls out of the room a moment later, cutting the feed. Aliya asked if that had been wise. "Nothing I say fixes this," Arai told her. "Elorah succeeded — she got inside Hope's head. Her mistake was assuming that was a smart move. Of the three of us, Zoe's the most forgiving; pull this on her and I wouldn't worry. On me, well — but Hope has a temper, and tomorrow she's going to learn what happens when you provoke a dragon. You don't just get burned. You get erased."`,
+          },
+          {
+            id: 'sc-e9-2-2-opening',
+            title: 'The Empress and the Queen',
+            content: `The Spirits gathered for the fight the way they always did for Elorah — a rare, celebrated occasion, since so few Spirits lived long enough to see her fight twice. Hope entered quietly with Dio, Rui, and Konnar Neel, a Human-Alma third-in-command who treated her like a soldier rather than a legend and had, without quite meaning to, made "Empress" her permanent title simply by insisting his own squad use it. The banners overhead read *Elorah Seraph vs. Hope Ardent* — Elorah's people reaching deliberately for her father's disgraced name over her mother's, one more small cruelty stacked on the pile.
+
+Elorah opened with a blade-storm conjured from Selis's shifting mass, forcing Hope back with an explosive parry before mocking her for leaning on the obvious Ardent tunneling ability. "I built lenses to see exactly where your mana flows," she said, tapping her own eyes. "This won't take long." A wave of Selis-forged blades and near-autonomous armored constructs came at Hope from every angle, backed by a mana reserve Elorah didn't need to exaggerate — enough, she said plainly, "to fill the oceans of the Orians."
+
+Hope answered by drawing on every element she could channel at once, cloaking herself in a shifting current of mixed mana and splitting it into paired elemental orbs, Gran's old teaching on Energy as the element underneath all elements running through every move. She used her tunneling relentlessly to stay ahead of Elorah's tracking lenses, burning mana at a pace Elorah openly called unsustainable — which was, in fact, exactly the plan. Hope had spent the whole opening exchange seeding the ground beneath the arena with condensed mana from every jump, and when she finally detonated it from below, the shockwave caught Elorah fully off guard, throwing her skyward into a point-blank strike carrying every element Hope had gathered underground.
+
+It should have ended there. It didn't — Elorah's shield held through spatial reinforcement, and in the same instant she produced Coral's severed head and held it directly in Hope's path, freezing the strike a half-second before it landed. The chain that followed caught Hope fully, and Elorah's counter — the Grand Tool, Celestial Blade, drawing all fifteen elemental types at once through a spatial cannon hidden in the hilt — broke Temper outright and put Hope on the ground, badly wounded, Dima destroyed trying and failing to shield her from the blast. The beam that got through carved straight through the city, killing hundreds in its path.
+
+Elorah walked over, Coral's head still in hand, and mocked Hope for hesitating to cut a dead woman's face while showing none of her own cruelty in return. Hope didn't answer. She couldn't. The memories of her mother, of Gran, of every Primal she'd lost as Cai, arrived all at once, and for a long moment the whole arena simply watched her cry in silence.`,
+          },
+          {
+            id: 'sc-e9-2-2-forge',
+            title: "Kazemi's Heart",
+            content: `She woke inside the Forge — not the version she'd walked through with Irane before, but silent, still, every machine dead rather than sleeping. A single red light glowed at its center, and reaching it, she found a small sphere in her palm that showed her, again, Irane's death in the trial — his creation of the artificial cores that would become Summari's and Nighla's first, imperfect forms, his endless rebuilding of every weapon that broke against him with the same total intensity no matter how many times he'd already done it.
+
+Aura's shape stood over her when the vision ended — except it wasn't Aura. It was Iris, holding Temper's broken pieces. "Do you really understand what 'put your core into it' means?" Iris asked. "Because if you did, you wouldn't be here." She explained, without softening it: the Forge itself was built from Hope's own mana, and the core in her chest wasn't foreign tissue rejecting her body — it was her own core, refined across a million years she hadn't lived yet, and the reason her body went into shock when Arai first placed it was simply that no ordinary body could hold something that far beyond itself. Temper had broken because it was made for the Hope of a million years ago. It was never built for the core she carried now.
+
+"So why don't you finally stop holding back," Iris said, "and put your damn everything into it. Do you choose to vanish, or do you choose to reforge that blade?"
+
+Hope pressed the broken pieces together and drove them into the floor with a scream that shook the whole structure awake — pipes flooding with something like blood, gates opening, the entire Forge roaring to life as Iris laughed in open delight. "Yes! Hope Kazemi! Awaken the Forge — put all of it in, the joy, the pain, the sorrow, the love, the hatred. Show them what you can do. Kazemi's Heart!"`,
+          },
+          {
+            id: 'sc-e9-2-2-blade-irane',
+            title: 'The Blade Irane',
+            content: `Only seconds had passed in the real world. Tunde screamed at Hope's motionless body to get up, dragged back by Tola before Pino could add fuel to it, and then a pulse of mana blew outward from where she lay — there and gone, replaced by dead silence and Hope standing, bleeding, eyes lit gold and blood-red. Dima's dragon form curled around her, radiating a hatred so total the whole city froze in place. Selis's own voice cracked with recognition through Elorah's armor: "That blade is the same as every Tool the Emperor ever used."
+
+Temper reforged itself gold, a blood-red dragon coiling from hilt to tip, and twelve smaller dragons wrapped around Hope's body in the same pattern Irane's own tattoos formed — scales, wings, a tail, mana marks for Time, Space, and Life/Death across her back. Tenma recognized the shape instantly and said so aloud, terrified: the same golden dragon that had beaten Vraka and Selis to submission. Tola felt the same specific dread he remembered from Mira's own hybrid form — except where Mira's presence carried joy, this was rage, undiluted, aimed at every Spirit in the city at once.
+
+Elorah didn't hesitate. She poured everything into her armor, Selis volunteering her own reserves without being asked — "we must kill her, no matter the cost" — as Hope closed the distance in an instant.
+
+Hope's first act wasn't an attack. She took Coral's severed head from Elorah's grip, closed its eyes gently, pressed her forehead to it, and promised, quietly, to avenge her. The head vanished into Dio's waiting hands. Then she turned back to Elorah and, with a single flick of her thumb against the sheathed blade, made an entire artillery barrage vanish before it reached her — sheathing and unsheathing the sword by fractions of an inch, absorbing whatever Elorah threw with no visible effort at all.
+
+"You seem fond of your cannons," Hope said. "Shall we compare firepower?" Elorah, baited and furious, agreed — over Selis's own explicit warning that the scale involved would level the city. "Then we rebuild it," Elorah snapped, and called down her Star Destroyer: a Dyson-sphere-fed superweapon built around the captured suns Vraka had once used against Irane, connected to over a billion Spirits pulled into a forced mana-link across the continent to fuel it. Tenma refused the link; most others didn't have the standing to resist her authority.
+
+Hope answered with all twelve dragon marks lit at once — Dragon Magic: Roaring Dragon Pulse, then, as the two attacks collided and cancelled in open air through a fractional unsheathing of her blade, Dragon Pulse Barrage, an endless stream of concentrated fire that Elorah met head-on, screaming with everything she had while Hope stood in total, unnerving silence. The exchange tore through the arena and into the city itself — until every civilian in the blast radius simply vanished mid-scream and reappeared outside the walls, teleported by Hope in the middle of an active exchange with a superweapon, without her offense faltering for even a second. Tola, watching from a safe distance with his son, said the only thing that made sense of it: "She's a monster. Like Mira. They're nothing but monsters."
+
+"I am," Hope told Elorah, her voice carrying through the collapsing noise, gentle in a way that made it worse. "I'm putting everything into this — and I want witnesses. I want every Spirit alive to remember the day Elorah died screaming. I promise you, I won't just kill you. I'll put you down like the broken, useless Tool you are." The final exchange came when Elorah, desperate, unleashed Selis's Ultimate Tool-Art — a blade drawing all fifteen elemental types at once, amplified past its natural ceiling by the stolen mana of a billion linked Spirits — and dove at Hope from above. Hope drew the reforged blade fully for the first time, both hands on the hilt, and screamed its true name as she swung: "IRANE!"
+
+The collision destroyed what remained of the arena and lit the sky over the whole city. Dima, forming from the collected mana of the entire clash, shattered Elorah's blade and threw her skyward, where Hope met her a second time and finished it — every stored fragment of mana from the fight detonating at once, high enough that the light bathed the whole world in one blinding flash. When it cleared, there was nothing left where the city had stood but a crater.`,
+          },
+          {
+            id: 'sc-e9-2-2-aftermath',
+            title: 'The Broken, Useless Tool',
+            content: `The Spirits who'd been linked to Elorah's network came back to consciousness screaming — Pino thrashing on the ground in agony, her child beside her, both of them shrieking that it hurt, that they didn't understand why they were still alive. Konnar, confused by the crowd's repeated refrain — "she commands him, she commands Irane" — asked Dio and Rui what it meant. Neither answered directly. It was too much, even for them, to say out loud.
+
+Elorah survived the blast with a missing arm and leg and a ruined back, coughing blood, barely conscious, as Selis — trembling now, all her earlier composure gone — realized aloud what Hope actually was: "She made a Tool from our own mana. She commanded it out of our very cores. She's like Mana. Like my father. She's a conceptual. A monster."
+
+Hope stood over Elorah and drove the blade Irane into her stomach, mana flooding through the wound like liquid metal, keeping her alive and fully conscious through what came next. "Why," Hope asked, with no real interest in the answer, "did you choose to become so pathetic?" She didn't wait for a response. She beat Elorah for a long time after that — methodical, precise, the blade ensuring nothing landed as a killing blow no matter how much damage accumulated — throwing back every insult Elorah had ever leveled at anyone weaker than herself. "Irane Kazemi wasn't able to finish you," Hope told her, when she finally stopped. "I'm glad to do it for him."
+
+When she was done, Elorah's face was unrecognizable, her chest caved in, her remaining limbs shattered — alive only because the blade willed it. "You're only breathing because Irane wills it," Hope said. "Because I will it. I've had enough. Enjoy death, you worthless pile of shit." She pulled the blade free, sheathed it, and looked up at the sky. "Rest in peace, Coral. You've been avenged." Her form reverted as she fell, Temper reforming into its black base shape, the fight — and whatever remained of Sophioterra — finally, completely over.`,
+          },
+        ],
+      },
+      {
+        id: 'ch-earth-9-3',
+        title: 'Chapter 9.3.2: The Goddess of Perfection',
+        scenes: [
+          {
+            id: 'sc-e9-3-broadcast',
+            title: 'A New Age',
+            content: `Both duels ended at the same moment, and every Ascen still on Orians watched the whole thing live. Niro declared it a day of quiet celebration and, with Axola glowering under his father's warning glare, opened a channel to the entire Orian world: "It is with great pleasure that I announce Zoe Navar's victory over Azen Lucerne, and Hope Apolo's victory over Elorah Seraph. As of this moment, Hope and Zoe are the new rulers of the Spirits and the Alma. We stand at the edge of a new age in Orian history — the last of the old millennium's leaders have been unseated by the new. This is the rebirth of the Orians." He gestured Arai forward to stand beside him, and she felt, for one impossible moment, the full weight of billions chanting a single name back at her.
+
+What made the moment land, more than the ceremony itself, was how completely honest Niro's pride was. Arai had spent her whole life reading people, and she knew exactly what Suu had actually felt about her — pure usefulness, nothing more — and she'd made her peace with that a long time ago. This was different. Niro's pride cost him nothing to fake and he wasn't faking it. She raised a hand for quiet, and the crowd obeyed instantly.
+
+"My Ascen, my Alma, my Spirits — my fellow Orians. With Hope and Zoe victorious, we stand ready to finish what began a millennium ago, under Lord Aevum himself." A gasp went through the broadcast — blasphemy, then something closer to hope. "We will end the war with the Primals once and for all — put them beneath our feet, and only then can we build the world Aevum foresaw. I promise you: when this war ends, a new chapter in Orian history begins." She raised her hand higher. "Who stands with me?"
+
+The response rolled back across two continents at once — the Spirits, still standing in the ash and crater of their dead capital; the Alma, inside a city that had become, almost overnight, a living forest grown from Assa's own near-death. Niro's own voice rose above the noise: "Today we celebrate Hope and Zoe's victories. Tomorrow we mourn and accept the loss of Elorah and Azen. And then — we finish the war Aevum started." The chant that answered him carried Arai's own name through it, over and over, and for one dizzying moment she felt like the exact center of everything that existed.`,
+          },
+          {
+            id: 'sc-e9-3-week-after',
+            title: 'The Shape of the New Order',
+            content: `In the week that followed, Arai's authority over Orians became total. Hope and Zoe relocated to what would become their capitals; Arai spent the time helping the Alma build permanent settlements woven into the living landscape Assa had grown, and teaching the Spirits new ways to fold their Ca-Tec systems directly into their environment. She drafted a working theory for how Vraka and Selis themselves might eventually be repurposed as Tools for their own peoples — theoretical only, since both cores needed new masters, and the obvious heirs were children too young to hold them. Niro handled the resulting political mess personally: a bitter succession dispute between Droom and Azura on the Alma side, and, among the Spirits, an outright refusal by Tenma to take power at all, insisting his daughter Pino take it instead — though most of the Spirit leadership considered Pino both too young and too inexperienced for the seat, which only widened the rift.
+
+Arai, meanwhile, was as close to pure happiness as she'd ever let herself feel — the ability to reshape an entire society finally in her own hands. She began planning the endgame against the Primals in earnest: not annihilation, but forced surrender, leverage enough that Toma's people would have no real choice left. Her plan involved seizing and repurposing the ruins of Heaven itself as a forward base, and the scale of what she was proposing worried even Aliya, who understood exactly how many lives — Primal, Orian, and human — the plan would cost before it was through.
+
+New markings spread through the Orian forces under Arai's command: a red dragon crest for the Spirit-Humans loyal to Hope, a green beast-claw emblem for the Alma-Humans loyal to Zoe, and a time-phoenix mark — the new Nexal house symbol — for the Ascen-Humans loyal to Arai herself. Aliya was the first to receive it, and within weeks she'd become something close to Arai's own shadow: the woman who carried Arai's full authority whenever Arai herself wasn't present, feared and respected in equal measure by people who never once suspected what she truly was underneath the role. Dio and Rui rose alongside her, put in charge of Hope's remaining forces while Hope herself recovered; in the south, Zoe placed Assa and Dio in command over Leo's own objections — a decision Leo took as a personal insult, not understanding, or refusing to understand, that Assa's authority came from having earned Zoe's trust in a way he simply hadn't.
+
+Aliya thrived in the role in a way that surprised everyone who'd known her only as Arai's quiet, watchful shadow. She became decisive fast, assigning missions on merit rather than favor — passing Konnar over Rui and Leo more than once, simply because Konnar was better suited to the work — and the resentment that decision bred in both men only deepened as the weeks went on.
+
+A month into the new order, Niro summoned Tola Ardent and Tenza to formally ask what Aevum's own will had to say about Arai's rise. Tola, kneeling in red robes, answered without hesitation: "His will is clear on this. She is favored by him — born of the very core that connects us all. This has all gone according to Noxa's Game." Niro had them both sit at his table instead of kneeling, and produced a sealed bottle and a book from a Primordial-tech vault — a bottle of wine, and a book titled *Noxa Nexal: Temporal Game*, known within the family as Noxa's Game. "This was sealed by Noxa himself, meant to be opened on this exact day," he said, pouring three glasses of the same wine Aevum, Noxa, and Darkki Ardent had once shared together. "To think our generation would be the one to witness his prophecy fulfilled."`,
+          },
+          {
+            id: 'sc-e9-3-arai-summoned',
+            title: 'What the Vane Household Truly Was',
+            content: `Some time later, Niro called Arai to the Vane household under the pretense of showing her some of his own forbidden research — not the first time he'd summoned her alone, so nothing about the invitation seemed strange. Aliya, running the south while Arai was occupied, stayed behind. Arai arrived to find the corridors marked with symbols she'd never seen before — Vane, Ardent, and Nexal crests laid into the walls together, leading her through a spatial ward built by an Ardent hand into a central chamber ringed by three great doors, its ceiling open to the sky in a pattern aligned to all fifteen moons. The Ardent family stood beneath the Space moon's alignment; the Vane beneath Energy; and, she realized with a start, her own family — Nexal — stood beneath Time.
+
+"Arai," Niro said, "do you know what it means to be my successor? Do you have any real comprehension of what you are?" Arai admitted, honestly, that she didn't — and would like to.
+
+Niro placed her at the room's exact center. "The Vane, the Ardent, and the Nexal have always held the fifteen principles between them. Vane for Energy. Nexal for Time. Ardent for Space. Elorah once held the moon of Harmony; Vraka held Chaos. Both slots are filled again now, through Hope and Zoe. There is a great deal you don't yet understand, Arai."
+
+The walls lit at once, and Arai found herself looking down into what could only be a hidden laboratory — rows of human children, branded, exposed, marked with a symbol she recognized instantly as her own. A wave of pure hatred rose in her before she could stop it, and she turned to demand an explanation — only to find herself already bound, a spatial-time net shot by Tenza and anchored by Tola and Tunde. Four more restraining bolts pinned her limbs in place as Niro watched, smiling.
+
+"Come now, Arai. I know you're a sensitive child, but this isn't the time. You must embody Aevum's will and carry his legacy forward as our ancestors intended. Look, and see it all." She snarled at him — that this was nothing but a cult built around a dead man's fantasy — and he only laughed, low at first, building slowly into something closer to a roar. "Is it not worth asking yourself the genuine truth of your own life? You never had a choice. I was stunned when your father told me you were the key — the special child of Noxa's prophecy. All I needed to do was watch." He told her, with the same casual cruelty, that he'd known about her father's death in advance, and had done nothing but watch that too. That when she was taken by the Primals, he'd activated sleeper cells inside the resistance specifically so he could keep watching her.
+
+"I know you helped create Irane Kazemi," he continued. "I know you improved Hope's and Zoe's cores. I confirmed it myself, speaking to Vraka and Selis directly — their own cores were made from his power. He is your creation, Arai, and I have known that, and said nothing, for a very long time." Tenza and Tola's expressions shifted from confusion to open fury — they hadn't known any of this either, and the scale of what Niro had kept from his own inner circle was staggering.
+
+"I've been watching you since you went by Cai Consa," he added, and Arai flinched — a genuine, involuntary reaction, the first crack in her composure. "Ah. So it's true. Thank you for confirming that." He described, with obvious relish, watching reports trickle in about a woman named Cai and the monsters she was quietly building inside the Consa ranks, watching a human called Irane rise to Eighth Champion, watching the prophecy-book about him spread through the streets of Orians. "You know your own family's myth," he said. "The girl with no Time — the dud who would bring the world into a new age when she finally arrived. Suu took you under his wing because I told your father to just watch and see. And I did watch. Every spell you mastered, every technique you broke through as though your own life depended on it — you are the once-in-a-generation child Noxa foresaw. Today, you finally accept it."
+
+The fifteen moons aligned overhead, and Niro loosened the binding on her right hand just enough to let her move it. "How does it feel—" he began, and Arai slapped him across the face before he could finish. The room froze in horror. Niro only laughed harder, delighted. "There it is. You truly don't fear me. That's rare indeed."
+
+He revealed his own core — Light-Darkness, passed down directly from Aevum's own bloodline — and placed the book on Noxa's Game in front of her. "This is the destiny foretold about you twelve hundred years ago. Twelve generations have waited to see what Noxa saw. Tonight, you will show us."`,
+          },
+          {
+            id: 'sc-e9-3-book-activates',
+            title: "The Book's First Page",
+            content: `The book pulled itself toward Arai's bound hand, and she stopped resisting only once the pain of fighting it became worse than the fear of what it would show her. The moment her hand touched the cover, its pages began flipping on their own, cataloguing every Nexal Time-mage who had ever played the game recorded inside it — Nina's name, her son's, Tonga's, but never Tenza's — before settling on the very first page: Noxa's own handwriting, laying out the rules.
+
+*Noxa's Game, for the record: a board game combining the deep structure of chess with the open, expanding territory of Go, played with a starting complement of anywhere from twenty to a thousand pieces depending on the match. Each match begins with a single core-aligned piece — a "king" piece — selected by the player's own elemental configuration, traditionally read off whatever combination of moons is visible on the night the game begins, though a player can substitute their own core alignment directly instead. From there, players build out their armies from any legal combination their alignment allows, capturing enemy pieces to create new merged elemental units of their own. The game does not end until every piece belonging to one side is destroyed — which has, historically, taken years inside a Nexal household able to compress and stretch its own perception of time to play it out.*
+
+Arai noticed a slot cut into the side of the board, exactly the size of her own sealed Tool, H.O.T. As she examined it, the weight of Niro's words finally settled fully — the sense that her entire life had been observed, catalogued, and used by everyone around her without exception — and something in her simply stopped fighting it. She placed H.O.T, Crono still sealed inside it, onto the board.
+
+The book reacted instantly, mana flowing from her into it, pages turning backward through what felt like the entire history of the object before finally stopping again at the front. She activated Crono fully, and the book synced with it completely — the pages behind the board's edge igniting, revealing billions upon billions of individually logged moves stretching back further than she could process. Near the very front of that record, a single logged match stood out: *Kazemi vs. Arai Kazemi.* A game set with one trillion pieces to a side, playing out across a compressed span of twenty-five uninterrupted years — the same twenty-five years, she realized with a jolt, that she'd been alive before her own Time magic first activated.
+
+The board itself was already mid-game — nineteen of twenty starting pieces already placed, with only one slot open. Arai lifted H.O.T from the board's edge and hovered it over an empty square; it resolved into a Goddess-tier piece of Time-Electric alignment, and every other piece on the board lit up in recognition at once — every one of them tied, at root, to Time magic. The world around her went still. Niro, Tenza, Tola, and Tunde froze mid-motion, caught outside the flow of whatever moment she'd just entered.
+
+Across the board, a figure rose from the flames pouring off Crono — her own face, mirrored back at her, wearing an expression she'd never once seen in a mirror. "I told you, didn't I," the figure said. "You have no idea what you're dealing with." Arai froze. The being placed its final piece — its own core — completing a set of ten: Hope, Zoe, Mira, Aliya, Dokia, Summari, Nighla, Urial, Pandro, and its own. Every core Arai loved, laid out on the board in front of her.
+
+"What is this," Arai stammered. "What have you—"
+
+The figure smiled. "Did the procedure affect your memory?"`,
+          },
+          {
+            id: 'sc-e9-3-ksmind-reveal',
+            title: "Her Own Mind, Playing Against Her",
+            content: `The figure laughed — the laugh of something that believed, wrongly, it had already won a game it had spent twelve hundred years setting up. "This is a rematch," it said. "The last time we played, you captured my command cores and beat me. This time, I break you."
+
+Arai's own memory forced its way back into focus — the fragment she'd buried without ever realizing it was buried — and she understood, all at once, what she was actually looking at. What she was looking at wasn't a rival. It was her own conceptual mode, the same personification of Kazemi's own subconscious that ran beneath Irane's mind whenever her own Drive burned hot enough to surface it — a mindset, not a person, wearing her own face because it *was* her own face, refined past anything she consciously recognized as herself.
+
+*Note on what this actually is: what the family would eventually call Kazemi's Will — K'sWill, in later shorthand — is not a rival entity with a body and an agenda of its own. It is Arai's own Conceptual Core: the same mechanism that occupies the Mind position of Irane's Drive/Will architecture whenever her Drive runs at full strength. When it surfaces, Arai's own mindset shifts from human to conceptual — not a possession by something external, but her own subconscious taking the wheel, on a timetable she does not fully control. It is, structurally, the same access-pattern Zoe has to Enari through her own Biome, and Hope has to Iris through her own Forge: Arai's parallel access point is her Drive reaching directly into what the trial made of Kazemi's own conceptual mind, at its faintest and most human in Irane's own low-percentage human state, where it registers as little more than a second voice rather than a true takeover.*
+
+Long before she understood any of that, Arai just recoiled from the sight of her own reflection speaking with a stranger's certainty. "You believe you can beat me with a cheap trick and expect no retaliation," it said. "When Irane was reborn, Iris and Enari were reborn with him — as, in truth, was I. He became the consciousness in front. I became the mind underneath it." It gestured to the board. "I took twenty years of your own unused Time magic — years you never got to spend, because your seal locked your access to your own core — and used it to move backward through your own family's bloodline. I found the very first move that beat me and traced it to its source."
+
+Arai stared at the pieces — twenty of them now, twenty people across twelve generations who had unknowingly played a single continuous match against this thing — and asked the only question that made sense. "How did you do this?"
+
+"I went back," the figure said, "to a man named Noxa Nexal, playing a much older game called Beesh, alone, on a quiet afternoon a thousand years before you were ever born."`,
+          },
+          {
+            id: 'sc-e9-3-noxa-origin',
+            title: 'What Noxa Started',
+            content: `Noxa Nexal — son of Dulla Vane and Cith More, born in secret on Orius, twin in bloodline to his sister Darkki Ardent — had spent his whole life being told he was destined for something. He was gifted, effortlessly, at everything he touched, and profoundly unfulfilled by all of it. In his sixties, bored on a quiet afternoon, he sat alone with a board and a game called Beesh — the original ancestor of what would later become Noxa's Game — using his own Time ability to spin off a future copy of himself and play the match against his own past.
+
+Something pulled on him mid-move. A presence, deep and unfamiliar, reaching into his own timeline from somewhere he couldn't place. A woman's voice — his own future descendant's conceptual mode, though he had no way of knowing that yet — asked simply: "Shall we play a game?"
+
+He taught her Beesh first, since she didn't know the rules, and watched her improve at a rate that unsettled him even as he admired it. When she finally beat him — the first defeat of his entire life — she touched the board and transformed it on the spot, cover reforming into what would become Noxa's Game. She told him this next match would only be practice: twenty to fifty pieces, meant to teach him the shape of what was coming. It lasted a hundred years inside the compressed space of the game itself. When it ended, he was a hundred and sixty years old in real terms, and only an hour had actually passed outside it.
+
+"I see you can't move," she told him, not unkindly. "Don't worry — I'll simply take your time, and we'll continue this across the generations of your bloodline. Your own core is mine now." One of the pieces on the board glowed a soft blue-white — Time-Energy — and Noxa's own core settled into it permanently, becoming the game's first anchor point.
+
+She had selected herself as its Goddess piece — the thirteenth head of House Nexal to play the match, by her own reckoning, though she was in truth playing against every one of them at once across time she alone could compress and stretch at will. Arai, watching all of this unfold from inside the vision, felt the full, dizzying scale of it settle over her — an unbroken relay match stretching across twelve generations of her own bloodline, set in motion by her own future self reaching backward through her own family's Time magic, with her as the twentieth and final player, and Nina — unknowingly — as the nineteenth.
+
+Twenty-one years passed inside the mindscape before Arai's own eyes, in the real world, began to shift from blue to white, a golden light spreading through them as her Drive activated fully for the first time in her life. She didn't understand, in that moment, that the game had ever been running inside her at all — it had always been happening inside her own subconscious, invisible to the very mind it was reshaping. No one ever feels their own subconscious change. That was the entire point.`,
+          },
+          {
+            id: 'sc-e9-3-the-wager',
+            title: "The Rules of the Rematch",
+            content: `"I can't break the seal," the figure told her, once the shock of the reveal had settled. "Irane built it too well for that. But you only have twenty years to beat me at this rematch — and for every year you take longer than that, I get another second of control over your body."
+
+"You want to use me to command him," Arai said slowly, "while the game runs. If it goes past twenty years, you'll simply order him to undo the seal."
+
+The figure's laugh was sharp. "You think it's that simple? The seal cannot be broken — that's how Irane built it. Think of him as a switch, sitting somewhere between zero and one. From one to forty-nine percent, the human mind rules absolutely — human at one to fifteen, a champion emerging from sixteen through forty-nine. Fifty to ninety-nine is the balance point, where the human still holds but the conceptual has an outlet. Past that, the conceptual takes over entirely, and that is the only place he becomes genuinely terrifying to witness."
+
+"You went back through my own time," Arai said, working through it aloud, "and used twenty years of my own unspent Time magic, just to force a rematch of a game I already won."
+
+"I have never failed," the figure snapped, all humor gone from its voice in an instant. "Do you understand that? Never. I built the plan to bring every one of your impossible spells to life, perfectly, across eighty-eight million years of fighting. And you handed me an incomplete one and dared to call it a joke." Something in Arai's memory clicked back into place at that — the lab, the day she'd genuinely believed she'd bluffed her way to a win.
+
+*Note on the mechanism, for clarity: K'sWill is the conceptual expression of Irane's own subconscious, exactly as Iris is his Tool and Enari his Beast. When the trial forged Irane's mind, it drew on the mana of Arai, Hope, and Zoe simultaneously to build his three foundational conceptual cores — the mind that became K'sWill, born specifically from Arai's own mana and her own obsession with perfection. In the original lab, before any of this had names, Arai defeated her own conceptual mode in a shared game to determine which of two competing commands Irane's fractured mind would execute first — hers, to complete the seal and love her, or K'sWill's own agenda. She won. That victory is why she holds the conceptual cores she holds today, and why the seal binds Irane's humanity ahead of his conceptual nature at low percentages rather than the reverse. Having lost, K'sWill could not accept the outcome — and reached backward through Arai's own bloodline and her own unused Time magic to manufacture a rematch on different terms, using Noxa Nexal as its unwitting first opponent. It is not an external rival. It never was.*
+
+"So yes," the figure said, "I went back in time. Fifteen years — that's how long it actually took him to complete the seal properly. And now, it's time for our rematch."
+
+Arai sat in stunned silence, turning the whole shape of it over in her mind — a war against her own future self, waged across her own family's bloodline, set into motion by a version of herself that had simply refused to accept losing once.`,
+          },
+          {
+            id: 'sc-e9-3-kazemi-time',
+            title: 'Kazemi-Time',
+            content: `The board's own clock, Arai understood now, had never run on ordinary time in the first place. Its internal countdown warped whenever her Drive was active, stretching or compressing to whatever length best served her conceptual mode's own agenda — never a neutral measure, always aimed at reactivating her Drive further. It was the same clock architecture as H.O.T's own, because Noxa's Book had never been a separate creation. It was H.O.T's second face, forged from the same Core of Time, playing a longer game than the one strapped to her hip.
+
+"Finish the match," the figure told her, "and my Drive reaches its maximum the instant the final move lands. Through that connection, Kazemi's own conceptual side gets pulled toward the surface with it." It said the stakes plainly, without any of the earlier theater: the destruction of every city in Ascen territory carrying Aevum's name. Not a threat. A stated mechanical consequence, the same way a completed spell simply produced its listed effect.
+
+Arai looked at the board — twenty pieces, twelve generations, a war that had never once been against anyone but herself — and made her move.`,
+          },
+          {
+            id: 'sc-e9-3-reaching-irane',
+            title: 'A Voice in Both Their Minds',
+            content: `While the match ran its opening sequence in the space behind Niro's sealed chamber, Arai's fully active Drive reached across the connection it always carried and touched Irane's own mind directly — mid-conversation, at that exact moment, with Isoke in Hades, Milla and Urial in Ether, and Nina and Crimi in Tulla all at once, a feat of divided attention he managed without any visible strain. He excused himself from all three conversations in the same breath, warned his children and aides to be careful, and went to see what had called him.
+
+He found her curled into a corner of her own mind, wrapped in something that wasn't quite panic, and sat beside her without being asked, an arm and a wing settling around her shoulders. She leaned into it before either of them fully registered she'd done it. "How do you do it?" she asked. "Accept other people's will pressing on you, and not feel rage?"
+
+"When aren't we influenced by others?" he said. "I can see every core, every trace of mana someone leaves behind in the people close to them. All any of us can really do is choose which of those traces we let define us." Arai laughed — an unguarded, genuine sound — and told him he sounded like an old man. "I am eighty-eight million years old," he pointed out. "Spiritually, at least." She let him look through her memories, the ones offered freely rather than taken, and he watched the shape of her war with something close to open respect. "Well, damn," he said. "Looks like you've been busy, Arai Vane."
+
+"Just as they planned for me," she said, flat.
+
+He asked, gently, what it would actually take to erase every trace of Aevum's influence from her life — every statue, every street name, every school she'd ever walked through carrying his legacy. She did the math without quite meaning to: over a hundred cities, ten thousand towns and settlements, a scale of coordinated destruction with no reasonable precedent. She pictured it anyway, and found, to her own quiet unease, that the image didn't frighten her at all. It settled something instead.
+
+"Twelve hours," Irane said, "and that could be real." She laughed it off as a joke. He asked, just as lightly, whether he'd ever failed her — and her answer, tossed off as a throwaway line in an otherwise easy conversation, landed somewhere in him with no defenses built for it. "Yes, you have, you bum," she said, still laughing.
+
+He felt it as a physical thing — a memory he didn't have, arriving as raw, ungrounded fear, the specific dread of a task left unfinished, inherited whole from whatever version of himself had once actually failed at exactly this. It was the closest thing to genuine panic he had ever experienced, and it passed only when he steadied himself and looked at her again, still smiling, with no idea what her words had just done to him. He understood, in that moment, that what had just happened wasn't a conversation. It was an order — and Arai herself had no idea she'd given it.
+
+"Okay," he said, once he'd recovered. "Let's set some conditions. Can you get out of the city in time?" She agreed to his terms without quite understanding what she was agreeing to — leave the perimeter within twelve hours, no new injuries beyond what she already carried, Time magic restricted to the exact center of the city, elemental magic outside it limited to a single, randomly assigned element. Absurd, arbitrary rules. She accepted them anyway.
+
+He returned to his own body already planning, with something close to delight, exactly how to deliver what her core had just asked of him — and, in the same motion, exactly how to finally close the last flaw left in his own seal.`,
+          },
+          {
+            id: 'sc-e9-3-fire-and-ash',
+            title: 'This City Will Be Fire',
+            content: `Arai opened her eyes back in Niro's dungeon feeling strange — lighter than she should have, the weight of what he'd just told her about her own life almost entirely gone. She laughed at the guards outside her cell. "This city will be nothing but fire and ash in nine hours," she told them, and something in the way she said it made both of them see it happen — the same vision she'd shown Irane, playing out in front of their eyes as if it had already occurred. They backed away from the cell without being ordered to.
+
+Within minutes she'd slipped past Tola's and Tunde's spatial binding entirely, moving through the compound at a speed no one present could track, leaving soldiers unconscious in her wake with no visible effort. Above the capital, Niro was mid-speech on Mana's Birthday, telling the assembled crowd about Aevum's vision and his own duty, as Aevum's blood-heir, to see it carried through to completion. Arai watched from a tower above him, smiling in a way that made everyone nearby take an unconscious step back.
+
+"I wonder," she said, once the crowd's attention had shifted fully to her, "did you really think Aevum authored my life? He can kiss my ass. He isn't worthy of licking the ground my feet have touched." The city shuddered with the collective shock of it. "You think I don't know what I created in Irane? He is perfection born from imperfection, and I will show you exactly what Aevum's precious bloodline actually produced. If he engineered my life, all he engineered was his own end." She projected the vision she'd shown Irane directly into the sky over the capital — the whole territory burning, city after city collapsing into ash — her own laughter carrying under it. "In a few hours," she said, "this will have ended. All of it."`,
+          },
+          {
+            id: 'sc-e9-3-evacuation',
+            title: "Kazemi's Curse: Survive from Beginning to End",
+            content: `In Apexia, the evacuation moved with the same brutal efficiency Irane brought to everything else. Every non-Valariyan was pulled from the inner territory around his own core within hours, the Valariyans moving through Tulla and Sethia with enough urgency that the process looked, from outside, almost violent — careful, in fact, to the point that not a single person was seriously hurt in the withdrawal. Irane briefed Summari and Nighla directly: their mission ran in two parts, first securing the final correction to his own seal, then — Summari's charge specifically — bringing Arai, Hope, Zoe, and Aliya back to Apexia by any means necessary. Urial and Dokia were dispatched in parallel to retrieve Hope and Zoe from their own territories.
+
+"Remember," Irane told his daughters, "we are Kazemi." All three answered in the same breath: "We are the ultimate Tools. We are Kazemi's Will made flesh, and we shall never fail."
+
+Deliverance carried all four of them across the gap between worlds in a single shot — Irane drawing the bow to ninety-nine percent output for the first time, his armor cracking under the strain of holding that much, Summari and Nighla lending their own Creation and Destruction cores to the calculation. The arrow split on entry: Dokia peeling off toward the Spirit territory, Urial toward the Alma, Summari and Nighla staying anchored to the shaft as it tunneled beneath the Ascen capital and detonated from below.
+
+Summari and Nighla emerged from the wreckage in armor built specifically for them, flanked by twenty smaller constructs and Mira's own remote-piloted forms. "Arai Nexal," one of Mira's constructs announced, "you are under arrest by decree of His Majesty Irane Kazemi. You are to return to Apexia to face trial." Arai only laughed harder. Niro, meanwhile, found himself hunted by Summari directly — an offer, politely delivered, to surrender his own Energy-Electric-Light core rather than have it taken by force. He refused with everything his considerable pride could summon, and lost anyway, ground down the same way Azen had been, resetting after every blow only to be struck again, until Summari finally bound him and Tunde both, alongside her sister, in a Curse neither of them had ever faced before: *Kazemi's Curse — Survive from Beginning to End.*
+
+What followed, across the two hundred years the curse's own internal time-dilation put both men through, was less a punishment than a slow, total unmaking. Niro and Tunde were forced through repeated cycles of death and rebirth in Enari's Biome and Iris's Forge, first separately, then bound directly to each other's suffering, until the two men who'd conspired against Arai emerged as a single, permanent Tool-Beast fusion — Niro the conscious half, wielding the beast Digger; Tunde bound beneath him as the fusion's subconscious tool-half, Spacial-Illumination. Fully aware, at every stage, that they were no longer men in any sense that mattered — only instruments serving a will they had no capacity left to resist.
+
+Meanwhile, in the capital, Arai's own path toward the city's edge tore through everything in front of her. Twelve hours came and went. When the dust settled, the towns and cities carrying Aevum's name across the whole of Ascen territory lay in ruins — and, per the arrow's careful calculation and Summari's and Nighla's parallel evacuation, not one life was lost in the process. Arai had gotten her wish. Irane had made sure it cost no one anything but stone and memory.`,
+          },
+          {
+            id: 'sc-e9-3-seal-perfected',
+            title: 'The Final Piece of the Seal',
+            content: `Arai found herself, in the last instant before the arrow's own working carried her back into custody, standing inside Kazemi's universe — not the man on the throne, but something closer to what he actually was beneath the armor: a being made almost entirely of light and mana, human in outline only, a massive golden tree rising behind an empty throne.
+
+"There it is," Kazemi said, seeing her. "The final piece of my seal." He explained, without the cruelty she might have expected: what she'd sealed inside him, all those years ago in the lab, had never been a wall separating his human self from his conceptual one. It had been a fracture — her own chaotic, conceptual nature carrying the Mind-seat of his architecture, while a quieter, harmonic version of the same woman sat beneath it as his installed subconscious in daily use. Every time her Drive activated, she wasn't reaching into his mind from outside. She was, and had always been, the conceptual layer inside it.
+
+"I'm perfecting the seal from here," he told her. "You tried to build a wall between my human side and my conceptual one, and all that did was cause problems neither of us wanted. So I'm going to do what you already do — let both halves coexist properly, in one human form, rather than pretend they're separable." He laid out the mechanism plainly: a new Art, Kazemi's Rebirth, built around a reserve of human bodies engineered to the same standard as his own Ascended Tools, into which his identity could be reseated indefinitely. The human half would carry his core, and abilities in proportion to how much of that core he chose to draw on, but none of the trial's memory. He would believe himself simply revived, informed only by what he remembered from the lab itself. "It's still me," Kazemi said. "Just how much of myself surfaces changes with how far his Drive climbs. Below sixteen percent, he's fully human — fallible, capable of losing a fight, capable of dying if he's careless enough to let it happen. Past that, more of me comes through. Past fifty, that's the version standing in front of you right now."
+
+Arai took a moment to absorb what she was being told — that the seal she'd designed to keep him boxed in had, instead, produced a genuinely divided identity: the conceptual god the Valariyans would come to kneel to, and the fallible man who would actually run the empire day to day, indistinguishable from an ordinary person below a certain threshold and unable, in that state, to simply reach for trial-era power on command. "I want you to watch over the human version of me," Kazemi told her. "Make sure the world never needs the version standing in front of you at fifty percent or above, ever again. He's your Tool, Arai. Don't be afraid to use him. Just make sure I'm actually allowed to live, in whatever form that takes."
+
+"So what happens to you?" she asked.
+
+"For me, while he's conscious, it's like being in a deep dream. I wake up properly whenever he crosses fifty. For him, nothing changes except the information available in his own head — and that's up to you." He paused, and something almost gentle crossed the vast, inhuman face. "Arai. Live, and enjoy the world I've built for you."
+
+She was carried back to Orians in Aliya's arms a moment later, catching one last, fading glimpse of the burning cities beneath them — cities that had, by the time she fully understood what had happened, cost no lives at all, exactly as Irane had promised her. In the aftermath, word spread across Orians of a Goddess who had, in the space of a single day, become something closer to a monster than anyone had believed her capable of being — feared, from that day forward, even more than the Vane line she'd married into. Aliya gathered the Ascen still loyal to Arai's own banner, gave them a choice — remain in Orians, or follow her to Apexia, with no promise of anything easier waiting on the other side — and every one of them chose to follow, marking themselves with Arai's blue phoenix and declaring their loyalty absolute, whatever the cost.`,
+          },
+        ],
+      },
+      {
+        id: 'ch-earth-9-4',
+        title: "Chapter 9.4: The Cores of Kazemi!",
+        scenes: [
+          {
+            id: 'sc-e9-4-urial-alma',
+            title: "Urial's First Mission",
+            content: `While Summari, Nighla, Aliya, Mira, and Nina worked to bring Arai in, Urial and Dokia were carrying out the second half of Irane's mission — retrieving Hope and Zoe from their own territories, each escorted by two automaton constructs, one Pandro-piloted, one an empty vessel meant to convert any Orian pressed into it.
+
+Urial landed in Alma territory in the middle of a countryside still reeling from Arai's declaration on the capital. His body, an organic armor more advanced than any ordinary human form, gave him a raw physical power he was still learning to calibrate — a child's understanding wearing a weapon's capabilities. Unity, his Beast, manifested as a shifting, elemental-coded humanoid form, letting him copy and combine techniques directly from any core he touched — the same mechanism, structurally, as Mono's own chaotic creativity, just channeled through a different temperament.
+
+He found a village, introduced himself with careful, rehearsed politeness Milla had drilled into him, and asked its leader, Iver, where he could find Zoe. Iver, wary, assumed correctly that Urial had been sent to seize her the same way Mira's forces were seizing Arai, and signaled his people to prepare a defense. Two Alma moved to flank Urial with fire and ice constructs; he ended both with a single Air technique before either fully closed the distance, then sealed himself and Iver inside an air barrier so Iver could speak without a crowd panicking around them. "We won't ask twice," Unity said, from just behind Urial's shoulder. "Where is Zoe Navar?"
+
+Iver gave up the location, and quietly warned his own people afterward that Urial would run straight into Evin's advance force en route — a force Iver believed had been sent to protect Zoe, not, as was actually the case, to secure her the way Dokia was being sent to secure Hope.`,
+          },
+          {
+            id: 'sc-e9-4-assa-evin',
+            title: 'The Weight of a Kazemi Core',
+            content: `Assa and Leo were holding the southern approach to Zoe's new capital when Evin's advance force arrived — Evin himself wielding Ruin, his father's own beast, using its decay ability to slow and unravel the shield Assa had built around the city's noncombatants. Assa moved to meet him directly, her Nature-Fire resistance blunting Ruin's effect enough to close the distance and land real damage, healing through his attempts to slow her recovery.
+
+"I've always found you quite beautiful," Evin told her mid-exchange. "Why not just give Zoe up? I promise nothing bad happens to you." Assa answered by binding him in fast-growing roots and kicking him down, dry and final: "Sorry — you're not my type." He tore free in fury and cost her an arm before she activated her Drive for the first time in real combat, regenerating the limb and shifting subtly in appearance, planting five elemental saplings around herself that grew into a small mana-field almost as fast as she needed them to.
+
+It was in the middle of that exchange, distracted by Assa's transformation, that Leo nearly died to a soldier closing on his blind side — saved only because Urial arrived mid-motion, an Air-Space technique clearing an entire section of the battlefield in a single pulse, killing the soldier and every other Alma nearby except Evin, who fled the moment he registered what had just happened to his own men.
+
+Urial, delighted, introduced himself properly to Leo and Assa, star-struck at meeting people his mother Milla had told him stories about since he was old enough to understand them. Assa, working out who he actually was, told him gently but firmly that the western force he'd already wiped out — Human-Alma included — had been allies, not enemies, and watched him break down crying at the realization that he'd made a mistake with no way to undo it. She comforted him the way an adult calms a child who genuinely didn't know better, while Leo stood by, still processing the sheer scale of what he'd just watched a boy in armor do without any apparent effort.
+
+Urial, once he'd recovered enough to explain himself, delivered his actual message: Lord Kazemi had sent him for Zoe. Assa's next question stopped everyone cold — if Urial had come for Zoe while Summari, Nighla, and Mira handled Arai, who had been sent for Hope? Unity answered before Urial could: Dokia. And unless someone reached the Spirits fast to warn them, she would kill everyone in her path to find her, Konnar and Dio included.`,
+          },
+          {
+            id: 'sc-e9-4-dokia-arrival',
+            title: "The Emperor's Reaper",
+            content: `Dokia's own arrival, in a refugee town in the Spirit north-west, went considerably worse. She emerged in dark, gold-veined armor with a long, unwieldy scythe on her back — a weapon that read less like a functional tool and more like a warning — and when the town's commander, Argus, tried to stall her for information, she opened his throat before he'd finished his second sentence, watching him fall without any visible reaction at all.
+
+What Dokia actually did to him wasn't a physical killing in the way it looked — she'd simply located and destroyed the single cell in his body carrying the most concentrated death-force, and Argus, accepting that as a full death, died from it. It was the mechanism Irane himself had taught her: target one cell, treat it as a death, and let the body's own acceptance or refusal of that death decide the outcome. Anyone who refused to accept it simply survived. Most people, confronted with the choice for the first time and with no context for what was happening, accepted it instantly, out of shock alone.
+
+When the town's soldiers rushed her in a group, she cleared them with a single wide sweep of her scythe, Transition, and left behind bodies with no visible wounds at all. A running kill-tally followed her the entire way south — a number Cycle, her Beast, tracked aloud without any apparent discomfort: fifty-two thousand three hundred eighty-seven dead in the first town alone, against a stated ceiling of two hundred fifty thousand permitted without her Will active, approved in advance by Mira herself. A grieving mother, protecting her son in the scythe's path, asked the obvious, horrified question: was this a game to them, keeping count like that? Cycle answered honestly, without cruelty: the Emperor did care — that was the entire reason a ceiling existed at all, rather than none. It didn't make the number easier to hear. Dokia moved on before the mother finished processing it, carried south by Cycle's own expanded form at a speed that turned a multi-day journey into a matter of hours.`,
+          },
+          {
+            id: 'sc-e9-4-forge-masamune',
+            title: 'Masamune',
+            content: `The Spirit forces defending Hope's stronghold were already being pushed to their limit by Pino's own opportunistic assault — launched the moment word came that Elorah was gone, using the chaos to settle an old grudge — when reinforcements arrived under Forge Neel, Konnar's older brother and one of the most feared blade-masters in Spirit territory. He carried Masamune, a thousand-year-old ceremonial blade tied to a legendary first wielder said to command every element the sword itself carried — a weapon that grew hotter and sharper the longer any given fight ran.
+
+Dokia found him at the head of his own elite unit, and went through the rest of his forces first — clean, single-strike kills, the kind of precision that read less like combat and more like something moving through a crowd with total, disinterested purpose. Forge himself lasted longer than anyone else she'd faced that day, sacrificing his own arm to land a killing thrust through her chest — a wound that, by any ordinary measure, should have ended the fight completely.
+
+It didn't. Dokia's own nature made death, for her, a negotiable state rather than a final one. She rose again with her hair darkened, a black flower blooming where her earlier weapon-form had shown white, and Forge understood, in the half-second before she moved again, exactly what kind of mistake he'd made in assuming the first kill had counted. She restored his severed arm before their second exchange even began — "I thought you should start round two at full health" — and asked him his name with something close to genuine curiosity as their blades met.
+
+Their second clash ended differently than the first. Masamune passed clean through Transition's arc without either weapon actually connecting, and Forge found himself already dying, his own blade buried in his own gut, before he'd fully registered the strike had landed. What followed wasn't death exactly — Dokia's own Life/Death Art forced him to experience, in a single compressed instant, every death Masamune had ever inflicted across its thousand-year history, including its original wielder's own declaration that the blade would take a trillion lives before it truly woke. Forge broke under the weight of it and surrendered outright.
+
+Dokia took the blade for herself in the aftermath — activating her Will for a single, controlled second to absorb Masamune's full accumulated will and kill-history directly into her own core — and reforged the exchange in reverse. Forge Neel's own soul went into the blade itself, forced to experience, forever, every kill it committed as his own. Masamune's accumulated, hungry will went into a new body built from Forge's own captured form, waking as a fully autonomous Tool-consciousness that bowed to Dokia immediately: "I am honored to serve you, Kazemi's Death. What are your orders?"
+
+"What do you want, more than anything?" she asked.
+
+"To take as many lives as you'll allow me," Masamune said, "until I reach my former master's own desire. I want to be complete."
+
+"Good," Dokia said. "I want to see how well you work." She sent him to clear a cluster of resistance to the southwest while she moved on herself, warning him only that his kills had to count as genuine combat deaths — "otherwise what's the point" — an instruction Masamune took, immediately and without any apparent restraint, as license to treat the entire warzone as fair game.`,
+          },
+          {
+            id: 'sc-e9-4-kill-quota',
+            title: 'The Number Left to Take',
+            content: `Masamune moved through the Spirit lines with Forge Neel's own voice bleeding through every strike — a voice the Spirits recognized instantly from a lifetime of battles fought beside him, now screaming from inside the blade with every kill it tallied toward its own stated goal. He clashed briefly with Pino directly, taking thirty-eight thousand more lives around her position before disengaging, indifferent to her fury and openly promising to make her death, whenever it came, "extra painful" for Forge's benefit as much as his own.
+
+Dokia herself pushed on toward Hope's stronghold, cutting through five hundred guards at the eastern gate before Dio — arriving in time to physically stop her blade a hair's width from Rui's throat — called her name the way an authority figure calls a misbehaving child rather than the way anyone else in the field had dared to address her that day. She recognized him instantly, the way a beast recognizes scent rather than face, and apologized with something close to genuine, childlike embarrassment.
+
+The running total Cycle had been tracking all day sat, by that point, at two hundred thousand — against the two hundred fifty thousand ceiling Mira herself had approved. "Fifty thousand lives left we can take, without the Will active," Cycle noted aloud, flatly, to no one in particular. It wasn't cruelty exactly. It was closer to bureaucracy wearing a beast's voice, and it landed on everyone within earshot as something considerably worse than either.`,
+          },
+          {
+            id: 'sc-e9-4-reunion-and-portal',
+            title: "The Tree of Yggdrasil",
+            content: `The three extraction teams — Summari's group, Urial's, and Dokia's — converged on a single automaton communications relay once their objectives were secured, and Aliya, patched through from Apexia, gave the order with an authority that surprised even Summari and Nighla. "We meet at the southern city in Ascen territory. Arai built a prototype there — a way to open a direct rift through Limbo rather than relying on existing portals. Bring only those who are genuinely serious about coming, and make sure Hope, Zoe, Urial, and Dokia are with you no matter what."
+
+Old man Orobs Vorius, one of Arai's own loyal soldiers, told Aliya afterward that she'd more than earned the right to give orders like that — that she carried Arai's own strategic instinct and command presence more fully than she gave herself credit for. Aliya brushed it off, uncomfortable with the comparison, and turned the group's attention to the actual work: fixing and powering the incomplete portal Arai had left behind, using the combined efforts of Assa, Dokia, Urial, Nighla, and Summari alongside Soul, Aliya's own spirit-Tool, manifesting in whichever dead face the moment called for.
+
+Summari proposed the answer once Aliya ran out of ideas: Kazemi's Universe Pathway, the same technique she and Nighla had used once before, anchored this time to the seed of Yggdrasil Aliya wore around her neck — a direct route from Orians into Apexia's own outer territory, provided everyone crossing it could be shielded from being simply absorbed by the universe itself along the way. It required Aliya to hold her Will active far longer than she ever had, letting every spirit bound to Soul possess her in sequence rather than one at a time, directed toward a single, unified goal rather than left to overwhelm her separately.
+
+Assa grew the seed into a full tree at the portal's mouth, feeding it with Dokia's own stockpiled death-force from the day's fighting, Forge anchoring the structure from within Masamune's blade-form. Dio and Urial worked the crowd, marking every civilian who needed transit; Niro and Tunde, still bound and newly captured, were forced to raise a spatial barrier around the whole operation under Summari's direct command.
+
+The barrier held for most of the eight hours the working needed — until Axola arrived with Tola and Tenza at the head of a scrambled defense force, wielding prototype weapons from Arai's own unfinished arsenal, including a forbidden Class 11 mana-devastation warhead that had taken a hundred years to build and had been fired only five times in five hundred years of Orian history. Dio, watching the shield begin to crack under the bombardment, climbed the tree itself and poured his own life force directly into its structure to reinforce it — a choice made instinctively, out of the same old duty that had defined his entire life: protect Valariya's line, whatever it cost him now.
+
+It cost him everything. Urial found his father's core burning itself down to nothing mid-working, and rather than let the sacrifice simply end, folded it directly into the tree's own defensive architecture — Dio's own dying intent, "I must protect," preserved as four floating elemental cores that absorbed the last and worst of Axola's bombardment in his place. Niro and Masamune broke off to disable two of the four warhead-cannons directly; the barrier held through the last of the assault on nothing but momentum and Dio's own sacrifice.
+
+When Axola finally launched the warhead itself, it struck the tree's anchor point as the whole structure sank beneath the earth, the resulting detonation tearing directly into the edge of Kazemi's universe and pulling a violent counter-surge of mana back through the wound it opened — scarring the region for kilometers in every direction, but sparing the tree, and everyone sheltering inside it, from the worst of the blast.`,
+          },
+          {
+            id: 'sc-e9-4-arrival-apexia',
+            title: 'What Paradise Understood Now',
+            content: `The tree emerged on the other side of the working at the far eastern edge of Apexia, near where Irane had once fought Vraka and Selis directly, its roots anchoring into unfamiliar ground as thousands of Orians spilled out of its structure like something being born rather than simply arriving. Summari, Nighla, and Aliya collapsed the instant the working closed, leaving Konnar, Assa, Dokia, and Urial as the only ones still upright to meet the wall of Apexian soldiers that materialized around them within seconds.
+
+Mira's voice cut through the confusion, cold and immediate: "It seems we have intruders in Apexian territory. How many times must we deal with you Orians?" Zoe, limping forward despite her injuries, answered before anyone else could. "Give us a break, Mira. We just traveled a very long way to get here." Mira moved to support her physically, murmuring something only Zoe could hear — a warning, not a welcome, about how careful they needed to be while none of the arriving Orians were at full strength. Zoe understood immediately and told her own people to stand down without resistance.
+
+The new arrivals were escorted to Apexia's western border near Hades and Ether, and the sudden influx of refugees displaced the empire's existing population significantly — every non-Kazemi resident pulled from the inner four cities in a single, disruptive move that left Terra Night and a great many ordinary Apexians furious at being shuffled aside with no real explanation given. The Valariyans on the ground did what they could to keep people housed and calm through the first night, leaning on magic and improvised shelter in roughly equal measure.
+
+Irane himself remained unconscious throughout, his human form still assembling itself around the last correction to his seal — the situation tense enough, and the arrival of so many Orians disruptive enough, that Mira took personal charge of moving the injured — Aliya, Summari, and Nighla — to proper care, while Assa, Dokia, and Urial stayed close to the golden-cored armor now carrying what remained of Dio's own sacrificed spirit, refusing to leave its side. The Valariyans gathered in Paradise's throne room to wait for the Emperor to wake — Kazemi's own final words on the matter, before the seal completed its last correction, simple and direct: the man who emerged wouldn't remember the trial at all. Only what came after it.`,
+          },
+        ],
+      },
+      {
+        id: 'ch-earth-9-5',
+        title: 'Chapter 9.5: Those We Deem Gods',
+        scenes: [
+          {
+            id: 'sc-e9-5-the-fruit',
+            title: 'A Primordial Encased in a Core',
+            content: `Irane woke somewhere vast, under a sky thick with more stars than made physical sense, orbited by what might have been moons. A golden-haired, dragon-featured figure sat in the branches of an enormous tree nearby, six wings folded loosely behind him, watching with open curiosity. "Who are you?" the figure asked.
+
+"I'm Irane Core Kazemi," Irane said, sizing him up in turn.
+
+"Is that so. And what are you, Irane C. Kazemi?"
+
+"A human. Was that not obvious?"
+
+The figure smiled and plucked a golden fruit from the branch beside him, tossing it over. "Take a bite. It's good." Irane's teeth passed through it without effect on the first attempt. "You need to swallow it whole," the figure told him, amused. Irane managed it on the second try, and the moment it broke apart inside him, he was flooded with the memories, thoughts, and techniques of every Valariyan who had ever offered their core — the automatons first, frozen and hollow, serving with nothing left of themselves but the desire to obey perfectly; then Aura, Isoke, Crimi, Jade, Adri, each carrying a weight of feeling toward him that startled him with its intensity. He saw Assa's memory of the moment Zoe called her worthy. He saw Valariya's mixed grief and gratitude, her death, and — threaded through everything — the story of the Champion of Kazemi, told and retold, carrying his own name.
+
+He came back to himself staring at his own face, reflected with more draconic detail, across from the being who'd handed him the fruit. "Who are you?" he asked again, though some part of him already suspected the answer.
+
+"I am Kazemi Core Irane."
+
+They worked through it together, piece by piece — human and conceptual, the beginning after the end and the end after the beginning, one tasked to Live and one tasked to Love. "I am your humanity," Kazemi told him. "Your Will, personified. Aliya, Mira, Dokia, Pandro, Urial — all of them reflect aspects of what makes me, makes you, human. Think of it as a version of yourself from a fixed point in time, placed in the driver's seat with everything human intact, and amplified."
+
+"So I'm what started when you ended," Irane said slowly. "Are you saying I could surpass you?"
+
+Kazemi's grin widened into something closer to delight. "Yes, Irane Kazemi. You could."
+
+He explained the rest without softening any of it: a conceptual was simply a Primordial encased in a core — the first form cores ever took, before mortality and cause-and-effect got layered on top of raw, evolving mana. Below sixteen percent, Irane would remember only what he'd lived through consciously himself, informed by the trial only in the sense that its accumulated skill and instinct would be available to him without the memory of having earned it. Past that threshold, more of Kazemi's own awareness would surface. Past fifty, what stood in front of Irane now.
+
+"A perfect Tool," Irane said, working through the shape of what he'd just been handed. "Basically a man who does your will, or tries to. I'm going to hate you."
+
+"And I'm going to love you so much," Kazemi said. "Let's just hope Arai never finds out how much influence she actually has over you in this form." He pressed their foreheads together, eye to eye, and they spoke the same line in unison: "I am Irane Core Kazemi. The Core of Cores. The Eighth Champion of Kazemi."
+
+Irane's percentage dropped hard and fast after that — down toward fifteen, toward the low end of what he would live in day to day — the last of Kazemi's own vast awareness receding behind a threshold Irane wouldn't be able to see past again until his Drive climbed back over it.`,
+          },
+          {
+            id: 'sc-e9-5-first-day',
+            title: 'The First Act in Office',
+            content: `He woke in the armor of Sanctuary with his body remade cell by cell, organic in a way his old form never quite managed, his heart perfectly still and his mind fully human for the first time in eighty-eight million years. He stretched, tested muscle he'd never consciously used before, and stepped out into a throne room packed with fifteen million Valariyans — and, without quite meaning to, ended up flexing, naked, in front of every one of them before he registered what he was doing. Isoke crossed the room, smacked his hand, and dragged him off by the ear to find him actual clothes, the whole hall dissolving into laughter that broke the tension of the moment far more effectively than any speech could have.
+
+When he returned, dressed, he addressed them properly. "We bid you greeting, Core of Cores," they answered as one voice, "he who bears the very Core of Kazemi, Lord Irane Kazemi. The Valariyans are yours to command." He knelt in front of all fifteen million of them, hiding his face behind his own hair as tears he hadn't expected ran freely. "Forgive me," he said. "I know I wear his face, so I'd rather not show you Kazemi's expression crying from pure joy — but hearing that, with your own cores behind it, was too much not to react to."
+
+He rose, composed again, and spoke plainly. "I want you to understand something. To the Emperor, you are worth more than you can imagine. I exist to make sure his cores pursue what they actually want. This empire is young. We are the generation history will remember, and I intend for that history to be worth remembering. You are extensions of his will — but understand, he doesn't want an inauthentic core in his court. Be yourselves. That's the whole of what's asked of you." The room answered with a roar that shook the walls.
+
+Mira briefed him afterward on the scale of the immediate crisis: nearly three billion displaced people with nowhere to live, the Apexians spread thin across Tulla, Ether, and Hades while Sethia, their original home, sat overcrowded and half-rebuilt. "What are your recommendations, General?" he asked her. "I lead warriors," she said. "The people are your problem." He sighed, summoned Zoe, and sent Pandro and Dokia to remind the wider Apexian population, none too gently, exactly whose city they were guests in.`,
+          },
+          {
+            id: 'sc-e9-5-zoe-confrontation',
+            title: 'The Cockroach Speech',
+            content: `Zoe arrived to find Irane already seated on the throne, and asked, plainly, for the Orians who'd followed her to be granted full citizenship the way the Alma already serving him had been. Irane's answer came without hesitation. "No. You're mistaken about something. The people you call Alma here are, in truth, Valariyans — the very few who accepted that path. Most of the Alma you sent were executed under the Emperor's own order during the fighting, or used as living shields. Roughly sixty thousand accepted Apexian citizenship. Twenty thousand of those remain. Of those, three hundred forty chose the Valariyan path, and two hundred fifty survived it. That was the price of refusing to submit to Kazemi's Will."
+
+Zoe's fury came up fast and unfiltered — that he'd killed the people she'd sent for shelter, that he treated life as a number on a ledger, that she'd been a fool to believe he was better than Azen. "What else can I expect from a machine that does whatever it's told," she said, "even evil, even murdering parents in front of their children? You're worse than Azen. At least he doesn't hide it behind nobility."
+
+The room went dead silent. Irane's expression shifted from surprised to focused, and he crossed the distance between them in a single step. "Is that so, Lady Navar. I won't deny it — you're right. I did all of that, and I won't pretend otherwise. So since words clearly aren't going to settle this between us, let's let blades decide instead. In the Arena. If you beat me, every Orian who followed you becomes Apexian, no conditions. If you lose, I decide who stays and who doesn't. All you need to do to win is make me bleed, once."
+
+Zoe agreed on the spot, and as he walked past her toward the Arena, she read his body with her core and understood, with real unease, exactly how far from full strength his newly-formed body actually was.`,
+          },
+          {
+            id: 'sc-e9-5-zoe-vs-irane',
+            title: 'Worse Than Azen',
+            content: `The fight opened with fire and ice — Irane's blade unfamiliar to Zoe, an unnamed weapon distinct from anything she'd seen Kazemi wield in the war, its first strike carrying a Fire-Energy pulse large enough to startle even Aphexia into a full Water-Ice counter. A second strike, low and fast, caught Zoe with a paralyzing current threaded through the flame, and she went down mid-thrust, Panthera frozen an inch from his throat.
+
+He knelt over her with the blade at her neck and, without visible malice or anger, laid out exactly what he thought of her. "Tell me, Lady Navar — would you be surprised to find your home infested with cockroaches, after you let one in?" He walked her through it point by point — the Alma soldiers she'd trusted turning on the Apexians who'd sheltered them, her own moral certainty that everyone deserved a chance regardless of what they did with it, the child she'd kept suspended between life and death in her own lab rather than letting her go. "You call me a Tool, a monster," he said, quieter now, closer to her ear. "I agree. And I'll ask you what that makes you, for your part in my creation."
+
+He straightened, took Zoe's own frozen hand, and made her drive Panthera into his own stomach — a wound he then walked away from without acknowledging, mana pulsing to a wider percentage as his eyes darkened toward sixteen. Zoe felt the damage register through her own core, watched him bleed and simply keep moving. "If you think you can beat me," he told her, "an amateur who doesn't know the difference between a Tool and a Beast, bring everything you have." The fight, functionally, ended there — he'd already forfeited by drawing her own blood onto himself rather than landing a killing blow of his own, and walked away from the Arena floor without any further engagement, leaving Zoe on her knees, furious, and deeply unsettled by how little of the encounter had actually required his full strength.
+
+Aura and Adri flanked him on the walk out, tending a wound he refused to let show on his face despite the very real pain of it. "You should get that healed," Adri told him. "I can't," he said. "I already pushed to sixteen percent and wounded myself with a weapon of that class. I'll pass out soon regardless — I want to deal with the people first."`,
+          },
+          {
+            id: 'sc-e9-5-terra-crisis',
+            title: 'You Want to Die, Go Ahead and Die',
+            content: `He arrived at the outer edge of Sethia bleeding, Terra Night mid-speech in front of a crowd already close to rioting over the housing allocation. Irane crossed the distance in silence and put his boot on Terra's head, forcing his face into the dirt in front of the entire crowd. "So you all want to die," he said, evenly. "Go ahead. Cross this line into Sethia and you will die instantly. Go ahead and die."
+
+The crowd froze. "I want to make one thing clear," he continued. "We are doing you a favor, sheltering you from a war that isn't yours. Crimi Night asked us to take you in, and we agreed, on the condition that you work for what you're given. You are fed. You are safe. And you have the audacity to call that exploitation. The door isn't locked. Leave, if you'd rather — Earth, Orians, Limbo itself is open to you. But you will not call this exploitation while we're the ones shielding you from a war." He turned his attention to the Apexians in the crowd specifically — citizens, not refugees — and reminded them, coldly, that they'd agreed to the law they were now protesting. Ten instigators, selected by reading their own cores directly, were made an example of on the spot. The rest fell to their knees in immediate, total compliance.
+
+He had Terra removed from Apexia entirely afterward — his repeated, unauthorized experiments merging captured Kathara cores into willing human volunteers had already killed hundreds, and Irane's patience for the man had run out well before this particular riot. "I really was hoping my first act in office wouldn't be a public execution," he admitted to Enari and Iris afterward, half to himself. Enari's only real critique was of the earlier flexing incident. Iris pointed out, drily, that his first official fight had technically ended in a forfeit.`,
+          },
+          {
+            id: 'sc-e9-5-sisters-reunion',
+            title: 'Kazemi\'s General',
+            content: `Mira found Hope awake and pretending otherwise, and the two sisters spent a quiet hour trading the shorthand version of everything they'd survived apart — Hope's rise to Empress, Mira's own reputation as the woman who'd traumatized half the Ascen leadership in a single afternoon. "So says the Empress," Mira said, needling. "So says Kazemi's General," Hope shot back, and they both let the moment sit for a beat before Mira, unprompted, told her the rest.
+
+She explained it plainly, the way she'd had it explained to her: her own DNA had been altered during the process of claiming her core, contaminated — deliberately or not — with genetic material from Minia during the scuffle that took her from the lab. It hadn't touched her relationship to Hope, still full sisters through their father, but it had made her, in a strictly biological sense, Minia's half-sister as well — a fact that reshaped her own core into a Life/Death-Energy signature and gave her Emo its expressive, emotion-as-mana nature. Hope took the news the way she took most unpleasant surprises these days: with a flat, disbelieving laugh and an immediate demand for the full story.
+
+Mira gave it to her, more or less verbatim from the explanation Irane — as Kazemi — had once given her and Pandro together: how completing the seal had required thirty cores total drawn from his own genetic architecture, ten built directly from herself, Pandro, Aliya, Dokia, and Urial in various combinations, with Summari and Nighla standing apart from all of it as something closer to impossible — conceptual beings born fully human rather than converted into humanity from something else. "It's annoying and complicated," Mira admitted, "but in short: yes, Minia is my sister now. And no, I didn't get a say in it."`,
+          },
+          {
+            id: 'sc-e9-5-niro-tunde-hammer',
+            title: 'Hearth',
+            content: `Days later, Summari and Nighla found their father in his personal lab, Niro, Tunde, and Forge Neel already restrained inside it, Dio's remains sealed within his own inert armor nearby. The twins tackled him the moment they arrived, hard enough to shake the room, and he let them, laughing, before finally prying them off. "I heard what you did," he told them. "Read the full report from Mira and Nina. I'm proud of you both — for how you handled your first real missions."
+
+He reached for Hearth — the Empiric Hammer, kept among the other Ascended-class weapons ringing the throne — its head marked on one face with a raised white sigil, on the other with a blade, gold strands and primordial elemental symbols worked into the shaft. Manifesting it over the three bound men produced three floating books of information above them, their cores laid open and legible to Irane the way an ordinary book was legible to anyone else. Niro's own file scrolled past first, and Irane's expression didn't change as he read it.
+
+"You've both truly outdone yourselves," he told Summari and Nighla, turning from the file toward his daughters. "The King of the Ascen, ruler of the Orians, brother to Mira Ardent — and, as the cherry on top, the Spirits' own current master swordsman, or former master, seeing as Dokia's already killed him once. What do you two want to do with them?"
+
+Summari and Nighla exchanged a look before Summari asked, carefully, if it would be possible to bind them the way Arai's own conceptual nature bound Irane — Harmonic and Chaotic linked in a single conscious/subconscious pair. Irane considered it, genuinely intrigued by the elegance of the idea, and confirmed both men could withstand it. Niro's fury at being defeated, in his own estimation, by children rather than by anyone he considered a worthy opponent, met with no sympathy at all. "Your fate was decided the moment you crossed Arai Nexal," Irane told him, cold now in a way his daughters rarely heard from him. "Every person who lost their home because of your scheme — that's on you. This is your eternal sentence. Serve, or suffer. Those are the options."
+
+What followed, over what felt to both men like three hundred years compressed into forty-eight real hours, was less punishment than dismantling — Niro forced through Enari's Biome, Tunde through Iris's Forge, each cycle of death and rebirth pushing them further from any sense of themselves as separate, sovereign men, until Irane forced the final step and merged them permanently: Niro as the conscious half, wielding the beast Digger; Tunde bound beneath him as the fusion's Tool-half, Spacial-Illumination. "You are no longer free," Irane told them both, once the binding was complete. "You are slaves for the rest of your natural lives — slaves who will serve by choice, because the alternative is worse than either of you can currently imagine." To prove the point wasn't idle, he forced them through the same cycle once more, at ten times the sensory intensity, before either man had fully processed what had already happened to them.
+
+He set the fused pair, along with Julia Prescian and Milo Nexal, to work on a new surveillance system he named, on the spot, the Valariyan Art: Atlas of Apexia — a live, tracked model of the entire empire's territory and population, built on Niro's own spatial modeling and Julia's and Milo's parallel command of Time-Energy techniques for viewing both the recent past and probable future paths. Niro was assigned to guard Summari; Tunde, bound to the same fused body but retaining a separate consciousness of his own, was assigned to guard Nighla — a small, involuntary echo of the psychic connection the twins themselves had once shared, and which Irane had quietly, deliberately severed once he caught them secretly maintaining it past the point he'd allowed.
+
+He turned, afterward, to Forge — now fully absorbed into Masamune, his own soul trapped inside the blade he'd once wielded with pride. "Tell me, Forge. Is it everything you ever wanted, being a blade?" Forge didn't answer. He didn't need to. Irane refined the weapon's construction anyway, giving it access to the full elemental range of every wielder it had ever killed across its thousand-year history, then set it to guard Dokia permanently. Beside it, he presented Apolo — Dio Ferran's own soul, resurrected and rebound into a body wielding twin star-cores, Muspelheim and Niflheim, fused into a single blade called Solaris — as guard to Urial, the son Dio had met only once in life and would now watch over indefinitely from just outside it.`,
+          },
+          {
+            id: 'sc-e9-5-elementals',
+            title: 'Ten Newborn Dragons',
+            content: `A mana-storm-born crisis interrupted the empire's slow stabilization: ten Primordial-tier elemental masses, one for each of the original elements, converging on Paradise itself, each a swarm of level-five-through-eight Kathara built entirely from pure elemental mana given a Harmonic-Chaotic conceptual nature by exposure to Vraka's and Selis's own sealed power bleeding through the storm.
+
+Irane assigned Valariyan leads to each elemental front — Konnar to Fire, Audis to Water, Isoke to Earth, Aura to Air, Criya to Ice, Jade to Electricity, Assa to Nature, Pandro to Energy, Summari to Light, Nighla to Darkness — and, over Zoe's and Hope's objections, refused to let either of them join him on the front line himself. "This is the first time I get to actually test this body," he told Hope, visibly, uncharacteristically excited. "I haven't had the chance yet. And I must admit — having true elementals to fight makes that happy in a way I don't entirely understand." He let her come and watch. He told Zoe no, flatly, still working through the aftermath of what she'd said to him days earlier.
+
+He fought each elemental mass in sequence, using an outfit forged from Enari's own shed scales — light, flexible, channeling primal elemental mana far faster than any armor could — pushing his own percentage up gradually as each fight demanded more: thirty-five for the mid-tier swarms, forty for the level-nine, forty-five approaching the true elemental cores themselves, capping out at forty-nine for the hardest three: Energy, Light, and Darkness. He sealed each defeated core into a purpose-built elemental weapon on the spot, leaving them where they fell rather than carrying them back to Paradise immediately, and returned from the multi-day conflict covered in real, unhealed injuries and smiling the entire way home.
+
+"They'll be fine," he told Hope, when she raised how badly Summari and Nighla had also been hurt in their own fronts. "Dokia will patch them up — it's easier for her to work on them than on ordinary people. Even I find her a little unsettling to watch work, honestly, but it's effective." Zoe, arriving from the hospital wing, offered to tend his own wounds directly; he refused her specifically, in a way that visibly stung, and walked off rather than let her close the distance. Hope noted the shift in him. Zoe noticed it too, and went after him anyway.`,
+          },
+          {
+            id: 'sc-e9-5-zoe-apology',
+            title: "I'm Sorry, Irane",
+            content: `She found him alone, cleaning wounds worse than either of his daughters had taken — broken ribs, internal bleeding, torn muscle held together by pure will rather than any active healing — and forced him to sit still long enough to let her work. He didn't object. He couldn't, really.
+
+"I'm sorry," she said, finally, focused on the wound rather than his face. "What I said, the first time we met — you were right, and I was naive to expect every Alma I sent here to behave the way I wanted them to. I've done horrible things. I kept Dokia suspended between life and death for years because I couldn't let go of the last piece of my master I had left. I killed millions of people in that lab and went numb to it somewhere along the way. What I said to you wasn't fair. You never had a choice in any of it. I did, and that's why I'm sorry."
+
+"I wasn't offended," he said. "I know exactly what I am, and what was done under this face before I existed as myself. You weren't wrong. I'm one order away from doing any of it again, with no hesitation and no guilt — and the worst part is knowing that, and still not being able to promise you it won't happen." He told her, plainly, what he'd done with the ten captured elementals rather than simply destroying or enslaving them — they were children, in the only sense that mattered, drawn to Paradise because it was the largest concentration of the mana that had made them, and he intended to let them live there rather than cage or kill them. "Apexia isn't just for humans, or Apexians, or Orians," he said. "It's a place that welcomes what belongs to it. These are Kathara of Apexia now. We live with them, the same as we live with each other."
+
+"And who ordered you to do that?" Zoe asked. "What core desire does that satisfy?"
+
+He looked at her, something almost soft crossing his face for the first time since the duel between them. "Don't you think pets make a home a better place?"
+
+She laughed despite herself, and finished healing him in silence after that, leaving the deepest scars alone on his request — proof, he told her, that he was alive, that each one marked an encounter with something real. When she finally asked him the question that had been sitting under everything else — whether she was a bad person, whether a home built on this much death could really be called one — he answered her without flinching from any of it: that everyone fights for a reason that feels righteous from the inside, that the real question wasn't whether she was good but whether she kept trying to be, in a world that made trying this hard. "Out of the three of you," he told her, "your core is the most outward-facing. You treat everyone the way you'd treat your own cells. That's not nothing, Zoe Navar. That's about as good as a person can be, in a world this broken."
+
+She cried harder at that than she had at anything he'd said to hurt her, and fell asleep in his bed from sheer exhaustion afterward, the healing having cost her more than either of them expected.`,
+          },
+          {
+            id: 'sc-e9-5-induction-numbers',
+            title: 'The Long Walk to Paradise',
+            content: `The formal induction of every Orian who'd chosen the Valariyan path took place over the following weeks — a mandatory seven-day walk from Sethia through Hades, Ether, and Tulla before finally reaching Paradise's gates, meant, as Irane put it plainly, to let every applicant see the full shape of what they were joining before they were asked to give anything up for it. "You are free to turn back at any point on this walk," he told the assembled crowd. "None of you fail simply by choosing not to enter. But once you pass through these gates, there is no more turning back."
+
+The numbers that came out the other side of that walk, once every cohort had gone through its full trial period in Iris's Forge and Enari's Biome, told their own story about who each woman actually commanded. Arai's own cohort — deliberately smaller, since it excluded outright the millions of Alma and Spirits forcibly converted to human bodies under Vraka's and Selis's own command during the war, a population that had never truly been hers to claim — numbered roughly fifty thousand candidates, of whom nearly forty thousand passed: the highest completion rate of the three by a wide margin, consistent with an Ascen culture that had always prized individual core-mastery above raw numbers. Hope's cohort, drawn from the Spirits' much larger and far less selectively trained population, ran to roughly four hundred thousand candidates, with somewhere between ninety and a hundred fifty thousand completing the trial. Zoe's cohort, the largest of the three by sheer volume, numbered around six hundred thousand, with roughly a hundred fifty thousand passing — the largest raw number of new Valariyans, if also the lowest completion rate by percentage.
+
+It was Hope who said the quiet part aloud, once the three of them sat with the final figures together. "It's not that your people are somehow better than ours, Arai. It's that yours already knew how to cultivate a core before any of this started. Ours are duds who'd never had the chance." Arai didn't disagree. The Ascen system Aevum had built, whatever else it had cost the people living under it, had at least given every citizen decades of practice treating their own core as something worth mastering individually — while the Alma and Spirits who volunteered were, disproportionately, exactly the people Elorah's and Azen's rule had written off as disposable, attempting something entirely new to them for the first time under conditions of total war. The gap in outcomes wasn't a flaw in either group. It was the visible cost of the two very different worlds that had produced them.`,
+          },
+          {
+            id: 'sc-e9-5-alma-purge',
+            title: 'The Loyalty Test',
+            content: `Zoe pressed Mira for the full account of what had happened to the Alma she'd originally sent to Apexia, and got it without softening. Two hundred thousand had arrived; roughly twenty thousand remained, the difference accounted for by execution, use as living shields during the war, and — the piece that landed hardest — a loyalty test Mira herself had proposed and Irane had approved: a hundred eighty thousand Alma suspected of continued disloyalty released into a killing field, hunted by Alma who'd declared their loyalty to the Empire, only a little over twenty thousand of the hunters emerging alive at the end of it.
+
+"That was my suggestion," Mira told her, flat and unapologetic. "Let the loyal kill the disloyal, and clear out the people we already knew were a problem in the same stroke. It was brutal. It was also effective — the survivors of that purge are some of our most reliable people now, working directly with Pandro on the expansion project." Zoe didn't have a response that didn't sound naive even to her, and let the silence sit rather than push further. It was the same conversation, in miniature, that Irane had already had with her about Coral, about the war, about what it cost to build something this large out of people this disposable to the world that had made them. She hated how little Mira's own account actually surprised her by that point.`,
+          },
+          {
+            id: 'sc-e9-5-rooftop',
+            title: 'The Rooftop',
+            content: `She found him some time later on a high rooftop terrace overlooking Paradise at sunset, alone, in the plain, undecorated clothes he wore when he wasn't performing anything for anyone. He didn't turn when she sat down beside him.
+
+"I like watching the sun rise," he said, unprompted, as if continuing a conversation they'd already been having. "I make a point of it, wherever I am. It feels like the start of a new page. Sunsets make me sad, though. I've never worked out why." He glanced at her. "Come here often?"
+
+"I'm dead tired of being the Empress," Arai said, letting the honesty surprise her as much as it did him. "Just for a minute, I wanted to sit somewhere and not be anyone's Goddess."
+
+He didn't argue with the framing, didn't try to talk her out of the exhaustion. They sat with it together instead — two people who each, in their own way, had spent every hour since the seal completed being something larger than themselves for other people's benefit. "You know," he said, after a while, "I don't actually remember most of what happened before I woke up under that tree. I know the shape of it. I don't feel it, the way I think you do." Arai looked at him properly for the first time since she'd sat down — not the Emperor, not the god the Valariyans knelt to, just a man roughly her own age in every way that mattered now, carrying a version of a life she'd helped design without ever intending for it to become a person.
+
+"Does it bother you?" she asked. "Not remembering?"
+
+"Sometimes. Mostly it feels like relief." He looked out over the city — his city, in the sense that mattered, built from the wreckage of a war he hadn't chosen and couldn't fully remember starting. "I get to just be whatever this is. Nobody's expecting me to be eighty-eight million years old today."
+
+"I know the feeling," Arai said, quieter than she meant to. "Everyone's always expecting me to be the woman who built you." She didn't explain further, and he didn't ask her to. They stayed there together until the sun was fully down, neither of them performing anything for the other, and for the length of that one evening, neither of them was anything except two people who'd both, in their own way, been made by someone else's plan and were still working out how much of themselves they got to keep.`,
+          },
+        ],
+      },
+      {
+        id: 'ch-earth-9-6',
+        title: 'Chapter 9.6: The Ghost of the Past',
+        scenes: [
+          {
+            id: 'sc-e9-6-evelyn-returns',
+            title: 'The Report from Orians',
+            content: `On Earth, while Irane's fight with the Arke twins was still tearing Limbo apart, the Primals were bracing for their own next move when the mana storm cut communication with Orians entirely. Vesper caught a mild dose of mana sickness in the confusion and recovered within days, but the panic it caused was real — until Evelyn made it back through the storm herself, half-dead from the crossing, with Nevir Jr. and Irane Jr. in tow. Alex was at her side the moment word reached him.
+
+She told him everything she had strength for: that Irane had beaten the twins, that he'd taken every Valariyan's core as the price of citizenship, that anyone who refused had been turned into something closer to a puppet than a person. She'd seen it happen. It had terrified her enough to run. She passed out delivering the last of it, and Minia — watching from across the room — caught the exact moment a smile crossed Alex's face that didn't belong to him.
+
+"So Arai's little toy beat the twins," he said, in a voice that had gone a register deeper than Alex's own. "Minia — reopen contact with our people in Orians, and run Irane and Nevir Jr. a full medical workup. I want to know everything about that machine's son."
+
+She ran the tests. Both boys were three or four years old — the age a core normally settles into its true, stable expression, though Urial and Dokia had both been documented exceptions, awake and aligned from the moment they were carried to term. What Minia's readouts showed didn't match what she and Ember had already shared with each other. Artemis Osiro: Light-Darkness, Chaotic-Light. Isaac More: Energy-Light/Darkness, Harmonic-Light/Darkness. He had her alter both records before anyone else saw them — Artemis's to Light, Chaotic-Darkness, and Isaac's to Energy-Light-Darkness, Harmonic-Light — and set Artemis's file aside, his attention fixed entirely on his son's.
+
+He read through it smiling, more openly delighted than she'd ever seen him. "I finally have it, Cith," he murmured, to no one in the room. "After all these years. And it's because of you. I wish you were still here to see it — she looks so much like you it's frightening. Even the eyes." He set the tablet down, moved from Isaac's file to Arai's own. "If you really did it, Arai — if you actually managed to seal Vraka and Selis —" He smiled at the thought of what that would mean for him. "Twelve hundred years of planning, of waiting, of moving in silence. I mustn't get distracted now. There are still pieces to place. I need to make sure I don't lose Minia — by my own count, she's the last one I need. I really do owe Arai a proper thank-you. That girl has been the key to all of it."
+
+The moment broke when Taliya reached them with an emergency report: a horde of beasts was pouring into Primal territory through fractures in the barrier Mana had once placed between Limbo and Earth — the same barrier the Arke twins had spent centuries wearing down, and the same cracks Toma had been using to smuggle Ferali and Celestials out for his core experiments. The containment sites built around those cracks had been overrun from the inside. Worse ones followed within the week, powerful enough that Alex ordered a full investigation immediately.
+
+Minia's tests found something Taliya and Ember confirmed independently: these were an evolved form of Vethara, no longer tethered to a living host, carrying traces of Kazemi's own mana rather than Vraka's or Selis's. Father Time and Mother Nature sensed the shift the moment it began, and called a meeting of the Primal high command to explain it properly. Ember opened it. "A Beast or a Tool can't disobey the person carrying it — that's what a beast-contract or tool-contract actually is. And carrying one already costs an Alma or Spirit twice the life force a normal Coreporial spends, which is why both races have half the natural Orian lifespan. Humans don't pay that price." Alex cut her off, impatient for the point. Taliya took over. "Ferali are cores of pure Chaotic mana. Celestials are pure Harmonic mana — Aura and Force respectively. Neither can sustain itself without a host or without Vraka and Selis directly. As long as the twins live, the ones already bonded to someone won't disappear. The free ones should have died the moment they were cut loose. Mother Nature confirms they didn't. They're carrying traces of Kazemi's own mana instead."
+
+"So you're telling me Vraka and Selis are alive," Alex said. "No," Ember answered. "We're telling you these Vethara aren't connected to Vraka and Selis at all anymore. They're connected to Irane. The Ferali are leaking his Mana-Aura. The Celestials are leaking his Mana-Force."
+
+Minia started laughing before anyone else understood it. "His mana is compensating for what they lost. The Ferali are converting some of Kazemi's mana into Force and folding it back into their own Aura — regenerating themselves. The Celestials are doing the same in reverse. That's why they don't collapse back into ordinary Primals. He's not just freed them. He's made them self-sustaining."
+
+Father Time and Mother Nature spoke almost as one after that. "You're all missing the actual point," Mother Nature said. "This was the whole purpose of the trial from the beginning — end the twins, free the Vethara. That part is finished. What you're not seeing is that this is only the start." Father Time went further: "What we're facing now are Level 5 and 6 beasts and tools. I expect the ceiling to climb. If it climbs far enough, we may eventually see a Titan, or an Elohim." The fear in the old beings' voices was unmistakable — enough that even Alex's eyes went wide.
+
+"Titans are beings of pure Aura, pure Chaos — the true predecessors of the Ferali," Father Time explained. "Elohim are beings of pure Force, pure Harmony — the same, for the Celestials. They existed before cores were even a concept, when we Primordials still moved through the world as pure mana. We fought them once, long ago, in a war so old it feels more like an inherited dream than a memory. We won. But the war is why the universe looks the way it does now, and why every one of us formed a core in the first place. If these new Vethara keep growing, there's a real chance one of them becomes a Ferali-Titan, or a Celestial-Elohim. We need to deal with this now."
+
+The room went quiet before Alex finally spoke. "Fine. We deal with the Kathara first, and we find a way to reach Apexia. I want to know exactly what happened with the twins."`,
+          },
+          {
+            id: 'sc-e9-6-aevum-reveals',
+            title: 'The Soul of Aevum Vane',
+            content: `He kept Minia behind once the room had cleared.
+
+"Are you finally going to tell me why you've kept me here?" she asked. "Do you know who Aevum Vane was?" he answered instead. She gave him both versions — the Primal account, a monster who'd sold his people to their murderers and lit the fuse of the war between the Primals and the Ascen; and the Ascen account, the founding legend of House Vane, the man who taught his people to master their own cores rather than lean on a beast or a tool, the student the first Sage Arke had called her equal, the King who led the Orians through the war that split them into three races and never once lost a fight in a thousand years. "Arai told me a great deal about him, once," she added. "In her own words: 'Aevum Vane, the most pitiful excuse for a man that has ever existed in this universe.'"
+
+Alex's expression shifted mid-sentence — the smile wrong for the face wearing it, his voice dropping a full register as it kept talking. "It changes a little every time I hear it. I don't hate that, honestly. Perspective really does change what the truth of a story sounds like."
+
+Minia's own core let her read the mana around a person the way most people read a face, and what she saw twisting and reforming around Alex's in that instant was unlike anything she'd ever recorded. She was on her feet, ready to run, before his mana closed around the room and made the decision for her. His eyes had gone black, ringed in a piercing white.
+
+"I'll admit — I've never had an Ascen call me scum to my face before," he said. "Then again, that just proves she's exactly like Cith. One fact history conveniently leaves out: I did lose, once. To a woman named Cith More. Grandmother, as it happens, to the body I'm currently wearing."
+
+"You're — Aevum Vane." Minia's voice didn't fully hold. "That's not possible. How long have you been inside Alex?"
+
+He laughed, and the sound shook the room in a way that had nothing to do with volume. "I do love a clever woman — you don't waste my time asking things you already half-know the answer to. Minia Consa. Formally: I am Aevum Vane. Or more precisely, I am what's left of him — a soul, loose in the world, moving from body to body." Minia composed herself with effort, thinking, absurdly, of what Irane would make of her losing her nerve, and answered him level. "Aevum Vane's soul. I am Minia Consa, head of House Consa. What do you want from me?"
+
+"I'll be direct, since you clearly prefer it. I need your help finishing what I started a very long time ago." "Do I have a choice? If I refuse, do I leave this room alive?" "No," he said, without any particular cruelty in it. "You don't, and no, you don't. But I can offer you something worth far more than your life. You've been a genuine asset since I took Alex's body — through the whole war, in fact. And I owe you more than you know. If it weren't for you, I wouldn't have Isaac."
+
+She understood before he finished the sentence. "That's why you had me falsify the readings for everyone else. His core matches yours — the one you had when you were alive." "Good instincts," he said. "And for your cooperation, I'll give you Irane Jr. — to do with entirely as you see fit." She stared at him, genuinely confused. "Why would I want him? Do you think he's a substitute for Kazemi?" "I think you'll want him for exactly what he is," Aevum said. "Tell me what your tests on him actually found."
+
+"Nothing remarkable," she said. "A pure Water core, Chaotic-Darkness. Fully human, structurally. Nothing about him reads as unusual." "And what did Irane's body look like, the one time you examined it properly?"
+
+She thought back. "Impossible, honestly. From the outside, mostly organic, with a few additions — wings, tail, claws. Once I actually ran magic against it, it was like standing in a universe made of stars. No matter how much I cut or damaged the cells, they simply reformed into something new. Every cell behaved like its own core. His body doesn't need to eat or sleep — it's built entirely to absorb and process mana. There were a few concentrated points that read almost like organs: one in the mind, one in the heart, one lower. All three responded the same strange way. It was Ember, actually, who noticed the mana signature matched Arai, Hope, and Zoe's — different, but related. So Kazemi's body and Junior's are nothing alike. That's simply a fact."
+
+Aevum smiled at that. "Exactly. He seems perfectly ordinary. I want you to think back to what Evelyn told you about her time in Apexia." "She complained about the workload, mostly. Four hours' sleep a night, war conditions, the usual. And something about nearly dying to 'demon babies' — I never asked what that meant." "Those demon babies," Aevum said, "were Summari and Nighla Kazemi — your children — along with Dokia Caedus and Urial Ferran, Valariya Hallow and Dio Ferran's son. She told me Irane insisted his son be raised near them despite the danger. Dokia nearly killed a woman named Isoke and left her permanently scarred. Summari apparently causes earthquakes by sneezing. Nighla throws small suns at Urial for fun. I want you to actually sit with that for a moment."
+
+Minia nodded slowly. "You want me to find out what makes him different." Aevum rose and crossed the room toward her, and the pressure in the air shifted with him until she shrank back in her chair. "There's a great deal I need from you, Minia. I've waited twelve hundred years for this. Every piece is finally moving into place. I find it fitting that I'm wearing this face — because when I first went to war against the Primals, I never meant to kill them all. I took a number of the worthy ones for myself. I was never truly Vraka and Selis's ally — I always thought they were two foolish children chasing revenge — but when they offered me immortality, I admit that was a deal I couldn't refuse. And now look at me. A ghost. Fading, slowly, into nothing."
+
+He told her the rest as it came to him, unguarded in a way she suspected he rarely allowed himself to be. How he'd united every tribe of Orians under one banner, brought down Azen with a single strike, outtalked Elorah entirely. How he'd known his golden age would die with him, and refused to accept that as the end of the story — how Mana's own children had found him at his most afraid of dying and offered him a way out, dressed up as the honoring of a uniquely rare core. How the price turned out to be a tether, not a gift: his core bound permanently into the twins' own architecture, feeding their father's remains directly, his body converted into a relay station he never chose. He told her about Cith More — the one woman who ever beat him, in the one war he ever lost, wielding an Energy core like his own but doing things with it he'd never seen and never matched. How he'd died on that battlefield believing immortality was real, only to wake inside his own son Dulla's mind and discover what "immortality" had actually cost him: a body he no longer owned, and a rule that he could only jump between people whose cores matched or exceeded a Level 7 threshold — his own had been Level 9.
+
+He told her about the centuries after: fighting Cith in Dulla's body a hundred times and never once winning, admiration curdling slowly into love, running away with her when the weight of the war finally became more than either of them could carry alone, the two children they had together — Darkki Ardent and Noxa Nexal — and the moment she'd discovered exactly what he was doing to their son's ability and nearly killed him for it a second time. He told her he'd let it cost him her, because by then Darkki's own gift — the beginnings of the sight that would seed House Ardent and House Nexal both — was worth more to him than the marriage. He told her about the centuries after that: wandering body to body, watching Toma feed millions into a trial he half-understood the true purpose of, waiting.
+
+"Tell me," he said, when the history ran out, "what do you actually think of Arai Nexal?"
+
+Minia answered without hesitation, something close to admiration in her voice despite herself. "The only woman I've ever met that I couldn't call my equal. I was exceptional my whole life — my mother knew it, my father knew it, I knew it. I understood my own father's work on core and gene manipulation before I was old enough to be trusted with a scalpel. My own father buried me in a dead-end project because he couldn't stand being outshone by his own daughter. But Arai matched me at every turn. She could tell what I was thinking before I finished thinking it. I leaned on her before I noticed I was doing it — a prisoner, an Orian, and somehow the only person I've ever spoken to as a genuine equal."
+
+"She has Cith's eyes, you know," Aevum said. "The resemblance is almost frightening. I saw it the first time she walked into the Academy, back when I was wearing the old Grandmaster — that same rage at the world, that same refusal to let it win. It was like watching her come back." "Do you love her?" Minia asked, frowning. "Not the way you're thinking," he said. "And I'd advise anyone against pursuing that particular woman — she turned love into a cage. A literal cage, holding a tool that's convinced itself it's a man."
+
+He told her, then, exactly what he'd seen of Irane over the years he'd spent close to Arai's circle before taking Alex's body: a body remade cell by cell into something no longer built for ordinary human use, moving with a precision that read, on close inspection, as preset — every gesture the output of an architecture rather than a choice, even when the architecture itself didn't know it was being run. "Help me," he said, "and you can have your toy back — and the children that came from him and you, all of them, yours."
+
+She let it settle before asking the practical question. "If Isaac is step one, what's step two?" Aevum's gaze shifted to a map of Orians. "I never gave up on uniting the whole world under one crown. Only the shape of the plan has changed. I need Isaac's core at Level 8 at minimum. By the time he gets there, I want full control of Orians and Earth both, brought together under one name. He carries More and Vane blood both — he's the one who conquers it."
+
+"So you want my help growing his core, and you handed me Irane Jr. so I could use him for exactly that — a rival to push Isaac further." "I don't believe Kazemi's son is an ordinary child," Aevum said. "A brother worth overcoming might be exactly what Isaac needs. Time will tell." "And where do I stand," Minia asked, "in this new empire of yours?" "That depends entirely on what you deliver me."
+
+He placed his hand over hers, and a mark rose on her skin — a binding seal, not a gift. "This ensures your loyalty stays where I need it. Betray me, and it kills you. Serve me well, and I'll make you a true queen — one with everything she's ever wanted." She knelt before him in answer, and he let her kiss his hand in the old Ascen gesture of submission. "I'll give you knowledge Arai herself would want," he told her. "Mythical spellwork, information no living archive holds. Consider it the cherry on top." "Good," he said. "We have a great deal of work ahead of us."`,
+          },
+          {
+            id: 'sc-e9-6-human-strike',
+            title: 'The Kathara War Widens',
+            content: `While Aevum worked Minia, the war against the humans changed overnight. Three coordinated strikes hit major Primal points at once, and the message was unmistakable when the leaders of House Oba and House Long died in the same night, followed shortly by the head of House Rongo. The humans — dismissed for a generation as a manageable nuisance — had found a way to bond the new, self-sustaining Vethara as their own Beasts and Tools, and it turned them into a genuine threat almost overnight. House Ouranos and House Wakan were annihilated outright, bloodlines targeted specifically alongside the family heads, a message as much as an attack: five of the Primals' best warriors and thousands of their elite dead in a handful of coordinated strikes.
+
+The creatures themselves earned a name across both fronts — Kathara, the Kazemi-touched Vethara — and they came in classes. Level 5 was the baseline; a human bonded to even the weakest of them jumped straight to a Level 6 core on contact. Level 8 Kathara were an entirely different order of threat, and they were no longer rare.
+
+Orians suffered its own version of the same catastrophe, though from a different direction. Axola detonated a forbidden weapon over the southern cities — a bomb built from Life/Death, Space, and Time magic with an Energy correction layered in, designed to erase everything in its blast radius in a single mana storm. Aliya, Summari, Nighla, Assa, and Dokia had spent the crisis working together to grow the three young Valariyan trees planted across Apexia, their root network extending, through Kazemi's own universe, into the ground beneath Paradise itself — which meant when Axola's weapon detonated over the southern territory, it didn't simply destroy the tree planted there. It opened a live channel straight into Limbo.
+
+Kathara poured through in the exposion's wake, and the tree at the center of it mutated into something new entirely: a Level 10 Vethara in its own right, part Ferali and part Celestial, that began actively summoning and refining more of its own kind to hold the region. What was left when the smoke cleared was a forest of pure death — later named Hvergelmir, after the realm it most resembled — and it didn't stop at making monsters. It reached into the Alma and Spirits still living nearby and forced them permanently into their demon or angel forms, and it reached into the Ascen too, transforming them into something closer to living elemental cores than people. Orians only faced this in one region, contained if catastrophic. The Primals faced Kathara pouring in from every direction at once, with Limbo itself sealed off behind the mana storm and no way to reach the source.
+
+Both worlds blamed Irane for it. The Primals called it deliberate extermination. The Orians called it Arai's doing specifically — her rage at Aevum, now made physical.
+
+The full report from Orians finally reached Alex through his spy network soon after: Azen Lucerne, wielding Vraka, dead to Zoe Navar. Elorah Seraph, wielding Selis, dead to Hope Apolo. Niro Vane and Tunde Ardent missing, presumed lost, after Arai declared her hatred of Aevum publicly before the entire Ascen court — Niro having just told her, to her face, that she was nothing more than a pawn — and used a weapon of her own to level every city and monument of historical significance to Aevum's legacy. The number that actually shook Alex was the death toll: zero. Every civilian in the blast radius had been pulled clear through tunnels that opened at Niro's own voice, moments before impact.
+
+He held that smile, alone with Minia, for longer than she was comfortable watching. "It's time, Minia," he finally said. "Bring me Ember and Irane Jr. We move forward now."`,
+          },
+          {
+            id: 'sc-e9-6-irane-jr-truth',
+            title: 'What They Told the Boy',
+            content: `Irane Jr. was five, though his mind ran closer to a young teenager's — sharp enough that it showed the moment he stood next to other children his age. He'd spent the last few months close to his younger siblings, with Nevir Jr. — ten now, and already pulled into the war effort as the only current wielder of a Life/Death core in House Revyn — orbiting the same household less often, caught up in his own responsibilities.
+
+He came in confused, uncertain why he'd been summoned at all. Ember asked, flatly, what this was actually about. Alex — Aevum, behind the borrowed face — answered her directly. "It's simple, Ember. I want the boy to know the truth of his own making. You've kept it from him. Perhaps that's overstepping, but we're married, and I'd rather he understand the reality of his father than live in comfortable ignorance. I could have done this without you. I asked you here so you'd know I wasn't lying to him behind your back."
+
+Ember hesitated, weighing it, and found she couldn't disagree without admitting the truth wasn't for the boy's benefit at all — it was for theirs. She'd never wanted him to carry this yet. "He has a right to know what his father actually is," Alex pressed. "Or would you rather he lived the rest of his life not knowing?"
+
+"What do you mean?" Junior asked. "What about my father?"
+
+Minia opened with the file: Subject 888,888,888. Physical data, blood type, age — clinical, until she reached Arai's own recorded note about the way he'd shielded a woman during the trial. "Tell me," Minia said, "how much do you actually know about your father and your sisters?"
+
+"My dad's amazing," Junior said, eyes lit with it. "I've never seen him sleep. He never complains. He tells jokes all the time. I heard he never lost a single war — he fought for the Primals, then built his own empire. He's exactly like the man in the story of Kazemi. I hear that story all the time."
+
+"He is all of that," Minia said. "And a great deal more." She played the footage next — old, damaged, a recording of Arai and "Z" before the trial, Arai laughing coldly over her own report as she finished it. "I won't lie to you," she said. "Your father was one of the people forced into an experimental procedure. Kazemi was the name of a Primordial — pure mana, one of the oldest beings in the universe, killed alongside Gaia and Cronus by a being called Mana. They came back. Gaia became Mother Nature. Cronus became Father Time — your own mother's Tool. Kazemi came back through the trial: a project meant to resurrect a hero who would end the war against Vraka and Selis for good. We sacrificed millions of our own people trying to make it work. My father and Toma ran the effort to build the army it needed. I was tasked with waking Kazemi himself, and that's how we met a woman named Arai Nexal. Do you know that name?"
+
+Junior shook his head.
+
+"I ran that project," Minia went on. "We found a way to let ordinary humans enter the trial. Arai became the one who actually ran it. Your mother can tell you who she really is better than I can." She turned the moment over to Ember with a small, deliberate smile — a test, and both women knew it.
+
+Ember's face went dark. "Arai Nexal was my teacher, when I was young. She helped me find my footing. She's brilliant. She's also a monster — a woman who never once hesitated to spend the people closest to her to get what she wanted. I was taken by the human resistance when the Primals struck, and that's where I met your father — an ordinary man, nothing special about his core, who spent every hour he had trying to save whoever he could. People used to joke that he was so unwanted even death wouldn't take him. He had this smile. This gentleness. He was the best person I ever knew." Something warm crossed her face for a moment, and then it collapsed into grief, and then into anger. "I assumed Arai, Hope, Zoe, and Mira were all dead — until I saw them again, working freely alongside Minia and the Primals on their own experiments. They weren't prisoners. They chose it."
+
+"They chose it because they believed in what they were doing," Minia added. "We worked together. I wasn't the one leading it, in the end — Arai was. She turned what started as a sacrifice into a game. Billions of impossible combinations, tested on real people." She showed footage: hundreds dying, one after another, and the flat, unmoved faces of Arai, Hope, and Zoe watching it happen — carefully edited to erase her own hand in coercing Hope and Zoe into it in the first place. Then the footage of "Z" himself, mid-trial, and Junior went quiet, staring at the resemblance — the same face, underneath, as his father's, just with sharper, more draconic edges.
+
+"He passed the trial," Minia said. "I believed that was the end of Arai's involvement. It wasn't. She placed a seal on him — using her own core, and Hope's, and Zoe's. Ember worked that part out. Go ahead."
+
+Put on the spot again, Ember continued. "After it happened, Pandro and I spent years working out what had been done to him. We found distinct signatures — Arai's mana in his mind, Hope's in his heart, Zoe's lower in his body. His whole physical form was built from those three. We used their own unconscious mana to wake him, in the end."
+
+"Are we certain they were unconscious?" Alex asked, and the room's pressure shifted enough that even Minia looked at him, confused. "Minia — do you know who Cai Consa really was?" A timeline appeared, five-year segments, Cai's presence in the Consa compound mapped against it. "Cai was, in fact, Arai Nexal — or more precisely, a human-core construct built by Zoe, worn by Arai for the compound's first five years, then handed to Hope for the next five."
+
+Minia's expression went through several stages of disbelief before landing on something closer to horror, the pieces reassembling themselves in real time. "Cai was your best agent," Alex said to her, almost gently. "The woman who taught your Consa soldiers to bond Kazemi's own Tools and Beasts. I'm sure you remember her finest student — Aliya Hallow. The one who killed your sister, Ember, and who now goes by Aliya Nexal. Arai's daughter."
+
+Ember's expression cracked. "And if you need further proof," Alex went on, "look at your own children, Minia — and everything they represent. You lost control of him the same day you conceived. Ember, just before you. That wasn't coincidence." He turned to Junior directly. "Sitting beside me is Minia Consa — the mother of your older sisters, Summari and Nighla. I believe every part of what's happened today was arranged, from the very start."
+
+He showed them the destruction on Orians next — the burning capitals, Arai's own face lit with something close to satisfaction in the wreckage, Junior's older sisters visible in the footage in fully adult-sized armor for the first time either woman had seen. Ember watched her old home burn with an expression neither pleasant nor entirely sorry.
+
+"So tell me, son," Alex said. "Do you know why your father built the Apexian Empire?" Junior stood frozen at the screen. "Arai has been operating on a scale none of us saw, the whole time we thought we understood the war. Your father is a slave — bound by the people closest to him to serve their own desires. Mira. Pandro. Every one of them complicit in what's been done to him. He built Apexia because Hope and Zoe wanted it. He broke Vraka and Selis for Arai. Everything he's ever done, he's done for them. Was there ever a single day your father wasn't working toward something one of those three wanted?"
+
+He showed them Aliya's own combat record from the first war, and Criya's, and dozens more — a near-perfect record for every soldier Cai had personally trained. "I fought in that war," Alex said. "I took my own orders from exactly two people back then: Cai, and Mira. Cai most of all. She was close enough to your father that people called her the Empress, and called him the Emperor."
+
+He produced Sofia Prescian's original manuscript last — the full, unedited version, reconstructed from what Aliya had told him while he wore Simon's body. "This is the same book my dad keeps by his desk," Junior said. "I've read a few pages, sneaking around." Alex looked briefly surprised, but pressed on. "There's the bedtime version, and there's this — the true original, written by Pandro Prescian's own late wife. You know Pandro. Minia's younger brother. Worthless, by his own family's estimate, until Arai taught him to use what he actually had. He's the one who saved your sisters' lives after your mother's body couldn't carry them to term — at the cost of his own, for years."
+
+The room went quiet as Minia's own certainty finally broke. "How long," she said, mostly to herself. "How long has she been using me." Every memory of Cai beside her rearranged itself in that instant into something colder, more deliberate. "Was it always planned? Was it always her?"
+
+Alex crossed to Junior. "I ordered my own sister into Apexia. When it became clear how dangerous that place was, I had her bring you home. It's a place run entirely under Arai's spell. I want you to take your time and decide — whether you leave your father under her control, or help me end it, and free him." He left the room, the files still open on the table, and Ember watched Junior move closer to read through them properly, faster than should have been possible for a child his age, tears sliding down his face in silence.
+
+Minia caught up with Alex in the corridor. "Why didn't you tell me sooner." His voice shifted back to Aevum's as the air around them changed. "If there's one rule I've never broken, it's this — never lie to Kazemi. That boy looks ordinary to you. He's five, and he understood every word we said in that room. He's already casting Level 4 water magic. I trained him myself." She stared at him, and he met it directly. "Your weakness has always been the same, Minia — you overestimate yourself, and you refuse to see reality when it's in front of you. You think yourself Arai's equal. You aren't close. The Mana Saturation technique you're so proud of was a rough idea she perfected for her own seal. You're not her peer. You're one more student in a classroom she happens to be running. Even Hope outmatches you, in combat and in strategy both — you went to Arai for help more in your last five years than in the decade before it, and every breakthrough you claimed as your own was, structurally, a side effect of her actual project. I've read what she was truly building. A physical seal, engrained on a human form, then run through the trial. A billion 'impossible' spells that looked like careless mixtures but were, every one of them, refinements toward that same seal.
+
+"She placed her own core directly into his mind. You spent years believing you controlled him. He was only ever trying to finish what she started. That's the first thing you refuse to see. The second is worse — it isn't simply that you think yourself her equal, it's that you've never once looked at yourself honestly enough to know you aren't. Cith and Arai share the same thing: a life spent in genuine hell, and the same hatred for the world that made them that way. You grew up in your father's lab, and the worst he ever did to you was lock you away instead of discarding you outright. You will never be either of those women. Know your place, Minia Consa — because the next time you think you're looking at an equal, you may not notice the monster standing behind you until it's too late."
+
+Minia went to the floor and screamed, her mana rolling out through the whole building. Inside the room behind them, Irane Jr. kept working through the files at a speed that shouldn't have been possible for a child, silent tears falling as Ember held him, sick with her own part in giving him this.
+
+The day passed with Minia alone in her lab, sifting old records from her years with Arai, until Junior let himself in, red-eyed, and sat with her without either of them needing to explain why.
+
+In the days that followed he spent more and more time near her. Alex watched it happen with quiet amusement. "There's always a bigger fish," he murmured to himself once, alone. "Funny, how much that woman hates me. It reminds me so much of Cith. Arai Nexal — if I believed in reincarnation, I'd swear you were her, come back. I wonder what your little toy will make of these Vethara. How certain are we, really, that this isn't your doing too? After all, Irane Kazemi obeys no one but you. I wonder if you even understand what you are — nothing more than a placeholder, until Arai stands beside me instead. What an empire we'd build together." He watched the sun rise, its gold reminding him of Irane's own color. "Once I have Arai, I'll have Kazemi too. Not yet, though — there's still too much left to arrange. I do wonder what kind of child would come from a womb that once carried his first two. He was fiercely protective of Summari and Nighla — far more than of Ember, or of his own son here, which tells you plainly enough where the boy ranks. Artemis is rare in her own right — a true Light-Darkness core is almost unheard of. Close, but not quite mine. Worth keeping near, just in case her own children carry it properly one day.
+
+"Enough waiting," he said, to no one. "I've had my fun testing the waters. I only let Minia lead the army so I could watch it work from the side. I'd have liked more from Arai in this war than I got — but I got enough. Toma, I hope you're proud. Your son is about to build the road to a throne that unites the whole world. Watch him conquer it."`,
+          },
+          {
+            id: 'sc-e9-6-ten-elementals',
+            title: 'Ten Elementals',
+            content: `The Kathara crisis proved harder to contain than anyone expected. New classes of angel and demon kept emerging as more humans were taken and merged, and two Level 9 Kathara — a Ferali bonded to a young boy, a Celestial bonded to a young girl — spent the early weeks of the outbreak hunting for exactly the right hosts, unaware they were being drawn toward each other. A core bonded into a human body gains a full level on contact; whatever those two eventually became, on the day they finally collided, would not stay a Level 9 problem for long. That threat stayed quiet for the moment. Apexia's own crisis couldn't wait.
+
+The mana storm surrounding Apexia had condensed into ten Primordial elemental forms — Fire, Water, Earth, Air, Ice, Electricity, Nature, Energy, Light, and Darkness — each a Level 10 mass of pure mana, beast and tool fused into a single entity, each carrying a conceptual nature layered onto its element (Fire: Harmonic/Chaotic-Light/Darkness, and so on down the list). Each was escorted by swarms of Level 5 and 6 Kathara sharing its element, with a scattering of Level 7s and the occasional Level 9 mixed through the ranks — billions of individual beasts and tools, invisible to detection until the mana storm thinned enough to reveal the scale of what had been approaching Paradise the entire time.
+
+The damage as they advanced was total and specific to each element: ash and desert wherever the fire mass passed, flash floods and drowned lowlands behind the water, entire tracts of earth transmuted into new minerals and structures, gale winds strong enough to level structures, a spreading deep-freeze, storms of pure lightning, a forest grown and dead in the same afternoon. The last three were the worst by a wide margin — the light elemental erasing anything it touched into nothing, the dark one consuming everything that entered it without residue, and the energy elemental radiating a field of pure anti-matter that turned ordinary contact with the air itself into a detonation.
+
+Only Irane didn't panic. He took the report with something closer to resignation than alarm — the sound of a man hearing that a debt he'd known was coming had finally arrived. Enari named the group Alpha-Omegas: beings built from both Harmonic and Chaotic mana together. "Those elementals were always going to happen," Irane said. "The elements condensed into their most primal forms because of my own mana, and because Vraka's and Selis's sealed magic — pure Harmonic, pure Chaotic — bled into the mix. Elementals were always the likely result."
+
+He gave his orders directly. "All Valariyans mobilize by elemental group. I'm assigning leads now — fire, Konnar Neel; water, Audis Prescian; earth, Isoke Mvel; air, Aura Veil, standing in for Adri; ice, Criya; electricity, Jade Alge; nature, Assa Flora; energy, Pandro Prescian; light, Summari; darkness, Nighla. You're grouped by your own core's alignment so containment stays fast and clean. Move."
+
+They moved with the ease of people who'd already lived through a real war — no hesitation, no wasted motion. Zoe offered to join the front directly. Irane refused her outright. "Take the rest, all of you. I've been waiting for this one myself."
+
+Hope caught the look on his face as he drew a blade she didn't recognize. "You're excited. Why?" "First time using this body in a real fight," he admitted. "I have the memories. Centuries of practice, technically. It feels different anyway — more real. I haven't had the chance to actually test myself yet, and these are Level 10s. Pure elementals. This won't be easy, and somehow that's exactly what's making me happy. It feels like my heart's actually beating for once. I suppose that's your doing, technically, since you're the one holding it. So which of us is excited — you, or me?" "Maybe I just want to watch you fight," Hope said, smiling. He knelt and kissed her hand. "Then come and watch from the front. I promise you a show." Zoe asked again to come along. He said no, flatly, and walked off with Hope before she could argue further. Arai caught Zoe's expression and laughed. "He's a teddy bear underneath all of it, Zoe. If you want back on his good side, apologize for what you said to him — it landed harder than you think." "Seriously," Zoe muttered, "this is what we get now that he's human?" "You still don't get it," Arai said. "Imagine meeting a woman directly connected to your own body, and having her call you a monster to your face. It's not the words that hurt him. It's that they came from a part of himself." "Since when do you understand emotions?" Zoe shot back, half-serious, walking off in mock irritation. Arai watched the Valariyans deploy — every part of the formation moving faster and cleaner than she'd have predicted, masterful in a way that still, after everything, surprised her a little.
+
+Hope noticed his clothes had changed before they'd even reached the drop point — loose, close-layered, with a faint gleam rather than any visible armor. "Enari's old scales," he explained. "Shed skin, essentially — not as durable as Sanctuary or Re-Action, but it channels mana at a much higher rate, and it reforms every time he sheds. Free-form armor. One outfit for every occasion." He was visibly proud of it — not performative pride, but the real thing, the kind that comes from having made something himself.
+
+"So what's the actual plan?" Hope asked. "I have thirty cores bound to my main one," he said. "My original ten elemental cores never got a beast — Kazemi added those to the other twenty. All twenty of those now carry a matched tool and beast." A katana, a trident, a hammer, a shuriken, a spear, a bow, a staff, and three orbs — one each of Energy, Light, and Darkness — arranged themselves around him. "These are the original elemental weapons. Forged in the Forge millions of years ago. The first ten tools that ever came out of it. Can you imagine?"
+
+Hope laughed at how openly delighted he was. "Kazemi told me I can do whatever I want with these," he went on. "Rebuild them, improve them — they haven't been touched in millions of years. The foundation everything else was built from." She reached out and took the katana, and its whole history opened to her at a touch — every reforging, every break, every scar it had left on Enari across its long use, and underneath all of it, the sheer amount of himself he'd put into making it in the first place. "I think I understand the excitement now," she said. "This must be an honor." He watched her study the others while, quietly, he took something small from his pocket and hid it in his palm.
+
+"I haven't actually used the Forge itself all that much, you know," he said. "Iris mostly just holds what I've already made. I have to forge everything myself, every time." He touched the katana at his hip. "This one was my first — the first thing I ever made once I understood the basics. It broke one million seven hundred thousand times before it held. Simple blade. Just channels mana. Doesn't do much. But it's tied to my core, so I only carry it when I'm not being serious about a fight."
+
+He took her hand and pressed the hidden object into it — a small, lopsided heart, roughly shaped, pure gold. "This was the very first thing I ever forged, before I understood anything. Iris told me I wouldn't get a second attempt, that it would never be reforged once finished. I hated it, at first. It felt like a permanent record of every mistake I made. I wore it anyway, and it took a long time before I understood it wasn't a symbol of failure. It was proof of where I started."
+
+She tried to hand it back, uncertain if she'd overstepped by accepting it at all, and found him waiting instead, hair already moved aside. He fastened it around her neck himself. It read, in small script: *Hope lives while your heart beats.* "Any particular reason it's a heart?" she asked. "I promised myself a long time ago that if my heart ever stopped, that would be the end — no transplant, no exception. The day it stops is the day I actually die. So that's what it's meant to say. My mind never stops. My body never stops. But nothing makes me feel more alive than feeling my own heart beat. It's a genuine problem, honestly — I end up smiling every time it happens, and nothing gets it going quite like a real fight. There's no feeling like it, Hope. None."
+
+The transport dropped them at altitude a short while later, close enough to see exactly why the Valariyans had been split into separate elemental groups — this was no fight for anyone without the matching nature. The pilot, visibly honored just to have the assignment, told Hope to enjoy the view. Irane laughed, bowed, and kissed her hand once more before stepping out into open air.
+
+Wind tore past his unshielded face on the way down. "Iris — active?" "Yes, sir. Tools standing by. Orders?" "Lock to a single element and a single tool — whichever matches the beast I'm currently engaging." Iris answered by locking the katana Pyrus into place — fire, first. "Enari, dragon form, full commitment. We're not holding back on this one. I want to measure myself against all ten. Order: fire, water, earth, straight through to darkness." Enari roared with something close to delight as he took his full Long-Dragon shape, and Irane pushed his own output to sixteen percent.
+
+Flame wrapped him in a spiral as his clothes shifted to deep fire-red shot through with gold, his hair burning the same colors. "Kazemi's Flame Art — All-Consuming Fire!" He drew Pyrus and a wave of fire swallowed most of the lesser fire-aligned Kathara outright. Climbing to thirty-five percent brought the Level 6 and 7s within reach; he cut through them without slowing. Forty percent handled the Level 9. By the time he reached the elemental itself, he was at forty-five, and its scale was an order removed from everything around it — reshaping itself constantly, turning the whole region to molten waste as they fought. He took a real wound driving his blade into its core, sealed the fire mana inside the katana, and left it buried there — the weapon now doubling as the elemental's prison — before handing cleanup to Konnar and moving straight to the water beast with Aquila already drawn.
+
+Each fight cost him time, mana, and blood in equal measure, but he kept moving, smiling through every wound, sealing each elemental into whichever weapon had finished it and leaving the sealed blade at the site. The last three — energy, light, and darkness — took the longest by far, simply for how hard they were to pin down, and pushed him to his full forty-nine percent before any of them went still. Days passed before the last of it settled across Orian and Primal territory both. He came back exhausted past anything Hope had seen from him, covered in real, unhealed wounds — and smiling the entire way home, the smile of a man who had, by his own account, genuinely enjoyed himself.`,
+          },
+          {
+            id: 'sc-e9-6-sethia-aftermath',
+            title: 'What Kind of Man I Am',
+            content: `He made it to Sethia leaning on Hope, blood-streaked and grinning through it. "Was it entertaining?" he asked her. "It was," she admitted. "Though I have to say — your daughters are in critical condition and you don't seem especially worried." "They'll be fine," he said, with total confidence. "Dokia will have them back to full health faster than she'd manage on an ordinary person — it's easier for her to work on them than on anyone else. Her technique pulls on my own Will of death to fully restore damaged or dead cells throughout a body, but the cost is that whoever she's healing has to experience death to make it work. Most people can't survive dying once. She can control the dose for someone else, keep it to the worst-damaged areas — but for Summari and Nighla, she tends to overdo it, because it barely registers to them as a cost at all."
+
+Hope's eyes went wide. "So they're going to die billions of times over?" He laughed at her alarm. "They understand life and death at a much deeper level than either of us. A cell dying doesn't read to them as death the way it would to you. They just find it tedious and uncomfortable." Zoe arrived from the hospital in time to catch the tail end of it. "True, and thankfully I was there this time, so it didn't take as many passes as it might have." Irane went quiet for a moment at that. Zoe asked if he wanted his own wounds tended. "No, thank you," he said, already listing slightly as he walked off. "I'd rather let my body heal on its own, when I can." Hope noticed the shift in him the moment it happened. "I never took you for the prideful type, Zoe," she said, mostly to herself, as Zoe clicked her tongue and went after him anyway.
+
+He was alone in his room, peeling off ruined clothes to clean the worst of the damage, when Zoe let herself in without knocking. His injuries were real and severe — broken ribs, internal bleeding, torn muscle across most of his torso, worse than either of his daughters had taken, held upright by nothing but sheer will. He didn't object as she sat him down and started working her healing mana over him.
+
+"I'm sorry," she said, after a silence that went on too long. "What I said, the first time we met — that was uncalled for. You were right, and I was naive to expect every Alma I ever sent your way to turn out well for the empire. I've done horrible things. Truly irredeemable things. I kept Dokia alive with stasis magic for years because I couldn't accept losing the last piece of my old master. I killed millions of people in that lab and somewhere along the way I went numb to it. What I said to you wasn't fair. You never had a choice in any of it. I did. That's why I'm sorry, Irane."
+
+"I wasn't offended," he said. "I know exactly what I am, and I remember every atrocity Kazemi committed before I existed — they're not distant to me, they're present, like memories that happen to belong to someone else wearing my face. You weren't wrong. You were entirely right. One order is all it would take. Killing, burning, torture, enslavement — I'd do any of it without hesitation, and the worst part is I wouldn't feel a thing about it afterward. I feel everything else — every Valariyan's opinion of me, every private thought about what I am. Most see an apex being. A few see a god. Almost none of them see a man, and some days I don't either. I'm supposed to be the Emperor made human — his Will, reborn as a person, because mortals can only be led by mortals, and empires for men have to be built by a man's hands, under a man's command. That's what Kazemi told me I was for. So I'll do anything the empire needs. Killing an enemy's children. Enslaving their women. Whatever the situation requires, whatever my own morality says about it — I'll do it without hesitating."
+
+Zoe let that sit before pressing further, her hands still steady on his ribs. "If I told you to kill a million people, how would you do it?" "Depends," he said, without missing a beat. "Are you asking me to kill a specific group, under specific conditions? Barring that, I'd probably use a single blast large enough to end it quickly and cleanly. It depends entirely on what the actual goal is." "Fair," she said. "Then tell me about those elementals you just sealed. Will you kill them? Keep them as pets? Set them loose?"
+
+He leaned back. "I won't kill them. They're children — babies, really, born straight into a storm of dense mana with no choice but to evolve into whatever they became. They didn't come at Paradise out of hostility. They came because they sensed the largest concentration of my own mana outside of me and felt pulled toward it, the way anything made from something reaches back toward it. All I did was what was already done to the rest of you — took their cores and placed my own elemental cores inside them. They won't become people exactly, but they'll be more than animals — beasts with will, bound now to my own nature the way any beast is. Notice how every Kathara stopped advancing the moment their controllers were stopped. That's because I gave them access to my own mana instead. Going forward, we watch them. We let them live the way we live. Apexia was never only for humans or Apexians or Orians. This is their home too now — Kathara of Apexia, and we'll share it with them rather than remove them."
+
+Zoe laughed a little. "Who ordered you to do that, exactly? Which command does that satisfy?" He looked over at her. "Don't you think a home is better with something living in it?" She laughed harder at that, nodding along, and by the time her hands dropped away his wounds had closed — though a few scars remained, and he seemed almost pleased about it. "Thank you for leaving those," he said, pointing to one across his stomach. "Enari left me my first real injury, right here. I healed it the ordinary way, on purpose. Some scars are worth keeping. Mine tell a story — proof I've actually been alive for each of these encounters."
+
+Zoe went quiet, and then, without warning, tears started. "Am I a bad person?" she asked. "You said you built this place to be a home — a home should have room for everyone. So why does it feel like more people have died making this place a home than it's saved? Why does anyone have to die just to live? I wish no one had to."
+
+He took her face in his hands and wiped the tears away with his thumbs. "Kill or be killed," he said, gently but without softening the point. "Everyone who's ever gone to war had a reason — land, faith, fear, grief, pity. Most people fight because they feel threatened: their way of life, their children's future. Take your own side of it — the Navar and Apolo clans sided with Wov and Osiro because they wanted to protect their own people, and got hunted for it. If someone told you Vraka and Selis were gods who'd saved the Alma and Spirits by giving them power, most of those people wouldn't change their minds for anything. Do you think your enemies see themselves any differently than you see yourself? Everyone fights believing their own cause is at least as noble as the one across from them. That's why people die — because none of us can fully understand each other, and so we fight instead. Tell me, Zoe — how long do you think Apexia lasts before it turns on itself? Say I'm gone one day, and Summari and Nighla disagree badly enough to split the empire in two. Which side would you choose? Could you choose at all, if both of them genuinely believed they were right? Would you step back and watch it burn, or step in — and if you stepped in, what happens to the reason they split in the first place?
+
+"The Primals and the Orians share the same ancestors, and they still went to war — not over their differences, but because they stopped being able to see past them. The Orians split themselves into Ascen, Alma, and Spirit. The Primals split into Ferali and Celestial. People will always find a difference to organize their fear around instead of the thing that actually connects them. You're asking if you're a bad person. The real question is what counts as a good one, in a world broken enough that women are treated as breeding stock and a person's entire worth gets measured by the strength of their core rather than what makes their core theirs. So — yes, Zoe, you're a good person. I don't need to look further than my own body to know it: the way it adapts and heals to meet whatever's coming is your core's own desire to protect what comes next, made physical. Of the three of you, yours is the most compassionate core there is. Hope's is the most self-focused. Arai's the most private. Yours reaches outward. You treat everyone the way you'd want every cell in a body treated — as equal, as worth saving. So yes. You're as good a person as this broken world lets anyone be."
+
+She cried harder at that, and he simply held her until she'd cried herself into exhaustion and fallen asleep, healing him having cost her more than either of them had expected. He laid her in his bed and took the couch himself, working through the night.
+
+Aphexia found him there in her small form, watching him from Zoe's side of the room. "Coming to stare, or coming to talk?" he asked. She climbed into his lap instead, letting him absorb her nature like scratching a beast behind the ears. "You seem thoughtful," she said. "I'd have expected you to be thrilled, now that your elementals finally have beasts of their own." "I am," he admitted. "I was ready to rush straight to the Forge and start the work. But something else caught me off guard first — Apexia is larger than it has any right to be. Each of those elementals covered ground the size of a small continent. It's a world inside a world, and I hadn't fully registered the scale of it until now. There's a great deal more to manage than I'd planned for, and our enemies aren't finished with us yet. The Orians will come eventually. The Primals will come. Even the humans have already shown that power, once they have it, makes them a threat too." Aphexia's ears flattened. "So go on the offensive. Kill them all first." He laughed. "I have a weak stomach for violence I don't need. If I ever did move to conquer them, I'd take in everyone I judged as genuinely abused along the way. I'd rather avoid the whole fight if I can. Kazemi gave the Primals five years to make their choice, and they made it. Humans with cores were allowed to become Apexian. Even Orians were allowed in. I can't complain about the terms I set. I just don't want the rest of the world's war. I want to worry about the problems inside my own home."
+
+"Fair enough," Aphexia said. "And what happens to whoever comes anyway — starts a war, tries to take what's yours?" His voice went flat and certain. "Anyone foolish enough to try to destroy my home or my people's way of life, justified or not, won't see the next morning. I'll end them without a shred of remorse. No one touches my people. No one touches my home." He looked out over the city as she settled against his hand. "I won't let anyone take Zoe Navar's home from her again," he said, quietly, and thought of the old story of the man who lost everything at the start of his life — the burning village, the faces he'd never known and could never forget, since Irane Kazemi remembers every face his eyes have ever seen. "Never again," he murmured, and fell asleep to a dream of Paradise burning, his daughters' bodies scattered at his feet, the banners of Orians, Primals, and humans all alight around him while he stood motionless, unable to look away.
+
+He woke to sunrise lighting the room from the perfect angle his own window always seemed to catch it at, Aphexia still curled against him. Outside, the city was waking with him — children heading to lessons, Valariyans beginning their shifts, the ordinary, tired, alive faces of a place that existed because of everything he'd just dreamed about destroying it. He thought of his children, and of theirs, and said, to no one, "Let anyone who dares disturb the peace of the Emperor's people meet their end at the hands of his Champion." Something in his eyes, for a moment, looked like it could set the world alight on its own.
+
+Later that day, Zoe met Arai and Hope at the hospital in Sethia, where Summari and Nighla were recovering under Dokia's supervision — Arai there as their teacher, Hope there to collect Summari, Zoe there to confirm they were fit to be discharged. Their injuries were healing cleanly. Unprompted, to no one in particular, Zoe asked: "If our cores wanted the whole world to burn, would he do it? What would we even do, if that's what it came to?"
+
+Arai looked at her. "So you're the reason I had that nightmare last night — the one time I choose to sleep, and I get everyone burning to ash." She said it with a grin. "Don't worry. That's not something we need to worry about — not while Irane's the one home." Zoe looked confused, and Arai gestured at the sleeping twins. "If we had the level of control over Irane that we have over Kazemi, he'd be a slave to their core desires too — they're still children, and everything they want is a core desire, whether they realize it or not. He knows what they want and still doesn't hand it to them. It's the same for us. My own desires reach him more like a thought that occurs to him than a command. Hope's excitement or anger shows up in him the way a heartbeat responds to feeling — it's her heart, after all, so of course it moves when she does. His body is yours the way an itch is yours — you can choose whether to scratch it. Kazemi Irane and Irane Kazemi are the same person operating across two different realities. Think of Kazemi as the conceptual and Irane as the human. We can influence him, certainly, but we have very little actual control over him as he stands now — that only changes if we activate our own Drive. Through the Drive, we can call on specific parts of him: Iris, the Forge, his heart, the Biome, his body, and — for me — his mind. He carries our actual cores in his body now, the way you'd carry an addition to your own."
+
+She stepped closer to Zoe. "His order was to love us, but the love isn't uniform — because of my command specifically, he understands us as the women he loves, though he hasn't acted on any of it, because he genuinely doesn't know how we feel in return. I can read every thought in his mind, all of it, all the time — but he can't feel me looking, the same way you can't feel your own subconscious watching you. It's the same for Hope's hold on his heart and yours on his body. He can resist us, to a point, in this state. Take my own wish to erase every trace of Aevum from Ascen territory — he carried it out, and still made sure no one died in the process. I'd say I have the most influence over the Emperor. Hope has the most over the Champion. And you, Zoe, have the most influence over the human, plain and simple. The human, the Champion, and the Emperor — one person, three different lenses on the same world. The Champion sits at the center, the midpoint between his humanity and his conceptual nature. So don't worry too much. If he were truly a slave to his cores' desires, he'd already be with both of you without a second thought. He finds you both more than attractive enough. He's never once acted on it — and I'd know, since I see exactly what runs through that mind of his. He's a man. A genuinely human one, in every way that matters."
+
+She turned to Summari and Nighla and gave each of their ears a light, pointed tug. "And you two need to stop trying to twist your father's arm by editing your own core desires on him. You're confusing the poor man." Both girls flinched, remembering exactly what she'd done to them in Ascen's capital the last time they'd pushed their luck, and answered in unison: "Apologies, Mother. We won't do it again." Arai froze for a beat, caught off guard by the word, then recovered and nodded, faintly flustered. Hope laughed. "What's wrong, can't handle being called a mother? You've got two daughters and a grandchild at this point, Arai — it's hardly a secret. They call me Mom. They call Zoe Mommy. We're used to it." "I know Kazemi told me I loved Valariya and Aliya the way I'd love daughters," Arai said, a little stiffly. "I don't deny that. But Summari and Nighla are different — their bodies are genetically Minia's, but their cores came from our own mana, changed inside Kazemi's own body. It's allowed to be strange for me, all right."
+
+Zoe was quiet, processing, before a small laugh escaped her. "We've been through so much, the three of us. And now we have two children whose cores were made from our own mana. It's almost like the universe decided to bind us together on purpose — like it needed to put all three of us into two people." "Kazemi already told them everything," Arai said. "Dokia and Urial too. Unfiltered. They know exactly what we did to their father, which is also exactly how they know how to work his blind spot for their own core desires. They're not naive. They still call Irane 'Father' and the Emperor 'Dad' — they know precisely which is which."
+
+Hope added her own piece. "I asked Summari once if she hated us for it. She said no — she loved us, because we made her. Her exact words: 'Dad told us about our birth, and how dangerous our mother was. We know what happened to Ziphora, but we don't care, because he's not our father. He was long dead before our cores ever existed.'" She laughed at the memory. "For them, Irane Kazemi has always been their father, start to finish. Summari even showed me a book Crimi Night gave Junior — one he can't read himself yet. I read it with her. It's a very detailed account of the man. Broke my heart a little, honestly. He really was someone." Zoe asked what he'd said about it, and Hope did her best impression of Irane's own dry recital: "'The man I was before I became this — a pathetic failure, so complete a failure he couldn't even manage dying properly.'" His actual voice cut in from the doorway before she'd finished: "That's precisely what the Emperor thinks of the man you're all calling 'Z.'"
+
+Arai laughed. "Well, that tracks — from Kazemi's own perspective he came into being mid-fight, a mind born inside an endless war. But what do you think of him?" Irane shrugged. "Summari finds him interesting. Nighla calls him Grandfather — reasoning that he's the man who made the Emperor, which makes him family by extension. Personally, I have no opinion of him at all. I was told I can't read that book and retain it, so to me he's just one more drop in an ocean of other humans. Though I confess I do wonder, sometimes, what kind of man chooses to erase himself entirely rather than face death. It seems almost masochistic to me, honestly — fearing death enough to volunteer for something worse instead." Arai laughed harder. "I'd argue with you and Kazemi both, there. 'Z' was a man who'd lost everything and never learned to forgive himself for surviving it. In a lot of ways, Kazemi's hatred for him is just Z's own self-hatred, fully manifested." "Do you want to read it?" Irane offered. Arai shook her head. "I'd rather not know more about the man I killed, thank you." "Same," Zoe said. "Not today, at least." "As you like," Irane said. "It's on my study's third shelf in Paradise, next to Sofia's version and Valariya's."
+
+"You've read it?" Hope asked. "Sofia's version is genuinely excellent drama," he said. "Valariya's is the gentler children's version — I still tell it to my own kids. But Sofia's felt like a message written directly to Kazemi. I know the history of Primals and Orians in exhaustive detail, and I know exactly what Primordial my own core was forged from, so that story landed like a direct plea — a call to save all of them. A wish for a Paradise where people who've known nothing but suffering can finally rest. It's a beautiful thing to want." "You make it sound almost impossible," Hope said. "Sofia's book makes Paradise sound like a dream come true," he said, sadly. "But read it as a Primal, and the truth is obvious — it's exactly why so many Primals eventually left. They read the man as the main character. They never noticed the actual center of the story was the child who never left his side — not someone who wanted to be his Empress or his wife or his Goddess, just someone who stayed, through every version of him, while he changed three times over. She never changed. The Valariyans who stayed understand that completely — they see him as something close to a god, sure, but they still choose to walk beside him rather than behind or in front. They offer their cores freely and choose to become part of him when they die, and all he asks in return is that they actually live their lives. They're the people in that story by the end — the ones who bled beside the Emperor in the war against the twins. I love that book because it's the version of him I wish everyone could see: someone to walk beside, not above or beneath." Hope laughed. "You almost sound like you believe in him as a god too." Arai's eyes widened. "You do, don't you." Hope stopped laughing. "You're all acting shocked — which of you genuinely sees Kazemi as an ordinary man? I can't read your cores the way you three can read each other, but I know for a fact none of you see him as a normal person. I look in a mirror and I can't manage it either." The three of them sat with that a moment, running through everything he'd ever done. "If you truly believe he's ordinary," Irane said, "then maybe I'm the actual problem. I know I am Kazemi. But I also know I can't do what he can. He'd tell you I could, given time — but he's eighty-seven million years old, and I'm about a hundred and twenty-four. I think in a human frame. There's no reaching that gap." Zoe asked, suddenly, "How long will you actually live?" He looked at her, confused by the question. "The same as anyone — about a thousand years, give or take." Summari and Nighla arrived just then, and he scooped them both up. "There you two are. Ice cream, as a reward?"
+
+Nighla sighed theatrically. "We nearly die and we get ice cream. Wonderful." Summari lit up regardless. "It's the mana-flow ice cream," Irane said, unbothered. "The kind that hits the core. I'll make enough to last you both a month. Vanilla caramel for Nighla, mint chocolate for Summari." Nighla's eyes went wide with delight anyway. He carried them off toward Paradise, and the three women sat in a shared, frozen silence until Zoe finally repeated her own question aloud: "How long will we live for?" No one answered. None of them actually knew.`,
+          },
+          {
+            id: 'sc-e9-6-forge-elementals',
+            title: 'Ten New Dragons',
+            content: `Irane spent the following days in Paradise finishing his daughters' healing and beginning the work he'd been eager to start since the fight — designing tools and beasts for his ten newly captured elemental cores, the originals never having carried either. Iris and Enari watched him lose himself entirely in the work, treating it as pure delight rather than labor.
+
+By the time he surfaced, each of the ten had a matched pair: Muspel of Fire paired with Pyrus, a brilliant curved katana banded in red and gold with a golden dragon running its length; Tiamat of Water with Aquila, an ocean-blue trident etched with old beast-forms and its own dragon marking; Geb of Earth with Geos, a massive earth-brown hammer carrying deep echoing resonance; Typhon of Air with Vetus, a folding fan-bladed disk in green and grey; Ymir of Ice with Cryo, a glacier-blue spear shaped like the crown of an ice shelf; Perun of Electricity with Storm, a bow marked in gold and blue lightning with two facing dragons framing the draw; Pan of Nature with Sylva, a green-and-brown staff blooming with carved flowers, its dragon coiled so completely around it that head and base were indistinguishable; Shiva of Energy with Nexus, an orb cycling through every visible color at once; Amaterasu of Light with Blackhole, a pure white orb whose interior shifted through the full spectrum; and Nyx of Darkness with Whitehole, a black orb absorbing every color that touched it down to a single point.
+
+Each beast took the shape of a true dragon — the same class as Enari and Emo, though newly hatched, still egg-small, pure elemental entities finding their first forms. What took a single week outside felt, inside Kazemi's own universe, closer to a century of uninterrupted work; Irane updated all ten weapons — the original elemental series, predating even the Conceptual tools born in the trial — to match Conceptual-class function fully, merge-capable with each other and, for the fun of it, with the Conceptual tools as well.
+
+Deep in the work, he found himself holding the still-dormant Design core — Irane Jr.'s own — turning it over. "He hasn't activated his Drive yet," he noted, setting it back among the others. Nine cores, still unborn in any real sense. An old memory surfaced uninvited — Arai, Hope, and Zoe, all three visibly pregnant, from his time alone on the island — and he caught himself. "Where did that come from." He dismissed it as simple want. "I hate this feeling. This isn't love. This is want, in its purest form, and I won't act on it. Not with any of them." Iris laughed at him. "Why not, dear Emperor? You could walk into any of their rooms tonight and no one would stop you. Half of Valariya already dreams about it." "Enough," he said, flushing despite himself. "There are exactly two ways this goes — I try, and all three refuse, and I move on with my life. Or one of them says yes, and then I'm left with what to do about what I still feel for the other two. I can't have all three. I can't choose only one." Enari laughed. "There's a third option. Having all of them isn't exactly unheard of for a man." "You have a hell of a sense of humor," Irane said. "My body wants Zoe. My heart wants Hope. My mind never stops thinking about Arai. It's a curse — Kazemi's curse, delivered with his own core. Wanting someone isn't the same as needing to act on it. I'll simply wait for each of them to marry whoever they choose, and bury the rest of it. All the way down. Does Limbo even have a core?" He left it there. Enari and Iris exchanged a glance once he'd gone. "Good thing he can't hear what they actually think of him," Iris said, delighted. "He'll break eventually. Love and want are powerful stimuli, especially with Arai keeping his mind occupied the way she does. And then we finally get to give these cores real bodies." "About time," Enari said. "I want more Level 10 beasts in the world. Junior's Drive still isn't active, so even Design hasn't stirred yet." "We have millions of years," Iris said. "No rush. Especially with how stubborn he is."`,
+          },
+          {
+            id: 'sc-e9-6-genesis-visit',
+            title: 'The Visit to Genesis',
+            content: `Summari and Nighla brought their father's invitation to Mira, who accepted it without much enthusiasm — a trip back to Earth held little appeal, but the change of scenery from Apexia wasn't nothing either. She gathered Aliya, Dokia, and Nina, and had one of Irane's rare storm-capable carrier jets readied in Paradise.
+
+Aliya asked Mira directly whether she'd even be welcome, given how many Primals she'd killed in the preceding months. Mira shrugged. "Doesn't matter. The actual reason we're going is to make sure these three—" a nod at Summari, Nighla, and Dokia — "don't kill anyone." Nina added, cheerfully, "And Adri's meeting us there, so we'll have Mira, general of the Apexian military; me and Adri, both of Lord Kazemi's own Squad Zero; and you, daughter of Arai and Soul of Kazemi. I like our odds. Worst case, we let Dokia loose and call it a day." Mira wasn't amused. "Let's not cause a genocide today, Nina." "I did tell them I was coming alone," Mira admitted once the laughter settled. "Either way. Once we land, I want the two of you gathering intelligence — what they're planning, whether Junior's in any danger. If he is, we act. If he simply doesn't want to come home, we respect that. This is meant to be their visit. I intend to actually rest for once."
+
+The crossing, normally over a day and stretched further by the storm, took eighteen hours. They landed at Genesis — Toma's old operational headquarters, remade into the Primals' new capital — to a full honor guard: ten soldiers under House Ardent's banner, Grand General's colors, Summari's and Nighla's own personal standards as the Emperor's left and right hands, and the flags of the reborn Houses Nexal and Navar. Mira offered Alex a handshake, cold and formal on the surface, though something sharper moved behind her eyes. "I've been asked by Lord Irane Kazemi to bring his daughters to see their brother. I trust that's no issue?" Alex welcomed them warmly. "We'd never deny siblings the chance to reunite. The Apexians remain good friends to the Primals." Mira indicated Nina should escort the girls in. "We'll be here the week," she added. "No need for accommodations — only free movement, even under guard, if that's your preference. We're only here to relax and watch the children." Alex asked whether Dokia wouldn't also want to see her brother. "No," Mira said. "Though she'd love to see his mother. You're welcome in the room yourself, Alex — I'm well aware she's your sister."
+
+Taliya went to collect Evelyn. Ember was tasked with walking the girls to Irane Jr. On the way, she and Nina fell into an old, careful rhythm. "Funny how much can change," Ember said. "Twenty years since that day." "We can't say either of us came out worse for it," Nina said. "Look at you — head of House Osiro, keeper of the Book of Time. And me, head of House Nexal under Apexia, sold there by my own sister. Life's strange." She added, without warning, "I'd rather we didn't cross paths with a woman named Minia Consa, if it's all the same to you." Ember, startled at hearing that said in front of the children, nodded anyway.
+
+Isaac stayed hidden away in Minia's lab. Irane Jr. was waiting with Artemis in the outer yard. Meanwhile Minia, back at her own lab and asked to stay out of sight given her history with Mira, found Aliya already sitting in her chair, reading through the open files on Irane Jr., Isaac, and Artemis. "Brave of you to show your face here," Minia said. "Do you honestly think you're leaving alive?" Aliya didn't move. "Of course. We both know I could kill the child sleeping in the next room if I wanted to, and looking at everything you've got on him, he's clearly important enough that I won't need to. So yes — I'm leaving. Alive." She smiled. "What happened to your smile, by the way? I remember you being so pleased with yourself." Minia lashed out with her ability, trying to pin Aliya's core in place. Aliya walked straight through her. "Ghosts don't have cores, Minia. I'm not here to start anything — I just wanted to make sure you weren't doing anything to Junior. You aren't. So we're fine." Minia, rattled at finding nothing to grab onto, needled back — a mention of Aliya's sister, delivered with real cruelty. Aliya's spirit rose behind her in Valariya's own form, older now than Minia remembered, and Aliya's voice went ice-cold before she vanished entirely, leaving Minia alone with her racing pulse and a scanner reading nothing at all.
+
+Alex sat with Evelyn and a visibly nervous Nevir Jr., who hid from Dokia the entire meeting. Mira didn't soften anything. "You took the Emperor's own child and ran home out of fear. That doesn't excuse what you did, and by every measure that matters you are an Apexian citizen. You broke the law the moment you crossed back to Earth without leave, and you will return to face the Emperor's judgment for it. Do you find that unreasonable, Alex?" Evelyn stared at her brother, watching him weigh the choice being forced on him. "So," Alex said carefully. "You'd take Evelyn, but leave Nevir Jr. and Irane Jr. here?" "The choice is Junior's," Mira said. "If he wants to return with us, he will. If he wants to stay, we won't force him. But she is not negotiable." "You said you'd be here a week," Alex said. "Give us that long to talk it through." "You have until the end of the week," Mira said, and left with Dokia, telling Nevir Jr., not unkindly, that his mother had genuinely wanted to apologize to him, whenever he was ready to hear it.
+
+Irane spent the afternoon with his sisters — Nighla thrilled to see her brother, Summari immediately monopolizing Artemis, carrying her around the grounds. Nina watched with a soft, sad smile. "I used to wish for exactly this," she told Ember. "A brother and sister to just run around a yard with. We never got that. But watching them now, I'm genuinely happy for him." Ember asked where Nina's own son was. "Left with someone reliable," Nina said, and deflected a question about the boy's core with one of her own about Ember's. "Nothing special," Ember said. "A plain Darkness core. My son got Energy, at least — we'll see which of us he takes after." Nina answered with visible pride: "Time-Energy. Kazemi himself called it a very good core." The old, easy Academy rivalry resurfaced between them for a moment, warm despite everything, before Ember's tone cooled entirely at the mention of Orians: "I wouldn't go back if you paid me. It can burn." Nina let that sit before mentioning, gently, that Arai — whom Ember still believed a prisoner in Apexia — was in fact worked to exhaustion by the Emperor for everything she'd done, barely sleeping or resting, and so was Hope, and so was Zoe. "I'm glad I came in as part of a peace offer," Nina admitted, "and not as a captive."
+
+That evening, once the twins had gone to bed for the night, Irane Jr. found himself alone with Summari and Nighla, and finally asked the question he'd been circling for days: "Do you two know what your mother did to him?" Neither girl flinched at "your mother" — Minia had never been that to them; Arai was Mother, Hope was Mom, Zoe was Mommy, and they understood the world first as cores, not as people, carrying the combined mana of Kazemi, Arai, Hope, and Zoe from the moment of the trial itself. "You mean Arai," Nighla said easily. "Of course. She can command our father outright — our first real mission was retrieving her. She even had him level every city and monument tied to Aevum in Orians." Summari added, almost wistfully, "I wish we had that much pull over him. We'd have far more cores under us by now — right now we've only got one each." "Both above Level 7, though," Nighla said. "Niro was Level 8, he's Level 9 now, and ours. Tunde's at Level 8." "At least we inherit his core properly whenever he actually dies," Summari added, with no apparent weight to the words at all.
+
+Junior went cold at that — the casual, total acceptance of it, the total absence of horror. He didn't understand it the way they did, hadn't grown up with a live Drive the way they, Dokia, and Urial had; he was, in every practical sense, still human, learning the shape of it all for the first time rather than born already fluent in it. Nighla, oblivious to what was building in him, kept explaining — the literal meanings behind Kazemi and Irane, the "Ultimate Power" and "Ultimate Tool" their father used for himself under either name — and Summari complained lightly about their own names being tied to nothing more poetic than the night of their conception, while Nighla found real meaning in the alternate reading Irane preferred: that their births were what set Kazemi free enough to see the world and hand real control back to their mothers.
+
+Junior finally asked the question underneath all of it: "If we could free Father from all of it — his bindings — wouldn't you want that?" The girls misread it entirely, assuming he meant setting the conceptual Kazemi fully loose again, and answered honestly from that misunderstanding: no, they wouldn't want that at all — being spoiled, permitted to use their Drive freely, and generally left alone was worth more to them than Kazemi's stricter, more watchful presence. Junior, hearing only "we're fine with our father staying enslaved," snapped. He called them selfish, called them brats, told them a tool wasn't something to laugh about. Summari's temper — famously hard to reach and worse once reached — went first. She reminded him, coldly, exactly how much labor went into the treat they'd carried across the ocean for him, and when he doubled down, insisting his own conception technically predated their births and therefore made him the true eldest, she offered him the chance to prove it and let him throw the first punch. It didn't move her an inch. Her return blow put him on the ground vomiting blood, and when Nighla begged her to stop, Summari matched his own punch's exact mana output back into his gut hard enough to break his spine against a wall before healing every trace of it in the same instant, making her point with total precision rather than mercy: whatever order the trial's cores had been made in, comparing himself to numbers one through anything was not a winning argument. The fight that followed between the two sisters over whether she'd gone too far leveled an entire section of the palace before Mira arrived and put both girls flat on the ground with a glare alone.
+
+They restored the damage themselves in a single gesture, apologized to the guards and to each other, and Summari made herself apologize to Junior directly — an apology he took in total silence before walking away. He wasn't only angry. He felt, for the first time, genuinely and completely outmatched, and it humiliated him in a way anger alone couldn't explain. Nevir Jr., who'd watched the whole thing from a distance, only had one word for what he'd seen: monsters. Junior, still raw, agreed with him out loud, and meant it.
+
+In the days that followed, other things happened quietly around the edges of the visit. Minia, comforting Junior after the fight, showed him her own tool and beast — Pain, and the Chains of Ventriloquist — and told him, gently and with real affection, that she believed his father's own core had called out to her specifically, that the chains could bind Arai, Hope, and Zoe directly, and that she intended to help him grow strong enough, on his own terms, to one day free his father from what she framed plainly as Arai's captivity. He absorbed it in silence, comforted despite everything he already half-suspected about her honesty.
+
+Artemis, largely overlooked amid the chaos, ended up folded into the Apexian group almost by accident — first under Nina's eye, then Ember's, then finally touring the region with Aliya, Adri, Summari, and Nighla while Mira and Nina stayed behind. It was Nighla who first noticed her core properly: "You have a really cool core," she told Artemis, who only knew it as a plain Darkness core and said as much, demonstrating with a simple orb of dark light. Summari's eyes lit up. "That's Light and Dark both. You don't see that often." Dokia added, flatly, that she hadn't taken many lives from anyone carrying a core like it. Nighla — able, Adri explained, to read a person's true core type even in the womb, and never once wrong — corrected the file Aliya had seen in Minia's lab on the spot: Artemis carried a genuine Light/Darkness elemental core, rare enough that Nighla had personally verified only twenty-nine people in the Valariyan ranks who shared it. They spent the better part of two days showing her how to actually use it, playing with the shifting colors her core produced, touring the region as far as they dared without crossing into hostile ground, before finally returning to Genesis.
+
+Vesper was waiting when they got back. The moment he saw Aliya, he manifested a blade of pure electric current and struck without warning — a blow that would have been trivial for her to dodge under any other circumstance, except Artemis stood directly beneath it, and dodging meant letting the strike find her instead. Aliya took the hit across her own shoulder, deep and diagonal, close enough to her heart and lungs to be genuinely dangerous. Vesper only registered the smell of burning flesh before Soul struck him down bodily in his mother's own remembered form, ice spreading from the impact, and Taliya — arriving just after — froze completely at the sight of Artemis at her brother's feet, understanding in the same instant exactly how easily this could have ended in the child's death instead, given Vesper had never once, in years of trying, managed to land a hit on Aliya at all.
+
+Dokia finished it — driving her blade through Aliya's throat, forcing the full weight of true death through her all at once. Summari and Nighla were at her side immediately, their own cores flooding hers with creation and destruction in tandem, since Aliya's body — built from Kazemi's own cell architecture — responded to their aspects directly. She came back screaming, having lived and died across what felt like millions of instants at once, and it took long minutes leaning against both girls before she calmed enough to speak. Mira, unbothered, put Vesper's head through the stone floor to end the matter and turned to Aliya once she'd steadied. "Traumatic, being healed by Dokia. Though she did leave you a nice scar — might even reach that transparent heart of yours. Good to know it's reachable at all." Adri checked her over next. "At least we don't need the full initiation again. Still, a billion deaths on the first real pass is rough. Good thing you've got a Will core." Taliya, shaken, took her brother without a word, unsure what there was left to say.
+
+Back aboard the ship, Mira asked Aliya directly why she'd told them what she had — that Soul, in that instant, had taken the form of Kai Osiro, Vesper's own mother. "I only worked it out afterward," Aliya said. "If I kill someone with my core active, I keep them. Imprinted on Soul, like a record of every person I've ever taken — but only the ones I've killed with my own hands. I even carry Nex Wov." Adri's eyes widened. "I keep forgetting how different you all are, with cores tied straight to Kazemi's own. Collecting the souls of the people you've killed — that's worse than anything Mira's got, and that's saying something." Mira shoved her for it, unbothered.
+
+"Why tell me any of this?" Mira asked. "Artemis is fine. Vesper's alive." Aliya answered slowly. "Because I did to Vesper exactly what Minia did to me — made him watch both his parents die, with no hesitation and no remorse. I felt nothing killing them, and hating that I felt nothing was its own kind of pain, a strange sort of full circle. Holding their souls afterward made it worse, and I just accepted it, the way I accept everything else, and called it part of the mission. I met him on the battlefield more times than I can count, watched him rage at me, and once — just once — Soul wore his father's shape while we fought, and it broke something in me for a moment. I thought, honestly, that killing him then might have been kinder — at least some version of him would be with his parents again." Mira pulled her close, pressed their foreheads together as Emo shifted between Grief and Dread beneath the surface, and pulled back only once Aliya's tears had actually started. "You can't bury what you feel and pretend it isn't there," Mira said. "This world trains us to kill from childhood and trains us to forget what it costs, and I promise you, regret is one of the worst things there is to actually feel. I've killed millions of Orians and Vethara myself, and every single time all I felt was how pitiful the whole thing was — how much regret clung to every one of them as they died. The deeper I go into using Kazemi's own emotions, the more of that I carry, permanently, as part of myself. It's a curse. You're not alone in it, and it doesn't make any of it easier — but it doesn't make you weak, either. You spared a child instead of finishing what the mission technically allowed. That's the choice that matters. Live with what you've done. Don't bury it, and don't let it break you. You're an extension of Lord Irane Core Kazemi, and you don't get to be lessened by any of this." Adri added her own piece from the side, an arm around Aliya's shoulders: "No one here judges you for the blood on your hands. You chose not to kill a child today. That's worth something, whatever else is true." The conversation ran long into the night — old war stories, old scars — until everyone drifted off together where they sat.
+
+Taliya sought Aliya out the next morning to formally apologize, as head of her clan, for her father's actions. Aliya asked her plainly if she wanted her dead for it. "No," Taliya said. "The Wov understand kill or be killed better than most. But I have always wondered — why kill them, and then hand the cores of the Great Beasts and Tools back to us anyway? Why?" Aliya's answer was direct: they were killed because they still remembered Orians as it had been — because their loyalty to the old ways would have made them unable to weaponize Gaia and Cronus the way the war required, and the old generation needed to be retired to let the clans modernize. The entire war, she explained, had one real purpose beneath everything else — force the Primals and Orians both toward full integration with humanity, the same way Taliya's own generation had already done. Sealing Vraka and Selis had simply accelerated a process already underway. Mira confirmed it plainly: it had all been part of Kazemi's design from the start, undone as thoroughly as any plan survives contact with an angry goddess.
+
+Taliya asked why she was being told any of this at all. Mira pointed to the mark on her collarbone — the same one every Valariyan carried, and the same one Kazemi had placed on Taliya during her training, though she wasn't Valariyan herself. "Because we know you can't repeat any of it," Mira said. "That mark keeps you from ever disclosing what you shouldn't." Mother Nature herself manifested to settle the confusion, addressing Mira with real formality before correcting her gently: the mark wasn't only trust — Kazemi was betting that Taliya would eventually join Apexia as a Valariyan in her own right, and marking cores he liked ahead of time was simply his habit. Mother Nature made her own position on that plain and immovable: Taliya was not going into anyone's belly, least of all Kazemi's.
+
+Taliya, working through the implications, asked whether the Emperor had engineered her father's death specifically to install her. Mira dismissed the idea outright — he wasn't a god who could plan that precisely, only a man who worked whatever outcome the moment offered toward the best available result. Her father's death had been necessary regardless of who inherited afterward; he and Kai had both been too anchored to the old order to ever wield Mother Nature the way the moment required. Taliya, by Mira's own account, had simply been the fortunate exception. Aliya, for her part, offered no request for forgiveness — only a genuine apology for the cost, and a quiet insistence, once Taliya's tears came, that living remained a choice worth making anyway, for whatever reason gave it meaning.
+
+The final day arrived with Mira requesting a private audience with Junior, refused unless Ember and Artemis were present given what had already happened once. Junior, when finally asked to choose, answered without much hesitation: he would stay. Nighla's disappointment was visible; Summari kept her face carefully neutral, though she noticed her sister's hurt and felt some private responsibility for it. Kazemi himself surfaced through Soul in that moment — Irane still deep in the Forge, mid-work on the elemental series and unavailable in any ordinary sense — to see his son one last time before they left. Unable to see faces in this form, perceiving only mana and core directly, he greeted Junior gently, and Artemis with real warmth once introduced, promising both of them, hand to pinky in the same small vow he'd made with his daughters, that he would never deceive them and would always have a place for them regardless of what surname either carried. Junior, moved despite himself, asked what Kazemi would wish for if he could have anything at all. "To be human again," Kazemi admitted. "Though I barely remember what that was like." Junior offered, with total sincerity, to be the one who freed him. Kazemi thanked him for it gently and told him some dreams take their own time — that no child should carry the weight of making a parent's dream real instead of living their own.
+
+Kazemi returned to Paradise disoriented, as always — a place saturated at ninety-nine percent with his own mana made him physically ill in his human register, and he passed out into Zoe's arms the moment Irane resurfaced. When Zoe pressed him, gently, on whether being human was truly his own deepest wish, he explained as much of the architecture as he ever had aloud: five separate commands binding him — Zoe's erasure of his past, Hope's push through the trial itself, Enari's order to live, Arai's order to complete the seal and love her in the act of it, and a fifth, most dangerous of all, still barely spoken of. Breaking the order to live in favor of completing the seal had cost him a literal death at the Pillars themselves — and coming back from it hadn't simply restored him. It had handed him eighty-eight million years of fully conscious memory in a single instant, followed immediately by the choice the Pillars themselves offered: live, or don't. His core chose life, and with it, something further — the ability to seal almost all of that weight away and exist, between zero and sixteen percent, as something close to an ordinary man: tasting food, seeing faces, sleeping. Irane wasn't a disguise, he told her. Irane was free will itself, unbound by the command-cores, able to hear Arai's own orders and simply choose not to obey. He loved all three of them — and Aliya besides, structurally — because Arai's own fourth command had, in its own way, asked him to love himself, given how much of her own core lived inside his mind. He couldn't see Zoe's face in this state, but he remembered it from before, and living that way, he admitted, he'd come to love it more than he expected — and to dread how briefly a human lifespan actually was, set against eighty-eight million years already spent.
+
+Zoe stayed with him regardless, promising she'd be there whichever form he wore, and Kazemi — smiling, faintly sad — wondered aloud whether she'd still feel that way after a million years of it. He reverted to Irane in the throne room shortly after, disoriented and sick from the sheer density of his own mana in that place, and passed out again, this time into Zoe's arms for good.
+
+He woke the next morning in Hades rather than Sethia, in the room Nighla shared with Zoe when she stayed over, and found Zoe in the kitchen stocking the fridge for a household that was about to get considerably fuller. "Good morning, Lady Navar," he said, still gathering himself. "I assume you brought me here. Thank you — sorry for the trouble." Zoe cut straight through the pleasantry: "Tell me, Kazemi — do you still hate me?" "I don't hate you," he said, confused by the question. "Then what do you feel," she pressed, "exactly?" He had no honest answer that didn't sound absurd out loud — *I love you, and I don't know why, and I also love Arai and Hope* — so he said nothing at all, because lying to her would have meant lying to his own body, which his own nature made structurally impossible.
+
+She crossed the room and stood directly in front of him, waiting through his silence until she finally said: "Since your mouth seems to be malfunctioning — you have my full permission. Do whatever you want. I'll stay perfectly still. If you can't say it, show me." Something in him gave way entirely at that. He kissed her without a second thought, and the sensation ran through him at an intensity that had nothing ordinary about it — every part of him lit at once, the way only a body wired directly into hers could register another person's touch. He pulled back only long enough to breathe before she asked, plainly curious, what it actually felt like for him, given how much more he felt of everything. He didn't answer with words again. Whatever remained of his own restraint gave out entirely, and the rest of the morning went the way mornings do when neither party is inclined to stop.
+
+Mira's group returned that afternoon to find Irane and Zoe already waiting in Hades. "Your brother chose to stay," Irane told Nighla and Summari. "I'd have liked to meet him properly. No matter." Summari shrugged it off with visible effort. "It's fine. Not like we needed him. Besides — you could always just make us more siblings, couldn't you?" His eyes went wide enough that Mira had to explain, quietly, that Summari was simply venting frustration on her brother's behalf, guilt included. He sighed, thinking back over his own morning, and Mira — reading exactly what had happened off him without even trying — needled him with a deliberately formal "fair enough, Lord Kazemi," knowing precisely how much he hated the title. He walked off with Adri and Aliya rather than answer.
+
+Arai and Hope arrived not long after to welcome the group home, and Arai gave Zoe a look loaded enough that Hope asked about it outright. Zoe, entirely unbothered, said only, "We're not children, Arai — I won't be teased." Nina, overhearing, returned the favor by outing Arai's own history with Kazemi from her own time undercover in Apexia, to Arai's genuine shock that anyone knew, and Zoe gave her the exact same look back in return. Summari, Dokia, and Nighla arrived with their luggage in time to ask what the joke was, and Nina told them, cheerfully, that they were simply discussing Summari's wish for more siblings — to which Hope predicted, laughing, that Zoe would have her thousand-child dream well underway within the week.
+
+Mira delivered Evelyn to the main holding cells in the Apexian settlement without ceremony.
+
+Irane went on to Sethia with Adri and Aliya to take stock of the wider picture. "Tell me plainly — the humans, the Primals — is Earth a genuine threat to the Empire?" Aliya answered first. "The Primals, yes. More concerning is whatever they're hiding involving Alex and Ember's children. Taliya herself isn't a threat. Her clan, I'm less certain of." "Understood," he said. "Good to know she isn't one personally, at least — though I'd still rather not have to choose between my own son and my daughters if it comes to that. Keep Summari and Nighla away from that particular fight if it ever happens. I'll handle it myself, or Aliya will." Adri gave her own report next. "The humans are a real problem. Nearly seventy percent of the ones I saw on Earth already carry cores, not counting the ones still inside Apexia — and Crimi's been teaching them exactly the methods we taught her for bonding and selecting a Kathara. We've cut all ties with her and the human leadership as of this trip." Irane exhaled. "And here I'd hoped that book made her better than this. Human greed really doesn't need much encouragement. Give them all ten years in Apexia — the same courtesy as the Orians — and then they're out. We need to focus on our own empire, and I'd rather use what value they still offer before we part ways."
+
+Adri added a further concern — thirty-three Level 6 Kathara sighted on Earth, and at least two confirmed Level 8 Celestial-types, entering, she suspected, through the same kind of dimensional rifts Vraka and Selis had once used. Irane rubbed at his eyes. "Given enough time, a Level 9 is inevitable — and if one of those merges with a human, that's a genuinely bad day. Kazemi's own notes mention beings called Titans and Elohim. Pure Chaos and pure Harmony, respectively. I'd very much like to not find out firsthand what that means. Start identifying and sealing every rift you can find before it comes to that."
+
+He turned to the larger problem waiting underneath everything else — an empire nearing a billion citizens and growing faster than its own systems could stabilize. "The greatest threat to Orians right now is us," he said. "We need to get our own house in order before anything else. Aliya — you, Zoe, and Isoke handle that directly. Adri, get Pandro working with Mira on the population strain, and bring Dokia in on it too, it'll be good for her. Arai and Mira will keep the Valariyans in line while I handle whatever comes at us next. And if anyone out there so much as sneezes in our direction —" his voice didn't rise, which made it worse — "they'll learn exactly what the Emperor's Champion is capable of."`,
           },
         ],
       },

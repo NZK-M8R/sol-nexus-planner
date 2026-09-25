@@ -2,6 +2,7 @@ import { useState, useMemo } from 'react'
 import RelationshipTree from './RelationshipTree'
 import StoryPanel from './StoryPanel'
 import CharacterEditor from './CharacterEditor'
+import ErrorBoundary from './ErrorBoundary'
 import { CHAR_COLORS, HOUSE_LABELS } from '../data/characters'
 
 const STATUS_DOT = {
@@ -110,6 +111,7 @@ export default function CharacterGraph({
   weapons, beasts,
   showSecrets, onToggleSecrets,
   onSaveCharacter, onSaveRelationships, onSaveStories,
+  onOpenBoard,
 }) {
   const [selectedCharId, setSelectedCharId] = useState(null)
   const [selectedStoryId, setSelectedStoryId] = useState(null)
@@ -417,18 +419,21 @@ export default function CharacterGraph({
           </div>
         </aside>
       ) : selectedChar ? (
-        <CharacterEditor
-          character={selectedChar}
-          characters={characters}
-          relationships={relationships}
-          stories={stories}
-          weapons={weapons}
-          beasts={beasts}
-          onSave={handleSaveChar}
-          onSaveRelationships={onSaveRelationships}
-          onSaveStories={onSaveStories}
-          onClose={() => setSelectedCharId(null)}
-        />
+        <ErrorBoundary label={selectedChar?.name || 'Character editor'} resetKey={selectedChar?.id}>
+          <CharacterEditor
+            character={selectedChar}
+            characters={characters}
+            relationships={relationships}
+            stories={stories}
+            weapons={weapons}
+            beasts={beasts}
+            onSave={handleSaveChar}
+            onSaveRelationships={onSaveRelationships}
+            onSaveStories={onSaveStories}
+            onClose={() => setSelectedCharId(null)}
+            onOpenBoard={onOpenBoard}
+          />
+        </ErrorBoundary>
       ) : (
         <div className={`workspace-right closed`} />
       )}

@@ -101,6 +101,14 @@ export function loadBeasts()         { return local.get('beasts', null) }
 export function saveClans(clans)     { local.set('clans', clans) }
 export function loadClans()          { return local.get('clans', null) }
 
+// ── Grand Table (rebuilt) / Kazemi Hierarchy / Active Ruler — local-only state ──
+
+export function saveGrandTableAssignments(assignments) { local.set('grand-table-assignments', assignments) }
+export function loadGrandTableAssignments()             { return local.get('grand-table-assignments', null) }
+
+export function saveKazemiElementalSeats(seats) { local.set('kazemi-elemental-seats', seats) }
+export function loadKazemiElementalSeats()      { return local.get('kazemi-elemental-seats', null) }
+
 // ── Custom timeline events ───────────────────────────────────
 
 export async function loadCustomEvents() {
